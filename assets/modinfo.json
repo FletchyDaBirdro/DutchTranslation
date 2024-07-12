@@ -1,0 +1,12 @@
+{
+	"id": "fdb.dutchrw",
+	"name": "Dutch Translation",
+	"version": "0.5.0",
+	"hide_version": false,
+	"authors": "FletchyDaBirdro",
+	"description": "This is a Dutch translation of Rain World.",
+	"requirements": [],
+	"requirements_names": [],
+	"checksum_override_version": false,
+        "tags": ["Translations"]
+}
