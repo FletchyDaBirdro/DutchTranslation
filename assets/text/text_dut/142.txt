@@ -1,0 +1,32 @@
+﻿0-142
+Wat is deze parel die je met je mee hebt genomen?
+
+Het heeft vreemde biologische aanhechtingen. Kwam deze parel... vanuit jouw binnenste?
+
+Laat me eens kijken wat er opgeschreven staat.
+
+0 : ... : 160
+
+0 : Dit is... : 60
+
+0 : Ik neem aan dat je dit al aan Vijf Kiezels hebt laten zien? : 30
+
+Ik was me niet bewust van hoe ver deze affaires de wijdere Iterator populatie hebben bereikt.<LINE>Noch was ik me ervan bewust van hoe ver de anderen zouden gaan om met ons in contact te komen.
+
+0 : Als ik alleen maar kon... : 60
+
+Dappere boodschapper, vind je het erg als ik de inhoud van deze parel overschrijf?<LINE>Het heeft zijn originele doel namelijk al gediend.
+
+Ik zal er een uitzend sleutel aan bevestigen, ondertekend met mijn communicatie serie.
+
+SPECEVENT : tag
+
+0 : ... : 160
+
+In het verre westen van hier, langs de stille torenhoge schoorsteenbuizen van Vijf Kiezels' complex,<LINE>zul je een plek vinden van zonovergoten landen met wonderschone flora die de wolken spreiden.
+
+Er staat daar een communicatie opstelling. Het is de dichtstbijzijnde die misschien nog functioneert.
+
+Zijn systemen zouden mijn gesigneerde uitzend sleutel moeten herkennen en erop reageren. Als je daar alsjeblieft langs zou kunnen<LINE>tijdens jouw reis terug naar Zeven Rode Zonnen, zou ik erg dankbaar zijn. Dit is mijn enige hoop om<LINE>een boodschap naar de lokale groep te krijgen.
+
+0 : Wees voorzichtig, boodschapper. : 60

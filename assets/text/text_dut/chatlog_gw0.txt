@@ -1,0 +1,10 @@
+﻿0-chatlog_gw0
+[LIVE UITZENDING] APPARATUUR MANIFEST
+
+AM: Interne apparatuur storingen hebben de veilige drempel overschreden.
+
+AM: Module vraagt reparaties aan. 170ste poging.
+
+AM: Aankondiging - Seismische evenementen in het gebied hebben de veilige drempel overschreden.
+
+AM: Module zal doorgaan met het aanvragen van reparaties totdat het gerepareerd is of tot het opgehouden is te functioneren.

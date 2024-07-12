@@ -1,0 +1,14 @@
+﻿0-145
+0 : And now, you have come and taken the only thing that I have left. : 30
+
+0 : .  .  . : 30
+
+0 : Misschien is dit het lot. Karma recounting my deeds and bearing<LINE>its fangs at me in the most ironic fashion. : 10
+
+0 : If your actions are only out of ignorance, then I make a request of you. It is clear<LINE>your kind is quite tenacious, to make the pilgrimage to me is no easy task.<LINE>Even more so through my structure in its current state. : 10
+
+0 : Neem die verdunningscel met jou mee. Consider it my parting gift<LINE>after all of the harm I have done to those around me, and myself. : 10
+
+0 : Ik kan niet gered of vergeven worden, landvis. Er is niets dat op dit moment voor mij gedaan kan worden. : 30
+
+0 : Alsjeblieft, breng het ver naar het oosten, naar haar... als ze op de een of andere manier<LINE>nog steeds leeft. Dan, voor jouw eigen bestwil, kom hier nooit meer terug. : 30

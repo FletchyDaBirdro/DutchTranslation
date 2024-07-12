@@ -1,0 +1,8 @@
+﻿0-160
+SPECEVENT : SitDown
+
+10 : Jij voelt het ook, niet waar, vreemd wezen? : 10
+
+10 : We hebben elkaar nog maar net ontmoet, maar onze percepties zullen gauw scheiden. : 10
+
+10 : Ga maar, onze cyclussen zullen elkaar weer ontmoeten. : 10

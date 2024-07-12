@@ -1,0 +1,14 @@
+﻿0-162
+Hallo <PlayerName>. Ben je verdwaald?
+
+Het spijt me om te zeggen dat er hier niets voor jou is.
+
+0 : Je hebt het geschenk der communicatie gekregen. Ik kan me alleen maar bedenken dat je Vijf Kiezels<LINE>hebt ontmoet. Je moet vast al begrijpen hoe weinig er van mij nog functioneel is. : 5
+
+Maar het is fijn om weer iemand te hebben om tegen te praten. Mijn laatse bezoeker<LINE>was erg ziek, dus hun bezoekjes waren van korte duur.
+
+Ik kan alleen hopen dat ik hen voor zo lang mogelijk kan onthouden in mijn huidige staat.
+
+Misschien ken je hen? Ze vertrokken een tijdje geleden. Mijn laatste opzichter zag hen richting<LINE>het westen gaan. Misschien keerden ze terug naar huis met het beetje tijd dat ze overhadden.
+
+Je kunt gerust zo lang blijven als je wilt <PlayerName>. Het is fijn om gezelschap te hebben.

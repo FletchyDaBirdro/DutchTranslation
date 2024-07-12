@@ -1,0 +1,16 @@
+﻿0-157
+SPECEVENT : SitDown
+
+240 : Rakker, val hier niet in slaap, het is niet veilig! : 40
+
+50 : Ah, wat een klein delicaat ding ben jij. : 80
+
+SPECEVENT : WakeupPlayer
+
+30 : En toch, heb je een gigantisch organisch superstructuur herstart en bracht je vrede tussen<LINE>twee goddelijke eenheden waar je geen begrip van hebt. Maar waarom? : 40
+
+SPECEVENT : WanderChamber
+
+10 : Ik weet niet of ik het ooit zal begrijpen, maar in ieder geval, ben je hier altijd welkom. : 10
+
+10 : Maar voor nu, heb ik nog steeds veel informatie om in te halen. : 10

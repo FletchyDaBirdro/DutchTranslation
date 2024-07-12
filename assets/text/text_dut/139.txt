@@ -1,0 +1,22 @@
+﻿0-139
+Arm ding. Er zijn geen bestanden van jouw lichaam's blauwdrukken. Noch is het redelijk om<LINE>aan te nemen dat jouw extreme aanpassingen mogelijk zijn via... natuurlijke manieren.
+
+0 : Je bent vrij om te blijven zolang je me niet onderbreekt. : 30
+
+Ik zou wat gezelschap niet erg vinden. Mijn buurman, Vijf Kiezels, is gevaarlijk geworden, wat resulteerde in aanzienlijke<LINE>schade aan mijn structuur. Ik ben de toegang tot al mijn communicatie apparaten verloren, en alle pogingen om hem direct<LINE>te bereiken via onze ketting zijn beantwoord met stilte na ons laatste gesprek.
+
+0 : Als hij... : -30
+
+SPECEVENT : panic
+
+0 : Als hij nnn... n n n : -30
+
+0 : ... : 720
+
+0 : Als hij niet snel ophoud... : 60
+
+0 : ... : 30
+
+Is het niet grappig, mijn onfortuinlijke kleine vriend? Voor alles dat ik ben, zullen mijn laatste herinneringen misschien wel zijn<LINE>van mij die aan het monologen is naar een vreemd dier dat mijn kamer in gedwaald is.
+
+Er is niet veel dat ik kan doen. Je kunt het jezelf tenminste gemakkelijk maken.

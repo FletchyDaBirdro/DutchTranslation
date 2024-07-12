@@ -1,0 +1,16 @@
+﻿0-153
+0 : Ik zie dat alles op zijn plek is gevallen. : 60
+
+0 : Talloze herhalingen, werkgroepen, series permutaties, simulaties... en niet één keer<LINE>voorzag ik de mogelijkheid dat ik mijn lot zou leggen in de handen van een beest. : 10
+
+0 : Toch moet ik jou bedanken. Wat jij hier bereikt hebt kwam ver boven mijn verwachtingen uit. : 10
+
+0 : Het lijkt erop dat ik het mis had over jouw soort. : 10
+
+0 : .  .  . : 30
+
+0 : Hoewel ik wens dat er meer was dat ik voor jou kon doen, begint mijn tijd op te raken. : 10
+
+0 : Deze oordelen lieten me begrijpen wat ze me allemaal probeerden te vertellen. : 10
+
+0 : ...Ik hoef hier niet alleen door te gaan. : 60

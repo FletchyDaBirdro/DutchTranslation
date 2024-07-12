@@ -1,0 +1,22 @@
+﻿0-40-rivulet
+De data op deze herhaalt zichzelf meerdere keren, met een aantal redundantie checks in plaats.<LINE>Deze mate van integriteit checking wordt zelden gezien, behalve wanneer parels bewaard moeten worden in<LINE>zwaar verontreinigde omgevingen waar data corruptie waarschijnlijk is.
+
+Het oppervlak van deze parel is onaangeroerd, maar het interne rooster is onherstelbaar  gebroken.<LINE>Er moest iets goed fout zijn gegaan tijdens het opschrijven van de data.
+
+Een veelvoorkomende gebids mantra die 7110 keer herhaald wordt. Elke herhaling heeft wat kleine willekeurige variaties, die later geschreven lijken te zijn.
+
+Het is een opgeslagen apparatuur manifest, dat over tijd snel verslechterde condities laat zien. Ik neem aan<LINE>dat iedere andere apparatuur manifest dat je vindt er net zo uit zal zien.
+
+Twee... ineengevlochten getal series? Ik snap het gebruik van dit niet helemaal.<LINE>Het kan misschien een sleutel voor een codeer verwerker zijn,<LINE>gemaakt voor wat andere data dat onmogelijk van dit te concluderen is.
+
+Ik begrijp deze niet. Het is voor het grootste deel blanco, behalve voor een kleine sectie aan het begin,<LINE> die lijkt zonder succes honderden keren geschreven te zijn. Misschien door gebrekkige machines?
+
+Ongelooflijk, dit is schijnbaar een complete backup van een Iterator's niet-direct toegankelijk kerngeheugen, overgeplaatst<LINE>via de Algemene Systemen Hoofdlijn. Ik kan me niet herinneren dat het ooit geprobeerd is om zoiets in een parel te bewaren.<LINE>Het is niet eens een compatibel data formaat zonder substantiële conversies.
+
+Dit bevat gedeeltelijke data dat abrupt ingekort lijkt te zijn. Wat voor machine gebruikt zal zijn geweest om deze data op te schrijven,<LINE>moet middenin zijn operatie onderbroken of geschorst zijn geweest.
+
+Zonder het proces omtreffende de data is er niet veel dat ik je kan vertellen. Het zou iets te maken kunnen hebben met Leegte Water simulatie...
+
+Deze is helemaal blanco. Blanker dan blanco eigenlijk, het moet expres overschreven zijn<LINE>geweest met herhalende negatieve versies van zichzelf voor duizenden herhalingen.
+
+Het grootste deel van de data op deze is beschadigd, maar niet door veroudering. Van het kleine beetje dat ik<LINE>kan ontcijferen, lijkt het erop dat het een backup zou kunnen zijn van wat oude gespreksverslagen.

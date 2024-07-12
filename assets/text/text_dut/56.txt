@@ -1,0 +1,16 @@
+﻿0-56
+Ik ben niet zonder verantwoordlijkheid voor haar situatie. Het zou alleen maar gepast zijn als ik hielp met deze… reddings missie.<LINE>Omdat andere inspanningen hebben bewezen nutteloos te zijn, schaam ik mij niet om op te biechten dat ik meer geïnvesteerd ben geraakt in de dagelijkse zaken.
+
+Ik zal doen wat ik kan om jou te assisteren.
+
+PEBBLESWAIT : 80
+
+Tenzij jij je er al bewust van bent, jij bent ziek.
+
+PEBBLESWAIT : 10
+
+Ik was nooit een medische faciliteit zelfs toen de apparatuur nog functioneerd,<LINE>maar ik zal proberen iets te doen wat jou misschien meer tijd geeft.
+
+SPECEVENT : karma
+
+PEBBLESWAIT : 20

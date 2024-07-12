@@ -1,0 +1,38 @@
+﻿0-47 
+Ik luister nauwelijks nog naar mijn opzichters. Ik ben tot de conclusie gekomen dat de bewegingen van<LINE>dieren op de vlakten volledig en compleet irrelevant zijn voor mijn inspanningen.
+
+PEBBLESWAIT : 15
+
+Met jou, zijn ze erg aanhoudend geweest vanaf het moment dat jij mijn Akkerrijen betrad. Jij was op een ongebruikelijk doorgedacht pad.
+
+0 : 15 : Nu ben jij hier.
+
+De afbeeldingen lieten zien dat jij iets droeg. Jij doet dat niet langer meer.
+
+Ben jij het onderweg verloren? Of heb jij het aan Kijkt naar de Maan gegeven?
+
+PEBBLESWAIT : 10
+
+In dat laatste geval, hoop ik dat het haar wat geholpen heeft. Niet dat ik me kan bedenken wat één<LINE>van jou kan doen voor één van ons, maar ze heeft alle hulp nodig die ze kan krijgen.
+
+15 : 20 : ...
+
+PEBBLESWAIT : 25
+
+Het lijkt erop dat jij al eerder contact hebt gehad met een Iterator, dus misschien ben je je er al bewust van.
+
+Jij en ik hebben iets gemeen, klein wezen. Wij hebben allebei iets... onfortuinlijk binnen in ons groeien.
+
+In mijn geval, is er niet veel dat gedaan kan worden. Maar voor jou, is er misschien een weg. De oude weg.
+
+PEBBLESWAIT : 10
+
+Ga naar het westen langs de Akkerrijen, en dan diep onder de aarde waar het land openscheurd, zo diep als je kan reiken,<LINE>waar de ouden hun tempels bouwden en hun dwaze rituelen dansten.
+
+Ik zal jou iets geven dat jou misschien kan helpen.
+
+SPECEVENT : karma
+
+PEBBLESWAIT : 25
+
+10 : 30 : Ik suggereer dat je opschiet.

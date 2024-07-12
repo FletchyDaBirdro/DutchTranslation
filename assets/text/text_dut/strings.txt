@@ -1,0 +1,2397 @@
+//Vanilla
+0Invert X|Spiegel X
+Invert Y|Spiegel Y
+Champion|Kampioen
+NEW GAME|NIEUW SPEL
+THE MONK|DE MONNIK
+The Wall|De Muur
+The Monk|De Monnik
+WINDOWED|IN VENSTER
+LANGUAGE|TAAL
+JAPANESE|JAPANS
+KEYBOARD|TOETSENBORD
+Keyboard|Toetsenbord
+4 - TEST|4 - TEST
+STANDARD|STANDAARD
+CONTINUE|VERDERGAAN
+Add item|Voorwerp toevoegen
+Deaths :|Keer Gestorven :
+Ascended|Verheven
+PREVIOUS|VORIGE
+SaveData|OpgeslagenGegevens
+Presets:|Presets:
+Oh. You.|Oh. Jij.
+creature|wezen
+invert_x_description|Spiegel horizontale axis voor analoge stick controls.
+invert_y_description|Spiegel verticale axis voor analoge stick controls.
+rounds per level-ru2|rondes per level
+objecttype-FlareBomb|Flitsbom
+objecttype-DataPearl|Parel
+objecttype-JellyFish|Kwal
+objecttype-SlimeMold|Slijmschimmel
+objecttype-EggBugEgg|Eierdrager Ei
+objecttype-NeedleEgg|NoedelVlieg Ei
+creaturetype-Slugcat|Slakkat
+creaturetype-Vulture|Gier
+creaturetype-CicadaA|Octocade
+creaturetype-CicadaB|Octocade
+creaturetype-JetFish|Straalvis
+creaturetype-DropBug|Valwants
+Communications Array|Communicatie Opstelling
+Stolen Enlightenment|Gestolen Verlichting
+Path of the pacifist|Pad van de pacifist
+The Saint-linebreaks|De Heilige
+switch_controls_jump|B-Knop
+Gametype description|Beschrijving speltype
+Play each level once|Speel elk level een keer
+Normal Rain World AI|Normale Rain World KI
+for killing creature|voor het doden van wezens
+Persistent creatures|Hardnekkige wezens
+controller_reconnect|Herverbind de controller voor speler {0}.
+mod_menu_requirement|Benodigde aanvullende mods:
+mod_menu_ext_authors|Bekijk credits lijst for voor deze mod
+mod_menu_disable_all|Schakel alle mods uit
+Building token cache|Token cache bouwen
+OpCheckBox_MouseTuto|Druk om te schakelen
+OpUpdown_NonMouseUse|Gebruik de joystick om aan te passen, druk op BEVESTIGEN om aan te brengen
+MenuModStat_ModsFail|Geïnstalleerde mods die benodigheden missen:
+Connector_UnnamedTab|#<TabIndex>
+Increased stun times|Toegenomen verdoving tijden
+Wiggle out of grasps|Uit houdgrepen los kronkelen
+Key items on Passage|Sleutel Voorwerpen mee door Doorgang
+Monk extended breath|Monnik extra lucht
+Breath time leniency|Lucht gratie periode
+Rain timer tick-tock|Regen timer tik-tak
+Vulnerable jellyfish|Doorsteekbare kwallen
+Unlock all campaigns|Ontgrendel alle campagnes
+More Slugcats Cheats|Meer Slakkatten Cheats
+Exit to title screen|Terug naar titelscherm
+Preparing for upload|Voorbereiden voor upload
+devtools-description|Schakelt de in-spel Developer Tools in die de benodigde tools bieden om kaarten en gebieden te bewerken, en om te helpen met het modding proces van het spel.<LINE><LINE>Druk op O in-spel om Dev Tools in/uit te schakelen, en druk op H om het hoofd Dev Tools interface op te brengen.
+...leave me alone...|...laat me alleen...
+Hello, <PlayerName>!|Hallo, <PlayerName>!
+Hello, <PlayerName>.|Hallo, <PlayerName>.
+...don't... do that.|...doe... dat niet.
+Another gift for me?|Nog een geschenk voor mij?
+Again? ... just, go.|Alweer? ... ga gewoon.
+Little archaeologist|Kleine archeoloog
+remix_game_version|De spel's versie is geüpdatet. Je moet je mods opnieuw aanbrengen via het REMIX menu.
+ROUNDS SESSION-ru2|RONDES SESSIE
+objecttype-SeedCob|Popcorn Plant
+objecttype-Lantern|Lantaarn
+objecttype-FlyLure|Vleergras
+creaturetype-Leech|Bloedzuiger
+creaturetype-Snail|Slak
+creaturetype-Hazer|Nevelaar
+Industrial Complex|Industrieel Complex
+Scavenger Merchant|Handelaars-Schooier
+Path of aggression|Pad van aggressie
+Catch and eat them|Vang en eet ze
+Configure controls|Controls configureren
+No players joined!|Geen spelers doen mee!
+Start new playlist|Start nieuwe speellijst
+minutes until rain|minuten tot de regen
+mod_menu_next_page|Bekijk de volgende pagina met geïnstalleerde mods
+mod_menu_prev_page|Bekijk de vorige pagina met geïnstalleerde mods
+mod_menu_configure|Verander de configuraties en instellingen voor de geselecteerde mod
+OpUpdown_MouseTuto|Klik en typ nummers in, gebruik pijlen of de scrollwheel om aan te passen
+Dialog pauses rain|Dialoog pauzeert de regen
+Lizard spear pulls|Hagedis trekt speren
+Slow Motion Factor|Slow Motion Factoor
+remix_first_launch|Aanvullende inhoud en configuraties kunnen bereikt worden via het REMIX menu. Gebruik REMIX om de inhoud toe te voegen, te veranderen, of te personaliseren die beschikbaar is in jouw Rain World playthrough.
+remix_dlc_redirect|Om meer te leren, klik op de inhoud om naar de winkelpagina te gaan.
+How have you been?|Hoe gaat het ermee?
+You're here again.|Je bent er weer.
+...you...killed...|...je...doodde...
+Yet another thing?|Alweer een ding?
+Yet again leaving.|Je gaat alweer.
+Yes, there you go.|Ja, daar ga je.
+As I was saying...|Zoals ik zei...
+Stay! ... Still...|Blijf! ... Stil...
+I am... too tired.|Ik ben... te moe.
+Assign player <X> to the default controls|Wijs speler <X> de standaard controls toe
+Something lurks above the chimney tops...|Er hangt iets rond boven de schoorsteen toppen...
+These pearls are valued by the Scavengers|Deze parels worden gewaardeerd door de Schooiers
+Game Over - Press PAUSE BUTTON to restart|Game Over - Druk op de PAUZEKNOP om te herstarten
+Player <X> will use any connected gamepad|Speler <X> gebruikt elk verbonden apparaat
+switch_single_joycon_fast_travel_map_help|Druk op de SR Knop om de schuilplaats te selecteren waarvan je wilt verdergaan
+Press the MAP button to view regional map|Druk op de KAART knop om de regionale kaart te bekijken
+Jellyfish are vulnerable to being stabbed|Kwallen kunnen doorgestoken worden
+Are you sure you want to use this preset?|Weet je zeker dat je deze preset wilt gebruiken?
+Makes Saint's body immune to the elements|Maakt De Heilige's lichaam immuun tegen de elementen
+The operation timed out. Try again later.|De operatie timed out. Probeer het later nog eens.
+This item already exists on the workshop.|Dit item bestaat al op de workshop.
+Previously uploaded mod has been updated.|Een eerder geüploade mod is geüpdatet.
+And...now you expect me to... talk again?|En...nu verwacht je me om... weer te praten?
+PRESET|PRESET
+CANCEL|ANNULEREN
+Depths|De Dieptes
+SCREEN|SCHERM
+FRENCH|FRANS
+GERMAN|DUITS
+KOREAN|KOREAANS
+Player|Speler
+Square|Vierkant
+Circle|Cirkel
+Arrows|Pijlen
+Paused|Gepauzeerd
+minute|minuut
+PLAYER|SPELER
+ALWAYS|ALTIJD
+REMOVE|VERWIJDEREN
+Food :|Voedsel :
+Time :|Tijd :
+cancel|Annuleren
+Select|Selecteren
+? Back|? Terug
+? play|? spelen
+Legacy|Legacy
+Cheats|Cheats
+MANUAL|HANDLEIDING
+TOPICS|ONDERWERPEN
+UPLOAD|UPLOADEN
+LEAVE.|GA.
+You...|Jij...
+Hello!|Hallo!
+Hello.|Hallo.
+Again.|Alweer.
+*sigh*|*zucht*
+friend|vriend
+little|klein
+Clear the game as Survivor or Monk to unlock.|Voltooi het spel als De Overlever of De Monnik om te ontgrendelen.
+Objects can be picked up, carried, and tossed|Objecten kunnen opgepakt, gedragen en gegooid worden
+Some small creatures can be eaten immediately|Sommige kleine wezens kunnen onmiddellijk worden opgegeten
+MenuModList_ModButton_Enable_NonMouse_Console|Druk op BEVESTIGEN om deze content in te schakelen, druk op RECHTS om terug naar de lijst te gaan
+Show icons of nearby creatures on the minimap|Laat iconen van dichtbijzijnde wezens zien op de minikaart
+You are bringing a neuron. Is it to taunt me?|Je bracht een zenuwcel. Is het om met me te spotten?
+Your curiosity seems boundless, <PlayerName>.|Jouw nieuwsgierigheid lijkt grenzeloos, <PlayerName>.
+remix_dlc_restart|Als je DLC gekocht hebt, moet je het spel herstarten zodat de content beschikbaar wordt.
+Expedition Leader|Expeditie Leider
+creaturetype-Deer|Regenherten
+Looks to the Moon|Kijkt naar de Maan
+Filtration System|Filtratie Systeem
+The Dragon Slayer|De Drakendoder
+Back to main menu|Terug naar het hoofdmenu
+1 - SELECT PLAYER|1 - SELECTEER SPELER
+2 - SELECT DEVICE|2 - SELECTEER APPARAAT
+Previous gametype|Vorige speltype
+Reset score setup|Score setup resetten
+ps4_press_to_join|Druk op<LINE><LINE><LINE>om mee te doen.
+minute until rain|minuut tot de regen
+per point of food|per voedselpunt
+Delivered Payload|Lading Geleverd
+Leaderboard empty|Leiderbord leeg
+mod_menu_finalize|(Mods aanbrengen voltooien, even geduld...)
+MenuModStat_ModID|ID: <ModID>
+Key item tracking|Sleutel voorwerp tracking
+Alpha red lizards|Alfa rode hagedissen
+Unlock all arenas|Ontgrendel alle arenas
+moreslugcats-name|Meer Slakkatten Uitbreiding
+Yet another gift?|Alweer een geschenk?
+And you are back.|En je bent terug.
+A Helping Hand|Een Helpende Hand
+mod_menu_error|Gefaald om mods aan te brengen door de volgende fout:
+Garbage Wastes|Vuilnis Woestenij
+Shaded Citadel|Verduisterd Citadel
+Chimney Canopy|Schoorsteen Daken
+Unknown Region|Onbekend Gebied
+Scavenger Toll|Schooier-Tol
+RESET PROGRESS|VOORTGANG RESETTEN
+Input Settings|Input Instellingen
+Pick-Up Button|Oppakken Knop
+ROUNDS SESSION|RONDES SESSIE
+RESUME SESSION|VEDERGAAN MET SESSIE
+Clear playlist|Verwijder speellijst
+Eating contest|Eetwedstrijd
+Aggressive AI:|Agressieve AI:
+Change Profile|Verander Profiel
+mod_menu_apply|Veranderingen aanbrengen aan geselecteerde mods
+Speedrun timer|Speedrun timer
+jollycoop-name|Vrolijke Co-op
+Leaving again.|Je gaat alweer.
+Within Time|Binnen de Tijd
+The Pilgrim|De Pelgrim
+DELETE SAVE|OPSLAG VERWIJDEREN
+Sky Islands|Hemeleilanden
+Farm Arrays|Akkerrijen
+The Scholar|De Leergierige
+The Journey|De Reis
+Arena Music|Arena Muziek
+Jump Button|Springen Knop
+NEW SESSION|NIEUWE SESSIE
+Spears Hit:|Speren Raken:
+Rain Timer:|Regen Timer:
+No wildlife|Geen wild
+Level Food:|Level Voedsel:
+Allow exit:|Verlaten toestaan:
+Early Rain:|Vroege Regen:
+SCREEN SIZE|SCHERMGROOTTE
+Slug Senses|Slak Zintuigen
+...leave...|...ga weg...
+This again.|Dit alweer.
+And...back.|En...terug.
+Back again.|Alweer terug.
+Here again.|Hier alweer.
+I...said...|Ik...zei...
+Migration|Migratie
+Messenger|Boodschapper
+The Cycle|De Cyclus
+The Nomad|De Nomade
+Outskirts|Buitenwijken
+Shoreline|Kustlijn
+Underhang|De Onderhang
+The Saint|De Heilige
+Ascension|Verheffing
+SAVE SLOT|OPSLAG SLOT
+vibration|Vibratie
+Connected|Verbonden
+Wildlife:|Wild:
+Spear hit|Speertreffer
+GAME OVER|GAME OVER
+Clear all|Verwijder alles
+? Confirm|? Bevestigen
+NEXT PAGE|VOLGENDE PAGINA
+Next Page|Volgende Pagina
+CONFIGURE|CONFIGUREREN
+Author(s)|Auteer(s)
+VIEW EULA|BEKIJK EULA
+Uploading|Uploaden
+A neuron.|Een zenuwcel.
+tormentor|martelaar
+Closure|Afsluiting
+REGIONS|GEBIEDEN
+OPTIONS|OPTIES
+The Leg|Het Been
+CREDITS|CREDITS
+ENGLISH|ENGELS
+ITALIAN|ITALIAANS
+SPANISH|SPAANS
+RUSSIAN|RUSSISCH
+CHINESE|CHINEES
+GAMEPAD|GAMEPAD
+Hold R1|Houd R1 ingedrukt
+Options|Opties
+Hold RB|Houd RB ingedrukt
+minutes|minuten
+No rain|Geen regen
+Survive|Overleven
+Winner!|Winnaar!
+RESTART|HERSTARTEN
+PASSAGE|DOORGANG
+Quits :|Keer gestopt :
+Ranking|Rang
+Profile|Profiel
+In Game|In Spel
+In Menu|In Menu
+Version|Versie
+General|Algemeen
+Presets|Presets
+CLASSIC|KLASSIEK
+RELAXED|RELAXED
+Assists|Assists
+Failure|Gefaald
+...you.|...jij.
+Please!|Alsjeblieft!
+An Old Friend|Een Oude Vriend
+Memory Crypts|Herinneringscryptes
+The Chieftain|Het Opperhoofd
+Music volume:|Muziek volume:
+Sound Effects|Geluidseffecten
+Pick up / Eat|Oppakken / Eten
+INPUT PRESETS|INPUT PRESETS
+Next gametype|Volgende speltype
+ROUND SESSION|RONDE SESSIE
+Approximately|Ongeveer
+Press to join|Druk om mee te doen
+Repeat Rooms:|Herhaal Kamers:
+High wildlife|Hoog aantal wild
+for surviving|voor het overleven
+per spear hit|per geraakte speer
+Configuration|Configuratie
+HOLD TO START|HOUD INGEDRUKT OM TE STARTEN
+REGION SELECT|GEBIED SELECTEREN
+Fetching Data|Data Ophalen
+PREVIOUS PAGE|VORIGE PAGINA
+Previous Page|Vorige Pagina
+Accessibility|Toegankelijkheid
+Hunter Cycles|Jager Cyclussen
+Wall pouncing|Muur krachtsprongen
+devtools-name|Dev Tools
+Thank... you.|Dank... je wel.
+What is that?|Wat is dat?
+Another gift?|Nog een geschenk?
+...thank you.|...dank je.
+And...listen!|En...luister!
+Little friend|Kleine vriend
+archaeologist|archeoloog
+The Martyr|De Lijder
+The Mother|De Moeder
+Rain World|Rain World
+STATISTICS|STATISTIEKEN
+THE HUNTER|DE JAGER
+The Hunter|De Jager
+The Outlaw|De Vogelvrije
+The Friend|De Vriend
+Pilgrimage|Pelgrimstocht
+FULLSCREEN|VOLLEDIG SCHERM
+SAVE FILES|OPGESLAGEN BESTANDEN
+PORTUGUESE|PORTUGUEES
+TEST INPUT|INPUT TESTEN
+Left Stick|Linker Stick
+Hold Space|Houd Spatie ingedrukt
+Map Button|Kaart Knop
+Free food!|Gratis eten!
+Loading...|Laden...
+CROSS-SAVE|CROSS-OPSLAG
+Load Order|Laad Volgorde
+Oh, hello!|Oh, hallo!
+Oh, hello.|Oh, hallo.
+You again.|Jij alweer.
+...rain...|...regen...
+...stop...|...stop...
+Thank you.|Dank je wel.
+A final charitable act|Een laatste liefdadige acte
+Path of self-sacrifice|Pad van zelfopoffering
+objecttype-VultureMask|Gierenmasker
+objecttype-DangleFruit|Blauwe Vrucht
+objecttype-KarmaFlower|Karma Bloem
+objecttype-BubbleGrass|Bubbelwier
+creaturetype-RedLizard|Red Lizard
+creaturetype-PoleMimic|Paal Plant
+creaturetype-MirosBird|Mirosvogel
+creaturetype-Centipede|Duizendpoot
+creaturetype-Centiwing|Zwevendpoot
+creaturetype-Scavenger|Schooier
+creaturetype-BigSpider|Wolfspin
+Stronger climbing grip|Sterkere klim grip
+Path of the vegetarian|Pad van de vegetariër
+The Scholar-linebreaks|De Leergierige
+The Journey-linebreaks|De Reis
+switch_tutorial_crouch|Houd OMLAAG kort ingedrukt om te bukken
+Tap to pick up objects|Druk om voorwerpen op te pakken
+Test your new controls|Test je nieuwe controls
+switch_controls_pickup|Y Knop
+switch_region_map_help|Druk op de R Knop om de regionale kaart te bekijken
+Sandbox item unlocked:|Sandbox voorwerp ontgrendeld:
+ps4_save_options_title|Rain World Opties
+mod_menu_load_order_up|Wanneer je mod veranderingen samenvoegt, breng deze mod later aan dan de anderen. Dit kan helpen met het oplossen van bepaalde mod conflicten.
+OpSlider_MouseTutoHrzt|Houd de muisknop ingedrukt en sleep naar links of rechts om de waarde aan te passen
+OpSlider_MouseTutoVrtc|Houd de muisknop ingedrukt en sleep omhoog of omlaag om de waarde aan te passen
+OpTextBox_NonMouseTuto|Dit element kan niet aangepast worden met een controller
+OpHoldButton_MouseTuto|Houd de muisknop ingedrukt om te activeren
+ModdingMenu_ControlMap|Bekijk de controls
+MenuModStat_ModsRegion|Ingeschakelde
+gebiedsmods: <Number>
+MenuModList_SwapFailed|Kan een benodigde mod niet laden voor de afhankelijke mod
+OIError_Message_Update|Er was een probleem bij het lopen van OptionInterface.
+New dynamic difficulty|Nieuwe dynamische moeilijkheid
+Legacy tongue controls|Oude tong controls
+Upwards spear throwing|Extra gooi traject
+Quieter gates/shelters|Zachtere poorten/schuilplaatsen
+Faster shelter opening|Sneller schuilplaatsen openen
+Pull spears from walls|Trek speren uit muren
+Unlock all collections|Ontgrendel alle collecties
+expedition-description|Zet uit op een Expeditie in deze uitdagende nieuwe spelmodus. Compleet willekeurige uitdagingen terwijl je perma dood vermijdt en werk aan het ontgrendelen van nieuwe handige perks, straffende lasten, en muziektracks om naar te luisteren in de Jukebox.
+Please leave me alone.|Laat me alsjeblieft alleen.
+That... Oh, thank you.|Dat... Oh, dank je.
+...don't... come back.|...kom... niet terug.
+Oh... You are leaving.|Oh... Je gaat.
+Good bye, I suppose...|Vaarwel, neem ik aan...
+You have found another way out|Je hebt een andere weg uit gevonden
+Complete the Chieftain passage|Compleet de Opperhoofd doorgang
+Complete the game as The Saint|Voltooi het spel als De Heilige
+This land has become your home|Dit land is jouw thuis geworden
+switch_pause_help_switch_hands|Druk twee keer om van handen te wisselen
+Playing levels in random order|Levels in willekeurige volgorde spelen
+OpKeyBinder_NonMouseSelectTuto|Druk op Springen om de knop binding te veranderen
+ConfigMenuTab_ApplyButton_Desc|Breng de huidige geselecteerde mods aan
+ConfigMenuTab_BackButton_Label|VERLATEN
+ConfigMenuTab_SaveButton_Label|AANBRENGEN
+ConfigMenuTab_ResetButton_Desc|Reset de huidige mod's configuraties
+No Hunter batfly auto-grabbing|De Jager auto-grijpt geen vleervliegen
+Disable all karma requirements|Schakel alle karma benodigdheden uit
+Saint environmental protection|Heilige weersbescherming
+mod_workshop_upload_buttondesc|Upload de geselecteerde mod naar de Steam Workshop
+It's you, <PlayerName>. Hello.|Jij bent het, <PlayerName>. Hallo.
+NO! ... no. Let it go, please.|NEE! ... nee. Laat het los, alsjeblieft.
+You... brought that... for me?|Je... bracht dat... voor mij?
+And now you're taking it back.|En nu neem je het terug.
+Please. Be still for a moment.|Alsjeblieft. Wees even stil.
+<CapPlayerName>... Never mind.|<CapPlayerName>... Laat maar zitten.
+You return from scouting a new land|Je komt terug van het scouten van een nieuw land
+Four Needles under Plentiful Leaves|Vier Naalden onder Overvloedige Bladen
+However, the game will not be saved|Maar het spel wordt niet opgeslagen
+PS4 Dualshock<LINE>Controller Setup|DUALSHOCK®4<LINE>Controller Setup
+Hold Pause Button or Escape to exit|Houd de Pauze Knop of Escape ingedrukt om te verlaten
+switch_controls_singlejoyconl_pause|- Knop
+switch_controls_singlejoyconl_throw|Rechter Knop
+switch_controls_singlejoyconr_pause|+ Knop
+switch_controls_singlejoyconr_throw|X Knop
+Press to add Player <X> to the game|Druk om Speler <X> toe te voegen aan het spel
+ps4_save_progress_failed_free_space|Fout bij het opslaan van voortgangs data. Niet genoeg vrije ruimte. Opnieuw proberen?
+USE UP + DOWN TO ADJUST SCREEN SIZE|GEBRUIK OMHOOG + OMLAAG OM DE SCHERMGROOTTE AAN TE PASSEN
+ConfigMenuTab_RevertHoldButton_Desc|Gooi huidige veranderingen aan de mod's configuraties weg en ga terug
+MenuModList_ModButton_NameAndAuthor|<ModName> door <ModAuthor>
+MenuModList_ModButton_Disable_Mouse|Schakel <Mod> uit
+Could not find the files to upload.|Kon de bestanden niet vinden om te uploaden.
+Get... get away... white.... thing.|Ga... ga weg... wit.... ding.
+Thank you, again. I feel wonderful.|Nog eens bedankt. Ik voel me geweldig.
+You want me to take a look at that?|Je wilt dat ik hier naar kijk?
+Ah, you would like me to read this?|Ah, je wilt dat ik dit lees?
+This... time... don't... come back.|Kom... deze... keer... niet terug.
+The consequences of your journey have caught up with you|De consequenties van jouw reis hebben je ingehaald
+You encountered the echo of A Bell, Eighteen Amber Beads|Je ontmoette de echo van Een Bel, Achttien Amber Kralen
+You encountered the echo of Two Sprouts, Twelve Brackets|Je ontmoette de echo van Twee Scheuten, Twaalf Steunen
+Press and hold, then use up/down to adjust score awarded|Druk en ingedrukt houden, gebruik dan Omhoog/Omlaag om de toegekende score aan te passen
+You must update the application to use network features.|Je moet deze applicatie updaten om netwerkfuncties te gebruiken.
+The presets below can be used to quickly reset settings.|De opties beneden kunnen gebruikt worden om snel alle instellingen te resetten naar preset values.
+RELAXED preset is a significant reduction in difficulty.|De RELAXED preset verlaagt de moeilijkheid aanzienlijk.
+This option may actually make Rivulet's campaign harder.|Deze optie kan De Waterrat's campagne moeilijker maken.
+The scavengers must be jealous of you, finding all these|De schooiers zullen wel jaloers zijn op jou, met hoeveel je er vindt
+Fates have been flipped|Lotsbestemmingen zijn gewisseld
+creaturetype-PinkLizard|Roze Hagedis
+creaturetype-BlueLizard|Blauwe Hagedis
+creaturetype-Salamander|Salamander
+creaturetype-CyanLizard|Cyaan Hagedis
+Embraced by a new tribe|Omarmd door een nieuwe stam
+The Survivor-linebreaks|De Overlever
+The Wanderer-linebreaks|De Dwaler
+Gamepad <X> (Not found)|Gamepad <X> (Niet Gevonden)
+No rain timer exception|Geen regen timer uitzondering
+Sandbox items unlocked:|Sandbox voorwerpen ontgrendeld:
+ps4_save_progress_title|Rain World Voortgang {0}
+ps4_save_options_failed|Fout opgetreden bij het opslaan van opties data.
+ps4_load_options_failed|Opgeslagen Opties data is beschadigt en wordt verwijderd.
+Failed to get rankings.|Gefaald om de rangen te krijgen.
+Switch to windowed mode|Wissel naar venster modus
+OpCheckBox_NonMouseTuto|Druk op BEVESTIGEN om te schakelen
+OpComboBox_MouseUseTuto|Dubbelklik de box om te zoeken
+OpRadioButton_MouseTuto|Klik om deze optie te kiezen
+OpTextBox_MouseTutoGrab|Klik om te beginnen met typen
+OpTextBox_MouseTutoType|Gebruik het toetsenbord om te typen, druk op Enter om aan te brengen
+ModdingMenu_ControlJump|Kiezen / Bevestigen
+ModdingMenu_ControlMove|Bewegen / Aanpassen
+ModdingMenu_ControlPckp|Clipboard
+MenuModList_AskModApply|Druk eerst op MODS AANBRENGEN voordat je mods configureert
+Jetfish item protection|Straalvis voorwerp bescherming
+Currently Active Preset|Huidige Actieve Preset
+mod_workshop_upload_ask|Wil je deze mod uploaden naar de Steam Workshop?
+Hello there! You again!|Hallo daar! Jij alweer!
+Hello there. You again!|Hallo daar. Jij alweer!
+No, please, release it!|Nee, alsjeblieft, laat het los!
+That... That is for me?|Dat... Dat is voor mij?
+...oh... to... save me?|...oh... om... me te redden?
+Thank you so very much!|Dank je zeer!
+Thank you... Sincerely.|Zeer hartelijk bedankt...
+Let's see... A pearl...|Laat eens zien... Een parel...
+Why are you doing this?|Waarom doe je dit?
+Please don't come back.|Kom alsjeblieft niet terug.
+You have delivered your most important message|Je hebt je meest belangrijke boodschap geleverd
+You completed every challenge laid before you.|Je complete elke uitdaging die voor je lag.
+Clear every milestone quest in Expedition Mode|Compleet elke mijlsteen streeftocht in de Expeditie Modus
+You are not the only lost soul in this world..|Je bent niet de enige verloren ziel in deze wereld..
+Additional food (above four) is kept for later|Aanvullend voedsel (boven vier) wordt bewaard voor later
+Grab your prey and hold the eat button to feed|Grijp je prooi en houd de eet knop ingedrukt om te voeden
+MenuModList_ModButton_Disable_NonMouse_Console|Druk op BEVESTIGEN om deze inhoud uit te schakelen, druk op RECHTS om terug naar de lijst te gaan
+MenuModList_ModButton_NonMouse_Display_Console|Druk op BEVESTIGEN om te laten zien, druk op LINKS om de schakelknop voor deze inhoud te bewegen
+ConfigTabController_TabSelectButton_UnnamedTab|Wissel naar tab #<TabIndex>
+Not that it solves anyone's problem but yours.|Niet dat het iemands probleem oplost behalve die van jou.
+As I mentioned you do not have unlimited time.|Zoals gezegd heb je geen ongelimiteerde tijd.
+Another? You're no better than the scavengers!|Nog een? Je bent niets beter dan de schooiers!
+I won't talk to you if you continue like this.|Ik zal niet met je praten als je zo doorgaat.
+Everything comes full circle|Alles komt vol cirkel
+Great strides have been made|Grote vorderingen zijn gemaakt
+Complete the Scholar passage|Compleet de Leergierige doorgang
+Complete the Pilgrim passage|Compleet de Pelgrim doorgang
+creaturetype-BrotherLongLegs|Broeder Hooiwagen
+creaturetype-SmallNeedleWorm|Noedelvlieg Larve
+Press any button to continue|Druk op elke knop om verder te gaan
+A Bell, Eighteen Amber Beads|Een Bel, Achttien Amber Kralen
+Two Sprouts, Twelve Brackets|Twee Scheuten, Twaalf Steunen
+The Dragon Slayer-linebreaks|De Draken-<LINE>doder
+Three is enough to hibernate|Drie is genoeg om te slapen
+Rain is coming! Find shelter|De regen komt eraan! Vind een schuilplaats
+Score required to exit level|Score benodigd om het level te verlaten
+Always allow players to exit|Sta spelers toe altijd het level te verlaten
+ps4_save_options_description|Rain World Opties Save Data
+Reloading player progression|Speler voortgang herladen
+OpKeyBinder_NonMouseBindTuto|Druk op een knop om het te binden (PAUZE om te ontbinden)
+MenuModStat_ModTargetVersion|Target spel versie: <TargetVersion> (Huidige spel versie: <GameVersion>)
+Artificer Explosion Capacity|De Schepper's Explosie Capaciteit
+Unlock all sandbox creatures|Ontgrendel alle sandbox wezens
+Perhaps... I saw you before?|Misschien... heb ik je al gezien?
+Oh... Should I look at that?|Oh... Zal ik erna kijken?
+A gift for me, <PlayerName>?|Een geschenk voor mij, <PlayerName>?
+Oh... Never mind, I suppose.|Oh... Laat maar zitten.
+I will...not speak to you...|Ik zal...niet met je spreken...
+You completed every expedition laid before you.|Je complete elke expeditie die voor je lag.
+Something lurks in a flourishing outcropping...|Er hangt iets rond in een bloeiende aardlaag...
+Additional food (above three) is kept for later|Aanvullend voedsel (boven drie) wordt bewaard voor later
+Hold down to wipe your save slot and start over|Ingedrukt houden om je opslag slot te wissen en overnieuw te beginnen
+You are starving. Your game has not been saved.|Je bent aan het verhongeren. Je spel is niet opgeslagen.
+Are you sure you want to disable this mechanic?|Weet je zeker dat je dit mechaniek wilt uitschakelen?
+You must accept the End User License Agreement.|Je moet de End User License Overeenkomst accepteren.
+You're leaving yet again. This time, stay away.|Je vertrekt alweer. Deze keer, blijf weg.
+Listened to the conflation of echoes|Luisterde naar de vermenging van echoes
+Nineteen Spades, Endless Reflections|Negentien Schoppen, Eindeloze Reflecties
+Game Over - Press OPTIONS to restart|Game Over - Druk op OPTIES om te herstarten
+switch_controls_singlejoyconl_pickup|Linker Knop
+switch_controls_singlejoyconr_pickup|B Knop
+Creatures are vicious and aggressive|Wezens zijn woest en agressief
+switch_single_joycon_region_map_help|Druk op de SR Knop om de regionale kaart te bekijken
+JUMP/THROW buttons - Switch layers_2|Kruis Knop/Cirkel Knop - Wissel van lagen
+JUMP/THROW buttons - Switch layers_3|B Knop/A Knop - Wissel van lagen
+JUMP/THROW buttons - Switch layers_4|Down Knop/Right Knop - Wissel van lagen
+JUMP/THROW buttons - Switch layers_5|A Knop/X Knop - Wissel van lagen
+Title is offline or is disconnected.|Titel is offline of is niet verbonden.
+OpKeyBinder_NonMouseJoystickBindTuto|Druk op een knop om het vast te binden (PAUZEER om te ontbinden, START om controller nummer in te stellen)
+ConfigContainer_AlertCopyNoncosmetic|Kopieerde <Text> van <ObjectName> naar clipboard
+ConfigMenuTab_RevertHoldButton_Label|TERUGZETTEN
+MenuModList_ModButton_RainWorldDummy|Representeert het Rain World basis spel, dat geladen wordt voor alle mods erboven
+Are you sure you want to view these?|Weet je zeker dat je deze wilt bekijken?
+Yes, you're welcome to have it back.|Ja, je bent vrij om het terug te nemen.
+Oh, leaving. Please don't come back.|Oh, je gaat. Kom alsjeblieft niet terug.
+Followed your parental instincts|Je volgde jouw ouderlijke instincten
+Player <X> will use the keyboard|Speler <X> gebruikt het toetsenbord
+switch_controls_singlejoycon_map|SR Knop
+Playing levels in selected order|Speel levels in geselecteerde volgorde
+OpKeyBinder_ErrorConflictVanilla|Conflicterende knop met vanilla control opties
+OpKeyBinder_ErrorConflictCurrMod|[<ConflictButton>] knop is al in gebruik
+OpColorPicker_NonMouseModeSelect|Druk op CONFIRM om de modus te selecteren
+ConfigMenuTab_RevertButton_Label|TERUG
+Scavenger corpses have max karma|Schooier karkassen hebben maximaal karma
+Unlock Developer Commentary mode|Ontgrendel de Ontwikkelaars' Commentaar modus
+Please... thiss all I have left.|Alsjeblieft... dit is het enige wat ik nog heb.
+Ah... <PlayerName>, you're back!|Ah... <PlayerName>, je bent terug!
+Ah... <PlayerName>, you're back.|Ah... <PlayerName>, je bent terug.
+NO! I will...not speak to you...|NEE! Ik zal...niet met jou spreken...
+A new gift for me, <PlayerName>?|Een nieuw geschenk voor mij, <PlayerName>?
+<CapPlayerName>, this one again?|<CapPlayerName>, deze alweer?
+Yes, take it and leave me alone.|Ja, neem het en laat me alleen.
+I think the rain is approaching.|Ik denk dat de regen eraankomt.
+...leaving now? Don't... return.|...ga je weg? Kom... niet terug.
+Complete the Survivor passage|Compleet de Overlever doorgang
+Complete the Wanderer passage|Compleet de Dwaler doorgang
+Five Pebbles (Memory Conflux)|Vijf Kiezels(Geheugen Conflux)
+Hold to eat / swallow objects|Houd ingedrukt om te eten / voorwerpen door te slikken
+Configure controls for player|Controls configureren voor speler
+Standard items spawn on level|Standaard voorwerpen verschijnen in het level
+ps4_save_progress_description|Rain World Voortgang {0} Save Data
+OpColorPicker_NonMouseSliders|Met de joystick, omhoog of omlaag om te kiezen, naar links of rechts om aan te passen. Druk op BEVESTIGEN om aan te brengen
+OpScrollBox_MouseTutoSlidebar|Gebruik het scrollwiel of scrollbar om meer te zien
+ConfigMenuTab_BackButton_Desc|Terug naar het hoofdmenu
+ConfigMenuTab_SaveButton_Desc|Sla de huidige mod's configuraties op en ga terug
+MenuModList_ModButton_Display|Laat <Mod> zien
+MenuModList_ListButton_SwapUp|Klik om deze mod later te laten dan de mods erboven
+MenuModList_ListButton_SwapDw|Klik om deze mod eerder te laden dan de mods eronder
+MenuModList_ListButton_Expand|Laat thumbnails zien in de modlijst
+No stealing Hunter back-spear|Jager rug-speer niet stelen
+Scavenger kill squad leniency|Schooier moordploeg gratie periode
+Hide rain timer in safe areas|Verberg regen timer in veilige plekken
+No randomized cycle durations|Geen willekeurige cyclus duur
+Rivulet Rain Timer Multiplier|Waterrat Regen Timer Vermenigvuldiger
+Unlock the Outer Expanse gate|Ontgrendel de Wildernis poort
+Steam manager not initialized|Steam manager niet geïnitialiseerd
+This one again, <PlayerName>?|Deze alweer, <PlayerName>?
+Complete the Hunter passage|Compleet de Jager doorgang
+Complete the Outlaw passage|Compleet de Vogelvrije doorgang
+Complete the Friend passage|Compleet de Vriend doorgang
+Complete the Martyr passage|Compleet de Lijder doorgang
+Complete the Mother passage|Compleet de Moeder doorgang
+objecttype-FirecrackerPlant|Vuurkruid
+creaturetype-SmallCentipede|Kleine Duizendpoot
+Four is enough to hibernate|Vier is genoeg om te slapen
+Player <X> will use gamepad|Speler <X> gebruikt de gamepad
+Player vs player deathmatch|Speler vs speler deathmatch
+Play each level three times|Speel elk level drie keer
+switch_fast_travel_map_help|Druk op de R Knop om de schuilplaats te selecteren waarvan je wilt verdergaan
+OpComboBox_NonMouseOpenTuto|Druk op BEVESTIGEN om de lijst te openen
+OpKeyBinder_MouseSelectTuto|Klik om de knop binding te veranderen
+OpSlider_NonMouseAdjustTuto|Gebruik de joystick om aan te passen, druk op BEVESTIGEN om aan te brengen
+OpColorPicker_MouseTypeTuto|Typ de hex code in met het toetsenbord voor de gewenste kleur
+OpSimpleButton_NonMouseTuto|Druk op de BEVESTIGEN knop om te activeren
+MenuModStat_ConsoleExplain0|Dit menu wordt gebruikt om Remix content te activeren en te configureren voor nieuwe manieren om Rain World te spelen.
+MenuModList_ListButton_Stat|Laat de statistieken zien van jouw geïnstalleerde mods
+MenuModList_ListSlider_Desc|Houd je muis knop ingedrukt op de cirkel en sleep het omhoog of omlaag om door de modlijst te scrollen
+MenuModList_SearchBox_Empty|Typ om te zoeken...
+MenuModList_SearchBox_Query|Zoek query: <Query>
+Connector_ResetConfig_Alert|Herstelde de configuratie van <ModName> naar de standaard configuratie
+Arena creatures cannot flee|Arena wezens kunnen niet vluchten
+Monk extra light assistance|Monnik extra licht assistance
+Zero-gravity spear throwing|Gewichtloos speer gooien
+Unlock all arena characters|Ontgrendel alle arena personages
+Oh, it's you, <PlayerName>.|Oh, jij bent het, <PlayerName>.
+Please... don't do... that.|Alsjeblieft... doe dat... niet.
+What is that, <PlayerName>?|Wat is dat, <PlayerName>?
+Want it back, <PlayerName>?|Wil je het terug, <PlayerName>?
+Why should I tolerate this?|Waarom zou ik dit tolereren?
+As I tried to say to you...|Zoals ik je probeerde te zeggen...
+Complete the Monk passage|Compleet de Monnik doorgang
+Find a way to communicate|Vind een manier om te communiceren
+creaturetype-YellowLizard|Gele Hagedis
+creaturetype-LanternMouse|Lantaarn Muis
+creaturetype-RedCentipede|Rode Duizendpoot
+One need not travel alone|Je hoeft niet alleen te reizen
+You are hungry, find food|Je hebt honger, vind eten
+Switch to fullscreen mode|Wissel naar volledig scherm modus
+OpDragger_NonMouseUseTuto|Gebruik de joystick om aan te passen, druk op BEVESTIGEN om in te stellen
+OpKeyBinder_MouseBindTuto|Druk op een knop om het te verbinden (ESC om te ontbinden)
+OpSlider_NonMouseGrabTuto|Druk op BEVESTIGEN om te interacteren
+OpHoldButton_NonMouseTuto|Houd de BEVESTIGEN knop ingedrukt om te activeren
+MenuModStat_ModsInterface|Ingeschakelde mods met een Remix gebruikers interface: <Number1> (Configurable: <Number2>)
+Show underwater shortcuts|Laat onderwater sluipwegen zien
+Centipede pipe protection|Duizendpoot pijp bescherming
+Threat music visual pulse|Gevaren muziek visuele puls
+Disable precycle flooding|Schakel pre-cyclus vloeden uit
+Unlock all safari regions|Ontgrendel alle safari gebieden
+...thank you... better...|...dank je... beter...
+Tried to say... to you...|Probeerde jou... te zeggen...
+Complete the Saint passage|Compleet de Heilige doorgang
+Complete the Nomad passage|Compleet de Nomade doorgang
+objecttype-SLOracleSwarmer|Zenuwcel
+objecttype-SSOracleSwarmer|Zenuwcel
+objecttype-OverseerCarcass|Overzichter's Oog
+creaturetype-DaddyLongLegs|Vader Hooiwagen
+creaturetype-TentaclePlant|Monsterkelp
+creaturetype-SpitterSpider|Spuug Spin
+creaturetype-BigNeedleWorm|Noedelvlieg
+Briefly tap DOWN to crouch|Druk kort op OMLAAG om te bukken
+Double tap to switch hands|Druk twee keer om van handen te wisselen
+Player <X> is in the game!|Speler <X> is in het spel!
+Remove level from playlist|Verwijder level van de speellijst
+Resume unfinished playlist|Ga verder met de onvoltooide speellijst
+Play each level four times|Speel elk level vier keer
+Play each level five times|Speel elk level vijf keer
+mod_menu_fail_requirements|Deze mod kan niet gebruikt worden door problemen met de benodigdheden! Controleer dat de volgende mods geïnstalleerd zijn, en niet hun eigen problemen hebben:
+OpComboBox_MouseSearchTuto|Typ sleutelwoorden in de box om te zoeken
+OpComboBox_NonMouseUseTuto|Gebruik de joystick om te scrollen, druk op BEVESTIGEN om te selecteren
+OpDragger_NonMouseGrabTuto|Druk op BEVESTIGEN om te interacteren
+OpRadioButton_NonMouseTuto|Druk op BEVESTIGEN om deze optie te kiezen
+OpColorPicker_MouseRGBTuto|Selecteer een kleur met de rood/groen/blauw sliders
+OpColorPicker_MouseHSLTuto|Selecteer een kleur uit het vierkante kleurenkiezer en licht slider
+OpColorPicker_MousePLTTuto|Selecteer een kleur uit het palet
+MenuModList_SearchBox_Desc|Druk en typ om mods te zoeken
+Connector_SaveConfig_Alert|Huidige configuratie van <ModName> is opgeslagen
+OIError_Message_Initialize|Er was een probleem bij het initialiseren van het OptionInterface.
+Vulture grub arena variety|Gierenaas arena variatie
+Lossless scavenger corpses|Verliesloze schooier karkassen
+Continue to the next cycle|Verdergaan naar de volgende cyclus
+Or did I say that already?|Of heb ik dat al gezegd?
+Hello again, <PlayerName>!|Hallo alweer, <PlayerName>!
+Hello again, <PlayerName>.|Hallo alweer, <PlayerName>.
+I will accept your gift...|Ik accepteer je geschenk...
+Complete the Dragon Slayer passage|Compleet de Drakendoder doorgang
+Something lurks in the darkness...|Er hangt iets rond in de duisternis...
+Complete the game as The Artificer|Voltooi het spel als De Schepper
+Five Pebbles (General Systems Bus)|Vijf Kiezels (Algemene Systemen Hoofdlijn)
+Pick up / Eat button interactions:|Oppak / Eet knop interacties:
+Game Over - Press SPACE to restart|Game Over - Druk op SPATIE om te herstarten
+switch_controls_singlejoyconl_jump|Omlaag Knop
+switch_controls_singlejoyconr_jump|A Knop
+JUMP/THROW buttons - Switch layers|SPRINGEN/GOOIEN knoppen - Wissel van lagen
+ps4_save_options_failed_free_space|Fout opgetreden bij het opslaan van opties data. Niet genoeg vrije ruimte. Opnieuw proberen?
+ConfigContainer_AlertPasteCosmetic|Plakte<Text> van clipboard
+MenuModList_ModButton_Enable_Mouse|Schakel <Mod> in
+Stronger bottomless pit indicators|Beter zichtbare bodemloos gat indicatoren
+Monk-style gates for all campaigns|Monnik-stijl poorten voor alle campagnes
+Are you sure you want to continue?|Weet je zeker dat je wilt verdergaan?
+That's all. You'll have to go now.|Dat is alles. Je moet nu gaan.
+You again? I have nothing for you.|Jij alweer? Ik heb niets voor jou.
+I wonder what it is that you want?|Ik vraag me af wat het is dat je wilt?
+I wish you would stop coming here.|Ik wou dat je ermee stopte om hier te komen.
+Oh... Of course I will take a look|Oh... Natuurlijk neem ik een kijkje
+Something lurks amongst the clouds...|Er hangt iets rond tussen de wolken...
+Take the longer path to enlightenment|Neem de langere weg naar verlichting
+A significant gain, but at what cost?|Een aanzienlijke winst, maar met wat voor prijs?
+Game Over - Press + Button to restart|Game Over - Druk op de + Knop om te herstarten
+Game Over - Press - Button to restart|Game Over - Druk op de - Knop om te herstarten
+switch_controls_singlejoycon_hold_map|Houd de SR Knop ingedrukt
+Hold and drag to adjust score awarded|Houd ingedrukt en sleep om de gekregen score aan te passen
+JUMP/THROW buttons - Switch layers_2a|kruis knop/cirkel knop - Wissel van lagen<LINE>vierkante knop - Selecteer schuilplaats
+JUMP/THROW buttons - Switch layers_3a|B Knop/A Knop - Wissel van lagen<LINE>Y Knop - Selecteer schuilplaats
+JUMP/THROW buttons - Switch layers_4a|Omlaag Knop/Rechter Knop - Wissel van lagen<LINE>Linker Knop - Selecteer schuilplaats
+JUMP/THROW buttons - Switch layers_5a|A Knop/X Knop - Wissel van lagen<LINE>B Knop - Selecteer schuilplaats
+ConfigContainer_AlertPasteNoncosmetic|Plakte <Text> van clipboard naar <ObjectName>
+MenuModList_ModButton_Enable_NonMouse|Druk op BEVESTIGEN om deze mod in te schakelen, houd BEVESTIGEN ingedrukt en gebruik de joystick om de laadvolgorde te wisselen
+Press CONTINUE to view and accept it.|Druk op VERDERGAAN om het te bekijken en accepteren.
+Thank you. I do wonder what you want.|Dank je. Ik vraag me af wat je wilt.
+Another thing you want me to look at?|Nog iets waar me wilt naar laten kijken?
+Would you like me to read this pearl?|Wil je dat ik deze parel lees?
+And now you're taking it, apparently.|En nu neem je het, schijnbaar.
+Something lurks at the highest reaches of the world...|Er hangt iets rond in de hoogste uithoeken van de werel...
+Assign player <X> to the default XBox controller setup|Wijs speler <X> de standaard XBox controller setup toe
+Select which levels to play<LINE>in the level selector|Selecteer welke levels je wilt spelen<LINE>in de level selecteerder
+Shows a visual pulse on screen when threats are nearby|Laat een visuele puls op het scherm zien wanneer er gevaar in de buurt is
+All lizard breeds have unique sound effects and voices|Alle hagedissoorten hebben unieke geluidseffecten en stemmen
+(Normally requires completing Gourmand's food tracker)|(Benodigd normaal gesproken dat De Bourgondiër's voedsel tracker compleet is)
+Mod's thumbnail image should have a 16:9 aspect ratio.|Mod's thumbnail afbeelding moet een 16:9 aspect ratio hebben.
+If you eat it or leave with it, I will die. I beg you.|Als je het eet of ermee weggaat, ga ik dood. Alsjeblieft.
+Oh, I have already read this one to you, <PlayerName>.|Oh, deze heb ik al voor je gelezen, <PlayerName>.
+Something lurks where the land fissures...|Er hangt iets rond daar waar het land openscheurt...
+This place is safe. Stay here to hibernate|Deze plek is veilig. Blijf hier om te slapen
+There are also other significant drawbacks|Er zijn ook andere aanzienlijke nadelen
+When only one player left, rain approaches|Als er één speler over is, komt de regen eraan
+I... won't speak to you... if you do that.|Ik... zal niet meer met je spreken... als je dat doet.
+Ah... <PlayerName>, a neuron from Pebbles?|Ah... <PlayerName>, een zenuwcel van Kiezels?
+Take what isn't yours|Neem datgene wat niet van jou is
+Generating map images|Kaart afbeeldingen genereren
+objecttype-SporePlant|Bijenkorf
+objecttype-NSHSwarmer|Groene Zenuwcel
+creaturetype-SeaLeech|Zee-bloedzuiger
+creaturetype-TubeWorm|Grijpworm
+creaturetype-Overseer|Overzichter
+Path of the carnivore|Pad van de vleeseter
+The Hunter-linebreaks|De Jager
+The Outlaw-linebreaks|De Vogelvrije
+The Friend-linebreaks|De Vriend
+Sound effects volume:|Geluidseffecten volume:
+XBox Controller Setup|XBox Controller Setup
+switch_controls_pause|+ Knop
+switch_controls_throw|A Knop
+Add level to playlist|Voeg level toe aan speellijst
+switch_update_players|Spelers updaten
+Play each level twice|Speel elk level twee keer
+mod_menu_reapply_mods|Sommige ingeschakelde mods zijn geüpdatet sinds het spel voor het laatst gestart is. Druk op verdergaan om de updates aan te brengen.
+OpUpdown_NonMouseGrab|Druk op BEVESTIGEN om te interacteren
+OpScrollBox_MouseTuto|Gebruik het scroll wiel om meer te zien
+ModdingMenu_PckpTuto0|Clipboard knop interacties:
+ModdingMenu_PckpTuto1|Selecteer eerst een configuraabel element met de BEVESTIGEN knop
+ModdingMenu_PckpTuto2|Houd de CLIPBOARD Knop ingedrukt en druk op de BEVESTIGEN knop om naar het clipboard te kopiëren
+ModdingMenu_PckpTuto3|Houd de CLIPBOARD knop ingedrukt en druk op de ANNULEREN knop om van het clipboard te plakken
+MenuModList_DummyDesc|De basis versie van Rain World
+OIError_GeneralAdvice|Dit probleem kan opgelost worden door de nieuwste versie van de mod te downloaden.
+No swim boost penalty|Geen zwem boost penalty
+Rain Timer Multiplier|Regen Timer Vermenigvuldiger
+Tweaked deer behavior|Aangepast herten gedrag
+Alternate grenade arc|Alternatieve granaat arc
+Item stems in sandbox|Voorwerp stengels in de sandbox
+Reduce screen shaking|Verminder het schudden van het scherm
+Unlock all challenges|Ontgrendel alle uitdagingen
+Gathering information|Informatie verzamelen
+jollycoop-description|Lokaal co-op verhaal en andere spelmodussen met tot wel 4 spelers. De reis is beter met vrienden!
+You had your chances.|Je hebt je kans gehad.
+Oh, you want it back?|Oh, wil je het terug?
+Follow the guide|Volg de gids
+objecttype-Spear|Speer
+creaturetype-Fly|Vleervlieg
+Select save slot|Selecteer opslag slot
+Movement Buttons|Bewegings Knoppen
+Shuffling levels|Levels schudden
+Playing in order|In volgorde spelen
+rounds per level|rondes per level
+Random creatures|Willekeurige wezens
+Trophy Collector|Trofeeën Verzamelaar
+Press ? to start|Druk op ? om te starten
+mod_menu_restart|De aangebrachte mods vereisen dat het spel herstart wordt. Druk op verdergaan en start het spel opnieuw.
+Applying Changes|Veranderingen aanbrengen
+Vulture darkness|Gier duisternis
+Vanilla exploits|Vanilla exploits
+Aggressive Saint|Agressieve Heilige
+Gameplay Assists|Gameplay Hulp
+Generic failure.|Algemene fout.
+remix_dlc_launch|Nieuwe DLC is gedetecteerd! Je geïnstalleerde DLC kan gevonden en ingeschakeld worden via het REMIX menu.
+remix_dlc_locked|Aanvullende DLC moet gekocht worden voordat deze content kan worden ingeschakeld.
+...yes... leave.|...ja... ga.
+You... are back.|Je... bent terug.
+Little tormentor|Kleine martelaar
+Complete the game as The Survivor or as The Monk|Voltooi het spel als De Overlever of De Monnik
+ConfigMenuTab_ModPercentageButton_MouseEnableAll|Klik om alle mods in te schakelen
+MenuModList_ModButton_NonMouse_Configure_Console|Druk op BEVESTIGEN om te configureren, druk op LINKS om de schakelknop voor deze inhoud te bewegen
+Access was denied. Do you own the game on Steam?|Toegang was afgewezen. Heb je het spel op Steam?
+This one I've already read to you, <PlayerName>.|Deze heb ik al voor jou gelezen, <PlayerName>.
+Complete the game as The Hunter|Eindig het spel als De Jager
+Your travels have taken you far|Je reizen hebben je ver genomen
+You have left this world behind|Je hebt deze wereld achter je gelaten
+ConfigMenuTab_ApplyButton_Label|MODS AANBRENGEN
+ConfigMenuTab_RevertButton_Desc|Terug naar mod lijst
+ConfigMenuTab_ResetButton_Label|CONFIG RESETTEN
+MenuModList_ModButton_Configure|<Mod> Configureren
+MenuModList_ListButton_ScrollUp|Druk en houd de muisknop ingedrukt om de modlijst omhoog te scrollen
+MenuModList_ListButton_ScrollDw|Druk en houd de muisknop ingedrukt om de modlijst omlaag te scrollen
+MenuModList_ListButton_Collapse|Verberg thumbnails in de modlijst
+Connector_ChangeActiveTab_Alert|Wisselde de huidige actieve tab naar <TabName>
+Connector_ChangeActiveMod_Alert|Wisselde de huidige mod naar <ModName>
+Enable the wall pounce mechanic|Schakel het muur krachtsprongen mechaniek in
+It's you, <PlayerName>!  Hello!|Jij bent het, <PlayerName>! Hallo!
+You... Strange thing. Now this?|Jij... Vreemd ding. Nu dit?
+Oh, what is that, <PlayerName>?|Oh, wat is dat, <PlayerName>?
+You would like me to read this?|Je wilt dat ik dit lees?
+Find the canonical ending to The Gourmand's campaign|Vind het ware einde van De Bourgondiër's campagne
+Find a destination for The Hunter's starting payload|Vind een bestemming voor De Jager's start lading
+ConfigMenuTab_ModPercentageButton_NonMouseDisableAll|Druk op BEVESTIGEN om alle mods uit te schakelen
+Pause the rain timer while dialog is being displayed|Pauzeert de regen timer wanneer er dialoog op het scherm is
+Discourages Snails from idling inside pipe entrances|Weerhoudt Slakken ervan om in pijpingangen stil te zitten
+It is recommended to use this only as a last resort.|Het wordt aanbevolen om dit alleen als last resort te gebruiken.
+I don't know what to say. Never come back, creature!|Ik weet niet wat ik moet zeggen. Kom nooit meer terug, wezen!
+Little creature, why don't you stay calm and listen?|Klein wezen, waarom kalmeer je niet en luister je naar mij?
+Find the canonical ending to The Rivulet's campaign|Vind het ware einde van De Waterrat's campagne
+Dropping food in the water might attract creatures.|Voedsel in het water laten vallen kan wezens aantrekken.
+ConfigMenuTab_ModPercentageButton_NonMouseEnableAll|Druk op BEVESTIGEN om alle mods in te schakelen
+Cannot update mod with no pre-existing workshop ID.|Kan mod zonder bestaand workshop ID niet updaten.
+There is nothing here. Not even my memories remain.|Er is niets hier. Zelfs mijn herinneringen niet.
+Something new you want me to look at, <PlayerName>?|Iets nieuws dat je me wil laten zien, <PlayerName>?
+It's a bit dusty, but I will do my best. Hold on...|Het is een beetje stoffig, maar ik zal mijn best doen. Even geduld...
+Now if you'll let me, I will try to say this again.|Nou, als je me toelaat, zal ik het opnieuw proberen te zeggen.
+It's a rock. Thank you, I suppose, little creature.|Het is een steen. Dank je wel, zal ik maar zeggen, klein wezen.
+Find the canonical ending to The Spearmaster's campaign|Vind het ware einde van De Speermeester's campagne
+Assign player <X> to the default PS4 Dualshock controls|Wijs speler <X> de default DUALSHOCK®4 controls toe
+Strange... it seems to have been used not too long ago.|Vreemd... het lijkt niet zo lang geleden gebruikt te zijn.
+Clear every challenge in Challenge Mode|Versla elke uitdaging in de Uitdagingsmodus
+ConfigMenuTab_ModPercentageButton_Label|Ingeschakelde Mods: <CountModEnabled> / <CountModTotal>
+Allows Saint to be able to throw spears|Laat De Heilige speren gooien
+Workshop upload completed successfully!|Workshop upload succesvol afgerond!
+<CapPlayerName>! Stay still and listen.|<CapPlayerName>! Zit stil en luister.
+objecttype-Rock|Steen
+Drainage System|Afvoer Systeem
+History lessons|Geschiedenis lessen
+Change language|Taal veranderen
+Bind <X> button|Bind <X> knop
+Back to options|Terug naar opties
+round per level|ronde per level
+Medium wildlife|Middelmatig aantal wild
+SESSION RESULTS|SESSIE RESULTATEN
+Finding Changes|Veranderingen Zoeken
+Fast map reveal|Snelle kaart onthulling
+Extra tutorials|Extra tutorials
+Easier dropwigs|Makkelijkere valzetters
+Quality of Life|Quality of Life
+Unlock Slugpups|Ontgrendel Slakwelpen
+expedition-name|Expeditie
+Leave me alone!|Laat me alleen!
+Please stop it!|Alsjeblieft, stop!
+Little creature|Klein wezen
+objecttype-PuffBall|Spoordons
+objecttype-WaterNut|Bubbelvrucht
+objecttype-Mushroom|Paddenstoel
+creaturetype-Spider|Spin
+creaturetype-BigEel|Leviathan
+creaturetype-EggBug|Eierdrager
+The Monk-linebreaks|De Monnik
+Speedrun Validation|Speedrun Validatie
+switch_controls_map|R Knop
+Showing level names|Level names bekijken
+ps4_region_map_help|Druk op R1 om de regionale kaart te bekijken
+Successful cycles :|Succesvolle cyclussen :
+Helped Five Pebbles|Vijf Kiezels geholpen
+New arenas unlocked|Nieuwe arenas ontgrendeld
+mod_menu_apply_mods|Mod veranderingen aanbrengen, even geduld...
+mod_menu_enable_all|Schakel alle mods in
+Creating index maps|Index kaarten maken
+OpDragger_MouseTuto|Houd de muisknop ingedrukt en sleep omhoog of omlaag om de waarde aan te passen
+MenuModStat_MapTuto|Houd <Button> ingedrukt om controls te controleren
+Loading screen tips|Laadscherm tips
+Hunter Bonus Cycles|De Jager's Bonus Cyclussen
+Visual breath meter|Zichtbare luchtmeter
+Scavenger headshots|Schooier headshots
+NONE (User Defined)|GEEN (User Defined)
+rwremix-description|Een grote variatie aan configurabele toegankelijkheids- en community aangevraagde functies, inclusief nieuwe gameplay mechanieken en bonus functies. Gebruik het configuratiescherm om individuele functies aan en uit te zetten.
+Hello <PlayerName>.|Hallo <PlayerName>.
+still, very... bad.|nog steeds, erg... slecht.
+I will take a look.|Ik zal een kijkje nemen.
+There you go again.|Daar ga je weer.
+again... leaving...|alweer... weggaan...
+objecttype-ScavengerBomb|Granaat
+creaturetype-GreenLizard|Groene Hagedis
+creaturetype-WhiteLizard|Witte Hagedis
+creaturetype-BlackLizard|Zwarte Hagedis
+creaturetype-GarbageWorm|Vuilnis Worm
+creaturetype-TempleGuard|Wachter
+creaturetype-VultureGrub|Gierenaas
+creaturetype-KingVulture|Gieren Koning
+Predator has become prey|Jager is prooi geworden
+The Chieftain-linebreaks|Het Opperhoofd
+Here is a strange energy|Hier is een vreemde energie
+switch_pause_help_pickup|Druk om voorwerpen op te pakken
+Change screen resolution|Verander scherm resolutie
+Arena mode music volume:|Arena modus muziek volume:
+switch_controls_movement|Linker Stick
+switch_controls_hold_map|Houd de R Knop vast
+Showing level thumbnails|Level thumbnails bekijken
+ps4_fast_travel_map_help|Druk op R1 om een schuilplaats te selecteren waarvan je wilt verdergaan
+ps4_save_progress_failed|Fout opgetreden bij het opslaan van voortgang data.
+ps4_load_progress_failed|Voortgang save data is beschadigd en wordt verwijderd
+mod_menu_load_order_down|Wanneer je mod veranderingen samenvoegt, breng dan deze mod eerder aan dan anderen. Dit kan helpen met het oplossen van mod conflicten.
+OpComboBox_MouseOpenTuto|Klik om de lijst te openen
+OpScrollBox_NonMouseTuto|Druk op BEVESTIGEN en gebruik de joystick om meer te zien
+OpSimpleButton_MouseTuto|Druk op de muisknop om te activeren
+ModdingMenu_ControlThrow|Teruggaan / Annuleren
+MenuModStat_ModsDownpour|Voorverpakte mods:
+Keep snails out of pipes|Houd slakken uit pijpen
+Additional lizard voices|Extra hagedis stemmen
+Splashes alert creatures|Plonsen waarschuwt wezens
+Disable shelter failures|Schakel schuilplaats defecten uit
+Unlock all sandbox items|Ontgrendel alle sandbox voorwerpen
+moreslugcats-description|Een uitbreiding die vijf nieuwe speelbare campagnes toevoegt, elk uniek in hun plaats in de tijdlijn. Deze uitbreiding bevat nieuwe gebieden, wezens, voorwerpen, muziek, alternatieve eindes, nieuwe spelmodussen en nog veel meer.
+...is this reaching you?|...komt dit bij jou binnen?
+Oh, <PlayerName>. Hello!|Oh, <PlayerName>. Hallo!
+Oh, <PlayerName>. Hello.|Oh, <PlayerName>. Hallo.
+Oh... I will look at it.|Oh... ik zal erna kijken.
+Oh... I will take a look|Oh... ik zal een kijkje nemen
+...rain... coming... Go!|...de regen... komt eraan... Ga!
+...please... be still...|...alsjeblieft... blijf stil...
+Prevents falling off from poles when throwing objects|Voorkomt het vallen van palen wanneer voorwerpen worden gegooid
+Swim boosting will not consume additional breath time|Zwem boosten gebruikt geen extra lucht
+Removes visual effects that cause the screen to shake|Verwijdert visuele effecten die het scherm laten schudden
+Are you sure you want to disable ALL karma mechanics?|Weet je zeker dat je ALLE karma mechanieken wilt uitschakelen?
+Mod's thumbnail image must be less than 1 MB in size.|De mod's thumbnail afbeelding moet minder dan 1 MB in grootte zijn.
+Your account is locked or has a community or VAC ban.|Je account is locked of heeft een community of VAC ban.
+The workshop service is unavailable. Try again later.|Deze workshop service is niet beschikbaar. Probeer het later nog eens.
+Yet another gift? You're quite curious, <PlayerName>!|Nog een geschenk? Je bent behoorlijk nieuwsgierig, <PlayerName>!
+STORY|VERHAAL
+ARENA|ARENA
+REMIX|REMIX
+Cycle|Cyclus
+Music|Muziek
+INPUT|INPUT
+Pause|Pauzeren
+Throw|Gooien
+Right|Rechts
+Cross|Kruis
+Space|Spatie
+Shift|Shift
+PLAY!|SPEEL!
+Play!|Speel!
+ERROR|ERROR
+SCORE|SCORE
+ROUND|RONDE
+APPLY|TOEPASSEN
+Other|Andere
+Remix|Remix
+...me|...ik
+Oh...|Oh...
+STOP!|STOP!
+no...|nee...
+EXIT|VERLATEN
+Run!|Ren!
+Jump|Springen
+Move|Bewegen
+Left|Links
+Down|Omlaag
+Back|Terug
+Food|Eten
+EDIT|AANPASSEN
+PLAY|SPELEN
+BACK|TERUG
+NEXT|VOLGENDE
+You!|Jij!
+You.|Jij.
+Restart game|Herstart spel
+THE SURVIVOR|DE OVERLEVER
+The Exterior|De Buitenkant
+Five Pebbles|Vijf Kiezels
+Subterranean|Onderaards
+The Survivor|De Overlever
+The Wanderer|De Dwaler
+A New Friend|Een Nieuwe Vriend
+You are full|Je zit vol
+Leap the gap|Spring over het gat
+View credits|Bekijk de credits
+Pause Button|Pauzeren Knop
+Throw Button|Gooien Knop
+Select level|Selecteer een level
+Low wildlife|Laag aantal wild
+Level Items:|Level Voorwerpen:
+Barren level|Onherbergzaam level
+IT'S A DRAW!|GELIJK SPEL!
+Add creature|Wezen toevoegen
+Minor Assist|Kleine Hulp
+Major Assist|Grote Hulp
+CLOSE MANUAL|HANDLEIDING SLUITEN
+rwremix-name|Rain World Remix
+...please...|...alsjeblieft...
+A nimble omnivore, both predator and prey. Lost in a harsh and indifferent<LINE>land you must make your own way, with wit and caution as your greatest assets.|Een handige alleseter, zowel jager als prooi. Verdwaald in een harde en onverschillige<LINE>wereld moet je je eigen pad maken, met je verstand en voorzichtigheid als jouw grootste pluspunten.
+Weak of body but strong of spirit. In tune with the mysteries of the world and<LINE>empathetic to its creatures, your journey will be a significantly more peaceful one.|Zwak van lichaam maar sterk van geest. Afgestemd op de mysteries van de wereld en<LINE>empatisch naar zijn wezens, jouw reis zal aanzienlijk vrediger zijn.
+Strong and quick, with a fierce metabolism requiring a steady diet of meat. But the<LINE>stomach wont be your only concern, as the path of the hunter is one of extreme peril.|Sterk en snel, met een krachtige metabolisme dat vraagt om een constant dieet van vlees. Maar de<LINE>maag is niet jouw enige probleem, want de pad van de jager is er een van extreem periel.
+Five Pebbles (Unfortunate Development)|Vijf Kiezels (Onfortuinlijke Ontwikkeling)
+Six Grains of Gravel, Mountains Abound|Zes Korrels Grind, Bergen in Overvloed
+Jump and grab them. They're delicious!|Spring en grijp ze. Ze zijn heerlijk!
+Takes input from any connected gamepad|Neemt input van elk verbonden apparaat
+switch_controls_singlejoyconl_movement|Linker Stick
+switch_controls_singlejoyconr_movement|Rechter Stick
+Unlock all the Trophies in Rain World!|Ontgrendel alle Trofeeën in Rain World!
+MenuModList_ModButton_Disable_NonMouse|Druk op BEVESTIGEN om de mod uit te schakelen, houd BEVESTIGEN ingedrukt en gebruik de joystick om de laad volgorde te wisselen
+MenuModList_ModButton_NonMouse_Display|Druk op BEVESTIGEN om <Mod> te laten zien
+ConfigTabController_TabScrollButton_Up|Druk en houdt de muisknop ingedrukt om de lijst omhoog te scrollen
+ConfigTabController_TabScrollButton_Dw|Druk en houdt de muisknop ingedrukt om de lijst omlaag te scrollen
+The following cheats contain spoilers.|De volgende cheats bevatten spoilers.
+Mod uploaded with Unlisted visibility.|Mod geüpload met Unlisted zichtbaarheid.
+Ah... <PlayerName>, you're here again!|Ah... <PlayerName>, je bent er weer!
+Ah... <PlayerName>, you're here again.|Ah... <PlayerName>, je bent er weer.
+I must ask you... Don't do that again.|Ik moet je vragen... Doe dat niet nog een keer.
+Rain... You better go. I will be fine.|De regen... Je kunt beter gaan. Ik red me wel.
+<CapPlayerName>... Please settle down.|<CapPlayerName>... Zit alsjeblieft stil.
+Yes, there you go. This is ridiculous.|Ja, daar ga je. Dit is belachelijk.
+Five Pebbles (Recursive Transform Array)|Vijf Kiezels (Recursieve Transformatie Reeks)
+You need to eat meat to sustain yourself|Je moet vlees eten om jezelf in staande te houden
+Default singleplayer<LINE>keyboard setup|Standaard singleplayer<LINE>toetsenbord setup
+OpKeyBinder_ErrorConflictOtherModDefault|Conflicterende standaard knop met <ModID>
+MenuModList_ModButton_NonMouse_Configure|Druk op BEVESTIGEN om <Mod> te configureren
+You are not currently logged into Steam.|Je bent nu niet ingelogd op Steam.
+Yes, help yourself. They are not edible.|Ja, help jezelf. Ze zijn niet eetbaar.
+This pearl has been written to just now!|Op deze parel is zojuist geschreven!
+Droplets upon Five Large Droplets|Druppels bovenop Vijf Grote Druppels
+Game Over - Press BACK to restart|Game Over - Druk op TERUG om te herstarten
+3 - CHOOSE PRESET OR BIND BUTTONS|3 - KIES PRESET OF BIND KNOPPEN
+OpKeyBinder_ErrorConflictOtherMod|Conflictende knop met <AnotherModID>
+OpKeyBinder_MouseJoystickBindTuto|Druk op een knop om het te binden (ESC om te ontbinden, CTRL + Num om controller nummer in te stellen)
+ConfigContainer_AlertCopyCosmetic|Kopieerde <Text> naar clipboard
+ConfigMenuTab_BackHoldButton_Desc|Terug naar het hoofdmenu (zonder mods aan te brengen!)
+Passage progress without Survivor|Doorgang voortgang zonder Overlever
+I will not speak to you any more.|I zal niet meer met jou spreken.
+You encountered the echo of Droplets upon Five Large Droplets|Je ontmoette de echo van Druppels boven Vijf Grote Druppels
+Press while holding down direction (crouching) to drop object|Druk terwijl je omlaag ingedrukt houd (bukken) om het voorwerp te laten vallen
+You must activate this mod before attempting to configure it.|Je moet deze mod activeren voordat je hem kan configureren.
+I won't tolerate this. Leave immediately and don't come back.|Ik zal dit niet tolereren. Vertrek onmiddellijk en kom niet meer terug.
+As you can see, I have nothing for you. Not even my memories.|Zoals je kan zien, heb ik niets voor jou. Niet eens mijn herinneringen.
+Here we go again, little archeologist. Let's read your pearl.|Daar gaan we weer, kleine archeoloog. Laten we de parel gaan lezen.
+You encountered the echo of Four Needles under Plentiful Leaves|Je ontmoette de echo van Vier Naalden onder Overvloedige Bladen
+Show a visual indicator on the UI of your remaining breath time|Laat een visuele indicator zien van je overgebleven hoeveelheid lucht
+Lizards can pull embedded spears out of walls with their tongue|Hagedissen kunnen vastzittende speren uit muren trekken met hun tong
+Failed to acquire User Generated Content lock. Try again later.|Gefaald om de User Generated Content lock te verkrijgen. Probeer het later nog eens.
+You encountered the echo of Nineteen Spades, Endless Reflections|Je ontmoette de echo van Negentien Schoppen, Eindeloze Reflecties
+Warning, too many creatures may result in poor game performance.|Waarschuwing, teveel wezens kan resulteren in slechte spel performance.
+Reduces the amount of time taken to get started with a new cycle|Verkort de tijd die het duurt om te beginnen met een nieuwe cyclus
+One of your workshop mods already has the same name as this one.|Een van jouw workshop mods heeft al dezelfde naam als deze.
+I appreciate what you have done but it is time for you to leave.|Ik waardeer wat je hebt gedaan, maar het is tijd voor jou om te gaan.
+Let us see... to be honest, I'm as curious to see it as you are.|Laat eens zien... om eerlijk te zijn, ben ik net zo nieuwsgierig als jij om het te zien.
+You encountered the echo of Six Grains of Gravel, Mountains Abound|Je ontmoette de echo van Zes Korrels Grind, Bergen in Overvloed
+You must apply new mods setup before attempting to configure them.|Je moet wachtende veranderingen aan de modlijst aanbrengen voordat je mods gaat configureren.
+Stops Hunter from automatically grabbing batflies with a free hand|Stopt De Jager van het automatisch grijpen van Vleervliegen met een vrije hand
+Increases the radius of Monk's hologram light in pitch-black areas|Vergroot de radius van De Monnik's hologram licht in pikzwarte gebieden
+Prevents the chance of waking up early before the rain has stopped|Voorkomt de kans om eerder wakker te worden voordat de regen is gestopt
+(Normally requires finding Red unlock tokens in the campaign maps)|(Benodigt normaal het vinden van Rode ontgrendel tokens in de campagne kaarten)
+<CapPlayerName>, if you do that, I will not speak to you any more.|<CapPlayerName>, als je dat doet, zal ik niet meer met je spreken.
+The highest enlightenment, achieved by the hardest path. A feat even the guardians must respect.|De hoogste verlichting, bereikt via de moeilijkste weg. Een prestatie die zelfs de wachters moeten respecteren.
+Standard Remix settings. Many mechanical tweaks that may mix up the way the game is experienced.|Standaard Remix instellingen. Veel mechanische tweaks die de manier waarop het spel wordt ervaren kunnen veranderen.
+When crouching, hold the JUMP button without giving any other input|Tijdens het bukken, houd Springen ingedrukt zonder een andere input te geven
+Allow players to exit when rain is close or only one player is left|Sta spelers toe te verlaten wanneer de regen dichtbij is of als er één speler over is
+Reduces the overall speed of the game to assist with reaction times|Verlaagt de snelheid van het spel om te assisteren met reactiesnelheid
+(Normally requires finding Blue unlock tokens in the campaign maps)|(Benodigt normaal gesproken het vinden van blauwe ontgrendel tokens in de campagne kaarten)
+??????????????????????????????????????????????????????????????????™|??????????????????????????????????????????????????????????????????™
+Something new you want me to look at,<LINE>I suppose, <PlayerName>?|Iets nieuws dat je me wilt laten zien,<LINE>neem ik aan, <PlayerName>?
+Go explore! There is food and shelter to be found, but beware of predators.|Ga op ontdekking! Er is eten en schuilplaatsen te vinden, maar pas op voor roofdieren.
+Prevents underwater shortcut symbols from being obscured by the water layer|Voorkomt dat onderwater sluipweg symbolen worden verborgen door de water laag
+Changes the amount of bonus cycles Hunter can receive during their campaign|Verandert het aantal bonus cyclussen dat De Jager kan krijgen tijdens hun campagne
+The current session playtime will always be visible as a UI element in-game|Jouw totale speeltijd voor een personage is altijd zichtbaar als een UI-element in-spel tijdens campagne’s
+This option significantly decreases the difficulty of Artificer's campaign.|Deze optie verlaagt de moeilijkheid in De Schepper’s campagne aanzienelijk.
+Your account is in read-only mode due to a recent password or email change.|Je account is in read-only modus door een recente wachtwoord of email wijziging.
+This creature is dehydrated. You can carry it back to water.|Dit wezen is uitgedroogd. Je kan het terugdragen naar water.
+Prevent injured creatures from fleeing to dens in arena mode|Voorkomt dat gewonde wezens naar holen vluchten in de arena modus
+Increases the amount of underwater breath time that Monk has|Vergroot de hoeveelheid lucht dat De Monnik onderwater heeft
+(Normally requires completing all Challenge Mode challenges)|(Benodigt normaal gesproken het completen van alle Uitdagingsmodus uitdagingen)
+Best of luck to you, little creature. I must resume my work.|Veel geluk, klein wezen. Ik moet verder met mijn werk.
+Never do that again. Or just kill me quickly. Whichever way.|Doe dat nooit meer. Of dood me snel. Maakt niet uit.
+I think we have already talked about this one, <PlayerName>.|Ik denk dat we hier al over gepraat hebben, <PlayerName>.
+Larger prey needs to be incapacitated first|Groter prooi moet eerst uitgeschakeld worden
+Little creature. This is your last warning.|Klein wezen. Dit is jouw laatste waarschuwing.
+Please don't... take... more from me... Go.|Neem alsjeblieft... niet… meer van me... Ga.
+And yet another one! I will read it to you.|En nog eentje! Ik zal het voor je lezen.
+I've told you about this one, <PlayerName>.|Ik heb je hier al over verteld, <PlayerName>.
+And now you expect me to continue speaking?|En nu verwacht je me te blijven spreken?
+It's a delicious plant. You should have it!|Het is een heerlijke plant. Je moet het proberen!
+It is possible to hibernate with less than sufficient food|Het is mogelijk om te slapen met minder dan het benodigde voedsel
+It is not recommended to use these on a first playthrough.|Het is niet aanbevolen om deze bij een eerste playthrough te gebruiken.
+This mod already exists on the workshop by another author.|Deze mod is al op de workshop door een andere auteer.
+Release that, and leave. I will not speak to you any more.|Laat dat los, en ga. Ik zal niet meer met je spreken.
+Thank you... That is a little better. Thank you, creature.|Dank je... Dat is wat beter. Dank je wel, wezen.
+In a shelter, hold DOWN for several seconds to force hibernate|In een schuilplaats, houd OMLAAG ingedrukt voor een aantal seconden om gedwongen te slapen
+Multiplies the total duration of the rain timer by this amount|Vermenigvuldigt de totale duur van de regen timer bij zoveel
+The rain timer makes a tick-tock noise while the UI is visible|De regen timer maakt een tik-tak geluid terwijl de UI zichtbaar is
+Vultures that appear in dark rooms are cloaked by the darkness|Gieren die verschijnen in donkere kamers worden verborgen door de duisternis
+Press CONTINUE after accepting the End User License Agreement.|Druk op VERDERGAAN nadat je de End User License Overeenkomst hebt geaccepteerd.
+Press CONTINUE to view and/or edit your uploaded workshop mod.|Druk op VERDERGAAN om je geüploade workshop mod te bekijken en/of bij te werken.
+WARNING!<LINE>This will reset all progress in the selected save slot,<LINE>including map exploration. Unlocked arenas and<LINE>sandbox items are retained.|WAARSCHUWING!<LINE>Dit zal alle voortgang in de geselecteerde opslag slot resetten,<LINE>inclusief kaart verkenning. Ontgrendelde arenas en<LINE>sandbox voorwerpen blijven bewaard.
+WARNING!<LINE>This will reset all of your progress except map exploration.|WAARSCHUWING!<LINE>Dit zal al je voortgang resetten behalve kaart verkenning.
+WARNING! Too many creatures may result in bad game performance or crashes.|WAARSCHUWING! Te veel wezens kan resulteren in slecht spel performance of crashes.
+Please log in to STOVE Client with the account that has purchased the game|Log in naar STOVE Client met het account dat gebruikt werd om het spel te kopen
+Gives the player the ability to dislodge spears that are embedded in walls|Laat spelers speren uit muren trekken
+(One time use) Fast travel to any discovered shelter, recovering all karma|(Ééntijdig gebruik) Teleporteer naar elke ontdekte schuilplaats, hersteld al je karma
+WARNING! This will reset all of your progress except map exploration.|WAARSCHUWING! Dit zal al je voortgang resetten behalve kaart verkenning.
+Red Lizards have a tongue and can snap spears in half with their bite|Rode Hagedissen hebben een tong en kunnen speren doormidden bijten
+(Normally requires finding Orange unlock tokens in the campaign maps)|(Benodigt normaal gesproken het vinden van Oranje ontgrendel tokens in de campagne kaarten)
+The intended gameplay loop is to have to actively hunt fresh corpses.|De bedoelde gameplay loop is om actief op verse karkassen te jagen.
+Some of the metadata for this mod was invalid and cannot be accepted.|Sommige van de metadata voor deze mod is invalid en kan niet worden geaccepteerd.
+Maybe this is asking too much... But, would you bring me another one?|Misschien is dit teveel gevraagd... Maar, kun je me er nog een brengen?
+The rain is coming. If you stay, you will drown. Now, leave me alone.|De regen komt eraan. Als je blijft, zal je verdrinken. Laat me nu alleen.
+Show information on loading screens that helps verify settings used and the legitimacy of runs.|Laat informatie zien op laadschermen die helpen bij het verifiëren van instellingen en de legitimiteit van de run.
+Give a grace period on cycle start and region entry before scavenger kill squads can attack you|Geef een gratieperiode bij het begin van de cyclus en het betreden van een gebied voordat schooier moordploegen je kunnen aanvallen
+Advantageous glitches and speedrunner exploits are made available to use again with this option|Nuttige glitches en speedrunner exploits worden weer beschikbaar gemaakt met deze optie
+Similar to the original Rain World experience, but with a few quality of life settings enabled.|Gelijk aan de originele Rain World ervaring, maar met een paar quality of life instellingen ingeschakeld.
+Map|Kaart
+Esc|Esc
+Yes|Ja
+YES|JA
+HUD|HUD
+run|rennen
+Up|Omhoog
+R1|R1
+RB|RB
+ok|OKÉ
+No|Nee
+NO|NEE
+Assign player <X> to the default keyboard controls|Wijs speler <X> de standaard toetsenbord controls toe
+Increase the speed that the minimap reveals itself|Vergroot de snelheid waarmee de minikaart verschijnt
+(Normally requires completing Gourmand's campaign)|(Benodigt normaal gesproken het completen van de Bourgondiër's campagne)
+This menu contains cheats to unlock content early.|Dit menu bevat cheats die content eerder ontgrendelen.
+What are you? If I had my memories I would know...|Wat ben jij? Als ik mijn herinneringen had zou ik het weten...
+If you behave like this, why should I talk to you?|Als je je zo gedraagt, waarom zou ik dan met jou praten?
+Paused - Warning! Quitting after 30 seconds into a cycle counts as a loss|Gepauzeerd - Waarschuwing! Stoppen nadat er 30 seconden in een cyclus voorbij zijn, geldt als een verlies
+By comparison, the RELAXED preset may weaken the overall game experience.|Ter vergelijking, de RELAXED preset kan de spelervaring verzwakken.
+(Normally requires completing campaigns and clearing previous challenges)|(Benodigt normaal gesproken het completen van campagnes en vorige uitdagingen)
+Shelter failures give periodic reprieves by providing longer cycle times.|Schuilplaats defecten geven periodiek gratie door langere cyclus tijden te geven.
+Paused - Warning! Quitting without saving in a shelter will permanently end your game|Gepauzeerd - Waarschuwing! Stoppen zonder op te slaan in een schuilplaats eindigt je spel permanent
+For all campaigns, gates will remain open permanently after passing through them once|Voor alle campagnes zullen poorten permanent open blijven nadat ze één keer zijn gepasseerd
+Spearing a scavenger directly in their head will do significantly more damage to them|Het steken van een schooier met een speer direct in hun hoofd doet aanzienlijk meer schade
+The maximum number of subsequent explosion actions Artificer can perform before dying|Het maximaal aantal van opeenvolgende explosieve acties dat De Schepper kan uitvoeren zonder dood te gaan
+Limit exceeded. You may need to reduce the filesize or remove prior workshop content.|Limiet overschreden. Je moet de bestandsgrootte verminderen of vorige workshop content verwijderen.
+A little animal, on the floor of my chamber. I think I know what you are looking for.|Een klein dier, op de vloer van mijn kamer. Ik denk dat ik weet waar je naar zoekt.
+Really exit? Note that quitting after 30 seconds into a cycle counts as a loss.|Het spel echt verlaten? Houd er rekening mee dat stoppen nadat er 30 seconden in een cyclus voorbij zijn, telt als een verlies.
+You get these at Five Pebbles'?<LINE>Thank you so much. I'm sure he won't mind.|Vond je deze bij Vijf Kiezels?<LINE>Dank je wel. Ik weet zeker dat hij dat niet erg vindt.
+Create custom scenarios using levels, items and creatures<LINE>that have been unlocked in the single player campaigns.<LINE>Defeating creatures or other actions can be set to award points,<LINE>but Sandbox is mostly about customization and fun!|Creëer aangepaste scenario's met levels, voorwerpen en wezens<LINE>die zijn ontgrendeld in de verhaal campagnes.<LINE>Het verslaan van wezens of andere acties kan ingesteld worden om punten toe te reiken,<LINE>maar Sandbox gaat vooral om de aanpasbaarheid en plezier!
+For you though, there is another way. The old path. Go to the west past the Farm Arrays, and then down into the earth<LINE>where the land fissures, as deep as you can reach, where the ancients built their temples and danced their silly rituals.|Maar voor jou is er een andere manier. De oude manier. Ga naar het westen langs de Akkerrijen, en dan diep in de aarde<LINE>waar het land openscheurt, zo diep als je kan reiken, waar de Ouden hun tempels bouwden en hun dwaze rituelen dansten.
+Compete in a battle against each other and the elements.<LINE>In this mode points are awarded for food items consumed,<LINE>with surviving players always ranking above dead players.<LINE>New levels, items and creatures can be unlocked in the<LINE>single player campaigns.|Ga de strijd aan in een gevecht tegen elkaar en de elementen.<LINE>In deze modus worden punten toegekend voor geconsumeerde voedselpunten,<LINE>waar overlevende spelers altijd hoger in de ranglijst komen dan dode spelers.<LINE>Nieuwe levels, voorwerpen en wezens kunnen worden ontgrendeld in de<LINE>verhaal campagnes.
+No items except what you place in the editor|Geen voorwerpen behalve hetgene dat geplaatst wordt in de editor
+Allow players above a specific score to exit|Sta spelers boven een specifieke score toe het level verlaten
+MenuModList_ModButton_NonMouse_Blank_Console|Druk op LINKS om de schakelknop voor deze inhoud te bewegen
+ConfigTabController_TabSelectButton_NamedTab|Wissel naar tab <TabName>
+This mod cannot be uploaded to the Workshop.|Deze mod kan niet geüpload worden naar de Workshop.
+It's still warm... this was in use recently.|Het is nog warm... deze was recentelijk in gebruik.
+W|W
+L|L
+Press the MAP button to select the shelter you wish to continue from|Druk op de KAART knop om de schuilplaats te selecteren waarvan je wilt verdergaan
+These are recommended starting points based on different playstyles.|Dit zijn aanbevolen startpunten gebaseerd op verschillende speelstijlen.
+It also largely negates the game's difficulty curve and progression.|Het negeert ook voor het grote deel het spel's moeilijkheids curve en voortgang.
+(Normally requires finding Green unlock tokens in the campaign maps)|(Benodigt normaal gesproken het vinden van Groene ontgrendel tokens in de campagne kaarten)
+“Go west, past the Farm Arrays and then down deep into the earth...”|“Ga naar het westen langs de Akkerrijen en dan diep in de aarde...”
+JUMP/THROW buttons - Switch layers<LINE>PICKUP button - Select shelter|SPRINGEN/GOOIEN knoppen - Wissel van lagen<LINE>OPPAKKEN knop - Selecteer schuilplaats
+Allow passing any gate for free, regardless of your current karma level|Laat de speler gratis poorten passeren, ongeacht het huidige karma level
+Hide the remaining cycle time while in maps that are safe from the rain|Verberg de overgebleven cyclus tijd terwijl je in ruimtes bent die veilig zijn van de regen
+And this one is fresh! It was not long ago this data was written to it!|En deze is vers! Er was nog niet lang geleden data ingeschreven!
+Please sign in to PlayStation™Network to view leaderboards.|Log in op het PlayStation™Network om Leiderborden te zien.
+Progress towards Trophies will only be tracked for player 1|Voortgang voor Trofeeën wordt alleen bijgehouden voor Speler 1
+This may SIGNIFICANTLY alter your experience with the game.|Dit kan je ervaring met het spel AANZIENLIJK veranderen.
+(Normally requires completing previous campaigns to unlock)|(Benodigt normaal gesproken dat vorige campagnes compleet zijn om te ontgrendelen)
+Stop doing... this, or I... will not speak... to you again.|Stop met... dat, of ik... zal niet meer... met je spreken.
+You have been signed out from PlayStation™Network. Please connect to PlayStation™Network to view Leaderboards.|Je bent uitgelogd van het PlayStation™Network. Verbind met het PlayStation™Network om Leiderborden te zien.
+Items that typically attach to the terrain with a stem will spawn with their stems when placed in Sandbox mode|Voorwerpen dat typisch gezien vastzitten aan het terrein met een stengel zullen daarmee verschijnen als ze geplaatst worden in de Sandbox modus
+... You're getting quite good at this you know. A little archeologist beast.<LINE>Now, let's see what it says.|... Je wordt hier best wel goed in, weet je. Een klein archeoloog-beest.<LINE>Nou, laat eens kijken wat erop staat.
+You cannot use PlayStation™Network features in this application due to age restrictions.|Je kan PlayStation™Network functies niet gebruiken in de applicatie vanwege leeftijdsrestricties.
+The following cheats unlock content you would normally unlock via finding unlock tokens.|De volgende cheats ontgrendelen inhoud die je normaal gesproken krijgt door ontgrendel tokens te vinden.
+ConfigMenuTab_ModPercentageButton_MouseDisableAll|Klik om alle mods uit te schakelen
+This mod does not have any configurable settings.|Deze mod heeft niet zijn eigen Remix gebruikersinterface of configuraties.
+Thank you little creature. I must resume my work.|Dank je wel, klein wezen. Ik moet verder met mijn werk.
+Thank you. I must ask you... Don't do that again.|Dank je. Ik moet je vragen... om dat niet weer te doen.
+Stops Scavengers from being able to steal the spear off of Hunter's back|Laat Schooiers geen speren van De Jager's rug stelen
+Gives additional options for the directions and ways that objects can be thrown in certain circumstances|Sta het naar boven gooien van speren toe tijdens een backflip naast het naar beneden gooien
+Periodically shows tips and tutorials during the loading screen between cycles|Laad periodiek tips en tutorials zien tijdens het laadscherm tussen cyclussen
+Adds an additional trajectory of throwing grenades if the up direction is held|Voegt een aanvullend traject toe voor het gooien van granaten wanneer de Omhoog-richting wordt ingedrukt
+Introduces a few additional in-game tutorial messages for certain mechanics and scenarios|Introduceert een aantal aanvullende in-spel tutorial berichten voor bepaalde mechanieken en scenarios
+All cycles will have the same duration, and will always use the longest duration possible|Alle cyclussen hebben dezelfde duur, en gebruiken altijd de langste duur mogelijk
+You should try the 'Monk-style Gates' option first before resorting to using this option.|Je kunt eerst de 'Monnik-stijl Poorten' proberen voordat je deze optie gebruikt.
+Increases the amount of time that rocks and snail pops can cause some creatures to be stunned for|Vergroot voor hoe lang stenen en slakken ploppen bepaalde wezens kunnen verdoven
+Dynamic difficulty is influenced by number of regions visited more than number of cycles survived|Dynamische moeilijkheid wordt meer beïnvloed door het aantal bezochte gebieden dan het aantal overleefde cyclussen
+Gives a chance of escaping from different grasps by rapidly wiggling with the movement buttons|Geeft een kans tot ontsnapping uit verschillende houdgrepen door snel te kronkelen met de bewegingsknoppen
+Multiplies the total duration of the shortened rain timer by this amount in Rivulet's Campaign|Vermenigvuldigt de totale duur van de verkorte regen timer in De Waterrat's campagne met deze hoeveelheid in.
+Prevents Jetfish from being able to knock items out of your hands|Voorkomt Straalvissen ervan om voorwerpen uit je handen te knokken
+Changes the amount of cycles Hunter starts with in their campaign|Verandert het aantal cyclussen waar De Jager mee begint in hun campagne
+You're stuck in a cycle, a repeating pattern. You want a way out.|Je zit vast in een cyclus, een herhalend patroon. Je wilt een weg uit.
+Another pearl! You want me to read this one too? Just a moment...|Nog een parel! Je wilt dat ik deze ook lees? Geef me een momentje...
+A pearl... This one is crystal clear - it was used just recently.|Een parel... Deze is kristalhelder - het was recentelijk nog gebruikt.
+Gives a small chance of being able to survive a direct attack from a dropwig|Geeft een kleine kans om een directe aanval van een [dropwig] te overleven
+Use the throw button to activate tongue controls rather than the jump button|Gebruik de Gooien knop om tong controls te activeren, in plaats van de Springen knop
+Passages bring all key items in a shelter with you to the new destination, rather than just the stomach item|Doorgangen brengen alle sleutel voorwerpen in de schuilplaats naar de nieuwe bestemming, in plaats van alleen de maag voorwerp
+It's a piece of sharpened rebar... What is it you want to know?<LINE>You seem proficient enough at using it.|Het is een stuk verscherpte wapening... Wat is het dat je wilt weten?<LINE>Je lijkt er prima mee overweg te kunnen.
+Key items are tracked on the map and will respawn on subsequent cycles if they are lost, at the location they were lost|Sleutel voorwerpen worden bijgehouden op de kaart en herverschijnen tijdens volgende cyclussen als ze verloren raken, op de plek waar ze verloren zijn
+Centipedes will release you if you go through a pipe while you are grabbed by one|Duizendpoten laten je los als je door een pijp gaat terwijl je er door een wordt vastgehouden
+Prevents the chance of the region being flooded during a shelter failure scenario|Voorkomt de kans dat een gebied onderloopt tijdens een defecte schuilplaats scenario
+Increases the amount of time before you are forced to come up for air while drowning|Vergroot de hoeveelheid tijd die je hebt terwijl je verdrinkt voordat je gedwongen wordt naar boven te komen voor lucht
+Makes the death gradients on bottomless pits more visible|Maakt de doodsoverloop in bodemloze gaten beter zichtbaar
+Allow throwing spears directionally while in zero gravity|Laat het directioneel gooien van speren toe in gewichtloosheid
+This option disables multiple core mechanics of the game.|Deze optie schakelt meerdere kern mechanieken van het spel uit.
+It is strange... I'm remembering myself, but also... him.|Het is vreemd... Ik begin mezelf te herinneren, maar ook... hem.
+Adds additional deer behavior, like being able to influence their behavior by wiggling in their antlers|Past het gedrag van herten aan en voegt aanvullende mechanieken toe om hun acties te beïnvloeden
+You better go, <PlayerName>! I will be fine.<LINE>It's not pleasant, but I have been through it before.|Je kunt beter gaan, <PlayerName>! Ik red me wel.<LINE>Het is geen pretje, maar ik heb het eerder meegemaakt.
+Vulture Grubs have a chance to summon stronger vulture types in arena mode if those types are unlocked|Gierenaas heeft de kans om sterkere giersoorten op te roepen in arena modus als deze soorten ontgrendeld zijn
+If enabled, all scavenger corpses in Artificer's campaign always have the maximum possible karma value|Als het ingeschakeld is, hebben alle schooier karkassen in De Schepper's campagne altijd de hoogst mogelijke karma waarde
+Allows certain passages to gain progress even before the Survivor passage has been achieved|Laat bepaalde doorgangen voortgang krijgen zelfs voordat de Overlever doorgang is bereikt
+Splashing in water can attract the attention of nearby creatures that hear the noise of the splashes|Plonsen in het water kan de aandacht trekken van nabije wezens die het geluid horen
+Settings designed to make the game significantly easier, but may weaken the overall game experience.|Instellingen die gemaakt zijn om het spel aanzienlijk makkelijker te maken, maar de ervaring verzwakken.
+!\"#$%&'()*,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ\\_abcdefghijklmnopqrstuvwxyzÁáÉéÍíÑñÓóÚú®|!\"#$%&'()*,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ\\_abcdefghijklmnopqrstuvwxyzÁáÉéÍíÑñÓóÚú®
+Reduces the volume for the sound effects of gates and shelters opening|Verlaagt het volume van de geluidseffecten die opengaande poorten en schuilplaatsen maken
+Let us try again - not that it has worked well before. I was saying...|Laten we het nog eens proberen - niet dat dat eerder heeft gewerkt. Zoals ik al zei...
+If you are having trouble, you may want to try The Monk campaign first. It may help you get a better feel for the game and ease you into Rain World.|Als je problemen hebt, kun je De Monnik's campagne eerst proberen. Het kan helpen om een beter gevoel voor het spel te krijgen en gemakkelijker in Rain World te komen.
+If enabled, scavenger corpses in Artificer's campaign don't lose karma after each cycle|Als het ingeschakeld is, verliezen schooier karkassen in De Schepper's campagne geen karma na elke cyclus
+(Normally requires delivering pearls and finding broadcast tokens in the campaign maps)|(Benodigt normaal gesproken het bezorgen van parels en het vinden van uitzending tokens in de campagne kaarten)
+Know that this does not make you special - every living thing shares that same frustration.<LINE>From the microbes in the processing strata to me, who am, if you excuse me, godlike in comparison.|Weet dat dit jou niet bijzonder maakt - elk levend wezen deelt dezelfde frustraties.<LINE>Van de microben in de processing straten tot ik, die, als je mij excuseert, goddelijk in vergelijking is.
+Look at me. The only thing I have to offer is my words.<LINE>If you come here, I must assume you want me to speak? So then would you PLEASE listen?<LINE>If not, you are welcome to leave me alone.|Kijk naar me. Het enige wat ik je te bieden heb zijn mijn woorden.<LINE>Als je hier komt, dan moet ik aannemen dat je wilt dat ik praat? Dus zou je dan ALSJEBLIEFT willen luisteren?<LINE>Zo niet, ben je vrij om mij alleen te laten.
+The bad news is that no definitive solution has been found. And every moment the equipment erodes to a new state of decay.<LINE>I can't help you collectively, or individually. I can't even help myself.|Het slechte nieuws is dat er geen definitieve oplossing is gevonden. En ieder moment erodeert de apparatuur tot een nieuwe staat van bederf.<LINE>Ik kan jou niet helpen, collectief of individueel. Ik kan mijzelf niet eens helpen.
+At the end of time none of this will matter I suppose, but it would be nice if you took another way out.<LINE>One free of... frolicking in my memory arrays. There is a perfectly good access shaft right here.|Uiteindelijk doet dit alles er niet toe, neem ik aan, maar het zou fijn zijn als jij een andere weg uit vindt.<LINE>Een waarbij jij niet... rondhuppelt in mijn geheugen reeksen. Er zit daar een prima toegangsschacht.
+For you though, there is another way. The old path. Go to the west past the Farm Arrays, and then down into the earth<LINE>where the land fissures, as deep as you can reach, where the ancients built their temples and danced their silly rituals.<LINE>The mark I gave you will let you through.|Maar voor jou is er een andere manier. De oude manier. Ga naar het westen langs de Akkerrijen, en dan diep de aarde in<LINE>waar het land openscheurt, zo diep als je kan reiken, waar de Ouden hun tempels bouwden en hun dwaze rituelen dansten.<LINE>Het teken dat ik jou gaf zal je er langs laten.
+The good news first. In a way, I am what you are searching for. Me and my kind have as our<LINE>purpose to solve that very oscillating claustrophobia in the chests of you and countless others.<LINE>A strange charity - you the unknowing recipient, I the reluctant gift. The noble benefactors?<LINE>Gone.|Eerst het goede nieuws. Op een manier ben ik wat jij zoekt. Mijn soort heeft als ons<LINE>doel dat trillende claustrofobie in de borst van jou en talloze anderen op te lossen.<LINE>Een vreemde liefdadigheid - jij, de onwetende ontvanger, ik het onwillige geschenk. De nobele weldoeners?<LINE>Weg.
+You must be very brave to have made it all the way here. But I'm sorry to say your journey here is in vain.|Je moet heel dapper geweest zijn om helemaal hier naar toe te komen. Maar ik ben sorry om te zeggen dat je reis hiernaartoe vruchteloos is.
+It is good to have someone to talk to after all this time!<LINE>The scavengers aren't exactly good listeners. They do bring me things though, occasionally...|Het is goed om iemand te hebben waar ik tegen kan praten!<LINE>De schooiers zijn niet bepaald goede luisteraars. Ze brengen me af en toe dingen, dat wel...
+I'm still angry at you, but it is good to have someone to talk to after all this time.<LINE>The scavengers aren't exactly good listeners. They do bring me things though, occasionally...|Ik ben nog steeds boos op jou, maar het is goed om iemand te hebben waar ik tegen kan praten.<LINE>De schooiers zijn niet bepaald goede luisteraars. Ze brengen me af en toe dingen, dat wel...
+...you ate... me. Please go away. I won't speak... to you.<LINE>I... CAN'T speak to you... because... you ate...me...|...je at... me. Ga alsjeblieft weg. I zal niet spreken... met jou.<LINE>Ik... KAN niet spreken met jou... omdat... je me… at...
+First you hurt me, then you come back to annoy me.<LINE>I wish I knew what was going on in that little head of yours.|Eerst doe je me pijn, dan kom je terug om me te treiteren.<LINE>Ik wou dat ik wist wat er omging in dat koppie van jou.
+It's a weapon made with fire powder. Did the scavengers give this to you?<LINE>Be very careful if you have to use it!|Het is een wapen gemaakt met vuurpoeder. Hebben de schooiers dit aan jou gegeven?<LINE>Wees heel voorzichtig als je het moet gebruiken!
+Even the scavengers that come here from time to time leave with nothing. But... I have told you that already, haven't I?|Zelfs de schooiers die hier van tijd tot tijd komen, verlaten met lege handen. Maar... dat heb ik je al verteld, niet waar?
+I do enjoy the company though. You're welcome to stay a while, quiet little thing.|Ik hou wel van het gezelschap. Je kunt hier gerust een tijdje blijven, klein, stil ding.
+I have had scavengers come by before. Scavengers!<LINE>And they left me alive!<LINE>But... I have told you that already, haven't I?|Er zijn hier schooiers langsgekomen. Schooiers!<LINE>En ze lieten me leven!<LINE>Maar... dat heb ik je al verteld, niet waar?
+You must excuse me if I repeat myself. My memory is bad.<LINE>I used to have a pathetic five neurons... And then you ate one.<LINE>Maybe I've told you that before as well.|Je moet me verontschuldigen als ik mezelf herhaal. Ik heb een slecht geheugen.<LINE>Ik had eerst vijf miezerige zenuwcellen... Totdat jij er een at.<LINE>Misschien heb ik jou dat ook al verteld.
+Or actually I'm sure he would, but he has so many of these~<LINE>it doesn't do him any difference.<LINE>For me though, it does! Thank you, little creature!|Of eigenlijk zou hij dat wel vinden, maar hij heeft zoveel van deze~<LINE>dat het voor hem geen verschil maakt.<LINE>Voor mij doet dat het wel! Dank je wel, klein wezen!
+You come here, but you can't be respectful enough to listen to me.<LINE>Will you listen this time?|Je komt hier naartoe, maar je hebt niet genoeg respect om naar me te luisteren.<LINE>Wil je deze keer wel luisteren?
+DUTCH|NEDERLANDS
+
+//MSC
+Bite|Bijten
+Hiss|Blazen
+Call|Roepen
+SRS:|ZRZ:
+NSH:|GAI:
+EOC:|WT:
+BSM:|GZM:
+NGI:|GBI:
+Monk|Monnik
+Scar|Litteken
+Luna|Luna
+Hang|Hangen
+Bash|Stoten
+Flee|Vluchten
+Grab|Vastpakken
+Spit|Spugen
+Noot|Toeteren
+Howl|Huilen
+Snip|Knippen
+Jump|Springen
+Moo!|Moeh!
+None|Geen
+Lunge|Uithalen
+Saint|Heilige
+Gills|Kieuwen
+Vents|Uitlaten
+Click|Klikken
+Sleep|Slapen
+Birth|Bevallen
+Chomp|Happen
+Throw|Gooien
+Shock|Schokken
+Point|Wijzen
+Laser|Laser
+Arena|Arena
+Class|Klasse
+Items|Voorwerpen
+STOP.|STOP.
+Launch|Lanceren
+Hunter|Jager
+Random|Willekeurig
+Tongue|Tong
+Spears|Speren
+Struts|Stutten
+Burrow|Graven
+Attach|Vastmaken
+Squeak|Piepen
+Pounce|Krachtsprong
+Skewer|Doorboren
+Detach|Losmaken
+Snatch|Grijpen
+Sprint|Sprinten
+Signal|Signaleren
+Ascend|Verheffen
+DON'T.|NIET.
+LEAVE.|GA.
+Consume|Consumeren
+Rivulet|Waterrat
+The Rot|De Rot
+Rubicon|Rubicon
+Pick Up|Oppakken
+Release|Loslaten
+Discard|Verwerpen
+Stealth|Sluipend
+Ensnare|Verstrikken
+Harpoon|Harpoeneren
+Pick up|Oppakken
+Descend|Neerdalen
+...WHY?|...WAAROM?
+Are my words reaching you?|Komen mijn woorden binnen?
+Go... away! You ate... me!|Ga... weg! Je at... me!
+creaturetype-ScavengerKing|Opperhoofd Schooier
+objecttype-SingularityBomb|Singulariteitsbom
+Undiscovered Transcription|Nog Niet Ontdekte Transcriptie
+Destroy all armored plates|Vernietig alle gepantserde platen
+Please, don't touch those!|Raak die alsjeblieft niet aan!
+Ah, you must be in a rush.|Ah, je hebt vast haast.
+Stop. If your intent is to damage my systems further, then I have no reason to continue this conversation.|Stop. Als je bedoeling is om mijn systemen verder te beschadigen, heb ik geen reden om verder te gaan met dit gesprek.
+Very well, you are on your own, creature. Please leave.|Goed dan, je bent op jezelf aangewezen, wezen. Vertrek alsjeblieft.
+We've read this, little creature. As previously stated:|We hebben dit al gelezen, klein wezen. Zoals gezegd:
+Hold Eat while grabbing an unconscious creature to maul|Houd Eten ingedrukt terwijl je een onbewust wezen vasthoud om het te bijten
+Hold throw while flying to charge your ascension burst.|Houd Gooien ingedrukt terwijl je vliegt om je verheffingsknal op te laden.
+Hold the pick-up button to pull needles from your body.|Houd de Oppakken knop ingedrukt om naalden uit je lichaam te trekken.
+You're not leaving? I suppose I should continue then...|Ga je niet weg? Dan ga ik wel verder waar ik gebleven was...
+However, you really shouldn't stay. It's too dangerous.|Maar, je kan beter niet blijven. Het is te gevaarlijk.
+Don't. My systems have already been damaged enough as it is. Go away.|Niet doen. Mijn systemen zijn al genoeg beschadigd. Ga weg.
+Best of luck to you, and your family. There is nothing else I can do.|Veel geluk aan jou, en je familie. Er is verder niets dat ik voor je kan doen.
+Go... away... bad... thing...|Ga... weg... slecht... ding...
+Five Pebbles (Primary Cortex)|Vijf Kiezels (Primaire Cortex)
+Abstract Convergence Manifold|Abstract Convergerend Verdeelstuk
+Take your offspring with you.|Neem je kroost met je mee.
+Too... broken...|Te... kapot...
+The Rot (Depths)|De Rot (Dieptes)
+Silent Construct|Stille Constructie
+Windswept Spires|Windstrekende Spitsen
+Hold to view map|Ingedrukt houden om de kaart te bekijken
+Parry ## attacks|Blokkeer ## aanvallen
+Met Five Pebbles|Ontmoette Vijf Kiezels
+...help... me...|...help... me...
+LET GO! p please|LAAT LOS! als alsjeblieft
+Shall we finish?|Zullen we het afmaken?
+No! You... killed... me!|Nee! Je... doodde... me!
+The Rot (Cystic Conduit)|De Rot (Cystisch Kanaal)
+creaturetype-StowawayBug|Stowaway
+creaturetype-JungleLeech|Jungle Bloedzuiger
+Submerged Superstructure|Onderzees Superstructuur
+Please do not do that...|Doe dat alsjeblieft niet...
+...Not forgotten pain...|...Niet vergeten pijn...
+No! <CapPlayerName> ate... me!|Nee! <CapPlayerName> at... me!
+##<LINE>without anything dying|##<LINE>zonder dat iets sterft
+Welcome back little messenger.|Welkom terug, kleine boodschapper.
+...Little green friend. Hello.|...Kleine bezoeker. Hallo.
+Spanish translation by Garrakx|Spaanse vertaling door Garrakx
+No! Am... broken... because you...|Nee! Ben... kapot... omdat jij...
+Five Pebbles (Linear Systems Rail)|Vijf Kiezels (Lineaire Systemen Hoofdlijn)
+Looks to the Moon (Memory Conflux)|Kijkt naar de Maan (Geheugen Samenvloeiing)
+Have you brought your family here?|Heb je een kleintje meegenomen?
+Hello again. Shall I keep reading?|Hallo alweer. Zal ik doorgaan met lezen?
+No!|Nee!
+WO:|DO:
+PI:|PI:
+GS:|SK:
+SI:|VI:
+HR:|HR:
+CW:|WJ:
+EP:|EK:
+FP:|VK:
+HF:|GW:
+UU:|ON:
+Eat|Eten
+Sit|Zitten
+Bow|Buigen
+Eat|Eten
+Fly|Vliegen
+Run|Rennen
+Leave... me alone. Terrible... creature...|Laat... me alleen. Verschrikkelijk... wezen...
+I have read this. As I have stated before:|Ik heb dit gelezen. Zoals gezegd:
+Explosive jump while holding down to parry|Voer een explosieve sprong uit terwijl je Omlaag ingedrukt houd om een aanval te blokkeren
+Looks to the Moon's Transcription (Future)|Kijkt naar de Maan's Transcriptie (Toekomst)
+You'd better hurry along, little creature!|Je kunt beter opschieten, dappere boodschapper.
+I have nothing to say to you, <PlayerName>.|Ik heb niets tegen jou te zeggen, <PlayerName>.
+Press jump in the air to extend your tongue|Druk op Springen in de lucht om je tong uit te rekken
+Use directional inputs to aim the ascension|Gebruik de Richtingsknoppen om je verheffing te richten
+Did you not register what I've said to you?|Heb je niet geregistreerd wat ik tegen je gezegd hebt?
+Please, leave quickly, while you still can.|Alsjeblieft, ga snel weg, nu het nog kan.
+Go away, <PlayerName>.|Ga weg, <PlayerName>.
+creaturetype-EelLizard|Aalgedis
+creaturetype-AquaCenti|Duikendpoot
+creaturetype-Inspector|Inspecteur
+Atop the Tallest Tower|Bovenop de Hoogste Toren
+Primordial Underground|Oer-Ondergrond
+Survive for ## seconds|Overleef ## seconden
+Safari region unlocked|Safari gebied ontgrendeld
+Hold grab to activate.|Houd vastpakken ingedrukt om te activeren.
+The Pilgrim-linebreaks|De Pelgrim
+Wait, that's not food!|Wacht, dat is geen eten!
+not... edible, please.|niet... eetbaar, alsjeblieft.
+...don't... trust you.|...vertrouw... jou niet.
+Keep your family safe!|Hou je familie veilig!
+...Go find... shelter.|...Ga terug… naar thuis.
+Assets and content by:|Assets en inhoud door:
+Leave me alone...|Laat me alleen...
+creaturetype-Yeek|Yeek
+Forgotten Conduit|Vergeten Pijpen
+Frosted Cathedral|Bevroren Kathedraal
+Glacial Wasteland|IJskoude Woestenij
+Ancient Labyrinth|Eeuwenoud Labyrinth
+Put a ## in a den|Stop een ## in een schuilplaats
+...Nice to see...|...Leuk je te zien...
+...Cold coming...|...Er komt vorst...
+Stop! Stop giving me your junk!|Stop! Stop me jouw rotzooi te geven!
+Facility Roots (Western Intake)|Faciliteits Wortelen (Westerse Inname)
+Clear the game as ## to unlock.|Voltooi het spel als ## om te ontgrendelen.
+...why did you... save... me...|...waarom heb je... me... gered...
+Where do you find all of these?|Waar vind je dit allemaal?
+Let us see what you have found.|Laten we eens zien wat je hebt gevonden.
+...Why... take all I... have...|...Waarom... neem je alles... dat ik heb...
+...Thank you... for... company.|...Dank je... voor... je gezelschap.
+...Find heat... Cold is danger.|...Zoek warmte... De kou is gevaarlijk.
+Korean translation by topicular|Koreaanse vertaling door topicular
+Leave me alone! You terrible creature!|Laat me alleen! Jij verschrikkelijk wezen!
+Pups can now be found in Sandbox Mode.|Welpen kunnen nu gevonden worden in de Sandbox Modus.
+Cold... You better go. I will be fine.|Kou... Je kunt beter gaan. Ik red me wel.
+The storm is coming. You should leave.|De stortbui komt eraan. Je kunt beter hier weg komen.
+We have read this one, little creature.|We hebben dit gelezen, klein wezen.
+Clear the game as <X> or <Y> to unlock.|Eindig het spel als <X> of <Y> om te ontgrendelen.
+Is that something new? Allow me to see.|Is dat iets nieuws? Laat me eens zien.
+Special button interactions:|Speciale knop interacties:
+Auxiliary Transmission Array|Ondersteunende Transmissie Opstelling
+Auxillery Transmission Array|Ondersteunende Transmissie Opstelling
+Hold to select and use doors|Houd ingedrukt om te selecteren<LINE>en deuren te gebruiken
+...It is... warmer... today.|...Het is... warmer... vandaag.
+Tap Pick up and Jump together to explosive jump|Druk tegelijkertijd op springen en oppakken om een explosieve sprong uit te voeren
+Hold Throw while flying to perform an ascension|Houd gooien ingedrukt terwijl je vliegt om een verheffing uit te voeren
+Rubicon content is now available in Arena Mode.|Rubicon inhoud is nu beschikbaar in de Arena Modus.
+I am surprised you have found so many of these.|Het verrast me dat je zoveel van deze hebt gevonden.
+Ah, don't worry about me. You should get going!|Ah, maak je maar geen zorgen over mij. Je kunt beter gaan!
+Oh. It's you, why have you come back...? Again.|Oh. Jij bent het, waarom ben je terug...? Alweer.
+Hold Pick Up with an empty hand to generate a spear|Houd Oppakken ingedrukt met een lege hand om een speer te maken
+This is not a request. I have important work to do.|Dit is geen vraag. Ik heb belangrijk werk te verrichten.
+Press throw with empty hands to extend your tongue|Druk op Gooien met lege handen om je tong uit te rekken
+Hold Pick Up to move a spear to and from your back|Houd Oppakken ingedrukt om een speer op je rug te plaatsen en er van af te halen
+Undelete the challenge you just deleted to unlock.|Onverwijder de uitdaging die je zojuist verwijderde om te ontgrendelen.
+Hello again. I hope you have a reason to visit me.|Hallo alweer. Ik hoop dat je een reden hebt om me te bezoeken.
+Tap Pick up and Jump together to take flight|Druk tegelijkertijd op Oppakken en Springen om te vliegen
+You better go, <PlayerName>! I will be fine.|Je moet een schuilplaats gaan zoeken, <PlayerName>! Maak je maar geen zorgen over mij.
+...So little... left. Why hurt... me more...|... Zo weinig... over. Waarom doe je... me meer pijn...
+Hold Pick Up while holding up to combine two differing items|Houd Oppakken en Omhoog tegelijkertijd ingedrukt om twee verschillende voorwerpen te combineren
+Try using your weight in creative ways to gain an advantage.|Probeer je gewicht op creatieve manieren in je voordeel te gebruiken.
+Oh? What have you found this time? Let's see what it says...|Oh? Wat heb je deze keer gevonden? Laten we eens lezen wat erop staat...
+Hold Pick Up to regurgitate a random item|Houd Oppakken ingedrukt om een willekeurig voorwerp uit te spugen
+Clear a total of ## challenges to unlock.|Voltooi een totaal van ## uitdagingen om te ontgrendelen.
+There's not a lot of time. You should go!|Er is geen tijd meer. Je moet gaan!
+Take your offspring with you when you go.|Neem je kroost mee als je gaat.
+Have you brought something new this time?|Heb je deze keer iets nieuws meegebracht?
+[ Collection Empty ]|[ Lege Collectie ]
+Unique pearls read :|Unieke parels gelezen :
+creaturetype-FireBug|Vuurdrager
+creaturetype-SlugNPC|Slakwelp
+objecttype-JokeRifle|Joke Geweer
+objecttype-GooieDuck|Zwaardschede
+objecttype-LillyPuck|Leliepuck
+objecttype-MoonCloak|Mantel
+Ascend all creatures|Verhef alle wezens
+Escort a ## to a den|Breng een ## naar een hol
+Food quest completed|Voedseltocht compleet
+The Nomad-linebreaks|De Nomade
+Oh, leaving already?|Ga je al?
+Where are you going?|Waar ga je naar toe?
+Looks to the Moon (Abstract Convergence Manifold)|Kijkt naar de Maan (Abstract Convergerend Verdeelstuk)
+Change the slugcat class/abilities for Player <X>|Verander de slakkat klasse/krachten voor Speler <X>
+Refer to the Pause Menu for Safari Mode controls.|Refereer naar het Pauze Menu voor de Safari Modus controls.
+Looks to the Moon (Neural Terminus)|Kijkt naar de Maan (Zenuw-Eindpunt)
+Have you come back to see me again?|Ben je teruggekomen om mij weer te zien?
+Get... get away... round.... thing.|Ga... ga weg... rond.... ding.
+Wait, please don't leave with that!|Wacht, je kunt daar niet mee weggaan!
+...Friend... please find... safety.|...Vriend... breng jezelf alsjeblieft... in veiligheid.
+Looks to the Moon (Vents)|Kijkt naar de Maan (Uitlaten)
+creaturetype-MirosVulture|Miros Gier
+creaturetype-MotherSpider|Moeder Spin
+objecttype-DandelionPeach|Paardenbloem Perzik
+Unknown Pearl Contents...|Onbekende Parel Inhoud...
+## without anything dying|## zonder dat iets sterft
+Arena character unlocked:|Arena personage ontgrendelt:
+What are you doing? Stop!|Wat ben je aan het doen? Stop!
+...storm... coming... Go!|...storm... komt eraan... Ga!
+...Please find... Warmth.|...Vind alsjeblieft... Warmte.
+...Why did... you stay...|...Waarom bleef... je hier...
+Submerged Superstructure (The Heart)|Onderzees Superstructuur (Het Hart)
+Ah, welcome back. As I was saying...|Welkom terug. Zoals ik al zei...
+##<LINE>without letting a @@ die|##<LINE>zonder een @@ te laten sterven
+Submerged Superstructure (Vents)|Onderzees Superstructuur (Uitlaten)
+Oh... Good bye, little creature.|Oh... Tot ziens, klein wezen.
+While in the air, tap jump and pick-up together to take flight.|Terwijl je in de lucht bent, druk tegelijkertijd op Springen en Oppakken om te vliegen.
+Developer Commentary mode is now available in the Options menu.|De Ontwikkelaars' Commentaar modus is nu beschikbaar in het Opties menu.
+Stop, that's dangerous! You are going to break something again!|Stop, dat is gevaarlijk! Je maakt straks weer iets kapot!
+Hold throw and directional inputs while flying to perform an ascension.|Houd Gooien en richtingsknoppen ingedrukt terwijl je vliegt om een verheffing uit te voeren.
+Friends sheltered :|Vrienden in schuilplaats :
+objecttype-GlowWeed|Gloei Wier
+Waterfront Facility|Waterkant Faciliteit
+Linear Systems Rail|Lineaire Systemen Hoofdlijn
+Befriend a creature|Bevriend een wezen
+Unique pearls read:|Unieke parels gelezen:
+stop, don... don't!|stop, nie... niet doen!
+Let us take a look.|Laten we eens een kijkje nemen.
+It is getting cold.|Het begint te vriezen.
+What are you doing?|Wat ben je aan het doen?
+...All I... have...|...Alles wat... ik heb...
+...Bring it back...|...Breng het terug...
+creaturetype-SpitLizard|Karamel Hagedis
+creaturetype-ZoopLizard|Aardbeien Hagedis
+Warp to random creature|Teleporteer naar willekeurig wezen
+Are you not interested?|Ben je niet geïnteresseerd?
+What a dumb creature...|Wat een dom wezen...
+creaturetype-TerrorLongLegs|Horrorwagen
+creaturetype-ScavengerElite|Elite Schooier
+Five Pebble's Transcription|Vijf Kiezels' Transcriptie
+## without letting a @@ die|## zonder een @@ te laten sterven
+...Little... green thing...|...Klein... groen ding...
+...You should... find heat.|...Je moet... warmte vinden.
+...Too cold... Alone again.|...Bevriezen... Alweer alleen.
+creaturetype-BigJelly|Reuzenkwal
+objecttype-EnergyCell|Verdunningscel
+Met Looks to the Moon|Ontmoette Kijkt naar de Maan
+The Martyr-linebreaks|De Lijder
+The Mother-linebreaks|De Moeder
+No! Don't... hurt me!|Nee! Doe me... geen pijn!
+... stop... please...|... stop... alsjeblieft...
+Please do not return.|Kom alsjeblieft niet terug.
+That can't be good...|Dat kan niet goed zijn...
+...No, don't... take!|...Nee, neem dat... niet!
+...Give it... back...|...Geef het... terug...
+...Leave me... alone.|...Laat me... alleen.
+objecttype-FireEgg|Vuur Ei
+[ No Data Loaded ]|[ Geen Data Geladen ]
+Kill all creatures|Dood alle wezens
+Friends sheltered:|Vrienden in schuilplaats:
+Leave me... alone.|Laat me... alleen.
+Let me continue...|Laat me verder praten...
+...Give... back...|...Geef... terug...
+objecttype-Seed|Popcorn
+THE SPEARMASTER|DE SPEERMEESTER
+The Spearmaster|De Speermeester
+Solitary Towers|Eenzame Torens
+Neural Terminus|Zenuw-Eindpunt
+Desolate Fields|Verlaten Velden
+Suburban Drifts|Drijvende Randen
+Barren Conduits|Lege Pijpen
+Emotional State|Emotionele Status
+Ascend every ##|Verhef alle ##
+Pop every plant|Pop elke plant
+Parry ## attack|Blokkeer ## aanvallen
+Oh... Good bye.|Oh... Tot ziens.
+[ Notice ]|[ Aankondiging ]
+COLLECTION|COLLECTIE
+Metropolis|Metropolis
+The Gutter|De Goot
+Cannonball|Bommetje
+Swap Heads|Wissel van Hoofden
+Camouflage|Camouflage
+Time Limit|Tijdslimiet
+## Seconds|## Seconden
+Acceptance|Acceptie
+The Martyr|De Lijder
+The Mother|De Moeder
+GET OUT!|GA WEG!
+Survivor|Overlever
+Gourmand|Bourgondiër
+Pipeyard|Pijpendoolhof
+The Husk|Het Omhulsel
+Ascended|Verheven
+Parries:|Aanvallen geblokkeerd:
+GET OUT.|GA WEG.
+Suns...?|Zonnen...?
+...No...|...Nee...
+Five Pebbles:|Vijf Kiezels:
+THE ARTIFICER|DE SCHEPPER
+The Artificer|De Schepper
+Outer Expanse|De Wildernis
+The Precipice|De Afgrond
+Journey's End|Einde van de Reis
+Change target|Verander van doelwit
+Win Condition|Win Conditie
+Kill every ##|Dood iedere ##
+Befriend a ##|Bevriend een ##
+Gain ## point|Verdien ## punt
+What is this?|Wat is dit?
+Please leave.|Ga alsjeblieft weg.
+...Go away...|...Ga weg...
+THE RIVULET|DE WATERRAT
+The Rivulet|De Waterrat
+Spearmaster|Speermeester
+Undergrowth|Vergroeiing
+Sunken Pier|Verdronken Pier
+Frozen Mast|Bevroren Mast
+Sump Tunnel|Opvangtunnel
+Hang on Mom|Hang aan Mama
+Telekinesis|Telekinesis
+<X> and <Y>|<X> en <Y>
+The Pilgrim|De Pelgrim
+...storm...|...storm...
+...Hello...|...Hallo...
+THE GOURMAND|DE BOURGONDIËR
+The Gourmand|De Bourgondiër
+Random start|Willekeurige start
+Icy Monument|IJzig Monument
+Bitter Aerie|Bitter Nest
+Frigid Coast|IJzige Kust
+Disable Rain|Regen Uitschakelen
+Pick up Food|Voedsel Oppakken
+Hello there.|Hallo daar.
+Well then...|Wel dan...
+...Why back?|...Waarom terug?
+THE SAINT|DE HEILIGE
+The Saint|De Heilige
+Artificer|Schepper
+The Floor|De Vloer
+The Shell|De Schelp
+The Heart|Het Hart
+Water Jet|Water Straal
+Spray Ink|Inkt Sproeien
+Creatures|Wezens
+The Nomad|De Nomade
+Clear the game as Gourmand, Artificer, or Hunter to unlock.|Voltooi het spel als De Bourgondiër, De Schepper of De Jager om te ontgrendelen.
+Hold the EAT button while a stunned creature is being held.|Houd de Eten knop ingedrukt terwijl je een verlamt wezen vasthoudt.
+The Rarefaction Cell item is now available in Sandbox Mode.|De Verdunningscel is nu beschikbaar in de Sandbox Modus.
+Little messenger, we do not have much time. You must hurry!|Kleine boodschapper, we hebben niet veel tijd. Je moet opschieten!
+Clear the game as Rivulet and Spearmaster to unlock.|Voltooi het spel als De Waterrat en De Speermeester om te ontgrendelen.
+Breathes underwater, and moves through the world with ease. These adaptations are essential,<LINE>as you'll be pitted against a world of increasingly frequent floods, where time is of the essence.|Ademt onderwater en beweegt zich moeiteloos door de wereld. Deze aanpassingen zijn essentieel<LINE>in een wereld van steeds vaker voorkomende vloedgolven, waar tijd kostbaar is.
+A fierce combatant, master of pyrotechnics and explosives. Keen to move up in<LINE>the foodchain, your journey will surely be one lined with constant bloodshed and warfare.|Een pittige vechter, meester van pyrotechnieken en explosieven. Gericht op het verhogen van de plek in<LINE>de voedselketen, jouw reis zal er een zijn van constant bloedvergiet en geweld.
+Frail and armed with a long tongue. Your journey will be one of perfect enlightenment,<LINE>but walking this path requires patience, caution, and complete attunement with the world.|Zwak en gewapend met een lange tong. Jouw reis zal er een van perfecte verlichting zijn,<LINE>maar dit pad vergt geduld, voorzichtigheid en een complete afstemming op de wereld.
+An abnormality who feeds using needles pulled from its body. A traveller from a<LINE>far away land; A feeling in your depths sets you out once again, messenger...| Een abnormaliteit die zich voedt met naalden uit hun lichaam. Een reiziger uit een<LINE>vergelegen land; Een gevoel in je dieptes zet je weer op reis, boodschapper...
+An indulger of the simpler pleasures in life. Carrying the world in your stomach gives<LINE>many tactical advantages, but comes at an increased cost of sustainability.|Een genieter van de simpele dingen in het leven. Het dragen van de wereld in je buik geeft<LINE>vele tactische voordelen, maar komt met de kost van verhoogde duurzaamheid.
+Looks to the Moon's Transcription|Kijkt naar de Maan's Transcriptie
+Ah. Have you found something new?|Ah. Heb je iets nieuws gevonden?
+Oh... Good luck, little creature.|Veel geluk, mijn onfortuinlijke kleine vriend.
+Looks to the Moon's Transcription (Pre-Collapse)|Kijkt naar de Maan's Transcriptie (Pre-Instorting)
+The Rifle item is now available in Sandbox Mode.|Het Geweer voorwerp is nu beschikbaar in de Sandbox Modus.
+How cute, you brought your family, <PlayerName>?|Wat schattig, je hebt een kindje meegenomen, <PlayerName>.
+12th Council Pillar, the House of Braids|12de Raadspilaar, Huis der Vlechten
+Pups can now be found in some campaigns.|Welpen kunnen nu gevonden worden in sommige campagnes.
+Ah, you have found me something to read?|Ah, you have found me something to read?
+Oh... Please be careful on your journey.|Wees alsjeblieft voorzichtig tijdens je reis.
+Please, a moment of your time to finish?|Alsjeblieft, een beetje van je tijd om dit af te maken?
+Primary Cortex|Primaire Cortex
+Cystic Conduit|Cystisch Kanaal
+Desolate Canal|Verlaten Kanaal
+Play as target|Speel als doelwit
+Revoke Control|Geef Op Controle
+Challenge #<X>|Uitdaging #<X>
+Gain ## points|Verdien ## punten
+it... hurts...|het... doet pijn...
+Let me finish.|Laat me uitpraten.
+Revisit regions that were explored in the single player campaigns,<LINE>this time as an outside observer that watches the ecosystem<LINE>unfold, uninterrupted by the antics of the player.|Hervisiet gebieden die je tijdens de verhaal campagnes hebt ontdekt,<LINE>deze keer als een buitenstaander die toe kijkt hoe de ecosysteem<LINE>ontbloeit, ongestoord door de antics van de speler.
+Try to meet the win requirements on a series of pre-constructed arena<LINE>scenarios. More challenges will be unlocked as progression is made by<LINE>clearing the single player campaigns.|Probeer de win-benodigdheden van een serie van voorgebouwde arena<LINE>scenario's. Meer uitdagingen worden ontgrendeld wanneer je voortgang boekt bij<LINE>het eindigen van verhaal campagnes.
+While in the air, tap jump and pick-up together to activate karmic enlightenment.|Terwijl je in de lucht bent, druk tegelijkertijd op Springen en Oppakken om karmische verlichting te activeren.
+While in the air, press jump and pick-up together, to propel yourself explosively.|Terwijl je in de lucht bent, druk tegelijkertijd op Springen en Oppakken om jezelf explosief voort te stuwen.
+Tap the throw button to extend your tongue. Press jump while attached to let go.|Druk op Gooien om je tong uit te rekken. Druk op Springen terwijl je vastzit om los te laten.
+Tap jump in the air to extend your tongue. Press jump again while attached to let go.|Druk op Springen om je tong uit te rekken. Druk nog een keer terwijl je vastzit om los te laten.
+While you are attached to something, use up and down to extend or retract your tongue.|Terwijl je vastzit, gebruik Omhoog en Omlaag om je tong uit of in te rekken.
+You are cold and hungry. Find shelter from the storm soon, or you will pass out from the cold.|Je bent koud en hebt honger. Vind snel een schuilplaats voor de storm of je komt om van de kou.
+Only warm objects can rejuvenate your body heat in this extreme cold, but they will not last forever!|Alleen warme voorwerpen kunnen je lichaam opwarmen in extreme kou, maar ze werken niet voor eeuwig!
+If you are going to make your visits a habit, the least you can do is bring me something new to read.|Als je van je bezoekjes een gewoonte gaat maken, kun je tenminste iets nieuws voor mij meenemen om te lezen.
+Stab creatures with your white needles to leech energy from their bodies.|Doorsteek wezens met witte naalden om energie uit hun lichamen te zuigen.
+I wonder, just how much time has passed since some of these were written.|Ik vraag me af hoe lang geleden het is sinds dit was geschreven.
+Another? Let us see... to be honest, I'm as curious to see it as you are.|Nog één? Laat eens zien... om eerlijk te zijn, ben ik net zo nieuwsgierig als jij om het te onderzoeken.
+Hold up and grab with differing objects in each hand, in order to procure something new.|Houd Omhoog en Vastpakken ingedrukt terwijl je twee verschillende voorwerpen vasthoud om iets nieuws te verkrijgen.
+It is nice to see you again, but we do not have much time left. Please hurry, messenger!|Het is leuk je te zien, maar de tijd dringt. Schiet op! Holding up and grab with two differing food items, will eat them together as a meal.|Door Omhoog en Vastpakken ingedrukt te houden met twee verschillende soorten voedsel, zal je ze samen eten als een maaltijd.
+You can also spit up random objects at the cost of food, if nothing is stored inside of you.|Je kan ook willekeurige voorwerpen uitspugen ten koste van voedsel, als je niets in je hebt bewaard.
+What are you doing? Please!! I only just got my freedom back, how cruel can you possibly be?|Wat ben je aan het doen? Alsjeblieft!! Ik heb nog maar net mijn vrijheid terug, hoe harteloos kun je mogelijk zijn?
+Hold pick-up with compatible ammunition in hand to load the rifle.|Houd oppakken ingedrukt met compatibele munitie in de hand om het geweer te laden.
+Ah, you remind me of an old creature who used to visit here often.|Ah, je herinnert me aan een oud wezen dat hier vroeger vaak op bezoek kwam.
+Hold pick-up to transform rocks or spears into explosives, at the cost of food.|Houd Oppakken ingedrukt om stenen of speren in explosieven te transformeren, ten koste van voedsel.
+Those are the only memories I have left. I will cease functioning without them.|Dat zijn de enige herinneringen die ik nog over heb. Zonder hen hou ik op te functioneren.
+The passage of time has since taken them away, of course. That was a while ago.|Natuurlijk heeft de tijd hen sindsdien van ons ontnomen. Dat was een tijd geleden.
+Combat and other fast movements will quickly exhaust you.|Vechten en andere snelle bewegingen zullen je snel uitputten.
+Artificer can maul creatures while they are still alive.|De Schepper kan wezens toetakelen terwijl ze nog leven.
+Please, don't scare me like that. I don't appreciate it.|Alsjeblieft, laat me niet zo schrikken. Dat vind ik niet leuk.
+Now, I hope you have reason to visit me. I am very busy.|Ik hoop dat je een reden voor je bezoek hebt. Ik heb het erg druk.
+Another ordeal to add to my running tally of bad luck...|Nog een oordeel voor mijn groeiende lijst aan pech...
+The Outer Expanse gate remains unlocked beyond this point in the timeline.|De Wildernis poort blijft ontgrendeld na dit punt in de tijdlijn.
+Pups can now be found in Sandbox Mode, and some campaigns.|Welpen kunnen nu gevonden worden in de Sandbox modus en sommige campagnes.
+Let us see if there is anything important written on this.|Laten we eens kijken of er iets belangrijks opgeschreven staat.
+Little creature, please leave. I would prefer to be alone.|Kleine onruststoker, ga alsjeblieft weg. Ik ben liever alleen.
+What are you doing?! Just because you helped me doesn't mean you can treat me this way.|Wat ben je aan het doen?! Ondanks dat je me geholpen hebt, betekent dit niet dat je me zo kan behandelen.
+In your current state. I can only assume that you have found what you were looking for.|In jouw huidige status. Ik kan alleen aannemen dat je hebt gevonden waar je naar zocht.
+Why would you do that to me?! I don't understand you, <PlayerName>.|Waarom zou je dat doen?! Ik begrijp je niet, <PlayerName>.
+Please stop! I beg you. I don't... understand your motivation...|Alsjeblieft stop! Ik smeek je. Ik begrijp je... motivatie niet...
+I can only think that you somehow find me pleasant to listen to.|Ik kan alleen bedenken dat je het op de een of andere manier fijn vindt om naar me te luisteren.
+Do you have something new, or have you come to just stare at me?|Heb je iets nieuws, of ben je alleen gekomen om me aan te gapen?
+Your company is welcome little creature, but please do not stay.|Je gezelschap is welkom, maar je kan hier niet blijven.
+Why?! Why would you?? Please, I have so much more I need to do, still...|Waarom?! Waarom zal je?? Alsjeblieft, ik heb nog zoveel werk te verrichten…
+Thank you for visiting me, but I'm afraid there is nothing here for you.|Dank je voor je bezoek, maar ik ben bang dat er hier niets te vinden is voor jou.
+Despite some power to my facility being restored, those are still crucial to my survival!|Hoewel wat van mijn energie naar mijn faciliteit is hersteld, zijn die nog steeds cruciaal voor me om te overleven!  
+Your intention was to help me, was it not? Then please don't play with those!|Jouw intentie was om me te helpen, toch? Speel daar dan alsjeblieft niet mee!
+This is no time for games little messenger. Hurry now, before it is too late!|Dit is geen tijd voor spelletjes. Schiet op, voordat het te laat is!
+Those aren't toys, <PlayerName>. I cannot trust anyone with them.|Dat is geen speelgoed, <PlayerName>. Ik kan niemand ermee vertrouwen.
+Stay as long as you'd like. But not too long.|Blijf zo lang als je wilt. Maar niet te lang.
+Have you found something else for me to read?|Heb je iets anders voor me gevonden dat ik kan lezen?
+It is nice to see you again little messenger!|Het is goed je weer te zien, kleine boodschapper!
+This chamber is not very well insulated from the cold.|Deze kamer is niet goed geïsoleerd tegen de kou.
+I do enjoy the company though. You and your family are always welcome here.|Ik waardeer het gezelschap wel. Jij en je familie zijn hier altijd welkom.
+It's a piece of sharpened rebar... What is it you want to know?<LINE>I don't wish to offend, but you seem too frail to use this effectively.|Het is een stuk verscherpte wapening... Wat is het dat je wilt weten?<LINE>Ik wil je niet kwetsen, maar je lijkt me te zwak om er effectief mee om te kunnen gaan.
+Unfortunately, my operations are encoded with a restriction that prevents<LINE>me from carrying out violent actions against my own citizens.|Jammer genoeg zijn mijn operaties gecodeerd met een restrictie die voorkomt<LINE>dat ik gewelddadige acties tegen mijn eigen inwoners uitvoer.
+You've returned! I thought you were leaving. Allow me to continue...|Je kwam terug! Ik dacht dat je wegliep. Laat me verder praten...
+Ah, nevermind, let me finish our conversation.|Laat maar, laten we ons gesprek beëindigen.
+Now, please leave. I would prefer to be alone.|Ga nu alsjeblieft weg. Ik ben liever alleen.
+Please do not take advantage of this. I do not have the patience for your continued presence here.|Gebruik dit alsjeblieft niet in je voordeel. Ik heb het geduld niet voor jou constante aanwezigheid.
+I'm returning to my work. Unless you have anything productive<LINE>for me, I have nothing further to say to you.|Ik ga verder met mijn werk. Tenzij je iets productiefs voor<LINE>me hebt, heb ik verder niets tegen jou te zeggen.
+Oh, it's you again? I had told you to leave and never return.|Oh, jij bent het weer? Ik had je verteld weg te gaan en niet meer terug te komen.
+Leave immediately and don't come back. And take THEM with you!|Vertrek onmiddellijk en kom niet meer terug. En neem HUN met je mee!
+Ah, you've returned. You know that I care very little for the creatures that wander through my facility.|Ah, je bent terug. Je weet dat ik weinig geef om de wezens die door mijn faciliteit dwalen.
+For your own sake, I hope it was worth your struggle.|Voor je eigen bestwil, hoop ik dat deze strijd het waard was.
+For what reason do you visit so often? There is nothing more I can do for you.|Wat is de reden voor al die bezoekjes? Er is niets meer dat ik voor je kan doen.
+I have nothing for you here little messenger. Please, I have little time left.|Ik heb niets hier voor jou, arm ding. Alsjeblieft, ik heb niet lang.
+Why did you send the messenger here again? Please leave, I cannot afford any further<LINE>distractions; I am the only one who can fix this now. I trust that you understand me...|Waarom heb je alweer de boodschapper hierheen gestuurd? Ga alsjeblieft weg, Ik kan me geen verdere afleidingen<LINE>veroorloven; Ik ben de enige die dit nu kan oplossen. Ik vertrouw dat je me begrijpt...
+How did it even manage to do that?...|Hoe kreeg je dat voor elkaar?...
+...Nothing here... Nothing... left...|...Niets hier... Niets... over...
+I would appreciate if you would not eat those. My umbilical will keep me conscious, but<LINE>every neuron lost is a piece of me lost as well...|Ik zou het waarderen als je die niet at. Mijn navelstreng houdt me bij bewustzijn, maar<LINE>elke verloren zenuwcel is ook een verloren stuk van mij...
+Why have you returned? Do you have a death wish? I have nothing<LINE>left to give you... please leave, for your own sake.|Waarom ben je teruggekomen? Heb je soms een doodswens? Ik heb niets<LINE>over om aan jou te geven... ga alsjeblieft weg, voor je eigen bestwil.
+You should not be here. This facility is in a constant state of decay.<LINE>Nothing in here is hospitable to the normal definition of life.|Je hoort hier niet te zijn. Deze faciliteit is in een constante staat van verrot.<LINE>Niets hier is herbergzaam voor de normale definitie van leven.
+I used to be furious at the idea of creatures crawling through my superstructure.<LINE>However, I am actually grateful for this rare opportunity to not be alone.|Vroeger werd ik woedend van het idee van wezens die door mijn superstructuur kropen.<LINE>Maar, deze keer ben ik dankbaar voor de zeldzame mogelijkheid om niet alleen te zijn.
+This easter egg was inspired by the original Moar Slugcats Dating Sim mod, but has no affiliation with the original creators.|Deze easter egg was geïnspireerd door de originele Moar Slugcats Dating Sim mod, maar heeft geen affiliatie met de oorspronkelijke makers.
+
+//Expedition
+You are missing one or more of the mission's requirements|Je mist één of meer van de missie's benodigdheden
+Burdens are modifiers you can add to your Expedition to increase the difficulty. In return, a multiplier is applied to your final score, increasing the number of points it's possible to earn.|Lasten zijn aanpassingen die je aan je Expeditie kan toevoegen om de moeilijkheid te vergroten. In ruil daarvoor wordt een vermenigvuldiger aan je uiteindelijke score toegebracht, waarmee je het totaal aantal mogelijk verkregen punten vergroot.
+Challenges can be re-rolled for new ones by selecting them. The difficulty of the new challenge can be adjusted by dragging the difficulty slider, more difficult challenges award more points.|Uitdagingen kunnen worden herrolt voor nieuwe door ze te selecteren. De moeilijkheid van de nieuwe uitdaging kan aangepast worden door met de moeilijkheids slider te slepen. Moeilijkere uitdagingen leveren meer punten op.
+Start the expedition with a charged Electric Spear. The spear is extremely useful for dealing high amounts of damage and stunning creatures. The spear can be recharged by impaling centipedes.|Start de expeditie met een opgeladen Schokspeer. De speer is zeer handig om grote hoeveelheden schade aan te brengen en wezens te verlammen. De speer kan weer opgeladen worden door duizendpoten te doorsteken.
+Gives The Artificer's explosive double-jump ability to other characters, activated by pressing JUMP and PICK UP whilst in the air. Very useful for traversal and escaping dangerous situations.|Geeft andere personages De Schepper's kracht om een explosieve sprong uit te voeren door in de lucht tegelijkertijd op SPRINGEN en OPPAKKEN te drukken. Handig om grote afstanden af te leggen en te ontsnappen uit gevaarlijke situaties.
+Custom|Aangepast
+BONUS:|BONUS:
+HIDDEN|VERBORGEN
+LOCKED|VERGRENDELD
+Track:|Track:
+Snails|Slakken
+TIME :|TIJD :
+DOOMED|VERDOEMD
+HUNTED|BEJAAGD
+MUSIC:|MUZIEK:
+QUESTS|STREEFTOCHTEN
+-CUSTOM-|-AANGEPAST-
+LEVEL UP|LEVEL OMHOOG
+- PAGE -|- PAGINA -
+DESELECT|DESELECTEREN
+Slugcats|Slakkatten
+Vultures|Gieren
+Egg Bugs|Eierdragers
+Dropwigs|Valwantsen
+Batflies|Vleervliegen
+Firebugs|Vuurdragers
+BURDENS:|LASTEN:
+a neuron|een zenuwcel
+MISSIONS|MISSIES
+CONTROLS|CONTROLS
+-EXPEDITION-|-EXPEDITIE-
+-CHALLENGES-|-UITDAGING-
+-MILESTONES-|-MIJLPALEN-
+Now Playing:|Nu Aan Het Spelen:
+FINAL SCORE:|UITEINDELIJKE SCORE:
+Five Pebbles|Vijf Kiezels
+Pink Lizards|Roze Hagedissen
+Blue Lizards|Blauwe Hagedissen
+Cyan Lizards|Cyaan Hagedissen
+Monster Kelp|Monster Kelp
+Lantern Mice|Lantaarn Muizen
+LEVEL <next>|LEVEL <next>
+Vulture Mask|Gierenmasker
+Karma Flower|Karma Bloem
+High Agility|Hoge Wendbaarheid
+Perk: <perk>|Voordeel: <perk>
+Birdwatching|Vogelspotten
+REQUIREMENTS|BENODIGDHEDEN
+-PROGRESSION-|-VOORTGANG-
+-UNLOCKABLES-|-ONTGRENDELBAREN-
+Apex Predator|Toproofdier
+Green Lizards|Groene Hagedissen
+White Lizards|Witte Hagedissen
+Black Lizards|Zwarte Hagedissen
+White Cicadas|Witte Octocades
+Black Cicadas|Zwarte Octocades
+King Vultures|Gieren Koningen
+Large Spiders|Wolfspinnen
+Stowaway Bugs|Stowaway
+common pearls|gewone parels
+Item Crafting|Voorwerp Maken
+Vulture Masks|Gierenmaskers
+Echo Sighting|Echo
+Overall Score|Totale Score
+Spear Pinning|Speer Pinnen
+Guiding Light|Gidsend Licht
+Normal: <num>|Normaal: <num>
+Hidden: <num>|Verborgen: <num>
+-FILTERS-|-FILTERS-
+Food Tour|Voedsel Tocht
+MILESTONE|MIJLPAAL
+Rain Deer|Regen Herten
+Aquapedes|Duikendpoten
+Slow Time|Vertraag Tijd
+Fly Lures|Vleergras Takjes
+Jellyfish|Kwallen
+Mushrooms|Paddenstoelen
+Missions:|Missies:
+EXPEDITION|EXPEDITIE
+MILESTONES|MIJLPALEN
+Salamander|Salamander
+Scavengers|Schooiers
+Centiwings|Zwevendpoten
+Tube Worms|Grijpwormen
+Leviathans|Leviathans
+Inspectors|Inspecteurs
+Back Spear|Rug Speer
+Joke Rifle|Joke Geweer
+AVAILABLE:|BESCHIKBAAR:
+Puff Balls|Spoordonzen
+CHALLENGES|UITDAGINGEN
+BEST TIME:|BESTE TIJD:
+CONFIGURE<LINE>PERKS & BURDENS|CONFIGUREER<LINE>VOORDELEN & LASTEN
+Visit the <echo_location> Echo|Bezoek de <echo_location> Echo
+Total Hidden Challenges: <num>|Totaal Aantal Verborgen Uitdagingen: <num>
+Total Wins as <slugcat>: <num>|Totaal Aantal Overwinningen met <slugcat>: <num>
+Total <type> Challenges: <num>|Totaal aantal <type> Uitdagingen: <num>
+Points to Next Level: <points>|Punten tot Volgende Level: <points>
+START NEW<LINE>EXPEDITION|BEGIN NIEUWE<LINE>EXPEDITIE
+ps4_expedition_slot_title|Rain World Expeditie
+ps4_expedition_core_title|Rain World Expeditie Core
+CHALLENGE DIFFICULTY|UITDAGINGS MOEILIJKHEID
+Completed Challenges|Voltooide Uitdagingen
+Explosion Resistance|Explosie Resistentie
+Challenges Completed:|Uitdagingen Voltooid:
+RETRY<LINE>EXPEDITION|PROBEER DE<LINE>EXPEDITIE OPNIEUW
+- D E M O   M O D E -|- D E M O   M O D U S -
+CONTINUE<LINE>MISSION|MISSIE<LINE>HERVATTEN
+Perk Capacity: +<num>|Voordeel Capaciteit: +<num>
+COMMENCE<LINE>MISSION|BEGIN<LINE>MISSIE
+BURDENS|LASTEN
+Jetfish|Straalvissen
+JUKEBOX|JUKEBOX
+Jukebox|Jukebox
+ABANDON|OPGEVEN
+CYCLE :|CYCLUS :
+KARMA :|KARMA :
+BLINDED|VERBLIND
+PURSUED|ACHTERVOLGD
+neurons|zenuwcel
+Passage|Doorgang
+Mission|Missie
+GENERAL|ALGEMEEN
+Quests:|Streeftochten:
+REWARDS|BELONINGEN
+DISMISS|NEGEREN
+BURDENS|LASTEN
+KILLS|KEER GEDOOD
+CLOSE|DICHT
+LEVEL|LEVEL
+EMPTY|LEEG
+PERKS|VOORDELEN
+PERKS|VOORDELEN
+Store <amount> <target_item> in the same shelter|Verstop <amount> <target_item> in dezelfde schuilplaats
+Successfully hibernate to finish this expedition|Ga succesvol slapen om de expeditie te beëindigen
+Looks To The Moon|Kijkt naar de Maan
+Brother Long Legs|Broeder Hooiwagen
+Large Noodleflies|Volwassen Noedelvliegen
+Scavenger Lantern|Lantaarn
+Challenges: <num>|Uitdagingen: <num>
+Total Wins: <num>|Totaal Aantal Overwinningen: <num>
+Music: <songName>|Muziek: <songName>
+You feel the presence of a vista . . .|Je voelt de aanwezigheid van een vista . . .
+<region> pearl delivered to <iterator>|<region> parel geleverd aan <iterator>
+Reach the vista point in <region_name>|Bereik het vista punt in <region_name>
+E X P E D I T I O N	C O M P L E T E|E X P E D I T I E	V O L T O O I D
+<Unlocked> of <Max> Tracks Unlocked|<Unlocked> van <Max> Tracks Ontgrendeld
+NEW!|NIEUW!
+Yeek|Yeek
+EXIT|VERLATEN
+EASY|MAKKELIJK
+HARD|MOEILIJK
+BACK|TERUG
+NEXT|VOLGENDE
+Reach these milestones across multiple Expeditions:|Bereik deze mijlpalen over meerdere Expedities:
+Toggle which challenges can appear when randomising|Schakel welke uitdagingen willekeurig geselecteerd kunnen worden
+The Expedition will end upon entering the Depths...|De Expeditie wordt beëindigd bij het betreden van de Dieptes...
+Complete an Expedition with the following requirements:|Voltooi een Expeditie met de volgende benodigdheden:
+Kill <target_creature> [<current_kills>/<target_kills>]|Dood <target_creature> [<current_kills>/<target_kills>]
+This quest has been completed|Deze streeftocht is voltooid
+<challenge> Challenges: <num>|<challenge> Uitdagingen: <num>
+Total Points Earned: <points>|Totaal Aantal Punten Verdiend: <points>
+Yellow Lizards|Gele Hagedissen
+Red Centipedes|Rode Duizendpoten
+Miros Vultures|Miros Gieren
+Mother Spiders|Moeder Spinnen
+Slugcat Select|Slakkat Selecteren
+colored pearls|gekleurde parels
+Explosive Jump|Explosieve Sprong
+Scavenger Bomb|Granaat
+Electric Spear|Schokspeer
+Neuron Gifting|Zenuwcel Levering
+Pearl Delivery|Parel Levering
+Pearl Hoarding|Parel Verzamelen
+Vista Visiting|Vista Bezoeken
+Scavenger Hunt|Schooier Jacht
+Challenge list|Uitdagingslijst
+Total: <total>|Totaal: <total>
+SLUGCAT SELECT|SLAKKAT SELECTEREN
+NEW BEST TIME:|NIEUWE BESTE TIJD:
+Red Lizards|Rode Hagedissen
+Pole Mimics|Paal Planten
+Miros Birds|Miros Vogels
+Eel Lizards|Aalgedissen
+Progression|Voortgang
+Neuron Glow|Zenuwcel Gloei
+Flare Bombs|Flits Bommen
+Cycle Score|Cyclus Score
+UNLOCKABLES|Ontgrendelbaren
+EXPEDITIONS|EXPEDITIE
+Small Centipedes|Kleine Duizendpoten
+Large Centipedes|Volwassen Duizendpoten
+Terror Long Legs|Horrorwagens
+Elite Scavengers|Elite Schooiers
+Challenge Select|Uitdaging Selecteren
+Singularity Bomb|Singulariteitsbom
+Points: <points>|Punten: <points>
+Burden: <burden>|Last: <burden>
+Creature Hunting|Jagen
+CHALLENGE FILTER|UITDAGINGSFILTER
+GAMEPLAY CHANGES|SPEL VERANDERINGEN
+CHALLENGE SELECT|UITDAGING SELECTEREN
+Spitter Spiders|Spuugspinnen
+Daddy Long Legs|Vader Hooiwagens
+Caramel Lizards|Karamel Hagedissen
+Large Jellyfish|Reuzenkwallen
+LEVEL <current>|LEVEL <current>
+POINTS: <score>|PUNTEN: <score>
+Enable Passages|Schakel Doorgangen In
+Slugcat: <slug>|Slakkat: <slug>
+Scavenger Bombs|Granaten
+Item Collecting|Voorwerpen Verzamelen
+Nature's Friend|Natuur's Vriend
+Hunter Gatherer|Jager Verzamelaar
+Change of Heart|Verandering van Gedachte
+Strawberry Lizards|Aardbei Hagedissen
+Reach Level: <num>|Bereik Level: <num>
+Firecracker Plants|Vuurkruid Takjes
+Scavenger Lanterns|Lantaarns
+Expedition-Players|Spelers: <num_p>
+UNLOCKING SLUGCATS|ONTGRENDELDE SLAKKATTEN
+ps4_expedition_slot_description|Rain World Expedition Save Data
+ps4_expedition_core_description|Rain World Expedition Core Data
+ps4_save_expedition_core_failed|Error saving Expedition core data.
+ps4_load_expedition_core_failed|Expedition core data is corrupted and will be deleted.
+Earn <achievement_name> passage|Verdien <achievement_name> doorgang
+Plays unlocked tracks at random|Speelt willekeurig ontgrendelde tracks af
+ps4_save_expedition_core_failed_free_space|Error saving Expedition core data. Not enough free space. Try again?
+Start the expedition with a Scavenger Bomb|Start de expeditie met een granaat
+With no unique skills to boast about, The Survivor embarks on an<LINE>Expedition to test their resolve|Zonder unieke vaardigheden om over op te scheppen, gaat De Overlever op een<LINE>Expeditie om hun vastberadenheid te testen
+Attuned with nature and empathetic to its inhabitants, The Monk departs<LINE>to find their place in the world|In toon met de natuur en empatisch naar haar bewoners, vertrekt De Monnik<LINE>om hun plek in de wereld te vinden
+Opens the challenge filter menu, allowing you to toggle which types of challenges can appear when re-rolling.|Opent het uitdagingsfilter menu, die je laat kiezen welke soort uitdagingen kunnen verschijnen bij het herrollen.
+Dextrous and handy with a spear, The Hunter sets forth once again<LINE>into a world of danger|Handig met een speer, zet De Jager nog eens uit<LINE>in een wereld vol gevaar
+A brave explorer, hungry for their next adventure, or perhaps<LINE>their next meal|Een dappere ontdekker, die smult naar hun volgende avontuur, of misschien wel<LINE>hun volgende maaltijd
+An explosive fighter and combat expert, The Artificer journeys once<LINE>again into the unknown|Een explosieve gevechts expert, De Schepper reist opnieuw<LINE>in het onbekende
+A spear expert forced to fight to survive, their Expedition is<LINE>sure to be one fraught with peril|Een speer expert die gedwongen is om te vechten om te overleven, hun Expeditie zal<LINE>er zeker een vol periel zijn
+Extremely agile and an adept swimmer, The Rivulet speeds<LINE>towards their goal out of necessity|Zeer wendbaar en een geboren zwemmer, haast De Waterrat<LINE>zich naar hun doel uit noodzaak
+Start the expedition with a Scavenger Bomb, a potential head start for combat related challenges.|Start de expeditie met een Granaat, een potentiële head start voor gevechts gerelateerde uitdagingen.
+A pacifist at heart, The Saint endures the bitter cold and searches<LINE>for their purpose|Een ware pacifist, De Heilige doorstaat de bittere kou en zoekt<LINE>naar hun lotsbestemming
+Earn <score_target> points from creature kills this cycle [<current_score>/<score_target>]|Verdien <score_target> punten voor het doden van wezens in deze cyclus [<current_score>/<score_target>]
+Start the expedition with reinforced karma, a Karma Flower will spawn at the site of death|Start de expeditie met beschermde karma. Een Karma Bloem zal verschijnen op de plek van je dood
+CHOOSE YOUR SLUGCAT|KIES JOUW SLAKKAT
+NEW<LINE>EXPEDITION|NIEUWE<LINE>EXPEDITIE
+Spear Dual-Wielding|Twee Speren Dragen
+CONTINUE<LINE>EXPEDITION|VERDERGAAN MET<LINE>EXPEDITIE
+PERKS: <current>/<limit>|VOORDELEN: <current>/<limit>
+You are being pursued...|Je wordt achtervolgd...
+Hidden Challenges: <num>|Verborgen Uitdagingen: <num>
+Current Points: <points>|Huidige Punten: <points>
+Enable a range of perks to aid you in your expedition|Schakel een range aan voordelen in die je helpen bij je expeditie
+Reach milestones and complete expeditions with certain restrictions to earn rewards|Bereik mijlpalen en voltooi expedities met bepaalde restricties om beloningen te verdienen
+The required character has an on-going expedition, finish or abandon it to continue|Het benodigde personage doorgaat op dit moment een expeditie, voltooi die of geef het op om verder te gaan
+Earn <score_target> points from creature kills [<current_score>/<score_target>]|Verdien <score_target> punten voor het doden van wezens [<current_score>/<score_target>]
+Neurons delivered to Looks to the Moon <progress>|Zenuwcellen geleverd aan Kijkt naar de Maan <progress>
+The Expedition will end upon taking the plunge...|De Expeditie wordt beëindigd bij het nemen van de duik...
+Store <amount> <target_pearl> in a shelter in <region_name>|Verstop <amount> <target_pearl> in een schuilplaats in <region_name>
+Pin <pin_amount> creatures to walls or floors [<current_pin>/<pin_amount>]|Pin <pin_amount> wezens aan muren of vloeren[<current_pin>/<pin_amount>]
+The pursuer retreats...|De achtervolger trekt zich terug...
+Mission: <mission_name>|Missie: <mission_name>
+Total Points:  <points>|Totaal Aantal Punten: <points>
+EXPEDITION-INTRODUCTION|INTRODUCTIE
+Total Challenges Completed: <num>|Totaal Aantal Uitdagingen Voltooid: <num>
+<num> Quests Completed|<num> Streeftochten Voltooid
+Current Level: <level>|Huidig Level: <level>
+Recover all karma and fast travel to any discovered shelter, consumes an earned passage|Herstel alle karma en snel reis naar elke ontdekte schuilplaats; gebruikt een verdiende doorgang
+Missing Requirements: 	 <req>|Missende Benodigdheden: 	 <req>
+Slugcat Unlocked: <slugcat>|Slakkat Ontgrendeld: <slugcat>
+Q U E S T   C O M P L E T E|S T R E E F T O C H T  C O M P L E E T
+Warning: Hidden challenges will become normal challenges when retrying|Waarschuwing: Verborgen uitdagingen worden normale uitdagingen als je opnieuw probeert
+Enables a persistent glow around the player|Schakelt een constante gloei aan rond de speler
+Start the expedition with an Electric Spear|Start de expeditie met een Schokspeer
+Start the expedition with a Scavenger Lantern|Start de expeditie met een lantaarn
+Slow time at will by holding PICK UP and pressing MAP, also temporarily increases movement abilities|Vertraag tijd wanneer je wilt door OPPAKKEN ingedrukt te houden en op KAART te drukken, verhoogt ook tijdelijk bewegings vaardigheden
+Enables the use of passages during expeditions which can be earned by completing challenges|Schakelt het gebruik van doorgangen aan, die kunnen worden verdiend door het voltooien van uitdagingen
+Allows the player to stow an additional spear on their back by holding PICK UP|Staat de speler toe een aanvullende speer op hun rug te dragen door OPPAKKEN ingedrukt te houden
+Start the expedition with a Vulture Mask|Start de expeditie met een Gierenmasker
+Start the expedition with the Joke Rifle|Start de expeditie met het Joke Geweer
+Allows the player to wield a spear in each hand|Laat de speler een speer in elke hand dragen
+Makes the player highly resistant to explosions|Maakt de speler zeer resistent tegen explosies
+Start the expedition with a Singularity Bomb|Start de expeditie met een Singulariteitsbom
+Allows the player to jump a second time mid-air by pressing JUMP and PICKUP|Staat de speler toe een tweede keer te springen door in de lucht tegelijkertijd op SPRINGEN en OPPAKKEN te drukken
+Apply Burdens to increase both difficulty and the amount of points received|Breng lasten toe die de moeilijkheid en het aantal verkregen punten verhogen
+Craft different combinations of items together by holding UP and PICK UP|Voeg verschillende combinaties van voorwerpen samen door OMHOOG en OPPAKKEN tegelijktijd ingedrukt te houden
+Whilst undertaking an expedition, certain gameplay elements are changed:|Terwijl je een expeditie ondergaat, zijn bepaalde spel elementen veranderd:
+Increases the players movement abilities, granting high speed and jump height|Verhoogt de speler’s bewegingsvaardigheden, geeft hoge snelheid en een hogere sprong
+Expedition is a challenge oriented gamemode featuring permadeath and progression. Pick a character and prepare for an expedition by selecting which challenges to undertake.|Expeditie is een uitdaging georienteerde spelmodus met permadood en voortgang. Kies een personage en bereid voor op een expeditie door te selecteren welke uitdagingen je ondergaat.
+A successful expedition will grant points and varying rewards depending on what was accomplished, these can range from new Perks to use in future runs, Burdens to increase the difficulty in interesting ways, and music tracks that can be played in the Jukebox menu.|Een succesvolle expeditie geeft punten en verscheidene beloningen gebaseerd op wat er bereikt is. Deze kunnen uitlopen van nieuwe Voordelen voor bij toekomstige runs, Lasten die de moeilijkheid op interessante manieren verhogen tot muziek tracks die je kan afspelen in de Jukebox menu.
+Players start the Expedition in a randomly selected shelter.<LINE>All characters start with two karma and have a maximum karma limit of five.<LINE>The Survivor achievement is completed by default, and other achievements are not gated by it.<LINE>Passages are disabled by default, instead being unlocked by a Perk.<LINE>Echoes will not spawn on the first cycle.<LINE>There is no cycle limit for The Hunter in Expedition.<LINE>Collectable tokens will not appear and discovered lore is not saved in the Collection menu.|Spelers starten de Expeditie in een willekeurig geselecteerde schuilplaats.<LINE>Alle personages starten met twee karma en hebben een maximum karma limiet van vijf.<LINE>De Overlever achievement is meteen compleet, en andere achievements worden er niet door geblokkeerd.<LINE>Doorgangen zijn standaard uitgeschakeld, en worden in plaats daarvan ingeschakeld met een Voordeel.<LINE>Echoes zullen niet verschijnen op de eerste cyclus.<LINE>Er is geen cyclus limiet voor De Jager in Expeditie.<LINE>Verzamelbare tokens zullen niet verschijnen.
+Select a slugcat to use for the duration of the expedition. The expedition will take place in the same world as their campaign but with story elements removed. If Jolly Co-op is enabled, you can also configure the number of additional players at any time.|Selecteer een slakkat om te gebruiken tijdens de expeditie. De expeditie zal plaats nemen in dezelfde wereld als hun campagne, maar zonder verhaal elementen. Als de Vrolijke Co-op is ingeschakeld, kun je op elk moment het aantal spelers configureren.
+Monk and Survivor - Unlocked by default<LINE>Hunter - Unlocked once Monk or Surivor's campaign is beaten<LINE>Others - Unlocked once their campaign is beaten|Monnik en Overlever - Meteen ontgrendeld<LINE>Jager - Ontgrendeld nadat de Monnik of de Overlever's campagne is verslagen<LINE>Andere - Ontgrendeld nadat hun campagne is verslagen
+The challenge select page is where you craft your expedition. Adjust the number and types of challenges you will aim to complete and see how many points you will earn once the expedition is completed.|De uitdagings selecteer pagina is waar je je expeditie in elkaar zet. Pas het nummer en soort uitdagingen aan die je wilt doen en zie hoeveel punten je krijgt zodra je de expeditie afrondt.
+Toggles whether or not the selected challenge is hidden. Hidden challenges are completely random and their requirements are only revealed once all regular challenges have been completed. Hidden challenges are worth twice as many points. An expedition must have at least one non-hidden challenge.|Schakelt in of geselecteerd uitdagingen wel of niet verborgen worden. Verborgen uitdagingen zijn volledig willekeurig en hun benodigdheden worden pas onthuld als alle normale uitdagingen compleet zijn. Verborgen uitdagingen zijn twee keer zoveel punten waard. Een expeditie moet tenminste één niet-verborgen uitdaging hebben.
+Controls how many challenges the expedition will have, up to a maximum of five. A point bonus is applied for multiple challenges.|Controleer hoeveel uitdagingen de expeditie zal hebben, tot een maximum van vijf. Een puntenbonus wordt aangebracht voor meerdere uitdagingen.
+Randomizes all challenges at once. Can only be used if no challenge filters are applied.|Kiest willekeurig alle uitdagingen. Kan alleen gebruikt worden als er geen uitdagingsfilters zijn aangebracht.
+Indicates your progress to the next level and how much the current expedition will award. If the bar blinks rapidly then completing the expedition will grant a level. The number at the end of the bar displays how many levels will granted.|Laat jouw voortgang tot het volgende level zien en hoeveel de huidige expeditie zal belonen. Als de bar snel knippert, dan zal het afronden van de expeditie je een level geven. Het nummer aan het einde van de bar geeft aan hoeveel levels gegeven zullen worden.
+Complete quests to unlock additional content such as perks, burdens and music tracks.<LINE><LINE>'Expedition' quests are completed by undertaking an expedition that meets certain requirements, whilst 'Milestone' quests are completed after reaching a specific goal across multiple expeditions.|Voltooi streeftochten om aanvullende inhoud te ontgrendelen zoals voordelen, lasten en muziektracks.<LINE><LINE>'Expeditie' streeftochten worden voltooid door een expeditie te ondergaan die aan bepaalde benodigdheden voldoet, terwijl 'Mijlpaal' streeftochten worden voltooid nadat je, verspreid over meerdere expedities, een bepaald doel hebt bereikt.
+Highlight a quest to see all of its requirements and rewards. Try to put together an expedition that completes multiple quests at once!|Highlight een streeftocht om al zijn benodigdheden en beloningen te zien. Probeer een expeditie in elkaar te zetten dat meerdere streeftochten tegelijkertijd afrondt!
+Grants The Hunter's ability to store spears on their back to other characters. A useful buff for players engaging in combat challenges.|Geeft andere personages De Jager's vaardigheid om speren op hun rug te dragen. Een handige buff voor spelers die aan gevechtsuitdagingen doen.
+Missions are hand-crafted expeditions with specific challenges and starting locations. Some missions may also require you to use a certain Perk or Burden. These cannot be removed, however additional Perks and Burdens can be enabled if desired.|Missies zijn hand-crafted expedities met specifieke uitdagingen en start locaties. Sommige missies benodigen ook het gebruik van een bepaald Voordeel of Last. Hoewel deze niet verwijderd kunnen worden, kunnen aanvullende Voordelen en Lasten naar wens worden ingeschakeld.
+In order to select a mission, you must first unlock all of its requirements. Some quests will require that a mission is completed to grant its rewards. You can also repeat a mission at anytime to strive for the fastest time!|Om een missie te selecteren, moet je eerst alle benodigdheden ontgrendelen. Sommige streeftochten benodigen dat een missie afgerond is voordat de beloningen worden uitgereikt. Je kunt een missie ook op elk moment herhalen om voor de snelste tijd te gaan!
+The Jukebox menu lets you listen to your favourite tracks from Rain World and Rain World: Downpour. All music tracks can be unlocked as rewards for completing quests.|Het Jukebox menu laat je naar je favoriete tracks uit Rain World en Rain World: Downpour luisteren. Alle muziek tracks kunnen worden ontgrendeld als beloningen voor het afronden van streeftochten.
+Repeats the currently selected track|Herhaalt de huidige geselecteerde track
+Set a track to play as the menu theme|Set een track om als menu thema te spelen
+Unlocked via quests, perks can be applied to an expedition to even the odds, granting new tools and abilities for making completing challenges easier. See below for a full list of unlockable perks.|Ontgrendeld via streeftochten, voordelen kunnen aangebracht worden aan een expeditie to even the odds, en geeft nieuwe tools en vaardigheden die het afronden van uitdagingen makkelijker maakt. Kijk hier beneden voor de volledige lijst van ontgrendelbare voordelen.
+Start the expedition with a persistent glow around the player, usually granted by consuming a neuron. Useful in dark environments or when using the BLINDED burden.|Start de expeditie met een constante gloei rond de speler, die je normaal verkrijgt door een zenuwcel te eten. Handig in donkere omgevingen of als je de VERBLIND last gebruikt.
+Start the expedition with a Scavenger Lantern, a portable light source -- and for some slugcats -- a source of vital warmth.|Start de expeditie met een Lantaarn, een draagbare lichtbron (en voor sommige slakkatten een vitale bron van warmte).
+Grants the ability to slow time at will by holding PICK UP and pressing MAP. A visual indicator for the ability's cooldown appears above the cycle timer.|Geeft je de vaardigheid om de tijd op ieder moment te vertragen door OPPAKKEN ingedrukt te houden en op KAART te drukken. Een visuale indicator voor de vaardigheid’s cooldown verschijnt boven de cyclus timer.
+re-enables the use of passages to travel to previously visited shelters and recover all karma while doing so. Rather than being granted by achievements, a passage is awarded for each completed challenge.|Schakelt het gebruik van doorgangen weer in om te reizen naar eerder bezochte schuilplaatsen en op hetzelfde moment al je karma te herstellen. In plaats van verkregen te worden via achievements, wordt een doorgang beloond voor elke afgeronde uitdaging.
+Start the expedition with a Vulture Mask, helping to keep hostile creatures at bay, or make them fleeing targets.|Start de expeditie met een Gierenmasker, die helpt vijandige wezens weg te houden, of maakt hen tot vluchtende doelwitten.
+Start the expedition with reinforced karma. Reinforced karma is the only way to prevent permadeath at the lowest karma level. If the cycle ends in failure, a karma flower will appear at the site of death. Will be permanently lost if not recovered.|Start de expeditie met beschermde karma. Beschermde karma is de enige manier om permadood op het laagste karma level te voorkomen. Als je de cyclus faalt, zal een karma bloem verschijnen op de plek van je dood, die permanent verloren raakt als het niet wordt gepakt.
+Bestows the Spearmaster's dual-wielding ability to other characters. Being able to carry a spear in each hand greatly increases the speed at which you can deal damage.|Geeft de Speermeester’s dual-wielding vaardigheid aan andere personages. De vaardigheid om een speer in beide handen te dragen vergroot de snelheid waarmee je schade kunt aanbrengen.
+Start the expedition with a Singularity Bomb, a devastating weapon that can eliminate even the toughest of creatures, just make sure not to get caught in the blast.|Start de expeditie met een Singulariteitsbom, een vernietigend wapen dat zelfs de sterkste wezens kan elimineren. Zorg er alleen voor dat je zelf niet in de explosie terechtkomt.
+Withstand explosive encounters by borrowing The Artificer's explosion immunity. Useful if unfavored by the Scavengers, or for surviving situations where an explosion may be a last resort.|Doorsta explosieve confrontaties door De Schepper’s explosie immuniteit te lenen. Handig als je een ongunstige relatie hebt met de Schooiers, of voor het overleven van situaties waar een explosie een laatste uitweg is.
+Grants The Gourmand's crafting ability to other characters. Experiment with objects you find by combining them into new ones to help in different situations. Activate by holding UP and PICK UP with an item in each hand.|Geeft andere personages De Bourgondiër's ambachts vaardigheid. Experimenteer met voorwerpen die je vindt door ze te combineren tot nieuwe voorwerpen die helpen in verschillende situaties. Activeer door tegelijkertijd OMHOOG en OPPAKKEN ingedrukt te houden met een voorwerp in iedere hand.
+Increases the chosen characters running and jumping abilities by borrowing The Rivulet's high agility, letting you cross great distances with ease. Less efective for larger characters.|Verhoogt de gekozen personage's rennen en springen vaardigheden door De Waterrat's hoge wendbaarheid te lenen, waardoor je makkelijk grote afstanden kunt overbruggen. Minder Effectief voor grotere personages.
+Start the expedition with the Joke Rifle. Originally shown off as an April Fools joke, the Rifle makes its way into Rain World: Downpour as a useful tool. Experiment by loading different items as ammo by holding the PICK UP button, and fire the Rifle with the THROW button.|Start de expeditie met het Joke Geweer. Eerst een 1 april grap, het Geweer maakt zijn weg in Rain World: Downpour als een handige tool. Experimenteer door verschillende voorwerpen te laden als ammo door de OPPAKKEN knop ingedrukt te houden en vuur het geweer met de GOOIEN knop.
+Shrouds the entire world in an endless night, obscuring danger in every shadow. A light source will be vital for survival.|Dekt de hele wereld in een eindeloze nacht en verstopt gevaar in elke schaduw. Een lichtbron zal vitaal zijn om te overleven.
+Removes the safety net that karma provides, triggering permadeath for any failure. Made only slightly less punishing with the use of the Karma Flower perk.|Verwijdert het veiligheidsnet dat karma geeft, triggering permadood bij elke mislukking. Wordt alleen een klein beetje minder straffend gemaakt met de Karma Bloem perk.
+Makes the player public enemy number one. All hostile creatures in the region will know your location at all times, making standing still a bad choice.|Maakt de speler publieke vijand nummer één. Alle vijandige wezens weten ten alle tijden jouw locatie, wat stilstaan een slechte keuze maakt.
+Something stalks you through the world, endlessly searching for its target. Though not impossible to defeat, it will always return.|Iets stalkt je door de wereld, eindeloos zoekend naar hun doelwit. Hoewel het niet onmogelijk is om het te verslaan, komt het altijd weer terug.
+
+//Jolly Co-op
+JOLLY COOP|VROLIJKE CO-OP
+Difficulty|Moeilijkheid
+Color Mode|Kleur Modus
+INFO_COLOR|Er zijn drie kleur opties:<LINE><LINE>- Standaard: De originele kleuren voor elke slakkat.<LINE>- Automatisch: Laat het spel verschillende kleuren selecteren voor elke slakkat.<LINE>- Aangepast: Pas de kleuren aan met sliders.
+Input Help|Input Help
+Spears hit|Speren raken
+Players: <num_p>|Spelers: <num_p>
+Friendly lizards|Vriendelijke hagedissen
+Player <p_n>|Speler <p_n>
+Camera Input|Camera Input
+Local co-op!|Lokale co-op!
+ADJUST_COLOR|Pas de kleur modus aan
+COLOR_BUTTON|Kleur
+REFER_MANUAL|Lees de handleiding voor meer informatie
+INTRODUCTION|INTRODUCTIE
+DIFFICULTIES|MOEILIJKHEIDS STANDEN
+PIGGYBACKING|MEELIFTEN
+INFO_DIFF|Er zijn drie moeilijkheidsstanden beschikbaar in Vrolijke Co-op:<LINE><LINE>- Op de makkelijke stand hoeft maar één speler een schuilplaats te bereiken.<LINE>- Op de normale stand moeten alle spelers (dood of levend) de schuilplaats bereiken. Zorg ervoor om je gevallen teammaatjes te dragen!<LINE>- Op de moeilijke stand moet elke speler in leven zijn om de cyclus af te ronden.<LINE><LINE>Onthoud dat om te slapen, alle spelers in dezelfde schuilplaats moeten zijn, onafhankelijk van de moeilijkheid!
+INFO_CAMERA|In Vrolijke Co-op wordt de camera gedeeld door alle spelers. Tijdens het spelen, zal er rechtsonder een pijl laten zien wie de camera op dat moment volgt.<LINE>Om de camera te re-target naar jouw speler, druk je op de KAART knop.<LINE><LINE>De Camera Input optie configureert hoe snel je moet drukken, en is vooral een toegankelijkheids optie!
+Spears miss|Speren missen
+No stealing|Geen stelen
+INFO_DIFF_DESCRIPTION|Klik voor meer informatie over moeilijkheids opties
+description_spears_on|Speren die je gooit, zullen andere spelers missen
+MANUAL_INTRODUCTION_1|Vrolijke Co-op laat je de verhaalscampagne en andere spelmodussen spelen met je vrienden! Selecteer jouw favoriete slakkat en ervaar de reis met tot wel 4 spelers.
+MANUAL_PIGGYBACKING_1|In Vrolijke Co-op, de <PICK UP> knop ingedrukt houden naast een speler die aan het bukken is, laat je hen meeliften op je rug. Dit kun je ook doen bij spelers die geïncapaciteerd zijn.
+MANUAL_PIGGYBACKING_2|Je kunt spelers die op je rug zitten, gooien om hoger gelegen plekken of voorwerpen te bereiken. Spelers die gedragen worden, kunnen er ook op elk moment vanaf springen.
+INFO_CAMERA_DESCRIPTION|Klik voor meer informatie over camera opties
+INFO_COLOR_DESCRIPTION|Klik voor meer informatie over kleur opties
+DIFFICULTY INFORMATION|MOEILIJKHEIDS STANDEN INFORMATIE
+description_spears_off|Speren die je gooit, zullen andere spelers raken
+CAMERA INFORMATION|CAMERA INFORMATIE
+description_pup_on|Speler <p_n> zal een welp zijn
+description_hud_on|Verberg speler namen en andere indicaties
+MANUAL_SURVIVING_1|Om succesvol te slapen, moeten alle levende spelers in dezelfde schuilplaats zijn, onafhankelijk van de moeilijkheid! Dit geldt ook voor andere gebeurtenissen, zoals door het passeren van poorten.
+MANUAL_SELECTING_1|Je kunt mixen en combineren als welke slakkatten je speelt! Eerst selecteer je een campagne zoals normaal, wat de wereld en het verhaal bepaalt (dingen zoals benodigd voedsel, wezen spawns, enz.).
+MANUAL_SELECTING_2|Dan breng je het Vrolijke menu op en selecteer je het uiterlijk en vaardigheden van elke individuele speler! Je kunt ook kiezen om als een welp te spelen.
+COLOR INFORMATION|KLEUR INFORMATIE
+Vanilla shortcuts|Vanilla sluipwegen
+Friendly stealing|Vriendelijk stelen
+ADJUST_DIFFICULTY|Pas de moeilijkheid aan
+SURVIVING A CYCLE|EEN CYCLUS OVERLEVEN
+MANUAL_POINTING_1|Je kan communiceren met andere spelers en Schooiers door te wijzen.
+MANUAL_POINTING_2|Om te wijzen, dubbel-klik en houd de <MAP> knop ingedrukt. Terwijl je de <MAP> knop ingedrukt houdt, beweeg je in een richting om te bepalen waar je naar aan het wijzen ben.
+MANUAL_POINTING_3|Wijzen naar een wezen of voorwerp markeert het. Schooiers zullen ook kijken naar waar je aan het wijzen bent!
+Adjust the number of players|Pas het aantal spelers aan
+description_camera_toggle_on|Wanneer je gevolgd wordt door de vragen zal het opnieuw aanvragen ervan het sturen naar de volgende speler
+CLOSE|SLUITEN
+RESET|Reset
+PLAYER_CLASS_INSTRUCTION_MAIN|Om het Speler 1 personage te veranderen, ga je een andere verhaalscampagne.
+description_camera_toggle_off|De camera aanvragen wanneer je al gevolgd wordt, zal niets doen
+description_smart_shorcuts_on|(Aanbevolen) Wanneer je van kamer wisselt, wacht je op andere spelers in sluipwegen
+PLAYER_CLASS_INSTRUCTION|Selecteer het uiterlijk en krachten voor Speler <p_n>.
+PLAYER_CUSTOM_NAME_DESCRIPTION|Klik om de naam van Speler <p_n> te veranderen.
+description_smart_shorcuts_off|Sluipwegen zullen zoals normaal werken
+description_friendlylizards_on|Getemde Hagedissen zullen vriendelijk zijn naar andere spelers
+EASY|MAKKELIJK
+HARD|MOEILIJK
+FAST|SNEL
+SLOW|LANGZAAM
+AUTO|AUTO
+SHOW|LAAT ZIEN
+Body|Lichaam
+Eyes|Ogen
+NORMAL|NORMAAL
+CUSTOM|AANGEPAST
+HUD on|HUD aan
+CAMERA|CAMERA
+DEFAULT|STANDAARD
+HUD off|HUD uit
+description_pup_off|Speler <p_n> zal een normale leeftijd zijn
+description_hud_off|Laat speler namen en andere indicators zien
+COLOR CONFIGURATION|Kleur configuratie
+JOLLY_MANUAL_BUTTON|Handleiding
+SELECTING A SLUGCAT|EEN SLAKKAT SELECTEREN
+MANUAL_DIFFICULTY_1|Er zijn drie moeilijkheids standen beschikbaar in Vrolijke Co-op:
+MANUAL_DIFFICULTY_2|- Makkelijk: maar één speler hoeft een schuilplaats te bereiken.
+MANUAL_DIFFICULTY_3|- Normaal: alle spelers (dood of levend) moeten de schuilplaats bereiken. Zorg ervoor om je gevallen teammaatjes te dragen!
+MANUAL_DIFFICULTY_4|- Moeilijk: elke speler moet nog leven om de cyclus af te ronden.
+description_friendlylizards_off|Getemde hagedissen zullen onbekende spelers aanvallen
+description_friendlystealing_on|Spelers kunnen de voorwerpen uit de handen van andere spelers stelen
+description_friendlystealing_off|Schakelt speler-tot-speler stelen uit
+Camera cycles|Camera wisselt
+ADJUST_CAMERA|Pas de camera toegankelijkheid aan
+Camera doesn't cycle|Camera wisselt niet
+Smart shortcuts|Slimme sluipwegen
+Vanilla lizards|Vanilla hagedissen
+MANUAL_CAMERA_1|In Vrolijke Co-op wordt de camera gedeeld door alle spelers, en volgt een specifieke speler op iedere gegeven tijd. Druk op de <MAP> knop om de camera terug naar jou te richten.
+MANUAL_CAMERA_2|Je kunt instellen hoe snel de <MAP> knop ingedrukt moet worden in het Vrolijke Co-op menu.
+MANUAL_CAMERA_3|Als de camera wisseling optie is ingeschakeld in het Vrolijke menu, zal op de <MAP> knop drukken terwijl de camera je al volgt in plaats daarvan de volgende speler volgen.
+MANUAL_CAMERA_4|De indicator rechtsonder laat een pijl zien bij de speler die op het huidige moment gevolgd wordt door de camera.
+MANUAL_CAMERA_5|Op bepaalde momenten in een campagne kan de camera vastgezet worden op een bepaalde speler; dit wordt aangegeven door een speciaal icoon.
+HUE|Toon
+SAT|Verzad.
+LIT|Licht
+POINTING|WIJZEN
+
+//MMF
+Strong and quick, requiring a steady diet of meat. But the stomach wont be your only<LINE>concern... this path is one of extreme peril where every cycle eats away at an ominous countdown.|Sterk en snel, en benodigd een constant dieet van vlees. Maar je maag zal niet je enige zorg<LINE>zijn... dit pad is er een van extreem gevaar, waar elke cyclus onheilspellend wordt afgeteld.
+Custom colors|Aangepaste kleuren
+tips-distract|Een roofdier dat de weg blokkeert kan op veel manieren overkomen worden. Creëer een<LINE>afleiding, lok ze weg met geluid, gebruik een opoffering dat ze kunnen eten<LINE>in plaats van jou, enz.
+tips-hoarding|Zelfs als je buik gevuld is, kun je extra spullen verstoppen<LINE>in je schuilplaats om toekomstige cyclussen wat gemakkelijker voor jezelf te maken.
+tips-prepared|Reis niet met lege handen. Het onmiddellijk toegang hebben tot voorwerpen kan het<LINE>verschil uitmaken tussen leven of dood… je weet nooit wanneer je ze nodig zult hebben.
+tips-backflip|Wissel snel van de richting waarin je beweegt en druk tegelijkertijd op de springen<LINE>knop. Dit initieert een backflip, die iets hoger is dan een<LINE>gewone sprong. Backflips kunnen ook gebruikt worden om een rol te initiëren.
+tips-vertpole|Op het hoogste punt van een backflip, gooi een speer neerwaarts om een verticale paal in de grond<LINE>te maken. Gebruik dit om het aantal plekken dat je kan bereiken nog verder uit te breiden.
+tips-wanderer|De Dwaler heeft iedere uithoek van de wereld gezien en al dat het te bieden heeft.<LINE>De reis er buiten is alleen maar een andere stap voor hen.
+Body|Lichaam
+Eyes|Ogen
+HIGH|HOOG
+Restore Default|Herstel Standaard Configutatie
+Back to options|Terug naar opties
+tips-spearstick|Speren kunnen in oppervlaktes gestoken worden om geïmproviseerde palen te maken. Gebruik dit<LINE>om nieuwe routes te openen en naar voorheen ontoegankelijke locaties te gaan.
+tips-batharvest|Stoot vleervliegen uit de lucht met projectielen om het makkelijker te maken om ze te vangen.<LINE>Doorsteek ze met speren om er meerdere tegelijk te vangen.
+tips-reputation|Jouw acties beïnvloeden jouw reputatie in de ecosysteem’s bevolking.<LINE>Wees vrijgevig, zelfs naar jouw vijanden en misschien wordt de gunst later teruggekeerd.<LINE>Anders wordt je door allen bejaagd.
+tips-throwboost|Een voorwerp gooien terwijl je in de lucht bent, geeft je een kleine boost in richting waarin je het gegooit hebt.<LINE>Gebruik dit om de horizontale afstand die je met je sprongen aflegt te vergroten.
+tips-tunnelturn|Terwijl je door een nauwe gang kruipt, houdt de springen knop en tegenovergestelde richting ingedrukt om om te keren.<LINE>Je beweegt sneller als je in dezelfde richting kruipt als waar je naar kijkt.
+tips-powerthrow|Een speer vooruit gooien tijdens een slide geeft de speer extra snelheid<LINE>en impact. Dit kan wezens voor een langere tijd verlammen en kan<LINE>door bepaalde verdedigingen heen steken.
+tips-superslide|Gooi een object naar achteren tijdens een slide om de afgelegde afstand<LINE>dramatisch te vergroten.
+tips-wallpounce|Een krachtsprong uitvoeren in de richting van een muur en op de springen knop drukken op het moment van impact terwijl<LINE>je in de richting van muur drukt, vergroot de terugkaatsende kracht van je muursprongen sterk.
+HUE|KLEUR
+SAT|VERZAD.
+LIT|LICHT
+LOW|LAAG
+CHOOSE|KIEZEN
+MEDIUM|MEDIUM
+Oh no.|Oh nee.
+Analog Sensitivity|Analoog Gevoeligheid
+tips-deathrecovery|De voedselketen is complex. Als je geluk hebt, zelfs nadat je gegrepen bent door een wezen,<LINE>kunnen ze later hun greep op jou kwijtraken als ze in de penarie raken of zelf opgegeten worden!
+tips-utilitycreats|Niet alle wezens zijn roofdieren die vermeden moeten worden. Er zijn ook vele wezens<LINE>die je van pas kunnen komen tijdens je reis.
+FPS Limit|FPS Limiet
+Unlimited|Ongelimiteerd
+tips-drop|Tegelijkertijd op omlaag en de oppakken knop drukken, laat je het voorwerp in je hand op de grond<LINE>plaatsen zonder het te gooien. tips-roll|Terwijl je een grote afstand valt, houd diagonaal neerwaarts ingedrukt om een rol te initiëren<LINE>op het moment van contact met de grond. Dit verkleint de impact van de val en geeft<LINE>wat extra mobiliteit.
+tips-swim|Beweeg in een gecontroleerde kronkelende beweging onderwater om je zwemsnelheid te<LINE>verbeteren. Kronkel je lichaam ritmisch op en neer, of links en rechts.
+tips-monk|De Monnik is het pad van de prooi. Verzamelend in de wildernis van de wereld om te overleven,<LINE>maar dit pad garandeert geen veiligheid in een wereld van roofdieren.
+Quality|Kwaliteit
+Backgrounds|Achtergronden
+tips-crouch|Je hoeft omlaag niet ingedrukt te houden om gebukt te blijven. Druk een keer op omlaag om in de kruipende staat<LINE>te gaan, en druk op omhoog om weer rechtop te staan.
+tips-escape|Wanneer mogelijk, is het beter om confrontatie te vermijden en te ontsnappen aan gevechten.<LINE>Veel roofdieren zijn krachtig en gevaarlijk, dus wordt niet overmoedig.
+tips-cheese|Gebruik pijpen om van plek te wisselen met een roofdier dat jou aan het achtervolgen is. Dit kan een<LINE>makkelijke manier zijn om ze af te schudden.
+tips-cannon|Druk op de springen knop terwijl je uit een pijp komt om jezelf snel naar<LINE>buiten te schieten.
+tips-martyr|De Lijder verwerpt hun eigen overleving, wegkwijnend totdat hun lichaam tot stof vergaat.
+tips-hunter|De Jager is het pad van het roofdier, maar in deze harde en ongevoelige wereld garanderen<LINE>de buiten van hun jacht niet altijd hun overleving.
+tips-outlaw|De Vogelvrije leeft het leven op het strijdveld. Allen die in de buurt komen, worden geslagen, zowel vriend als vijand.
+tips-friend|De Vriend omarmt de ander en het onbekende. De wereld is hard en onvergeeflijk,<LINE>maar samen kan er comfort en bescherming worden gevonden.
+Old tongue controls?|Oude tong controls?
+Enable wallpouncing?|Schakel muur-aanvalsssprongen in?
+Enable speedrun timer?|Schakel de speedrun timer in?
+CONFIGURE TITLE SCREEN|CONFIGUREER TITEL SCHERM
+Keep your friend safe!|Houd je vriend veilig!
+I must resume my work.|Ik moet verder met mijn werk.
+Enable shelter item transport?|Schakel schuilplaats voorwerp transport in?
+<CapPlayerName>, are you okay?|<CapPlayerName>, gaat het goed?
+Enable slug senses?|Schakel slakkenzintuigen in?
+CONFIGURE SUB MENUS|CONFIGUREER SUB MENUS
+Show tips between cycles?|Laat tips tussen cyclussen in zien?
+Enable Developer Commentary?|Schakel Ontwikkelaar’s Commentaar in?
+Change graphics quality|Verander de kwaliteit van de graphics
+Take your pet with you.|Neem je huisdier met je mee.
+Change menu background images|Verander menu achtergrond afbeeldingen
+Display a speedrun timer at the top of the screen during gameplay?|Laat tijdens het spelen een speedrun timer zien aan de bovenkant van het scherm?
+Activate tongue abilities with the throw button instead of the jump button?|Activeer tong vaardigheden met de gooien knop in plaats van de springen knop?
+Allow passages to transport key items in your shelter to your new destination?|Laat doorgangen sleutel voorwerpen in je schuilplaats naar je nieuwe bestemming transporteren?
+Allow nearby creatures and key items to be visible as icons on slugcat's memory map?|Laat dicht bijzijnde wezens en sleutel voorwerpen als zichtbare iconen op de slakkat’s geheugen kaart verschijnen?
+Enable slugcat's wall pouncing ability from legacy Rain World versions?|Schakel de slakkat’s muur krachtsprong vaardigheid in van oudere Rain World versies?
+Spawn developer commentary collectables in the single player campaigns?|Laat ontwikkelaar’s commentaar verzamelbare objecten verschijnen in de een-speler campagnes?
+Periodically show survival hints and explain gameplay mechanics for new players?|Laat af en toe overlevings hints zien en leg spel mechanieken uit voor nieuwe spelers?
+Configure the background image used on the title screen|Configureer de achtergrond afbeelding die op het titelscherm wordt gebruikt
+Configure the background image used in the sub menus|Configureer de achtergrond afbeelding die in sub menu’s wordt gebruikt
+Wiggling around quickly might startle this creature.|Hard rondspartelen kan dit wezen afschrikken.
+I am afraid to ask how you brought your friend here.|Ik ben bang om te vragen hoe jij je vriend hier binnen hebt gebracht.
+tips-clock|Op de kaart knop drukken laat je ook andere informatie zien zoals jouw voedsel bar.<LINE>De cirkel van stippen linksonder representeren de tijd die er over is tot de regen komt.<LINE>Houd het goed in de gaten!
+tips-rocks|Stenen zijn misschien geen dodelijk wapen, maar hebben vele praktische gebruiken. Ze<LINE>kunnen afleiden, afweren, ontwapenen, verlammen, zwakke plekken laten zien, wezens van palen en<LINE>richels stoten, enz!
+tips-audio|Geluiden zijn vaak je eerste teken van inkomend gevaar, zelfs voordat<LINE>het gevaar zichtbaar is. Luister aandachtig.
+tips-slide|Druk diagonaal neerwaarts plus de springen knop terwijl je beweegt om een slide te initiëren.<LINE>Je zal glijdend over de grond voor een korte tijd snel afstanden<LINE>afleggen.
+tips-noise|Wezens kunnen je aanwezigheid niet alleen via zicht detecteren, maar ook via geluid. Be<LINE>mindful about being too loud, otherwise you may attract unwanted attention.
+tips-saint|De Heilige is een pad van pacifisme. Om pijn aan een ander aan te brengen is om pijn aan de zelfe aan te brengen.
+tips-nomad|De Nomade ervaart een constant veranderende wereld en leeft ieder leven als stappen in een<LINE>eindeloze reis naar een onbekend doel.
+Calm down!|Kalmeer!
+tips-pipeflash|Pijp ingangen flitsen wanneer er gevaar is aan de andere kant. De kleur van de flits<LINE>kan een aanwijzing zijn voor het soort gevaar.
+tips-foodtypes|Vleervliegen en hangend fruit zijn verre van de enige bronnen van voedsel. Sommige planten<LINE>en wezens zijn eetbaar, maar alleen onder bepaalde condities. Experimenteer.
+tips-handorder|Het voorwerp in je rechterhand is het primaire voorwerp dat als eerste gebruikt of gegooid wordt.<LINE>Druk twee keer op de oppakken knop om voorwerpen tussen je twee handen te wisselen.
+tips-slideleap|Druk op springen tijdens een slide of een rol om het in een lange sprong te ketenen. Gebruik dit om<LINE>je mobiliteit te maximaliseren en snel grote afstanden af te leggen.
+tips-turnboost|Snel van bewegingsrichting veranderen, geeft je kort een kleine snelheidsboost in de nieuwe richting.<LINE>Blijf hierna springen om de snelheidsboost langer te behouden.
+tips-chieftain|Het Opperhoofd omarmt de kracht en gemeenschap in het onbekende. Ze zijn deel<LINE>geworden van deze wereld, en met hun nieuwe banden, zullen ze die overleven.
+tips-swallow|Kleine, niet-eetbare voorwerpen kunnen veilig in je maag bewaard worden door<LINE>de oppakken knop voor een paar seconden ingedrukt te houden. Houd het een tweede keer ingedrukt om<LINE>het voorwerp  uit te spugen.
+tips-breathe|Besteed aandacht aan je ademhaling voordat je onderwater gaat. Als je zwaar ademhaalt,<LINE>sta stil en geef jezelf een seconde om op adem te komen.
+tips-polehop|Op de springen knop drukken vlak voordat je een horizontale paal aanraakt,<LINE>laat je op de paal springen. Dit kan meerdere keren herhaald worden om snel over palen te hoppen.
+tips-scholar|De Leergierige probeert de wereld te begrijpen zoals het ooit was. Kijkend in een<LINE>gekristaliseerd verleden, en vindt er nieuwe mening in.
+tips-deathpenalty|Dood maakt weinig uit tot je klaar bent om verder te gaan. Gooi je voorzichtigheid overboord en experimenteer,<LINE>ontdek, leer de opmaak van het land, leer<LINE>voedsel locaties, enz.
+tips-shelterstore|Voorwerpen verstopt in schuilplaatsen blijven daar tussen cyclussen in, en blijven daar zelfs<LINE>als je het gebied verlaat. Ze zijn de enige plek waar je kostbaarheden veilig zijn<LINE>voor de regen!
+tips-dragonslayer|De Drakendoder omarmt de jacht. Ze hebben de beesten van deze wereld tot aan hun hielen gebracht.
+What did you do!?|Wat heb je gedaan!?
+Stop it! Go away!|Stop dat! Ga weg!
+tips-tunnelboost|Druk op de springen knop terwijl je in een krappe gang kruipt om jezelf<LINE>een kleine snelheidsboost te geven.
+tips-slidecancel|Tijdens een slide, druk snel op de springen knop plus de tegenovergestelde richting waarvan<LINE>je heen gaat. Dit annuleert de slide en brengt je terug naar waar je begon.
+The use of some objects may not be obvious at first glance, experiment with everything you find!|Het gebruik van sommige voorwerpen is op het eerste ogenblik niet vanzelfsprekend, experimenteer met alles wat je vind!
+There are many paths to explore in this world.|Er zijn vele paden te ontdekken in deze wereld.
+If you are struggling, try returning to a previous region.|Als je het moeilijk hebt, kun je proberen terug te keren naar een vorig gebied.
+You may find a new path forward, or discover something that makes your survival here easier.|Je vind misschien een nieuw pad vooruit, of ontdekt iets dat het overleven hier makkelijker maakt.
+However, there is nothing that stops you from overcoming this region's challenges as you are right now.|Maar er is niets dat je ervan weerhoudt om dit gebied’s uitdagingen nu te overkomen.
+Your friend is very large, how did you fit them in here?|Jouw vriend is erg groot, hoe kreeg je hen hierbinnen?
+How did you bring that in here... I think it is as surprised as I am!|Hoe kreeg je dat hierbinnen… Ik denk dat het net zo verrast is als ik ben!
+Oh, that is not a friend...|Oh, dat is geen vriend...
+Oh...|Oh...
+I do enjoy the company of you and your friend though, <PlayerName>.|Ik geniet wel van het gezelschap van jou en je vriend, <PlayerName>.
+Is this your friend, <PlayerName>?|Is dat jouw vriend, <PlayerName>?
+Best of luck to you, and your companion. There is nothing else I can do.|Veel geluk naar jou, en je reisgenoot. Er is verder niks dat ik kan doen.
+Please do not bring more wildlife into my chamber.|Breng alsjeblieft niet meer wild naar mijn kamer.
+How did you fit them inside here anyhow?|Hoe kreeg je hen überhaupt hier binnen?
+Take your friend with you. Please. I beg you.|Neem je vriend met je mee. Alsjeblieft. Ik smeek je.
+
+//1.9.15
+Stops nearby explosions causing a ringing sound to play|Weerhoud nabije explosies ervan om een ringend geluid te laten spelen
+No Ringing in Ears|Geen gering in oren
+STORY DATA|VERHAAL GEGEVENS
+backup_restore_confirm|JOUW HUIDIGE OPGESLAGEN GEGEVENS ZULLEN VERWIJDERD WORDEN!<LINE><LINE>Het kiezen om te herstellen zal de opgeslagen gegevens in AL jouw opgeslagen gegevens slots overschrijven met de gegevens van deze backup.<LINE>Deze operatie is permanent en kan niet ongedaan worden gemaakt.<LINE><LINE>Weet je zeker dat je jouw huidige opgeslagen gegevens wilt overschrijven met de gegevens van {X}?
+backup_restore_success|De opgeslagen gegevens van {X} zijn  hersteld.
+backup_info_disclaimer|(Gegevens hier zijn gebaseerd op jouw huidige ingeschakelde mods.<LINE>Er kunnen nog aanvullende gegevens bestaan van mods die op het huidige moment uitgeschakeld zijn)
+Issues found while loading mods!<LINE>Disabling problematic mods.<LINE>Press continue and then launch the game again.|Problemen gevonden tijdens het laden van mods!<LINE>Problematische mods aan het uitschakelen.<LINE>Druk op verdergaan en start het spel dan opnieuw op.
+Desync detected between user mod data and game mod data!<LINE>Re-sycing data.<LINE>Press continue and then launch the game again.<LINE>Disabled mods:|Desync gedetecteerd tussen gebruiker mod gegevens en spel mod gegevens!<LINE>Gegevens aan het her-synchroniseren.<LINE>Druk op verdergaan en start het spel dan opnieuw op.<LINE>Uitgeschakelde mods:
+
+//Arena
+Gathering|Verzamelen
+Theft|Diefstal
+Centipede Maze|Duizendpoot Doolhof
+Competition|Competitie
+Bobbing and Popping|Hoppen en Ploppen
+Hunting Grounds|Jachtgronden
+Flying Feast|Vliegend Feestmaal
+Fair Trade|Eerlijke Handel
+Air Strike|Luchtaanval
+Rescue|Redding
+Shaded Banquet|Verduisterd Banket
+Little Bites|Kleine Hapjes
+Full Stomach|Volle Buik
+Suburban|Randen
+Linear Farms|Uitgestrekte Akkers
+Limited Ammunition|Beperkte Ammunitie
+Deadly Traps|Dodelijke Vallen
+Plummet|Bommetje
+Glimmering Buffet|Glinsterend Buffet
+Infinite Utility|Oneindige Nuttigheid
+Babysitting|Babysitten
+Noot Scoot|Met Spoedige Toet
+Incubation|Incubatie
+Flushed|Weggespoeld
+Lamplighter|Lantaarnopsteker
+Surrounded|Omsingeld
+Blast Fishing|Explosief Vissen
+Hard Boiled|Hardgekookt
+Perfect Parries|Perfect Geblokkeerd
+Patrol|Patrouille
+Sheep Dog|Herdershond
+Shocking Pursuit|Schokkende Achtervolging
+Wandering Lights|Dwalende Lichten
+Electric Threading|Elektrisch Rijgen
+Relentless Leapers|Meedogenloze Springers
+Snow and Ash|Sneeuw en As
+Daddy World|Rot Wereld
+Claustrophobia|Claustrofobie
+Caustic Vats|Bijtende Vaten
+Target Practice|Schietoefening
+Mudskipper|Slijkspringer
+Failed Inspection|Gefaalde Inspectie
+Descending Snips|Neerdalend Geknip
+Endurance|Uithoudingsvermogen
+Malevolent Pacifism|Kwaadaardig Pacifisme
+Minefield|Mijnenveld
+Opposition|Oppositie
+Flaming Pursuit|Vurige Achtervolging
+Moving Target|Bewegend Doelwit
+Stygian Depths|Stygische Dieptes
+The Stash|De Voorraad
+Corridor Patrol|Gang Patrouille
+Swing to Survive!|Slinger om te Overleven!
+Precarious Danglefruit|Riskant Hangfruit
+Dragon Slayer|Drakendoder
+No Turning Back|Geen Weg Terug
+Acidic Popcorn|Zure Popcorn
+Lizards Reloaded|Hagedissen Herladen
+Armor Piercing Rounds|Pantser-Doordringende Schoten
+Hyper Light Transfer|Vederlicht Transport
+Extreme Multitasking|Extreem Multitasken
+Toxic Distillery|Giftige Stokerij
+Micro-Ecology|Micro-Ecologie
+Sliver of Straw|Versplinterd Stro
+
+Amphitheater|Amfitheater
+Frame|Geraamte
+Levels|Verdiepingen
+Platforms|Platformen
+Warehouse|Warenhuis
+Blocks|Blokken
+Chamber|Kamer
+Stoneheads|Steenhoofden
+Hole|Gat
+Shafts|Schachten
+Stove Pipes|Kachelpijpen
+Scaffolding|Steiger
+Thrones|Tronen
+Grid|Rooster
+Pit|Put
+Pylons|Pylonen
+Refinery|Raffinaderij
+Waterworks|Waterwerken
+Cabinets|Kabinetten
+Hive|Korf
+Planters|Poters
+Cistern|Reservoir
+Filters|Filters
+Water Reactor|Water Reactor
+Antenna|Antennes
+Array|Opstelling
+Summit|Top
+Accelerator|Versneller
+Islands|Eilanden
+Joint|Gewricht
+Waste Deposit|Afvalstorting
+Cave|Grot
+Nest|Nest
+Shortcuts|Sluipwegen
+Roof|Dak
+Sky Lobby|Hemelportaal
+Memory Bypass|Geheugen Omleiding
+Rust Core|Roestkern
+Side Paths|Zijwegen
+Void Shrine|Leegte Tempel
+Conflux|Samenvloeiing
+Dark Tower|Donkere Toren
+Railway|Spoorweg
+Sun Baked|Zongebakken
+Decaying Construct|Rottende Constructie
+Lightning Machine|Bliksemmachine
+Barrens|Dorre Streken
+Twisted Ruin|Verwrongen Ruïne
+Gantry|Hijsbalk
+Towering|Torenhoog
+Sea Spires|Zee Spitsen
+Substructure|Substructuur
+Acid Field|Zuur Veld
+Crawl Space|Kruipruimte
+Man Eater|Haaienbek
+Muck Machine|Drab Machine
+Rock Bottom|Steenbodem
+Filtration Node|Filtratieknoop
+Submerged|Onderzees

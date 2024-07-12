@@ -1,0 +1,36 @@
+﻿0-154
+10 : Ah! : 10
+
+SPECEVENT : WanderChamber
+
+10 : Sleek little one... Did you do this? : 10
+
+10 : I feel as if pulled out of a deep sleep. I am still trying to process all of this. It has been so long since<LINE>I've had a connection like this with my structure. : 10
+
+SPECEVENT : WanderChamber
+
+10 : Alles is herstart in maintenance modus...  Het lijkt erop dat het al mijn overzichters heeft bevolen om terug te keren.<LINE>Met mijn navelstreng gebroken kan ik mijn structuur niet direct opereren, maar met hen als boodschappers<LINE>ben ik wat van mijn kamer's funtionaliteit aan het herstellen! Met een beetje geluk, zou ik moeten kunnen... : 10
+
+SPECEVENT : RivScreen1
+
+10 : Ah! Daar gaan we! : 10
+
+10 : Er is zoveel hier... Zoveel dat ik vergeten ben... Ik zal nooit zijn wat ik ooit was, maar dit... Het spijt me. Het is moeilijk to piece<LINE>all of this together. Er is zoveel gebeurd in mijn afwezigheid. : 10
+
+SPECEVENT : WanderChamber
+
+10 : Ik heb alleen ongelezen boodschappen, en overzichter opnames to make sense of what I've missed. Sommige van deze zijn zelfs van voor mijn instorting! : 10
+
+SPECEVENT : RivScreen2
+
+10 : Ongelofelijk... : 10
+
+10 : Metaalslakken reset sleutels, een boodschapper, die mij redt? Geen Aanzienlijke Intimidatie was er nooit een die makkelijk opgaf! Maar ik begrijp nog steeds niet<LINE>al het andere dat er gebeurd is. Is het allemaal toeval geweest? Hebben de anderen mij ook hulp gestuurd? : 10
+
+SPECEVENT : WanderChamber
+
+10 : Dan is er Vijf Kiezels. Hij was ziek zelfs voordat ik instortte, en zijn staat moet sindsdien alleen maar verslechterd zijn. Het lijkt alsof<LINE>hij nauwelijks ademhaald. Als er nog iets van hem over is... ik... : 10
+
+SPECEVENT : WanderChamber
+
+10 : We waren ooit goede vrienden, ondanks alles dat er gebeurde. Hij is waarschijnlijk alleen en bang nu... : 10

@@ -1,0 +1,10 @@
+﻿0-156
+SPECEVENT : SitDown
+
+10 : Ik weet dat hij de kans die we allebei hebben gekregen zal begrijpen! Zelfs als hij nog steeds diezelfde boosheid behoudt als hij ooit deed... : 10
+
+SPECEVENT : RivEndingFade
+
+10 : We moeten het nog steeds proberen. Laten we de zaken rechtzetten, kleine vriend. : 10
+
+SPECEVENT : RivEndingCredits

@@ -1,0 +1,14 @@
+﻿0-155
+SPECEVENT : RivScreen3
+
+10 : "Ik kan niet voor eeuwig van mijn fouten wegrennen; Begrijp het alsjeblieft." Vijf Kiezels, wat heb je gedaan... Ik heb al zoveel<LINE>gekregen, en nu heb je me alles gegeven wat je over had. : 10
+
+SPECEVENT : SitDown
+
+10 : Het maakt niet uit wat er gebeurd is tussen ons. Als hij nog steeds diezelfde boosheid hield als hij ooit deed, dan zou geen van dit ooit mogelijk zijn<LINE>geweest. Wij hebben de kans gekregen om dingen recht te zetten, en hij verdient het om te weten dat wat hij gedaan heeft niet nutteloos was. : 10
+
+SPECEVENT : RivEndingFade
+
+10 : Ik ben zo dankbaar, voor alles. : 10
+
+SPECEVENT : RivEndingCredits

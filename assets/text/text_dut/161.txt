@@ -1,0 +1,16 @@
+﻿0-161
+SPECEVENT : SitDown
+
+10 : Hallo. Jij kunt me verstaan, niet waar? : 80
+
+10 : Wat een ongewoon wezen ben jij. Door wat<LINE>mechanisme heb je zulke afstemming bereikt? : 60
+
+10 : ... : 40
+
+10 : It has been a while since I had a life form like you stumble into my chamber. : 10
+
+10 : While I'm relieved that some of your species have managed<LINE>to persist even now, I don't envy your situation. : 10
+
+10 : Hopelijk kun je een uitweg vinden voor jou lijdensweg. : 10
+
+10 : Tot dan zal ik hier zijn, als mijn gezelschap jou comfort brengt. : 10

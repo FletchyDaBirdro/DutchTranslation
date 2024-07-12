@@ -1,0 +1,14 @@
+﻿0-chatlog_si1
+[INKOMEND VERZOEK] COMMUNICATIE MANIFEST
+
+[[FILTER]] Bericht Geblokkeerd - Alle inkomende bronnen zijn momenteel uitgeschakeld.
+
+BERICHT INHOUD:
+
+GAI: Vijf Kiezels, ik zal het nog een keer zeggen. Je moet ophouden. Onmiddelijk.
+
+GAI: Ik weet dat je dit bericht zult weggooien, net als de rest, maar...
+
+GAI: Ik hoop dat als je uiteindelijk uit deze gedachtegang komt, je op deze berichten terug zult kijken.
+
+GAI: Dat je terug zult kijken en gaat reflecteren op al die schuldgevoelens die je door jouw daden zult gaan hebben.

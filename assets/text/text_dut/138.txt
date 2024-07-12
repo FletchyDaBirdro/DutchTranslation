@@ -1,0 +1,26 @@
+﻿0-138
+Arm ding. Er zijn geen bestanden van jouw lichaam's blauwdrukken. Noch is het redelijk om<LINE>aan te nemen dat jouw extreme aanpassingen mogelijk zijn via... natuurlijke manieren.
+
+Het lijkt er ook op dat er in jouw lichaam een soort data opslag medium zit.
+
+0 : Dappere boodschapper... Wat ben jij? : 60
+
+Ik zou de data binnen jouw lichaam kunnen lezen, maar dat proces kan meerdere<LINE>cyclussen duren. Tijd die me jammer genoeg ontbreekt.
+
+Ik kan de parel ook uit jou halen, maar dat proces zal erg onaangenaam voor jou zijn. Ik geloof ook niet<LINE>dat de inhoud is geadresseerd aan mij. Als je inderdaad een boodschapper bent, dan spoor ik je aan om verder te gaan.
+
+0 : Er is... : -30
+
+SPECEVENT : panic
+
+0 : Er is e... e e e : -30
+
+0 : ... : 720
+
+0 : ... Er is een andere zoals mij in de buurt, zijn naam is Vijf Kiezels. : 60
+
+Alsjeblieft. Schiet op naar zijn structuur. Ik ben niet in staat om hem te kalmeren, en zijn overdadige uitvoer veroorzaakt<LINE>onherstelbare schade aan mijn eigen structuur. Ik weet niet hoe lang ik staande zal blijven.
+
+Er is een verhoogde kabel die onze installaties verbindt. Het oversteken van die brug is veiliger dan om te<LINE>proberen Vijf Kiezels van de grond te beklimmen. 
+
+0 : Schiet op, kleine boodschapper! : 60

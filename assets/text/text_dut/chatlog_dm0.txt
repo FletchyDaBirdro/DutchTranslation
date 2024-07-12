@@ -1,0 +1,16 @@
+﻿0-chatlog_dm0
+[UITGAAND VERZOEK] COMMUNICATIE MANIFEST
+
+[[ERROR]] KAN NIET VERZENDEN - Misvormde Bericht Kop
+
+BRON KNOOP SPOOR: KNDM_WORTEL, KNDM_COMM06 || BESTEMMING: (NULL)onbekende groep
+
+BERICHT INHOUD:
+
+GZM: Als er iemand berichten... ontvangt
+
+GZM: ...n probleem
+
+GZM: Ik weet niet zeker wat ik moet doen.
+
+GZM: Antwoord alsjeblieft.
