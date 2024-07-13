@@ -1,0 +1,9 @@
+Landscape title shadow guide
+-----------------------------------------
+
+Layer 1: Main text coloured fully black
+Layer 2: Copy of Layer 1; Gaussian blur (40%)
+Layer 3: Copy of Layer 2
+Layer 4: Copy of Layer 1; Gaussian blur (7%)
+
+Not exactly like base game but good enough.

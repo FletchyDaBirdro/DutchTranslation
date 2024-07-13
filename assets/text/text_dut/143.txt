@@ -1,40 +1,40 @@
 ﻿0-143
 0 : .  .  . : 60
 
-0 : ...is this reaching you? : 60
+0 : ...komt dit bij jou binnen? : 60
 
 PEBBLESWAIT : 20
 
-0 : I suppose it was only a matter of time before you ended up here. : 30
+0 : Ik neem aan dat het alleen maar een kwestie van tijd was voordat jij hier eindigde. : 30
 
-Your journey throughout my facility grounds has been incessantly brought<LINE>to my attention by my overseers, thanks to the device that follows you.
+Jouw reis over mijn faciliteitsgronden heeft onophoudelijk de aandacht<LINE>naar mij getrokken via mijn opzichters, dankzij het apparaat dat jou volgt.
 
-It is the citizen ID drone of one of my long departed creators. It seems<LINE>to have been damaged, and imprinted itself with you on reactivation.
+Het is de inwoners ID drone van een van mij makers die lang heengegaan is. Het lijkt<LINE>beschadigd te zijn, en zichzelf ingeprent te hebben op jou tijdens reactivatie.
 
-Much of the data on the drone has been corrupted. Allow me to do my duty as an Iterator and resync it to my structure.
+Het grootste deel van de data in deze drone is beschadigd. Sta mij toe mijn plicht als een Iterator te doen en het te hersynchroniseren met mijn structuur.
 
 SPECEVENT : resync
 
 0 : .  .  . : 60
 
-1000 : Little ruffian. You are stuck in a cycle, a repeating pattern. I assume you have come here because you want a way out. : 30
+1000 : Kleine onruststoker. Jij zit vast in een cyclus, een herhalend patroon. Ik neem aan dat jij hier gekomen bent omdat jij een weg uitzoekt. : 30
 
-However, there is little I can do. A primal urge, one that tears from deep inside your very core, keeps you bound here.
+Maar er is weinig dat ik kan doen. Een primitief impuls, een dat rijt van diep binnen in jouw binnenste, houdt jou hier vastgebonden.
 
-0 : Even with my divine influence, there is nothing that can be done. : 30
+0 : Zelfs met mijn goddelijke invloed, is er niets dat er gedaan kan worden. : 30
 
-However, if you intend to carry that device around and masquerade as one of my citizens, then perhaps<LINE>you can at least properly perform your responsibility of tending to this superstructure.
+Hoewel, als jij vastbesloten bent om dat apparaat rond te dragen en zich voor te doen als een van mijn inwoners, dan kun jij<LINE>misschien op zijn minst fatsoenlijk jouw verantwoordelijkheid voor het onderhouden van deze superstructuur nakomen.
 
-From the glimpses I've been shown of your journey so far, it is apparent you have a need to inflict violence<LINE>against the scavenger population. While I find your way of life appalling, it seems we share a common enemy.
+Van de glimpen die ik heb opgevangen van jouw reis tot zo ver, is het duidelijk dat jij een behoefte hebt om geweld toe te brengen<LINE>aan de schooier populatie. Hoewel ik jouw manier van leven weerzinwekkend vind, lijkt het erop dat we een gemeenschappelijke vijand hebben.
 
-A large pack of them has made a home in my city, and have been causing progressive damage to<LINE>the roof of my structure in their attempts to gather scrap metal and other mechanical parts.
+Een grote troep van hen heeft zich huisgemaakt in mijn stad, en zijn progressieve schade aan het dak<LINE>van mijn structuur aan het veroorzaken in hun pogingen om schroot metaal en andere mechanische onderdelen te verzamelen.
 
-0 : As my dutiful citizen, I would encourage you to return home to your city and pay them a visit. : 30
+0 : Als mijn plichtsgetrouwe inwoner, moedig ik jou aan om terug naar huis te keren en hen een bezoekje te brengen. : 30
 
-0 : Perhaps in that way, we can both depart from this interaction with something we desire. : 30
+0 : Misschien op die manier, komen wij beide uit deze interactie met iets waar wij naar wensen. : 30
 
 0 : ... : 60
 
-0 : I wish you the best in your travels, citizen.: 30
+0 : Ik wens jou veel geluk met jouw reizen, inwoner. : 30
 
-0 : But unless you have something interesting to show or bring to me, it is time for you to leave. : 60
+0 : Maar tenzij jij iets interessants hebt om aan mij te laten zien, is het tijd voor jou om te gaan. : 60

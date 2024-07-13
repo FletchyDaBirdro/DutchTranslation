@@ -1,6 +1,6 @@
 ﻿0-158
-30 : You get these at Five Pebbles'?<LINE>Thank you so much. I'm sure he won't mind. : 10
+30 : Haalde je deze bij Vijf Kiezels'?<LINE>Dank je wel. Ik weet zeker dat hij het niet erg vindt. : 10
 
 10 : ... : 0
 
-10 : Or actually I'm sure he would, but he has so many of these<LINE>it doesn't make any difference to him.<LINE>For me though, it does! Thank you, little creature! : 0
+10 : Of eigenlijk zou hij dat wel vinden, maar hij heeft zoveel van deze<LINE>dat het voor hem geen verschil uitmaakt.<LINE>Maar voor mij doet dat het wel! Bedankt, klein wezen! : 0

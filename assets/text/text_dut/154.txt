@@ -3,23 +3,23 @@
 
 SPECEVENT : WanderChamber
 
-10 : Sleek little one... Did you do this? : 10
+10 : Glanzend kleintje... Heb jij dit gedaan? : 10
 
-10 : I feel as if pulled out of a deep sleep. I am still trying to process all of this. It has been so long since<LINE>I've had a connection like this with my structure. : 10
+10 : Ik voel me alsof ik uit een diepe slaap ben getrokken. Ik ben dit nog steeds aan het proberen te verwerken. Het is lang geleden sinds<LINE>ik zo’n connectie heb gehad met mijn structuur. : 10
 
 SPECEVENT : WanderChamber
 
-10 : Alles is herstart in maintenance modus...  Het lijkt erop dat het al mijn overzichters heeft bevolen om terug te keren.<LINE>Met mijn navelstreng gebroken kan ik mijn structuur niet direct opereren, maar met hen als boodschappers<LINE>ben ik wat van mijn kamer's funtionaliteit aan het herstellen! Met een beetje geluk, zou ik moeten kunnen... : 10
+10 : Alles is herstart in onderhoudsmodus...  Het lijkt erop dat het al mijn opzichters heeft bevolen om terug te keren.<LINE>Met mijn navelstreng gebroken kan ik mijn structuur niet direct opereren, maar met hen als boodschappers<LINE>ben ik wat van mijn kamer's functionaliteit aan het herstellen! Met een beetje geluk, zou ik moeten kunnen... : 10
 
 SPECEVENT : RivScreen1
 
 10 : Ah! Daar gaan we! : 10
 
-10 : Er is zoveel hier... Zoveel dat ik vergeten ben... Ik zal nooit zijn wat ik ooit was, maar dit... Het spijt me. Het is moeilijk to piece<LINE>all of this together. Er is zoveel gebeurd in mijn afwezigheid. : 10
+10 : Er is zoveel hier... Zoveel dat ik vergeten ben... Ik zal nooit zijn wat ik ooit was, maar dit... Het spijt me. Het is moeilijk om dit allemaal<LINE>uit te vogelen. Er is zoveel gebeurd in mijn afwezigheid. : 10
 
 SPECEVENT : WanderChamber
 
-10 : Ik heb alleen ongelezen boodschappen, en overzichter opnames to make sense of what I've missed. Sommige van deze zijn zelfs van voor mijn instorting! : 10
+10 : Ik heb alleen ongelezen boodschappen en opzichter opnames om iets zinnigs te maken van wat ik gemist heb. Sommige van deze zijn zelfs van voor mijn instorting! : 10
 
 SPECEVENT : RivScreen2
 
