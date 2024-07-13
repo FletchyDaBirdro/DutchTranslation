@@ -1,4 +1,4 @@
 ﻿0-150
-0 : Deep within the core of this structure is an energy rail that distributes incredible power. This power<LINE>is drawn from a mass rarefaction cell. Even in my state, a single cell should be enough to help. : 10
+0 : Diep binnen in de kern van deze structuur is een energie hoofdlijn die ongelooflijke kracht distribueert. Deze kracht<LINE>wordt uit een massa verdunningscel gehaald. Zelfs in mijn staat, moet een enkele cel genoeg zijn om te helpen. : 10
 
-0 : Please, remove the cell from its chamber, and bring it far<LINE>to the east. To a friend... if she is somehow still alive. : 10
+0 : Alsjeblieft, verwijder de cel uit zijn kamer, en breng het ver<LINE>naar het oosten. Naar een vriend... als zij op de een of andere manier nog in leven is. : 10

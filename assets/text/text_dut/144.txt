@@ -3,8 +3,8 @@
 
 0 : Is dit een soort grap? : 10
 
-0 : I have seen your kind here many times before. To each I have paid little attention.<LINE>I have given them direction, and my wisdom. : 10
+0 : Ik heb jouw soort hier vele keren eerder gezien. Aan ieder besteedde ik weinig aandacht.<LINE>Ik heb hen een richting gegeven, en mijn wijsheid. : 10
 
-0 : Yet here you stand, another small beast on the floor of my chamber. : 10
+0 : En toch sta jij hier, nog een klein beest op de vloer van mijn kamer. : 10
 
-0 : I have nothing to offer you that you do not already have, nor am I in a state<LINE>capable of doing so. I cannot help you. I cannot even help myself. : 10
+0 : Ik heb jou niets te bieden dat jij niet al hebt, noch ben ik in staat<LINE>om dat te doen. Ik kan jou niet helpen. Ik kan mijzelf niet eens helpen. : 10

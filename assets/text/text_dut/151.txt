@@ -3,6 +3,6 @@
 
 0 : Ik neem aan dat het falen van de generator jouw doen was? : 30
 
-0 : Dank je wel. Ik neem aan dat we nu... quite staan? : 30
+0 : Dank je. Ik neem aan dat we nu... quite staan? : 30
 
-0 : Vaarwel, natte muis. Send my regards. : 60
+0 : Vaarwel, natte muis. Stuur haar de groeten. : 60

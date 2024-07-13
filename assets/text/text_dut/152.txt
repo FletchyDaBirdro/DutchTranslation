@@ -3,7 +3,7 @@
 
 0 : Luister naar mij, landvis. : 30
 
-0 : De laatste van mijn generators heeft het einde van zijn operating leven bereikt. : 10
+0 : De laatste van mijn generators heeft het begeven. : 10
 
 0 : Dan zijn de faciliteiten van mijn groepssenior mysterieus gereactiveerd lang<LINE>nadat ze permanent catatonisch zou moeten zijn. : 10
 
@@ -11,10 +11,10 @@
 
 0 : .  .  . : 30
 
-0 : I begrijp niet wat er hier gebeurd, maar het is duidelijk dat dit allemaal met elkaar verbonden is. : 10
+0 : Ik begrijp niet wat er hier gebeurd is, maar het is duidelijk dat dit allemaal met elkaar verbonden is. : 10
 
-0 : Heeft zij je hierheen gestuurd? : 30
+0 : Heeft zij jou hierheen gestuurd? : 30
 
-0 : Ik heb jou niets te bieden dat jij niet al hebt, en ik ben niet in een staat<LINE>waar ik dat kan doen. Ik kan jou niet helpen. Ik kan mijzelf niet eens helpen. : 10
+0 : Ik heb jou niets te bieden dat jij niet al hebt, en ik ben niet staat<LINE>om dat ook te doen. Ik kan jou niet helpen. Ik kan mijzelf niet eens helpen. : 10
 
 0 : Ik kan jou alleen adviseren om zo snel mogelijk weg te gaan, nu het nog kan. : 60

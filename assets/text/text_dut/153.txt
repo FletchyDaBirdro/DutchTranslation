@@ -11,6 +11,6 @@
 
 0 : Hoewel ik wens dat er meer was dat ik voor jou kon doen, begint mijn tijd op te raken. : 10
 
-0 : Deze oordelen lieten me begrijpen wat ze me allemaal probeerden te vertellen. : 10
+0 : Deze oordelen lieten me begrijpen wat zij me allemaal probeerden te vertellen. : 10
 
 0 : ...Ik hoef hier niet alleen door te gaan. : 60

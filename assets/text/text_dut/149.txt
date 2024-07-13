@@ -3,13 +3,13 @@
 
 0 : Is dat waarom de generator faalde? Dat gezicht... die lege uitdrukking...<LINE>Ik begrijp het niet, waarom? : 30
 
-0 : Misschien is dit het lot. Karma recounting my deeds and bearing<LINE>its fangs at me in the most ironic fashion. : 10
+0 : Misschien is dit het lot. Karma die mijn daden hertelt en zijn tanden<LINE>aan mij laat zien op de meest ironische manier. : 10
 
 0 : Ik kan niet voor eeuwig van mijn fouten wegrennen. : 30
 
-0 : If your actions are only out of ignorance, then I make a request of you. It is clear<LINE>your kind is quite tenacious, to make the pilgrimage to me is no easy task.<LINE>Even more so through my structure in its current state. : 10
+0 : Als jouw acties alleen maar uit onwetendheid komen, dan heb ik een verzoek voor jou. Het is duidelijk<LINE>dat jouw soort nogal volhoudend is, om de pelgrimstocht naar mij te maken is geen gemakkelijke taak.<LINE>En al helemaal niet door mijn structuur in zijn huidige staat. : 10
 
-0 : Neem die verdunningscel met jou mee. Consider it my parting gift<LINE>after all of the harm I have done to those around me, and myself. : 10
+0 : Neem die verdunningscel met jou mee. Zie het als mijn afscheidsgeschenk<LINE>na al de pijn die ik de anderen om mij heen heb aangedaan, en mijzelf. : 10
 
 0 : Ik kan niet gered of vergeven worden, landvis. Er is niets dat op dit moment voor mij gedaan kan worden. : 30
 
