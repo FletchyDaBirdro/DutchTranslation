@@ -24,7 +24,7 @@ namespace DutchTranslation
         {
             try
             {
-                if (menu.manager.rainWorld.inGameTranslator.currentLanguage == LangID.LanguageID.Dutch)
+                if (menu.CurrLang == LangID.LanguageID.Dutch)
                 {
                     bool isTitle = fileName.StartsWith("Title") && string.IsNullOrEmpty(folderName);
 
