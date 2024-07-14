@@ -391,7 +391,7 @@ Quieter gates/shelters|Zachtere poorten/schuilplaatsen
 Faster shelter opening|Sneller schuilplaatsen openen
 Pull spears from walls|Trek speren uit muren
 Unlock all collections|Ontgrendel alle collecties
-expedition-description|Zet uit op een Expeditie in deze uitdagende nieuwe spelmodus. Compleet willekeurige uitdagingen terwijl je perma dood vermijdt en werk aan het ontgrendelen van nieuwe handige perks, straffende lasten, en muziektracks om naar te luisteren in de Jukebox.
+expedition-description|Zet uit op een Expeditie in deze uitdagende nieuwe spelmodus. Compleet willekeurige uitdagingen terwijl je perma dood vermijdt en werk aan het ontgrendelen van nieuwe handige voordelen, straffende lasten, en muziektracks om naar te luisteren in de Jukebox.
 Please leave me alone.|Laat me alsjeblieft alleen.
 That... Oh, thank you.|Dat... Oh, dank je.
 ...don't... come back.|...kom... niet terug.
@@ -1222,7 +1222,7 @@ Let us try again - not that it has worked well before. I was saying...|Laten we 
 If you are having trouble, you may want to try The Monk campaign first. It may help you get a better feel for the game and ease you into Rain World.|Als je problemen hebt, kun je De Monnik's campagne eerst proberen. Het kan helpen om een beter gevoel voor het spel te krijgen en gemakkelijker in Rain World te komen.
 If enabled, scavenger corpses in Artificer's campaign don't lose karma after each cycle|Als het ingeschakeld is, verliezen schooier karkassen in De Schepper's campagne geen karma na elke cyclus
 (Normally requires delivering pearls and finding broadcast tokens in the campaign maps)|(Benodigt normaal gesproken het bezorgen van parels en het vinden van uitzending tokens in de campagne kaarten)
-Know that this does not make you special - every living thing shares that same frustration.<LINE>From the microbes in the processing strata to me, who am, if you excuse me, godlike in comparison.|Weet dat dit jou niet bijzonder maakt - elk levend wezen deelt dezelfde frustraties.<LINE>Van de microben in de processing straten tot ik, die, als je mij excuseert, goddelijk in vergelijking is.
+Know that this does not make you special - every living thing shares that same frustration.<LINE>From the microbes in the processing strata to me, who am, if you excuse me, godlike in comparison.|Weet dat dit jou niet bijzonder maakt - elk levend wezen deelt dezelfde frustraties.<LINE>Van de microben in de verwerkingsstraten tot mij, die, als je het mij excuseert, goddelijk in vergelijking is.
 Look at me. The only thing I have to offer is my words.<LINE>If you come here, I must assume you want me to speak? So then would you PLEASE listen?<LINE>If not, you are welcome to leave me alone.|Kijk naar me. Het enige wat ik je te bieden heb zijn mijn woorden.<LINE>Als je hier komt, dan moet ik aannemen dat je wilt dat ik praat? Dus zou je dan ALSJEBLIEFT willen luisteren?<LINE>Zo niet, ben je vrij om mij alleen te laten.
 The bad news is that no definitive solution has been found. And every moment the equipment erodes to a new state of decay.<LINE>I can't help you collectively, or individually. I can't even help myself.|Het slechte nieuws is dat er geen definitieve oplossing is gevonden. En ieder moment erodeert de apparatuur tot een nieuwe staat van bederf.<LINE>Ik kan jou niet helpen, collectief of individueel. Ik kan mijzelf niet eens helpen.
 At the end of time none of this will matter I suppose, but it would be nice if you took another way out.<LINE>One free of... frolicking in my memory arrays. There is a perfectly good access shaft right here.|Uiteindelijk doet dit alles er niet toe, neem ik aan, maar het zou fijn zijn als jij een andere weg uit vindt.<LINE>Een waarbij jij niet... rondhuppelt in mijn geheugen reeksen. Er zit daar een prima toegangsschacht.
@@ -1873,7 +1873,7 @@ Music: <songName>|Muziek: <songName>
 You feel the presence of a vista . . .|Je voelt de aanwezigheid van een vista . . .
 <region> pearl delivered to <iterator>|<region> parel geleverd aan <iterator>
 Reach the vista point in <region_name>|Bereik het vista punt in <region_name>
-E X P E D I T I O N	C O M P L E T E|E X P E D I T I E	V O L T O O I D
+E X P E D I T I O N    C O M P L E T E|E X P E D I T I E    V O L T O O I D
 <Unlocked> of <Max> Tracks Unlocked|<Unlocked> van <Max> Tracks Ontgrendeld
 NEW!|NIEUW!
 Yeek|Yeek
@@ -1993,7 +1993,7 @@ Total Challenges Completed: <num>|Totaal Aantal Uitdagingen Voltooid: <num>
 <num> Quests Completed|<num> Streeftochten Voltooid
 Current Level: <level>|Huidig Level: <level>
 Recover all karma and fast travel to any discovered shelter, consumes an earned passage|Herstel alle karma en snel reis naar elke ontdekte schuilplaats; gebruikt een verdiende doorgang
-Missing Requirements: 	 <req>|Missende Benodigdheden: 	 <req>
+Missing Requirements:      <req>|Missende Benodigdheden:      <req>
 Slugcat Unlocked: <slugcat>|Slakkat Ontgrendeld: <slugcat>
 Q U E S T   C O M P L E T E|S T R E E F T O C H T  C O M P L E E T
 Warning: Hidden challenges will become normal challenges when retrying|Waarschuwing: Verborgen uitdagingen worden normale uitdagingen als je opnieuw probeert
@@ -2292,7 +2292,7 @@ Plummet|Bommetje
 Glimmering Buffet|Glinsterend Buffet
 Infinite Utility|Oneindige Nuttigheid
 Babysitting|Babysitten
-Noot Scoot|Met Spoedige Toet
+Noot Scoot|Met Toeterende Spoed
 Incubation|Incubatie
 Flushed|Weggespoeld
 Lamplighter|Lantaarnopsteker
@@ -2320,7 +2320,7 @@ Minefield|Mijnenveld
 Opposition|Oppositie
 Flaming Pursuit|Vurige Achtervolging
 Moving Target|Bewegend Doelwit
-Stygian Depths|Stygische Dieptes
+Stygian Depths|Helse Dieptes
 The Stash|De Voorraad
 Corridor Patrol|Gang Patrouille
 Swing to Survive!|Slinger om te Overleven!
@@ -2365,13 +2365,13 @@ Array|Opstelling
 Summit|Top
 Accelerator|Versneller
 Islands|Eilanden
-Joint|Gewricht
+Joint|Verbinding
 Waste Deposit|Afvalstorting
 Cave|Grot
 Nest|Nest
 Shortcuts|Sluipwegen
 Roof|Dak
-Sky Lobby|Hemelportaal
+Sky Lobby|Hemel Entree
 Memory Bypass|Geheugen Omleiding
 Rust Core|Roestkern
 Side Paths|Zijwegen
@@ -2379,7 +2379,7 @@ Void Shrine|Leegte Tempel
 Conflux|Samenvloeiing
 Dark Tower|Donkere Toren
 Railway|Spoorweg
-Sun Baked|Zongebakken
+Sun Baked|Zonovergoten
 Decaying Construct|Rottende Constructie
 Lightning Machine|Bliksemmachine
 Barrens|Dorre Streken
@@ -2395,3 +2395,14 @@ Muck Machine|Drab Machine
 Rock Bottom|Steenbodem
 Filtration Node|Filtratieknoop
 Submerged|Onderzees
+
+//inv
+we forgot to render this one sorry|we zijn vergeten deze te renderen sorry 
+Nachos Will Never Be The Same|Nachos Zullen Nooit Meer Hetzelfde Zijn
+Painage System|Afgang Systeem
+Tower of Gains|De Louteringsberg
+Uberhang|De Ondergang
+TOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOBS|TUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUBES
+Moist|Zompig
+Andrew's Basement|Andrew's Kelder
+Thanks Andrew.|Je wordt bedankt, Andrew.

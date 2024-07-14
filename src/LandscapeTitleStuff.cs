@@ -77,8 +77,8 @@ namespace DutchTranslation
             try
             {
                 if (IsDutchTitle)
-                {
-                    self.pages[1].subObjects.Remove(self.subtitleLabel);
+                {                    
+                    self.pages[1].RemoveSubObject(self.subtitleLabel);                    
                 }
             }
             catch (Exception ex)
