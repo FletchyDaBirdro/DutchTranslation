@@ -15,8 +15,9 @@ namespace DutchTranslation
         {
             IL.InGameTranslator.LoadShortStrings += new ILContext.Manipulator(InGameTranslator_LoadShortStrings);
             On.MoreSlugcats.ChatlogData.DecryptResult += ChatlogData_DecryptResult;
+            On.JollyCoop.JollyMenu.ColorChangeDialog.ColorSlider.GetSliderWidth += ColorSlider_GetSliderWidth;
         }
-
+      
         private static void InGameTranslator_LoadShortStrings(ILContext il)
         {
             ILCursor c = new ILCursor(il);
@@ -67,6 +68,15 @@ namespace DutchTranslation
                 return result;
             }
             return orig(result, path);
+        } 
+        
+        private static float ColorSlider_GetSliderWidth(On.JollyCoop.JollyMenu.ColorChangeDialog.ColorSlider.orig_GetSliderWidth orig, InGameTranslator.LanguageID lang)
+        {            
+            if (lang == LangID.LanguageID.Dutch)
+            {
+                return 160f;
+            }
+            return orig(lang);
         }
     }
 }
