@@ -1345,8 +1345,8 @@ Met Five Pebbles|Ontmoette Vijf Kiezels
 LET GO! p please|LAAT LOS! als alsjeblieft
 Shall we finish?|Zullen we het afmaken?
 No! You... killed... me!|Nee! Je... doodde... me!
-The Rot (Cystic Conduit)|De Rot (Cystisch Kanaal)
-creaturetype-StowawayBug|Stowaway
+The Rot (Cystic Conduit)|De Rot (Cystische Kanaal)
+creaturetype-StowawayBug|Landpok
 creaturetype-JungleLeech|Jungle Bloedzuiger
 Submerged Superstructure|Onderzees Superstructuur
 Please do not do that...|Doe dat alsjeblieft niet...
@@ -1958,16 +1958,16 @@ Plays unlocked tracks at random|Speelt willekeurig ontgrendelde tracks af
 ps4_save_expedition_core_failed_free_space|Error saving Expedition core data. Not enough free space. Try again?
 Start the expedition with a Scavenger Bomb|Start de expeditie met een granaat
 With no unique skills to boast about, The Survivor embarks on an<LINE>Expedition to test their resolve|Zonder unieke vaardigheden om over op te scheppen, gaat De Overlever op een<LINE>Expeditie om hun vastberadenheid te testen
-Attuned with nature and empathetic to its inhabitants, The Monk departs<LINE>to find their place in the world|In toon met de natuur en empatisch naar haar bewoners, vertrekt De Monnik<LINE>om hun plek in de wereld te vinden
+Attuned with nature and empathetic to its inhabitants, The Monk departs<LINE>to find their place in the world|In toon met de natuur en empatisch naar haar bewoners vertrekt De Monnik<LINE>om hun plek in de wereld te vinden
 Opens the challenge filter menu, allowing you to toggle which types of challenges can appear when re-rolling.|Opent het uitdagingsfilter menu, die je laat kiezen welke soort uitdagingen kunnen verschijnen bij het herrollen.
 Dextrous and handy with a spear, The Hunter sets forth once again<LINE>into a world of danger|Handig met een speer, zet De Jager nog eens uit<LINE>in een wereld vol gevaar
-A brave explorer, hungry for their next adventure, or perhaps<LINE>their next meal|Een dappere ontdekker, die smult naar hun volgende avontuur, of misschien wel<LINE>hun volgende maaltijd
-An explosive fighter and combat expert, The Artificer journeys once<LINE>again into the unknown|Een explosieve gevechts expert, De Schepper reist opnieuw<LINE>in het onbekende
-A spear expert forced to fight to survive, their Expedition is<LINE>sure to be one fraught with peril|Een speer expert die gedwongen is om te vechten om te overleven, hun Expeditie zal<LINE>er zeker een vol periel zijn
+A brave explorer, hungry for their next adventure, or perhaps<LINE>their next meal|Een dappere ontdekker die smult naar hun volgende avontuur, of misschien wel<LINE>hun volgende maaltijd
+An explosive fighter and combat expert, The Artificer journeys once<LINE>again into the unknown|Als explosieve gevechts expert, reist De Schepper opnieuw<LINE>in het onbekende
+A spear expert forced to fight to survive, their Expedition is<LINE>sure to be one fraught with peril|Als speer expert die gedwongen is om te vechten om te overleven, zal hun Expeditie<LINE>er zeker een vol periel zijn
 Extremely agile and an adept swimmer, The Rivulet speeds<LINE>towards their goal out of necessity|Zeer wendbaar en een geboren zwemmer, haast De Waterrat<LINE>zich naar hun doel uit noodzaak
-Start the expedition with a Scavenger Bomb, a potential head start for combat related challenges.|Start de expeditie met een Granaat, een potentiële head start voor gevechts gerelateerde uitdagingen.
+Start the expedition with a Scavenger Bomb, a potential head start for combat related challenges.|Start de expeditie met een Granaat, een potentiële voorsprong voor gevechts gerelateerde uitdagingen.
 A pacifist at heart, The Saint endures the bitter cold and searches<LINE>for their purpose|Een ware pacifist, De Heilige doorstaat de bittere kou en zoekt<LINE>naar hun lotsbestemming
-Earn <score_target> points from creature kills this cycle [<current_score>/<score_target>]|Verdien <score_target> punten voor het doden van wezens in deze cyclus [<current_score>/<score_target>]
+Earn <score_target> points from creature kills this cycle [<current_score>/<score_target>]|Verdien <score_target> punten voor het doden van wezens in één cyclus [<current_score>/<score_target>]
 Start the expedition with reinforced karma, a Karma Flower will spawn at the site of death|Start de expeditie met beschermde karma. Een Karma Bloem zal verschijnen op de plek van je dood
 CHOOSE YOUR SLUGCAT|KIES JOUW SLAKKAT
 NEW<LINE>EXPEDITION|NIEUWE<LINE>EXPEDITIE
