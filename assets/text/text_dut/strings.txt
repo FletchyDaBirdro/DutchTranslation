@@ -799,7 +799,7 @@ ConfigMenuTab_ModPercentageButton_MouseEnableAll|Klik om alle mods in te schakel
 MenuModList_ModButton_NonMouse_Configure_Console|Druk op BEVESTIGEN om te configureren, druk op LINKS om de schakelknop voor deze inhoud te bewegen
 Access was denied. Do you own the game on Steam?|Toegang was afgewezen. Heb je het spel op Steam?
 This one I've already read to you, <PlayerName>.|Deze heb ik al voor jou gelezen, <PlayerName>.
-Complete the game as The Hunter|Eindig het spel als De Jager
+Complete the game as The Hunter|Voltooi het spel als De Jager
 Your travels have taken you far|Je reizen hebben je ver genomen
 You have left this world behind|Je hebt deze wereld achter je gelaten
 ConfigMenuTab_ApplyButton_Label|MODS AANBRENGEN
@@ -1731,7 +1731,7 @@ This easter egg was inspired by the original Moar Slugcats Dating Sim mod, but h
 You are missing one or more of the mission's requirements|Je mist één of meer van de missie's benodigdheden
 Burdens are modifiers you can add to your Expedition to increase the difficulty. In return, a multiplier is applied to your final score, increasing the number of points it's possible to earn.|Lasten zijn aanpassingen die je aan je Expeditie kan toevoegen om de moeilijkheid te vergroten. In ruil daarvoor wordt een vermenigvuldiger aan je uiteindelijke score toegebracht, waarmee je het totaal aantal mogelijk verkregen punten vergroot.
 Challenges can be re-rolled for new ones by selecting them. The difficulty of the new challenge can be adjusted by dragging the difficulty slider, more difficult challenges award more points.|Uitdagingen kunnen worden herrolt voor nieuwe door ze te selecteren. De moeilijkheid van de nieuwe uitdaging kan aangepast worden door met de moeilijkheids slider te slepen. Moeilijkere uitdagingen leveren meer punten op.
-Start the expedition with a charged Electric Spear. The spear is extremely useful for dealing high amounts of damage and stunning creatures. The spear can be recharged by impaling centipedes.|Start de expeditie met een opgeladen Schokspeer. De speer is zeer handig om grote hoeveelheden schade aan te brengen en wezens te verlammen. De speer kan weer opgeladen worden door duizendpoten te doorsteken.
+Start the expedition with a charged Electric Spear. The spear is extremely useful for dealing high amounts of damage and stunning creatures. The spear can be recharged by impaling centipedes.|Begin de expeditie met een opgeladen Schokspeer. Deze speer is zeer handig om grote hoeveelheden schade aan te brengen en wezens te verlammen. De speer kan weer opgeladen worden door duizendpoten te doorsteken.
 Gives The Artificer's explosive double-jump ability to other characters, activated by pressing JUMP and PICK UP whilst in the air. Very useful for traversal and escaping dangerous situations.|Geeft andere personages De Schepper's kracht om een explosieve sprong uit te voeren door in de lucht tegelijkertijd op SPRINGEN en OPPAKKEN te drukken. Handig om grote afstanden af te leggen en te ontsnappen uit gevaarlijke situaties.
 Custom|Aangepast
 BONUS:|BONUS:
@@ -1828,7 +1828,7 @@ Total <type> Challenges: <num>|Totaal aantal <type> Uitdagingen: <num>
 Points to Next Level: <points>|Punten tot Volgende Level: <points>
 START NEW<LINE>EXPEDITION|BEGIN NIEUWE<LINE>EXPEDITIE
 ps4_expedition_slot_title|Rain World Expeditie
-ps4_expedition_core_title|Rain World Expeditie Core
+ps4_expedition_core_title|Rain World Expeditie Kern
 CHALLENGE DIFFICULTY|UITDAGINGS MOEILIJKHEID
 Completed Challenges|Voltooide Uitdagingen
 Explosion Resistance|Explosie Resistentie
@@ -1917,7 +1917,7 @@ Neuron Glow|Zenuwcel Gloei
 Flare Bombs|Flits Bommen
 Cycle Score|Cyclus Score
 UNLOCKABLES|Ontgrendelbaren
-EXPEDITIONS|EXPEDITIE
+EXPEDITIONS|EXPEDITIES
 Small Centipedes|Kleine Duizendpoten
 Large Centipedes|Volwassen Duizendpoten
 Terror Long Legs|Horrorwagens
@@ -1942,21 +1942,21 @@ Scavenger Bombs|Granaten
 Item Collecting|Voorwerpen Verzamelen
 Nature's Friend|Natuur's Vriend
 Hunter Gatherer|Jager Verzamelaar
-Change of Heart|Verandering van Gedachte
+Change of Heart|Ommezwaai
 Strawberry Lizards|Aardbei Hagedissen
 Reach Level: <num>|Bereik Level: <num>
 Firecracker Plants|Vuurkruid Takjes
 Scavenger Lanterns|Lantaarns
 Expedition-Players|Spelers: <num_p>
 UNLOCKING SLUGCATS|ONTGRENDELDE SLAKKATTEN
-ps4_expedition_slot_description|Rain World Expedition Save Data
-ps4_expedition_core_description|Rain World Expedition Core Data
-ps4_save_expedition_core_failed|Error saving Expedition core data.
-ps4_load_expedition_core_failed|Expedition core data is corrupted and will be deleted.
+ps4_expedition_slot_description|Rain World Expeditie Opslag Gegevens
+ps4_expedition_core_description|Rain World Expeditie Kerngegevens
+ps4_save_expedition_core_failed|Error bij het opslaan van Expeditie kerngegevens.
+ps4_load_expedition_core_failed|Expeditie kerngegevens zijn beschadigd en zullen worden verwijderd.
 Earn <achievement_name> passage|Verdien <achievement_name> doorgang
 Plays unlocked tracks at random|Speelt willekeurig ontgrendelde tracks af
-ps4_save_expedition_core_failed_free_space|Error saving Expedition core data. Not enough free space. Try again?
-Start the expedition with a Scavenger Bomb|Start de expeditie met een granaat
+ps4_save_expedition_core_failed_free_space|Error bij het opslaan van Expeditie kerngegevens. Niet genoeg vrije ruimte. Wil je het opnieuw proberen?
+Start the expedition with a Scavenger Bomb|Begin de expeditie met een Granaat
 With no unique skills to boast about, The Survivor embarks on an<LINE>Expedition to test their resolve|Zonder unieke vaardigheden om over op te scheppen, gaat De Overlever op een<LINE>Expeditie om hun vastberadenheid te testen
 Attuned with nature and empathetic to its inhabitants, The Monk departs<LINE>to find their place in the world|In toon met de natuur en empatisch naar haar bewoners vertrekt De Monnik<LINE>om hun plek in de wereld te vinden
 Opens the challenge filter menu, allowing you to toggle which types of challenges can appear when re-rolling.|Opent het uitdagingsfilter menu, die je laat kiezen welke soort uitdagingen kunnen verschijnen bij het herrollen.
@@ -1965,10 +1965,10 @@ A brave explorer, hungry for their next adventure, or perhaps<LINE>their next me
 An explosive fighter and combat expert, The Artificer journeys once<LINE>again into the unknown|Als explosieve gevechts expert, reist De Schepper opnieuw<LINE>in het onbekende
 A spear expert forced to fight to survive, their Expedition is<LINE>sure to be one fraught with peril|Als speer expert die gedwongen is om te vechten om te overleven, zal hun Expeditie<LINE>er zeker een vol periel zijn
 Extremely agile and an adept swimmer, The Rivulet speeds<LINE>towards their goal out of necessity|Zeer wendbaar en een geboren zwemmer, haast De Waterrat<LINE>zich naar hun doel uit noodzaak
-Start the expedition with a Scavenger Bomb, a potential head start for combat related challenges.|Start de expeditie met een Granaat, een potentiële voorsprong voor gevechts gerelateerde uitdagingen.
+Start the expedition with a Scavenger Bomb, a potential head start for combat related challenges.|Begin de expeditie met een Granaat, een potentiële voorsprong voor gevechts gerelateerde uitdagingen.
 A pacifist at heart, The Saint endures the bitter cold and searches<LINE>for their purpose|Een ware pacifist, De Heilige doorstaat de bittere kou en zoekt<LINE>naar hun lotsbestemming
-Earn <score_target> points from creature kills this cycle [<current_score>/<score_target>]|Verdien <score_target> punten voor het doden van wezens in één cyclus [<current_score>/<score_target>]
-Start the expedition with reinforced karma, a Karma Flower will spawn at the site of death|Start de expeditie met beschermde karma. Een Karma Bloem zal verschijnen op de plek van je dood
+Earn <score_target> points from creature kills this cycle [<current_score>/<score_target>]|Verdien [<current_score>/<score_target>] punten voor het doden van wezens in één cyclus
+Start the expedition with reinforced karma, a Karma Flower will spawn at the site of death|Begin de expeditie met beschermde karma. Een Karma Bloem zal verschijnen op de plek van je dood
 CHOOSE YOUR SLUGCAT|KIES JOUW SLAKKAT
 NEW<LINE>EXPEDITION|NIEUWE<LINE>EXPEDITIE
 Spear Dual-Wielding|Twee Speren Dragen
@@ -1977,8 +1977,8 @@ PERKS: <current>/<limit>|VOORDELEN: <current>/<limit>
 You are being pursued...|Je wordt achtervolgd...
 Hidden Challenges: <num>|Verborgen Uitdagingen: <num>
 Current Points: <points>|Huidige Punten: <points>
-Enable a range of perks to aid you in your expedition|Schakel een range aan voordelen in die je helpen bij je expeditie
-Reach milestones and complete expeditions with certain restrictions to earn rewards|Bereik mijlpalen en voltooi expedities met bepaalde restricties om beloningen te verdienen
+Enable a range of perks to aid you in your expedition|Schakel een verscheidenheid aan voordelen in die je helpen bij je expeditie
+Reach milestones and complete expeditions with certain restrictions to earn rewards|Bereik mijlpalen en voltooi expedities met bepaalde beperkingen om beloningen te verdienen
 The required character has an on-going expedition, finish or abandon it to continue|Het benodigde personage doorgaat op dit moment een expeditie, voltooi die of geef het op om verder te gaan
 Earn <score_target> points from creature kills [<current_score>/<score_target>]|Verdien <score_target> punten voor het doden van wezens [<current_score>/<score_target>]
 Neurons delivered to Looks to the Moon <progress>|Zenuwcellen geleverd aan Kijkt naar de Maan <progress>
@@ -1997,27 +1997,27 @@ Missing Requirements:      <req>|Missende Benodigdheden:      <req>
 Slugcat Unlocked: <slugcat>|Slakkat Ontgrendeld: <slugcat>
 Q U E S T   C O M P L E T E|S T R E E F T O C H T  C O M P L E E T
 Warning: Hidden challenges will become normal challenges when retrying|Waarschuwing: Verborgen uitdagingen worden normale uitdagingen als je opnieuw probeert
-Enables a persistent glow around the player|Schakelt een constante gloei aan rond de speler
-Start the expedition with an Electric Spear|Start de expeditie met een Schokspeer
-Start the expedition with a Scavenger Lantern|Start de expeditie met een lantaarn
-Slow time at will by holding PICK UP and pressing MAP, also temporarily increases movement abilities|Vertraag tijd wanneer je wilt door OPPAKKEN ingedrukt te houden en op KAART te drukken, verhoogt ook tijdelijk bewegings vaardigheden
-Enables the use of passages during expeditions which can be earned by completing challenges|Schakelt het gebruik van doorgangen aan, die kunnen worden verdiend door het voltooien van uitdagingen
+Enables a persistent glow around the player|Schakelt een constante gloei in rond de speler
+Start the expedition with an Electric Spear|Begin de expeditie met een Schokspeer
+Start the expedition with a Scavenger Lantern|Begin de expeditie met een lantaarn
+Slow time at will by holding PICK UP and pressing MAP, also temporarily increases movement abilities|Vertraag tijd wanneer je wilt door OPPAKKEN ingedrukt te houden en op KAART te drukken, verhoogt ook tijdelijk bewegingsvaardigheden
+Enables the use of passages during expeditions which can be earned by completing challenges|Schakelt het gebruik van doorgangen in, die kunnen worden verdiend door het voltooien van uitdagingen
 Allows the player to stow an additional spear on their back by holding PICK UP|Staat de speler toe een aanvullende speer op hun rug te dragen door OPPAKKEN ingedrukt te houden
-Start the expedition with a Vulture Mask|Start de expeditie met een Gierenmasker
-Start the expedition with the Joke Rifle|Start de expeditie met het Joke Geweer
+Start the expedition with a Vulture Mask|Begin de expeditie met een Gierenmasker
+Start the expedition with the Joke Rifle|Begin de expeditie met het Joke Geweer
 Allows the player to wield a spear in each hand|Laat de speler een speer in elke hand dragen
 Makes the player highly resistant to explosions|Maakt de speler zeer resistent tegen explosies
-Start the expedition with a Singularity Bomb|Start de expeditie met een Singulariteitsbom
+Start the expedition with a Singularity Bomb|Begin de expeditie met een Singulariteitsbom
 Allows the player to jump a second time mid-air by pressing JUMP and PICKUP|Staat de speler toe een tweede keer te springen door in de lucht tegelijkertijd op SPRINGEN en OPPAKKEN te drukken
 Apply Burdens to increase both difficulty and the amount of points received|Breng lasten toe die de moeilijkheid en het aantal verkregen punten verhogen
-Craft different combinations of items together by holding UP and PICK UP|Voeg verschillende combinaties van voorwerpen samen door OMHOOG en OPPAKKEN tegelijktijd ingedrukt te houden
+Craft different combinations of items together by holding UP and PICK UP|Voeg verschillende combinaties van voorwerpen samen door OMHOOG en OPPAKKEN tegelijkertijd ingedrukt te houden
 Whilst undertaking an expedition, certain gameplay elements are changed:|Terwijl je een expeditie ondergaat, zijn bepaalde spel elementen veranderd:
 Increases the players movement abilities, granting high speed and jump height|Verhoogt de speler’s bewegingsvaardigheden, geeft hoge snelheid en een hogere sprong
-Expedition is a challenge oriented gamemode featuring permadeath and progression. Pick a character and prepare for an expedition by selecting which challenges to undertake.|Expeditie is een uitdaging georienteerde spelmodus met permadood en voortgang. Kies een personage en bereid voor op een expeditie door te selecteren welke uitdagingen je ondergaat.
+Expedition is a challenge oriented gamemode featuring permadeath and progression. Pick a character and prepare for an expedition by selecting which challenges to undertake.|Expeditie is een uitdaging georienteerde spelmodus met permadood en voortgang. Kies een personage en bereid je voor op een expeditie door te selecteren welke uitdagingen je ondergaat.
 A successful expedition will grant points and varying rewards depending on what was accomplished, these can range from new Perks to use in future runs, Burdens to increase the difficulty in interesting ways, and music tracks that can be played in the Jukebox menu.|Een succesvolle expeditie geeft punten en verscheidene beloningen gebaseerd op wat er bereikt is. Deze kunnen uitlopen van nieuwe Voordelen voor bij toekomstige runs, Lasten die de moeilijkheid op interessante manieren verhogen tot muziek tracks die je kan afspelen in de Jukebox menu.
 Players start the Expedition in a randomly selected shelter.<LINE>All characters start with two karma and have a maximum karma limit of five.<LINE>The Survivor achievement is completed by default, and other achievements are not gated by it.<LINE>Passages are disabled by default, instead being unlocked by a Perk.<LINE>Echoes will not spawn on the first cycle.<LINE>There is no cycle limit for The Hunter in Expedition.<LINE>Collectable tokens will not appear and discovered lore is not saved in the Collection menu.|Spelers starten de Expeditie in een willekeurig geselecteerde schuilplaats.<LINE>Alle personages starten met twee karma en hebben een maximum karma limiet van vijf.<LINE>De Overlever achievement is meteen compleet, en andere achievements worden er niet door geblokkeerd.<LINE>Doorgangen zijn standaard uitgeschakeld, en worden in plaats daarvan ingeschakeld met een Voordeel.<LINE>Echoes zullen niet verschijnen op de eerste cyclus.<LINE>Er is geen cyclus limiet voor De Jager in Expeditie.<LINE>Verzamelbare tokens zullen niet verschijnen.
 Select a slugcat to use for the duration of the expedition. The expedition will take place in the same world as their campaign but with story elements removed. If Jolly Co-op is enabled, you can also configure the number of additional players at any time.|Selecteer een slakkat om te gebruiken tijdens de expeditie. De expeditie zal plaats nemen in dezelfde wereld als hun campagne, maar zonder verhaal elementen. Als de Vrolijke Co-op is ingeschakeld, kun je op elk moment het aantal spelers configureren.
-Monk and Survivor - Unlocked by default<LINE>Hunter - Unlocked once Monk or Surivor's campaign is beaten<LINE>Others - Unlocked once their campaign is beaten|Monnik en Overlever - Meteen ontgrendeld<LINE>Jager - Ontgrendeld nadat de Monnik of de Overlever's campagne is verslagen<LINE>Andere - Ontgrendeld nadat hun campagne is verslagen
+Monk and Survivor - Unlocked by default<LINE>Hunter - Unlocked once Monk or Surivor's campaign is beaten<LINE>Others - Unlocked once their campaign is beaten|Monnik en Overlever - Meteen ontgrendeld<LINE>Jager - Ontgrendeld nadat de Monnik of de Overlever's campagne is voltooid<LINE>Andere - Ontgrendeld nadat hun campagne is voltooid
 The challenge select page is where you craft your expedition. Adjust the number and types of challenges you will aim to complete and see how many points you will earn once the expedition is completed.|De uitdagings selecteer pagina is waar je je expeditie in elkaar zet. Pas het nummer en soort uitdagingen aan die je wilt doen en zie hoeveel punten je krijgt zodra je de expeditie afrondt.
 Toggles whether or not the selected challenge is hidden. Hidden challenges are completely random and their requirements are only revealed once all regular challenges have been completed. Hidden challenges are worth twice as many points. An expedition must have at least one non-hidden challenge.|Schakelt in of geselecteerd uitdagingen wel of niet verborgen worden. Verborgen uitdagingen zijn volledig willekeurig en hun benodigdheden worden pas onthuld als alle normale uitdagingen compleet zijn. Verborgen uitdagingen zijn twee keer zoveel punten waard. Een expeditie moet tenminste één niet-verborgen uitdaging hebben.
 Controls how many challenges the expedition will have, up to a maximum of five. A point bonus is applied for multiple challenges.|Controleer hoeveel uitdagingen de expeditie zal hebben, tot een maximum van vijf. Een puntenbonus wordt aangebracht voor meerdere uitdagingen.
@@ -2025,25 +2025,25 @@ Randomizes all challenges at once. Can only be used if no challenge filters are 
 Indicates your progress to the next level and how much the current expedition will award. If the bar blinks rapidly then completing the expedition will grant a level. The number at the end of the bar displays how many levels will granted.|Laat jouw voortgang tot het volgende level zien en hoeveel de huidige expeditie zal belonen. Als de bar snel knippert, dan zal het afronden van de expeditie je een level geven. Het nummer aan het einde van de bar geeft aan hoeveel levels gegeven zullen worden.
 Complete quests to unlock additional content such as perks, burdens and music tracks.<LINE><LINE>'Expedition' quests are completed by undertaking an expedition that meets certain requirements, whilst 'Milestone' quests are completed after reaching a specific goal across multiple expeditions.|Voltooi streeftochten om aanvullende inhoud te ontgrendelen zoals voordelen, lasten en muziektracks.<LINE><LINE>'Expeditie' streeftochten worden voltooid door een expeditie te ondergaan die aan bepaalde benodigdheden voldoet, terwijl 'Mijlpaal' streeftochten worden voltooid nadat je, verspreid over meerdere expedities, een bepaald doel hebt bereikt.
 Highlight a quest to see all of its requirements and rewards. Try to put together an expedition that completes multiple quests at once!|Highlight een streeftocht om al zijn benodigdheden en beloningen te zien. Probeer een expeditie in elkaar te zetten dat meerdere streeftochten tegelijkertijd afrondt!
-Grants The Hunter's ability to store spears on their back to other characters. A useful buff for players engaging in combat challenges.|Geeft andere personages De Jager's vaardigheid om speren op hun rug te dragen. Een handige buff voor spelers die aan gevechtsuitdagingen doen.
-Missions are hand-crafted expeditions with specific challenges and starting locations. Some missions may also require you to use a certain Perk or Burden. These cannot be removed, however additional Perks and Burdens can be enabled if desired.|Missies zijn hand-crafted expedities met specifieke uitdagingen en start locaties. Sommige missies benodigen ook het gebruik van een bepaald Voordeel of Last. Hoewel deze niet verwijderd kunnen worden, kunnen aanvullende Voordelen en Lasten naar wens worden ingeschakeld.
+Grants The Hunter's ability to store spears on their back to other characters. A useful buff for players engaging in combat challenges.|Geeft andere personages De Jager's vaardigheid om speren op hun rug te dragen. Een handig voordeel voor spelers die aan gevechtsuitdagingen doen.
+Missions are hand-crafted expeditions with specific challenges and starting locations. Some missions may also require you to use a certain Perk or Burden. These cannot be removed, however additional Perks and Burdens can be enabled if desired.|Missies zijn handgemaakte expedities met specifieke uitdagingen en start locaties. Sommige missies benodigen ook het gebruik van een bepaalde Voordeel of Last. Hoewel deze niet verwijderd kunnen worden, kunnen aanvullende Voordelen en Lasten naar wens worden ingeschakeld.
 In order to select a mission, you must first unlock all of its requirements. Some quests will require that a mission is completed to grant its rewards. You can also repeat a mission at anytime to strive for the fastest time!|Om een missie te selecteren, moet je eerst alle benodigdheden ontgrendelen. Sommige streeftochten benodigen dat een missie afgerond is voordat de beloningen worden uitgereikt. Je kunt een missie ook op elk moment herhalen om voor de snelste tijd te gaan!
-The Jukebox menu lets you listen to your favourite tracks from Rain World and Rain World: Downpour. All music tracks can be unlocked as rewards for completing quests.|Het Jukebox menu laat je naar je favoriete tracks uit Rain World en Rain World: Downpour luisteren. Alle muziek tracks kunnen worden ontgrendeld als beloningen voor het afronden van streeftochten.
+The Jukebox menu lets you listen to your favourite tracks from Rain World and Rain World: Downpour. All music tracks can be unlocked as rewards for completing quests.|Het Jukebox menu laat je naar je favoriete tracks uit Rain World en Rain World: Downpour luisteren. Alle muziek tracks kunnen worden ontgrendeld als beloning voor het afronden van streeftochten.
 Repeats the currently selected track|Herhaalt de huidige geselecteerde track
-Set a track to play as the menu theme|Set een track om als menu thema te spelen
-Unlocked via quests, perks can be applied to an expedition to even the odds, granting new tools and abilities for making completing challenges easier. See below for a full list of unlockable perks.|Ontgrendeld via streeftochten, voordelen kunnen aangebracht worden aan een expeditie to even the odds, en geeft nieuwe tools en vaardigheden die het afronden van uitdagingen makkelijker maakt. Kijk hier beneden voor de volledige lijst van ontgrendelbare voordelen.
-Start the expedition with a persistent glow around the player, usually granted by consuming a neuron. Useful in dark environments or when using the BLINDED burden.|Start de expeditie met een constante gloei rond de speler, die je normaal verkrijgt door een zenuwcel te eten. Handig in donkere omgevingen of als je de VERBLIND last gebruikt.
-Start the expedition with a Scavenger Lantern, a portable light source -- and for some slugcats -- a source of vital warmth.|Start de expeditie met een Lantaarn, een draagbare lichtbron (en voor sommige slakkatten een vitale bron van warmte).
+Set a track to play as the menu theme|Stel een track in om als menu thema te spelen
+Unlocked via quests, perks can be applied to an expedition to even the odds, granting new tools and abilities for making completing challenges easier. See below for a full list of unlockable perks.|Ontgrendeld via streeftochten, voordelen kunnen aangebracht worden aan een expeditie om de kansen gelijk te zetten, en geeft nieuwe hulpmiddelen en vaardigheden die het afronden van uitdagingen makkelijker maakt. Kijk hier beneden voor de volledige lijst van ontgrendelbare voordelen.
+Start the expedition with a persistent glow around the player, usually granted by consuming a neuron. Useful in dark environments or when using the BLINDED burden.|Begin de expeditie met een constante gloei rond de speler, die je normaal verkrijgt door een zenuwcel te eten. Handig in donkere omgevingen of als je de VERBLIND last gebruikt.
+Start the expedition with a Scavenger Lantern, a portable light source -- and for some slugcats -- a source of vital warmth.|Begin de expeditie met een Lantaarn, een draagbare lichtbron (en voor sommige slakkatten een vitale bron van warmte).
 Grants the ability to slow time at will by holding PICK UP and pressing MAP. A visual indicator for the ability's cooldown appears above the cycle timer.|Geeft je de vaardigheid om de tijd op ieder moment te vertragen door OPPAKKEN ingedrukt te houden en op KAART te drukken. Een visuale indicator voor de vaardigheid’s cooldown verschijnt boven de cyclus timer.
-re-enables the use of passages to travel to previously visited shelters and recover all karma while doing so. Rather than being granted by achievements, a passage is awarded for each completed challenge.|Schakelt het gebruik van doorgangen weer in om te reizen naar eerder bezochte schuilplaatsen en op hetzelfde moment al je karma te herstellen. In plaats van verkregen te worden via achievements, wordt een doorgang beloond voor elke afgeronde uitdaging.
-Start the expedition with a Vulture Mask, helping to keep hostile creatures at bay, or make them fleeing targets.|Start de expeditie met een Gierenmasker, die helpt vijandige wezens weg te houden, of maakt hen tot vluchtende doelwitten.
+re-enables the use of passages to travel to previously visited shelters and recover all karma while doing so. Rather than being granted by achievements, a passage is awarded for each completed challenge.|Schakelt het gebruik van doorgangen weer in om te reizen naar eerder bezochte schuilplaatsen en op hetzelfde moment al je karma te herstellen. In plaats van verkregen te worden via prestaties, wordt een doorgang beloond voor elke afgeronde uitdaging.
+Start the expedition with a Vulture Mask, helping to keep hostile creatures at bay, or make them fleeing targets.|Begin de expeditie met een Gierenmasker, die helpt vijandige wezens weg te houden, of hen tot vluchtende doelwitten maakt.
 Start the expedition with reinforced karma. Reinforced karma is the only way to prevent permadeath at the lowest karma level. If the cycle ends in failure, a karma flower will appear at the site of death. Will be permanently lost if not recovered.|Start de expeditie met beschermde karma. Beschermde karma is de enige manier om permadood op het laagste karma level te voorkomen. Als je de cyclus faalt, zal een karma bloem verschijnen op de plek van je dood, die permanent verloren raakt als het niet wordt gepakt.
-Bestows the Spearmaster's dual-wielding ability to other characters. Being able to carry a spear in each hand greatly increases the speed at which you can deal damage.|Geeft de Speermeester’s dual-wielding vaardigheid aan andere personages. De vaardigheid om een speer in beide handen te dragen vergroot de snelheid waarmee je schade kunt aanbrengen.
-Start the expedition with a Singularity Bomb, a devastating weapon that can eliminate even the toughest of creatures, just make sure not to get caught in the blast.|Start de expeditie met een Singulariteitsbom, een vernietigend wapen dat zelfs de sterkste wezens kan elimineren. Zorg er alleen voor dat je zelf niet in de explosie terechtkomt.
+Bestows the Spearmaster's dual-wielding ability to other characters. Being able to carry a spear in each hand greatly increases the speed at which you can deal damage.|Geeft de Speermeester’s vaardigheid om twee speren tegelijk te dragen aan andere personages. Dit vergroot de snelheid waarmee je schade kunt aanbrengen.
+Start the expedition with a Singularity Bomb, a devastating weapon that can eliminate even the toughest of creatures, just make sure not to get caught in the blast.|Begin de expeditie met een Singulariteitsbom, een vernietigend wapen dat zelfs de sterkste wezens kan elimineren. Zorg er alleen voor dat je zelf niet in de explosie terechtkomt.
 Withstand explosive encounters by borrowing The Artificer's explosion immunity. Useful if unfavored by the Scavengers, or for surviving situations where an explosion may be a last resort.|Doorsta explosieve confrontaties door De Schepper’s explosie immuniteit te lenen. Handig als je een ongunstige relatie hebt met de Schooiers, of voor het overleven van situaties waar een explosie een laatste uitweg is.
 Grants The Gourmand's crafting ability to other characters. Experiment with objects you find by combining them into new ones to help in different situations. Activate by holding UP and PICK UP with an item in each hand.|Geeft andere personages De Bourgondiër's ambachts vaardigheid. Experimenteer met voorwerpen die je vindt door ze te combineren tot nieuwe voorwerpen die helpen in verschillende situaties. Activeer door tegelijkertijd OMHOOG en OPPAKKEN ingedrukt te houden met een voorwerp in iedere hand.
-Increases the chosen characters running and jumping abilities by borrowing The Rivulet's high agility, letting you cross great distances with ease. Less efective for larger characters.|Verhoogt de gekozen personage's rennen en springen vaardigheden door De Waterrat's hoge wendbaarheid te lenen, waardoor je makkelijk grote afstanden kunt overbruggen. Minder Effectief voor grotere personages.
-Start the expedition with the Joke Rifle. Originally shown off as an April Fools joke, the Rifle makes its way into Rain World: Downpour as a useful tool. Experiment by loading different items as ammo by holding the PICK UP button, and fire the Rifle with the THROW button.|Start de expeditie met het Joke Geweer. Eerst een 1 april grap, het Geweer maakt zijn weg in Rain World: Downpour als een handige tool. Experimenteer door verschillende voorwerpen te laden als ammo door de OPPAKKEN knop ingedrukt te houden en vuur het geweer met de GOOIEN knop.
+Increases the chosen characters running and jumping abilities by borrowing The Rivulet's high agility, letting you cross great distances with ease. Less efective for larger characters.|Verhoogt de gekozen personage's rennen en springen vaardigheden door De Waterrat's hoge wendbaarheid te lenen, waardoor je makkelijk grote afstanden kunt overbruggen. Minder effectief voor grotere personages.
+Start the expedition with the Joke Rifle. Originally shown off as an April Fools joke, the Rifle makes its way into Rain World: Downpour as a useful tool. Experiment by loading different items as ammo by holding the PICK UP button, and fire the Rifle with the THROW button.|Begin de expeditie met het Grappen Geweer. Eerst een 1 april grap, het Geweer maakt zijn weg in Rain World: Downpour als een handige tool. Experimenteer door verschillende voorwerpen te laden als ammo door de OPPAKKEN knop ingedrukt te houden en vuur het geweer met de GOOIEN knop.
 Shrouds the entire world in an endless night, obscuring danger in every shadow. A light source will be vital for survival.|Dekt de hele wereld in een eindeloze nacht en verstopt gevaar in elke schaduw. Een lichtbron zal vitaal zijn om te overleven.
 Removes the safety net that karma provides, triggering permadeath for any failure. Made only slightly less punishing with the use of the Karma Flower perk.|Verwijdert het veiligheidsnet dat karma geeft, triggering permadood bij elke mislukking. Wordt alleen een klein beetje minder straffend gemaakt met de Karma Bloem perk.
 Makes the player public enemy number one. All hostile creatures in the region will know your location at all times, making standing still a bad choice.|Maakt de speler publieke vijand nummer één. Alle vijandige wezens weten ten alle tijden jouw locatie, wat stilstaan een slechte keuze maakt.
@@ -2158,12 +2158,12 @@ tips-wanderer|De Dwaler heeft iedere uithoek van de wereld gezien en al dat het 
 Body|Lichaam
 Eyes|Ogen
 HIGH|HOOG
-Restore Default|Herstel Standaard Configutatie
+Restore Default|Herstel Standaard Configuratie
 Back to options|Terug naar opties
 tips-spearstick|Speren kunnen in oppervlaktes gestoken worden om geïmproviseerde palen te maken. Gebruik dit<LINE>om nieuwe routes te openen en naar voorheen ontoegankelijke locaties te gaan.
 tips-batharvest|Stoot vleervliegen uit de lucht met projectielen om het makkelijker te maken om ze te vangen.<LINE>Doorsteek ze met speren om er meerdere tegelijk te vangen.
 tips-reputation|Jouw acties beïnvloeden jouw reputatie in de ecosysteem’s bevolking.<LINE>Wees vrijgevig, zelfs naar jouw vijanden en misschien wordt de gunst later teruggekeerd.<LINE>Anders wordt je door allen bejaagd.
-tips-throwboost|Een voorwerp gooien terwijl je in de lucht bent, geeft je een kleine boost in richting waarin je het gegooit hebt.<LINE>Gebruik dit om de horizontale afstand die je met je sprongen aflegt te vergroten.
+tips-throwboost|Een voorwerp gooien terwijl je in de lucht bent, geeft je een kleine boost in de richting waarin je het gegooid hebt.<LINE>Gebruik dit om de horizontale afstand die je met je sprongen aflegt te vergroten.
 tips-tunnelturn|Terwijl je door een nauwe gang kruipt, houdt de springen knop en tegenovergestelde richting ingedrukt om om te keren.<LINE>Je beweegt sneller als je in dezelfde richting kruipt als waar je naar kijkt.
 tips-powerthrow|Een speer vooruit gooien tijdens een slide geeft de speer extra snelheid<LINE>en impact. Dit kan wezens voor een langere tijd verlammen en kan<LINE>door bepaalde verdedigingen heen steken.
 tips-superslide|Gooi een object naar achteren tijdens een slide om de afgelegde afstand<LINE>dramatisch te vergroten.
@@ -2182,7 +2182,7 @@ FPS Limit|FPS Limiet
 Unlimited|Ongelimiteerd
 tips-drop|Tegelijkertijd op omlaag en de oppakken knop drukken, laat je het voorwerp in je hand op de grond<LINE>plaatsen zonder het te gooien. tips-roll|Terwijl je een grote afstand valt, houd diagonaal neerwaarts ingedrukt om een rol te initiëren<LINE>op het moment van contact met de grond. Dit verkleint de impact van de val en geeft<LINE>wat extra mobiliteit.
 tips-swim|Beweeg in een gecontroleerde kronkelende beweging onderwater om je zwemsnelheid te<LINE>verbeteren. Kronkel je lichaam ritmisch op en neer, of links en rechts.
-tips-monk|De Monnik is het pad van de prooi. Verzamelend in de wildernis van de wereld om te overleven,<LINE>maar dit pad garandeert geen veiligheid in een wereld van roofdieren.
+tips-monk|De Monnik is het pad van de prooi, dat verzameld in de wildernis van de wereld om te overleven,<LINE>maar dit pad garandeert geen veiligheid in een wereld van roofdieren.
 Quality|Kwaliteit
 Backgrounds|Achtergronden
 tips-crouch|Je hoeft omlaag niet ingedrukt te houden om gebukt te blijven. Druk een keer op omlaag om in de kruipende staat<LINE>te gaan, en druk op omhoog om weer rechtop te staan.
@@ -2205,7 +2205,7 @@ Enable slug senses?|Schakel slakkenzintuigen in?
 CONFIGURE SUB MENUS|CONFIGUREER SUB MENUS
 Show tips between cycles?|Laat tips tussen cyclussen in zien?
 Enable Developer Commentary?|Schakel Ontwikkelaar’s Commentaar in?
-Change graphics quality|Verander de kwaliteit van de graphics
+Change graphics quality|Verander de kwaliteit van de beelden
 Take your pet with you.|Neem je huisdier met je mee.
 Change menu background images|Verander menu achtergrond afbeeldingen
 Display a speedrun timer at the top of the screen during gameplay?|Laat tijdens het spelen een speedrun timer zien aan de bovenkant van het scherm?
