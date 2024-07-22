@@ -1,19 +1,19 @@
 sm1
 none
 
-You have been through hell and back, but now, it's time to atone for your sins in your past cycles. 
-You must find a mate, or die. 
-Which direction to you head?
+Je bent door een hel en terug geweest, maar nu is het tijd om te boeten voor jouw zonden in jouw vorige cyclussen.
+Je moet een partner vinden, of sterven.
+Welke kant ga je op?
 
-North
+Noord
 north_1.txt
-East
+Oost
 east_1.txt
-South
+Zuid
 south_1.txt
 West
 west_1.txt
-Down
+Onder
 down_1.txt
 
 RW_42 - Kayava

@@ -1,9 +1,10 @@
 sm1
 none
 
-The void is a place of instability and decay. It is a place that can't even be
-properly defined or accurately described. Rather it is a state of non-conformity
-in which everything may be possible, and nothing is certain.
+De leegte is een plek van instabiliteit en verrot. Het is een plek 
+die niet eens degelijk vastgesteld of accuraat beschreven kan worden. 
+In plaats daarvan is het in een afwijkende staat waar alles mogelijk kan zijn, 
+en niets zeker is.
 
-Look around.
+Kijk in het rond.
 down_3.txt
