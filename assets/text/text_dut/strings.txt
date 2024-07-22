@@ -18,7 +18,7 @@ Add item|Voorwerp toevoegen
 Deaths :|Keer Gestorven :
 Ascended|Verheven
 PREVIOUS|VORIGE
-SaveData|OpgeslagenGegevens
+SaveData|Opgeslagen Gegevens
 Presets:|Presets:
 Oh. You.|Oh. Jij.
 creature|wezen
@@ -67,7 +67,7 @@ Unlock all campaigns|Ontgrendel alle campagnes
 More Slugcats Cheats|Meer Slakkatten Cheats
 Exit to title screen|Terug naar titelscherm
 Preparing for upload|Voorbereiden voor upload
-devtools-description|Schakelt de in-spel Developer Tools in die de benodigde tools bieden om kaarten en gebieden te bewerken, en om te helpen met het modding proces van het spel.<LINE><LINE>Druk op O in-spel om Dev Tools in/uit te schakelen, en druk op H om het hoofd Dev Tools interface op te brengen.
+devtools-description|Schakelt de in-spel Developer Tools in die de benodigde tools bieden om kaarten en gebieden te bewerken, en om te helpen met het modding proces van het spel.<LINE><LINE>Druk op O tijdens het spelen om Dev Tools in/uit te schakelen, en druk op H om het hoofd Dev Tools interface op te brengen.
 ...leave me alone...|...laat me alleen...
 Hello, <PlayerName>!|Hallo, <PlayerName>!
 Hello, <PlayerName>.|Hallo, <PlayerName>.
@@ -159,13 +159,13 @@ Again.|Alweer.
 friend|vriend
 little|klein
 Clear the game as Survivor or Monk to unlock.|Voltooi het spel als De Overlever of De Monnik om te ontgrendelen.
-Objects can be picked up, carried, and tossed|Objecten kunnen opgepakt, gedragen en gegooid worden
+Objects can be picked up, carried, and tossed|Voorwerpen kunnen opgepakt, gedragen en gegooid worden
 Some small creatures can be eaten immediately|Sommige kleine wezens kunnen onmiddellijk worden opgegeten
 MenuModList_ModButton_Enable_NonMouse_Console|Druk op BEVESTIGEN om deze content in te schakelen, druk op RECHTS om terug naar de lijst te gaan
 Show icons of nearby creatures on the minimap|Laat iconen van dichtbijzijnde wezens zien op de minikaart
-You are bringing a neuron. Is it to taunt me?|Je bracht een zenuwcel. Is het om met me te spotten?
+You are bringing a neuron. Is it to taunt me?|Je hebt een zenuwcel gebracht. Is het om met me te spotten?
 Your curiosity seems boundless, <PlayerName>.|Jouw nieuwsgierigheid lijkt grenzeloos, <PlayerName>.
-remix_dlc_restart|Als je DLC gekocht hebt, moet je het spel herstarten zodat de content beschikbaar wordt.
+remix_dlc_restart|Als je DLC gekocht hebt, moet je het spel herstarten zodat de inhoud beschikbaar wordt.
 Expedition Leader|Expeditie Leider
 creaturetype-Deer|Regenherten
 Looks to the Moon|Kijkt naar de Maan
@@ -183,7 +183,7 @@ Delivered Payload|Lading Geleverd
 Leaderboard empty|Leiderbord leeg
 mod_menu_finalize|(Mods aanbrengen voltooien, even geduld...)
 MenuModStat_ModID|ID: <ModID>
-Key item tracking|Sleutel voorwerp tracking
+Key item tracking|Sleutel voorwerp tracken
 Alpha red lizards|Alfa rode hagedissen
 Unlock all arenas|Ontgrendel alle arenas
 moreslugcats-name|Meer Slakkatten Uitbreiding
@@ -203,8 +203,8 @@ ROUNDS SESSION|RONDES SESSIE
 RESUME SESSION|VEDERGAAN MET SESSIE
 Clear playlist|Verwijder speellijst
 Eating contest|Eetwedstrijd
-Aggressive AI:|Agressieve AI:
-Change Profile|Verander Profiel
+Aggressive AI:|Agressieve KI:
+Change Profile|Verander van Profiel
 mod_menu_apply|Veranderingen aanbrengen aan geselecteerde mods
 Speedrun timer|Speedrun timer
 jollycoop-name|Vrolijke Co-op
@@ -288,7 +288,7 @@ General|Algemeen
 Presets|Presets
 CLASSIC|KLASSIEK
 RELAXED|RELAXED
-Assists|Assists
+Assists|Hulp
 Failure|Gefaald
 ...you.|...jij.
 Please!|Alsjeblieft!
@@ -335,7 +335,7 @@ The Friend|De Vriend
 Pilgrimage|Pelgrimstocht
 FULLSCREEN|VOLLEDIG SCHERM
 SAVE FILES|OPGESLAGEN BESTANDEN
-PORTUGUESE|PORTUGUEES
+PORTUGUESE|PORTUGEES
 TEST INPUT|INPUT TESTEN
 Left Stick|Linker Stick
 Hold Space|Houd Spatie ingedrukt
@@ -350,7 +350,7 @@ You again.|Jij alweer.
 ...rain...|...regen...
 ...stop...|...stop...
 Thank you.|Dank je wel.
-A final charitable act|Een laatste liefdadige acte
+A final charitable act|Een laatste liefdadigheid
 Path of self-sacrifice|Pad van zelfopoffering
 objecttype-VultureMask|Gierenmasker
 objecttype-DangleFruit|Blauwe Vrucht
@@ -460,8 +460,8 @@ Gamepad <X> (Not found)|Gamepad <X> (Niet Gevonden)
 No rain timer exception|Geen regen timer uitzondering
 Sandbox items unlocked:|Sandbox voorwerpen ontgrendeld:
 ps4_save_progress_title|Rain World Voortgang {0}
-ps4_save_options_failed|Fout opgetreden bij het opslaan van opties data.
-ps4_load_options_failed|Opgeslagen Opties data is beschadigt en wordt verwijderd.
+ps4_save_options_failed|Fout opgetreden bij het opslaan van opties gegevens.
+ps4_load_options_failed|Opgeslagen Opties gegevens zijn beschadigd en worden verwijderd.
 Failed to get rankings.|Gefaald om de rangen te krijgen.
 Switch to windowed mode|Wissel naar venster modus
 OpCheckBox_NonMouseTuto|Druk op BEVESTIGEN om te schakelen
@@ -471,7 +471,7 @@ OpTextBox_MouseTutoGrab|Klik om te beginnen met typen
 OpTextBox_MouseTutoType|Gebruik het toetsenbord om te typen, druk op Enter om aan te brengen
 ModdingMenu_ControlJump|Kiezen / Bevestigen
 ModdingMenu_ControlMove|Bewegen / Aanpassen
-ModdingMenu_ControlPckp|Clipboard
+ModdingMenu_ControlPckp|Klembord
 MenuModList_AskModApply|Druk eerst op MODS AANBRENGEN voordat je mods configureert
 Jetfish item protection|Straalvis voorwerp bescherming
 Currently Active Preset|Huidige Actieve Preset
@@ -491,7 +491,7 @@ You completed every challenge laid before you.|Je complete elke uitdaging die vo
 Clear every milestone quest in Expedition Mode|Compleet elke mijlsteen streeftocht in de Expeditie Modus
 You are not the only lost soul in this world..|Je bent niet de enige verloren ziel in deze wereld..
 Additional food (above four) is kept for later|Aanvullend voedsel (boven vier) wordt bewaard voor later
-Grab your prey and hold the eat button to feed|Grijp je prooi en houd de eet knop ingedrukt om te voeden
+Grab your prey and hold the eat button to feed|Grijp je prooi en houd de eten knop ingedrukt om te voeden
 MenuModList_ModButton_Disable_NonMouse_Console|Druk op BEVESTIGEN om deze inhoud uit te schakelen, druk op RECHTS om terug naar de lijst te gaan
 MenuModList_ModButton_NonMouse_Display_Console|Druk op BEVESTIGEN om te laten zien, druk op LINKS om de schakelknop voor deze inhoud te bewegen
 ConfigTabController_TabSelectButton_UnnamedTab|Wissel naar tab #<TabIndex>
@@ -499,13 +499,13 @@ Not that it solves anyone's problem but yours.|Niet dat het iemands probleem opl
 As I mentioned you do not have unlimited time.|Zoals gezegd heb je geen ongelimiteerde tijd.
 Another? You're no better than the scavengers!|Nog een? Je bent niets beter dan de schooiers!
 I won't talk to you if you continue like this.|Ik zal niet met je praten als je zo doorgaat.
-Everything comes full circle|Alles komt vol cirkel
+Everything comes full circle|De cirkel is weer rond
 Great strides have been made|Grote vorderingen zijn gemaakt
 Complete the Scholar passage|Compleet de Leergierige doorgang
 Complete the Pilgrim passage|Compleet de Pelgrim doorgang
 creaturetype-BrotherLongLegs|Broeder Hooiwagen
 creaturetype-SmallNeedleWorm|Noedelvlieg Larve
-Press any button to continue|Druk op elke knop om verder te gaan
+Press any button to continue|Druk op iedere knop om verder te gaan
 A Bell, Eighteen Amber Beads|Een Bel, Achttien Amber Kralen
 Two Sprouts, Twelve Brackets|Twee Scheuten, Twaalf Steunen
 The Dragon Slayer-linebreaks|De Draken-<LINE>doder
@@ -545,7 +545,7 @@ JUMP/THROW buttons - Switch layers_4|Down Knop/Right Knop - Wissel van lagen
 JUMP/THROW buttons - Switch layers_5|A Knop/X Knop - Wissel van lagen
 Title is offline or is disconnected.|Titel is offline of is niet verbonden.
 OpKeyBinder_NonMouseJoystickBindTuto|Druk op een knop om het vast te binden (PAUZEER om te ontbinden, START om controller nummer in te stellen)
-ConfigContainer_AlertCopyNoncosmetic|Kopieerde <Text> van <ObjectName> naar clipboard
+ConfigContainer_AlertCopyNoncosmetic|Kopieerde <Text> van <ObjectName> naar klembord
 ConfigMenuTab_RevertHoldButton_Label|TERUGZETTEN
 MenuModList_ModButton_RainWorldDummy|Representeert het Rain World basis spel, dat geladen wordt voor alle mods erboven
 Are you sure you want to view these?|Weet je zeker dat je deze wilt bekijken?
@@ -568,7 +568,7 @@ NO! I will...not speak to you...|NEE! Ik zal...niet met jou spreken...
 A new gift for me, <PlayerName>?|Een nieuw geschenk voor mij, <PlayerName>?
 <CapPlayerName>, this one again?|<CapPlayerName>, deze alweer?
 Yes, take it and leave me alone.|Ja, neem het en laat me alleen.
-I think the rain is approaching.|Ik denk dat de regen eraankomt.
+I think the rain is approaching.|Ik denk dat de regen eraan komt.
 ...leaving now? Don't... return.|...ga je weg? Kom... niet terug.
 Complete the Survivor passage|Compleet de Overlever doorgang
 Complete the Wanderer passage|Compleet de Dwaler doorgang
@@ -577,7 +577,7 @@ Hold to eat / swallow objects|Houd ingedrukt om te eten / voorwerpen door te sli
 Configure controls for player|Controls configureren voor speler
 Standard items spawn on level|Standaard voorwerpen verschijnen in het level
 ps4_save_progress_description|Rain World Voortgang {0} Save Data
-OpColorPicker_NonMouseSliders|Met de joystick, omhoog of omlaag om te kiezen, naar links of rechts om aan te passen. Druk op BEVESTIGEN om aan te brengen
+OpColorPicker_NonMouseSliders|Met de joystick, beweeg omhoog of omlaag om te kiezen, naar links of rechts om aan te passen. Druk op BEVESTIGEN om aan te brengen
 OpScrollBox_MouseTutoSlidebar|Gebruik het scrollwiel of scrollbar om meer te zien
 ConfigMenuTab_BackButton_Desc|Terug naar het hoofdmenu
 ConfigMenuTab_SaveButton_Desc|Sla de huidige mod's configuraties op en ga terug
@@ -617,7 +617,7 @@ MenuModList_SearchBox_Empty|Typ om te zoeken...
 MenuModList_SearchBox_Query|Zoek query: <Query>
 Connector_ResetConfig_Alert|Herstelde de configuratie van <ModName> naar de standaard configuratie
 Arena creatures cannot flee|Arena wezens kunnen niet vluchten
-Monk extra light assistance|Monnik extra licht assistance
+Monk extra light assistance|Monnik extra licht hulp
 Zero-gravity spear throwing|Gewichtloos speer gooien
 Unlock all arena characters|Ontgrendel alle arena personages
 Oh, it's you, <PlayerName>.|Oh, jij bent het, <PlayerName>.
@@ -684,13 +684,13 @@ Complete the Dragon Slayer passage|Compleet de Drakendoder doorgang
 Something lurks in the darkness...|Er hangt iets rond in de duisternis...
 Complete the game as The Artificer|Voltooi het spel als De Schepper
 Five Pebbles (General Systems Bus)|Vijf Kiezels (Algemene Systemen Hoofdlijn)
-Pick up / Eat button interactions:|Oppak / Eet knop interacties:
+Pick up / Eat button interactions:|Oppakken / Eten knop interacties:
 Game Over - Press SPACE to restart|Game Over - Druk op SPATIE om te herstarten
 switch_controls_singlejoyconl_jump|Omlaag Knop
 switch_controls_singlejoyconr_jump|A Knop
 JUMP/THROW buttons - Switch layers|SPRINGEN/GOOIEN knoppen - Wissel van lagen
 ps4_save_options_failed_free_space|Fout opgetreden bij het opslaan van opties data. Niet genoeg vrije ruimte. Opnieuw proberen?
-ConfigContainer_AlertPasteCosmetic|Plakte<Text> van clipboard
+ConfigContainer_AlertPasteCosmetic|Plakte<Text> van klembord
 MenuModList_ModButton_Enable_Mouse|Schakel <Mod> in
 Stronger bottomless pit indicators|Beter zichtbare bodemloos gat indicatoren
 Monk-style gates for all campaigns|Monnik-stijl poorten voor alle campagnes
@@ -711,14 +711,14 @@ JUMP/THROW buttons - Switch layers_2a|kruis knop/cirkel knop - Wissel van lagen<
 JUMP/THROW buttons - Switch layers_3a|B Knop/A Knop - Wissel van lagen<LINE>Y Knop - Selecteer schuilplaats
 JUMP/THROW buttons - Switch layers_4a|Omlaag Knop/Rechter Knop - Wissel van lagen<LINE>Linker Knop - Selecteer schuilplaats
 JUMP/THROW buttons - Switch layers_5a|A Knop/X Knop - Wissel van lagen<LINE>B Knop - Selecteer schuilplaats
-ConfigContainer_AlertPasteNoncosmetic|Plakte <Text> van clipboard naar <ObjectName>
+ConfigContainer_AlertPasteNoncosmetic|Plakte <Text> van klembord naar <ObjectName>
 MenuModList_ModButton_Enable_NonMouse|Druk op BEVESTIGEN om deze mod in te schakelen, houd BEVESTIGEN ingedrukt en gebruik de joystick om de laadvolgorde te wisselen
 Press CONTINUE to view and accept it.|Druk op VERDERGAAN om het te bekijken en accepteren.
 Thank you. I do wonder what you want.|Dank je. Ik vraag me af wat je wilt.
 Another thing you want me to look at?|Nog iets waar me wilt naar laten kijken?
 Would you like me to read this pearl?|Wil je dat ik deze parel lees?
 And now you're taking it, apparently.|En nu neem je het, schijnbaar.
-Something lurks at the highest reaches of the world...|Er hangt iets rond in de hoogste uithoeken van de werel...
+Something lurks at the highest reaches of the world...|Er hangt iets rond in de hoogste uithoeken van de wereld...
 Assign player <X> to the default XBox controller setup|Wijs speler <X> de standaard XBox controller setup toe
 Select which levels to play<LINE>in the level selector|Selecteer welke levels je wilt spelen<LINE>in de level selecteerder
 Shows a visual pulse on screen when threats are nearby|Laat een visuele puls op het scherm zien wanneer er gevaar in de buurt is
@@ -739,7 +739,7 @@ objecttype-SporePlant|Bijenkorf
 objecttype-NSHSwarmer|Groene Zenuwcel
 creaturetype-SeaLeech|Zee-bloedzuiger
 creaturetype-TubeWorm|Grijpworm
-creaturetype-Overseer|Overzichter
+creaturetype-Overseer|Opzichter
 Path of the carnivore|Pad van de vleeseter
 The Hunter-linebreaks|De Jager
 The Outlaw-linebreaks|De Vogelvrije
@@ -2260,16 +2260,6 @@ Please do not bring more wildlife into my chamber.|Breng alsjeblieft niet meer w
 How did you fit them inside here anyhow?|Hoe kreeg je hen überhaupt hier binnen?
 Take your friend with you. Please. I beg you.|Neem je vriend met je mee. Alsjeblieft. Ik smeek je.
 
-//1.9.15
-Stops nearby explosions causing a ringing sound to play|Weerhoud nabije explosies ervan om een ringend geluid te laten spelen
-No Ringing in Ears|Geen gering in oren
-STORY DATA|VERHAAL GEGEVENS
-backup_restore_confirm|JOUW HUIDIGE OPGESLAGEN GEGEVENS ZULLEN VERWIJDERD WORDEN!<LINE><LINE>Het kiezen om te herstellen zal de opgeslagen gegevens in AL jouw opgeslagen gegevens slots overschrijven met de gegevens van deze backup.<LINE>Deze operatie is permanent en kan niet ongedaan worden gemaakt.<LINE><LINE>Weet je zeker dat je jouw huidige opgeslagen gegevens wilt overschrijven met de gegevens van {X}?
-backup_restore_success|De opgeslagen gegevens van {X} zijn  hersteld.
-backup_info_disclaimer|(Gegevens hier zijn gebaseerd op jouw huidige ingeschakelde mods.<LINE>Er kunnen nog aanvullende gegevens bestaan van mods die op het huidige moment uitgeschakeld zijn)
-Issues found while loading mods!<LINE>Disabling problematic mods.<LINE>Press continue and then launch the game again.|Problemen gevonden tijdens het laden van mods!<LINE>Problematische mods aan het uitschakelen.<LINE>Druk op verdergaan en start het spel dan opnieuw op.
-Desync detected between user mod data and game mod data!<LINE>Re-sycing data.<LINE>Press continue and then launch the game again.<LINE>Disabled mods:|Desync gedetecteerd tussen gebruiker mod gegevens en spel mod gegevens!<LINE>Gegevens aan het her-synchroniseren.<LINE>Druk op verdergaan en start het spel dan opnieuw op.<LINE>Uitgeschakelde mods:
-
 //Arena
 Gathering|Verzamelen
 Theft|Diefstal
@@ -2406,3 +2396,13 @@ TOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOBS|TUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
 Moist|Zompig
 Andrew's Basement|Andrew's Kelder
 Thanks Andrew.|Je wordt bedankt, Andrew.
+
+//1.9.15
+Stops nearby explosions causing a ringing sound to play|Weerhoud nabije explosies ervan om een ringend geluid te laten spelen
+No Ringing in Ears|Geen gering in oren
+STORY DATA|VERHAAL GEGEVENS
+backup_restore_confirm|JOUW HUIDIGE OPGESLAGEN GEGEVENS ZULLEN VERWIJDERD WORDEN!<LINE><LINE>Het kiezen om te herstellen zal de opgeslagen gegevens in AL jouw opgeslagen gegevens slots overschrijven met de gegevens van deze backup.<LINE>Deze operatie is permanent en kan niet ongedaan worden gemaakt.<LINE><LINE>Weet je zeker dat je jouw huidige opgeslagen gegevens wilt overschrijven met de gegevens van {X}?
+backup_restore_success|De opgeslagen gegevens van {X} zijn  hersteld.
+backup_info_disclaimer|(Gegevens hier zijn gebaseerd op jouw huidige ingeschakelde mods.<LINE>Er kunnen nog aanvullende gegevens bestaan van mods die op het huidige moment uitgeschakeld zijn)
+Issues found while loading mods!<LINE>Disabling problematic mods.<LINE>Press continue and then launch the game again.|Problemen gevonden tijdens het laden van mods!<LINE>Problematische mods aan het uitschakelen.<LINE>Druk op verdergaan en start het spel dan opnieuw op.
+Desync detected between user mod data and game mod data!<LINE>Re-sycing data.<LINE>Press continue and then launch the game again.<LINE>Disabled mods:|Desync gedetecteerd tussen gebruiker mod gegevens en spel mod gegevens!<LINE>Gegevens aan het her-synchroniseren.<LINE>Druk op verdergaan en start het spel dan opnieuw op.<LINE>Uitgeschakelde mods:
