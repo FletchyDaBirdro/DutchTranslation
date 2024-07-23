@@ -2,15 +2,15 @@ sm9b
 sa2b
 
 "Oh."
-The slugcat pauses for a few seconds, looking disappointed in you.
-"In that case, no. I will not go out with you."
-"why?!!"
-"I'm not interested in relationships. I have higher priorities."
-The slugcat looks away, as if trying to find a way to exit this interaction as soon as possible.
+De slakkat pauzeert voor een paar seconden, en lijkt teleurgesteld in jou.
+"In dat geval, nee. Ik zal niet met jou uitgaan."
+"waarom?!!"
+"Ik ben niet geïnteresseerd in relaties. Ik heb hogere prioriteiten."
+De slakkat kijkt weg, alsof die een manier probeert te vinden om zo mogelijk onder deze interactie uit te komen.
 
-Give up.
+Geef op.
 down_a5.txt
-Don't let up.
+Blijf aanhouden.
 down_a6.txt
-Offer a gift.
+Bied een geschenk aan.
 down_a7.txt

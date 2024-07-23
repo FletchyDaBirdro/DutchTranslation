@@ -1,12 +1,12 @@
 sm5b
 grl1
 
-"g-golden lizard... aah... from echo..." 
-You attempt to formulate a proper sentence, but find that you are too terrified to even speak.
-The beast does something that causes your mouth to gape open and your eyes to widen in terror.
-The creature steps forward and looks down on you with malice in its eyes.
-You feel a tremendous pressure as the creature's horrible visage is applied to yours.
-You are powerless.
+"g-gouden hagedis... aah... van echo..."
+Je probeert een degelijke zin in elkaar te zetten, maar komt erachter dat je te bang bent om te spreken.
+Het beest doet iets dat ervoor zorgt dat jouw mond wijd open staat en jouw ogen verwijden van angst.
+Het wezen stapt naar voren en kijkt op je neer met kwaadzin in hun ogen.
+Je voelt een enorme druk terwijl het wezen's aanzicht wordt toegepast op die van jou.
+Je bent machteloos.
 
-You blush profusely.
+Je bloost overvloedig.
 down_8.txt

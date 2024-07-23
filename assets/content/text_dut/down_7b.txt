@@ -1,11 +1,11 @@
 sm5b
 grl1
 
-The beast stares at you and begins to move towards you slowly.
-It opens its jaws and shrieks, a sound unlike anything you have ever heard before.
-You are awestruck by its appearance, and that feeling is only amplified by
-the divine presence you feel as its vocals resonate through your chest.
-It slams its large black talons upon you, pinning your body to the floor.
+Het beest staart jou aan en beweegt zich langzaam naar jou toe.
+Het opent hun bek en krijst een geluid dat niet vergelijkbaar is met dat wat je ooit eerder hebt gehoord.
+Je bent overdonderd door hun uiterlijk, en dat gevoel wordt alleen maar vergroot
+door de goddelijke aanwezigheid die je voelt terwijl hun vocalen zich weerklinken door jouw borstkas.
+Het smijt hun grote, zwarte klauwen naar jou toe, en pint jouw lichaam aan de vloer.
 
-You blush profusely.
+Je bloost overvloedig.
 down_8.txt

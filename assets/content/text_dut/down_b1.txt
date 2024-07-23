@@ -1,10 +1,10 @@
 sm9
 sa2
 
-"Thanks, I just got a haircut. My fur was getting pretty long."
-They look you over, from head to toe.
-It doesn't seem to be particularly flirtatious, more a method of thorough inspection.
-You become self-conscious about your many flaws.
+"Dank je wel, ik heb zojuist een bezoekje aan de kapper gebracht. Mijn vacht begon behoorlijk lang te worden."
+Het bekijkt jou, van top tot teen.
+Het lijkt niet bepaald flirterig te zijn, meer een methode van grondige inspectie.
+Je begint je bewust te worden van je vele tekortkomingen.
 
-"haha, yea, me too"
+"haha, ja, ik ook"
 down_b2.txt

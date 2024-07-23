@@ -1,15 +1,15 @@
 sm7b
 grl1
 
-You look up and see a terrifying face and form,
-a monstrous, bestial visage that fills you with unquenchable dread.
-You'd recognize that face anywhere.
-You try to resist the urge to squeal in delight.
-You're their biggest fan.
+Je kijkt naar boven en ziet een angstaanjagend gezicht en vorm,
+een monstrueus, beestelijk aanzicht dat je vult met een ontembare vrees.
+Je herkent dat gezicht uit duizenden.
+Je probeert de neiging om te gillen van blijdschap te weerstaan.
+Je bent hun grootste fan.
 
-Feel the creature's muscles.
+Voel aan de spieren van het wezen.
 down_7a.txt
-"Can I have your autograph?"
+"Mag ik je handtekening hebben?"
 down_7b.txt
-Interview the creature.
+Interview het wezen.
 down_7c.txt

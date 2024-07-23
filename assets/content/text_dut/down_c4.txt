@@ -1,10 +1,10 @@
 sm3
 sa1
 
-You sprint towards the slugcat to grab the egg before it does.
-That's all yours.
-You're not going to let this random dude touch your precious cargo.
-Who do they think they are?
+Je sprint richting de slakkat om het ei te grijpen voordat het dat doet.
+Dat is jouw eigendom.
+Je gaat deze willekeurige gozer niet jouw kostbare lading laten aanraken.
+Wie denkt het wel niet dat het is?
 
-"that's mine, give it back!!"
+"das van mij, geef het trug!!"
 down_c4b.txt

@@ -1,10 +1,10 @@
 sm2
 none
 
-Before you get a chance to say any more, they shoot their tongue towards the ceiling,
-and begin swinging away into the distance.
-What a strange specimen.
-Unfortunately, now you're just alone again.
+Voordat je de kans krijgt om meer te zeggen, schiet het hun tong richting het plafond,
+en slingert de verte in.
+Wat een eigenaardig exemplaar.
+Jammer genoeg ben je nu maar weer alleen.
 
-Stumble around in the darkness
+Dwaal rond in de duisternis
 down_b5.txt

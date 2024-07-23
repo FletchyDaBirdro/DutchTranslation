@@ -1,10 +1,10 @@
 sm7b
 grl2
 
-Your eyes trail further up.
-That's a big creature alright.
-Are those its muscles? They are very well defined.
-You begin to blush a little, but also feel that you are suddenly in very real danger.
+Je ogen dwalen verder naar boven.
+Dat is zeker een groot wezen.
+Zijn dat hun spieren? Ze zijn erg goed gedefinieerd.
+Je begint een beetje te blozen, maar hebt ook het gevoel dat je ineens echt in gevaar bent.
 
-Look all the way up.
+Kijk helemaal naar boven.
 down_6.txt

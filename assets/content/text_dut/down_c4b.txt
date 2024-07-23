@@ -1,14 +1,14 @@
 sm5
 sa3
 
-The slugcat leisurely turns their head back towards you and launches their tongue at you again.
-It sticks firmly onto your torso and you feel a harsh tug as the tongue pulls back.
-It swiftly drags you across the ground, finally releasing its
-stick on you to fling you off the edge of a cliff. 
-You fall into the darkness below. As you lay, struggling to move your body, a black lizard
-slips out of a nearby pipe and makes quick work of you in your defenseless state.
+De slakkat draait kalmpjes aan hun hoofd terug naar jou en lanceert hun tong weer in jouw richting.
+Het blijft stevig aan jouw torso kleven en je voelt een hardhandige ruk terwijl de tong zich terugtrekt.
+Het sleept jou vlug over de grond, en laat zijn
+greep op jou eindelijk los om jou van de rand van een klif te smijten.
+Je valt in de duisternis beneden. Terwijl je daar ligt, worstelend om jouw lichaam te bewegen, 
+glipt een zwarte hagedis uit een dichtbijzijnde pijp en maakt snel werk van jou in jouw hulpeloze staat.
 
-RESTART
+HERSTARTEN
 start.txt
 
 FADE

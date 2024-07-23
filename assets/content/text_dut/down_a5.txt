@@ -1,12 +1,12 @@
 sm2
 sa1
 
-You accept this reasoning.
-No need to force the issue further, you can find another mate elsewhere.
-You wave goodbye to the slugcat, and it takes flight off to who knows where.
-However, you're also very close the void sea.
-Perhaps you should just take the dive and procrastinate on worrying
-about relationships until after you've stripped your mortal coil.
+Je accepteert deze redenering.
+Het is niet nodig om dit probleem verder te forceren, je kunt elders een andere partner vinden.
+Je wenst de slakkat vaarwel, en het stijgt op en vertrekt naar wie weet waar.
+Maar je bent ook erg dicht bij de Leegte Zee.
+Misschien moet je gewoon de duik nemen en het piekeren over relaties uitstellen tot nadat je 
+je aardse bestaan van je af hebt gestript.
 
-Head to the void sea.
+Ga naar de Leegte Zee.
 down_a5b.txt

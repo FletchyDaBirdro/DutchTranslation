@@ -1,12 +1,12 @@
 sm10
 sa2
 
-"ok, ok... hold up, before u give up on me..."
-The slugcat looks disinterested in whatever reasoning you might be about to give.
-"i got u a gift, look!!"
-You hand the slugcat your egg. Maybe this offering will help win them over.
-To your surprise, their expression immediately changes.
-"Where did you find that? You'd give this to me?"
+"oké, oké... wacht nu, voordat je het opgeeft met mij..."
+De slakkat toont desinteresse in wat voor redenering je ook gaat geven.
+"ik heb een kado meegebracht, kijk!!"
+Je geeft de slakkat jouw ei. Misschien zal deze offering helpen om hun hart te overwinnen.
+Tot jouw verbazing, verandert hun gezichtsuitdrukking onmiddelijk.
+"Waar heb jij dit gevonden? Zou jij dit aan mij geven?"
 
-"i'll give it if u go out with me~"
+"ik zal het aan je geven als je met me uitgaat~"
 down_a8.txt

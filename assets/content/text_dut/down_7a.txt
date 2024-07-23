@@ -1,10 +1,10 @@
 sm5b
 grl1
 
-The creature grabs you by the neck, lifting you off the ground by your fleshy appendages.
-You see a long, sharpened, canine tooth on the upper jaw protrude as the beast opens its mouth to bite you.
-The creature is without doubt the largest and most powerful predator you've ever come across. 
-The way it stands and holds itself suggests an immense amount of strength and stability.
+Het wezen grijpt jou bij de nek, en tilt jou van de grond bij jouw vlezige aanhangsels.
+Je ziet een lange, verscherpte, hoektand uit de bovenkaak steken terwijl het beest hun bek opent om jou te bijten.
+Dit wezen is zonder twijfel het grootste en sterkste roofdier dat je ooit bent tegengekomen.
+De manier waarop het staat en zichzelf staande houdt, duidt op een immense hoeveelheid kracht en stabiliteit.
 
-You blush profusely.
+Je bloost overvloedig.
 down_8.txt

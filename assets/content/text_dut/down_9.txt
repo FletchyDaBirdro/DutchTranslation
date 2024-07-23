@@ -1,17 +1,17 @@
 sm3
 sa3
 
-"Hello. Was that guy bothering you?"
-A green colored slugcat floats down from the sky in front of you.
-It has an aura of tranquility around it, yet some part of your mind
-feels some instinctive primal fear from its very being.
-The slugcat has an extremely long tongue, quite a bit different
-from any other slugcat you've encountered before. 
-In any case, this is the first of your species you've encountered here and could be an eligible mate.
+"Gegroet. Was dat heerschap jou aan het lastigvallen?"
+Een groen gekleurde slakkat zweeft vanuit de lucht vlak voor jou neer.
+Het heeft een rustige aura om zich heen, 
+en toch voelt een deel van jou een soort instinctieve primitieve angst door hun simpele bestaan.
+De slakkat heeft een extreem lange tong, 
+nogal anders dan de andere slakkatten die je voorheen bent tegengekomen. 
+In ieder geval, is dit de eerste van jouw soort die je hier bent tegengekomen en een geschikte partner zou kunnen zijn.
 
-"thx, u r my hero"
+"bedankt, je bent me held"
 down_a1.txt
-"ur looking fine"
+"je bent een lekker ding"
 down_b1.txt
-"wow, pls lick me"
+"wouw, lik me alsjeblief"
 down_c1.txt

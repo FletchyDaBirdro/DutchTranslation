@@ -1,11 +1,11 @@
 sm6
 sa3
 
-You lay faceplanted on the floor feeling kind of dumb.
-You roll over onto your side expecting to see them laughing at you.
-Instead you see the slugcat casually floating over to take your egg.
-"woah woah, wat do u think ur doing there??!"
-They ignore you and continue towards the egg.
+Je ligt met je gezicht op de vloer met een soort van stom gevoel.
+Je rolt op je zijde en verwacht om hen te zien jou uit te lachen.
+In plaats daarvan zie je de slakkat op hun gemak wegzweven om jouw ei te nemen.
+"woah woah, wat denk je dat je daar aan het doen bent??!"
+Het negeert jou en blijft zweven richting het ei.
 
-"hey dont touch that!!"
+"hey raak dat nie aan!!"
 down_c3.txt

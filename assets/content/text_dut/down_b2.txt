@@ -1,11 +1,12 @@
 sm9b
 sa2
 
-Fur? Since when did members of your species have fur?
-You can't recall ever getting a "haircut" in your entire life.
-They're seeming more and more foreign to you. Could they really be an eligible mate?
-And why did you respond with "me too?"
-You've been too anxious about this encounter to really think about what you're saying.
+Vacht? Sinds wanneer hebben jouw soortgenoten een vacht?
+Je kunt je niet herinneren dat je ooit een keer in je leven naar een “kapper” bent geweest.
+Het lijkt meer en meer eigenaardig voor jou te zijn.
+Zou het echt een geschikte partner kunnen zijn?
+En waarom antwoordde je met "ik ook?"
+Je bent te onzeker over deze ontmoeting om echt na te denken over wat je aan het zeggen bent.
 
-Pet the slugcat
+Aai de slakkat
 down_b3.txt

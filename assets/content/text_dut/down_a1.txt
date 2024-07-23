@@ -1,11 +1,11 @@
 sm9
 sa1
 
-You reply to the slugcat in your best courting tone,
-hoping to impress upon it the seriousness of the situation you are in.
-However you have no reaction from the slugcat.
-Instead you receive a feeling of trepidation from it, as if it knows something you don't.
-This causes you to have second thoughts about making a move.
+Je beantwoord de slakkat in jouw beste flirtende toon,
+in de hoop om indruk te maken in de ernstigheid van de situatie waar je in verkeert.
+Maar je krijgt geen reactie uit de slakkat.
+In plaats daarvan krijg je er een gevoel van argwaan van, alsof het iets weet wat jij niet weet.
+Dit zorgt ervoor dat je op andere gedachten wordt gebracht over het maken van een zet.
 
-"hey, u good?"
+"hé, voel je je wel lekker?"
 down_a2.txt

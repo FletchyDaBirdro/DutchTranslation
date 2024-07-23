@@ -1,13 +1,13 @@
 sm5
 none
 
-You cautiously edge around the corner, your eyes peering into the darkness.
-You see nothing, but hear the chomping of jaws again.
-As if perfectly blended with the darkness, the black mouth of a lizard springs out of the darkness at you.
-It is an ambush predator, and you've fallen into the jaws of a carnivorous monster!
-There is a fiery pain before the world fades away.
+Je schuift voorzichtig om de hoek heen, met je ogen die de duisternis in staren.
+Je ziet niets, maar hoort alweer het gesmak van kaken.
+Alsof het perfect in de duisternis opging, springt de zwarte bek van een hagedis vanuit de duisternis op je af.
+Het is een hinderlaag roofdier, en je bent in de kaken gevallen van een vleesetend monster!
+Er is een felle pijn voordat de wereld vervaagd.
 
-RESTART
+HERSTARTEN
 start.txt
 
 FADE

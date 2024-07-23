@@ -1,12 +1,12 @@
 sm5
 none
 
-It would help if you had a lightsource, but you do not.
-As you stumble around, you feel something tickle up against your skin.
-That something turns into many things, before suddenly two large fangs sink into the back of your neck.
-Your corpse is dragged away by a large spider as it returns to its burrow.
+Het zou helpen als je nu een lichtbron had, maar die heb je niet.
+Terwijl je ronddwaald, voel je iets kietelen tegen je huid.
+Dat iets blijkt meerdere dingen te zijn, voordat ineens twee grote tanden zich in de achterkant van jouw nek zinken.
+Jouw lijk wordt door een grote spin meegesleurd terwijl het terugkeert naar hun hol.
 
-RESTART
+HERSTARTEN
 start.txt
 
 FADE

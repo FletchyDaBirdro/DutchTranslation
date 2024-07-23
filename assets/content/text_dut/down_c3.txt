@@ -1,13 +1,13 @@
 sm2
 sa3
 
-They finally stop their pursuit and turn to look at you.
-"Why?" They ask with an expressionless look.
-"trust me it wont taste good."
-"Oh, I wasn't going to eat it. Plus, I'm more of a taco guy myself."
-They give the slightest impression of a grin, then turn back towards the egg.
+Het stopt eindelijk met hun achtervolging en draait zich om om naar jou te kijken.
+"Waarom?" Vraagt het met een uitdrukkingsloze blik.
+"vertrouw me het smaakt nie lekker."
+"Oh, ik was niet van plan om het op te eten. Ik ben van mijzelf toch meer een taco persoon."
+Het geeft jou de kleinste indruk van een glimlach, en draait zich dan terug naar het ei.
 
-Wait and observe.
+Wacht en observeer.
 down_c5.txt
-Take the egg back.
+Neem het ei terug.
 down_c4.txt
