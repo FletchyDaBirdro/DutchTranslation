@@ -1,24 +1,5 @@
 ﻿using BepInEx;
 using System;
-using System.CodeDom.Compiler;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Text.RegularExpressions;
-using System.Threading.Tasks;
-using MonoMod.Cil;
-using System.Reflection.Emit;
-using Mono.Cecil.Cil;
-using Mono.Cecil;
-using UnityEngine;
-using System.IO;
-using System.Runtime.CompilerServices;
-using System.Diagnostics.Eventing.Reader;
-using System.CodeDom;
-using RWCustom;
-using MoreSlugcats;
-using IL.Menu;
-using Menu;
 using BepInEx.Logging;
 
 namespace DutchTranslation
@@ -50,7 +31,7 @@ namespace DutchTranslation
             On.RainWorld.OnModsInit += RainWorld_OnOnModsInit;
             On.RainWorld.OnModsDisabled += RainWorld_OnModsDisabled;
 
-            GeneralStuff.ApplyHooks();
+            GeneralStuff.ApplyEarlyHooks();
         }
 
         public void RainWorld_OnOnModsInit(On.RainWorld.orig_OnModsInit orig, global::RainWorld self)
@@ -60,12 +41,13 @@ namespace DutchTranslation
             try
             {
                 if (_Initialized) return;
-                _Initialized = true;
-
-                TransLogger.LogInfo("Mod initialized!");
+                _Initialized = true;               
                 
+                GeneralStuff.ApplyHooks();
                 LandscapeTitleStuff.ApplyHooks();
                 ArenaStuff.ApplyHooks();
+
+                TransLogger.LogInfo("Mod initialized!");
             }
             catch (Exception ex)
             {

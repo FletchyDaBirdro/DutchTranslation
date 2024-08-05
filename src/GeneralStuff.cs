@@ -1,10 +1,6 @@
 ﻿using MonoMod.Cil;
 using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using DutchTranslation;
 using System.IO;
 
 namespace DutchTranslation
@@ -12,10 +8,14 @@ namespace DutchTranslation
     public class GeneralStuff
     {
         public static void ApplyHooks()
-        {
-            IL.InGameTranslator.LoadShortStrings += new ILContext.Manipulator(InGameTranslator_LoadShortStrings);
+        {            
             On.MoreSlugcats.ChatlogData.DecryptResult += ChatlogData_DecryptResult;
             On.JollyCoop.JollyMenu.ColorChangeDialog.ColorSlider.GetSliderWidth += ColorSlider_GetSliderWidth;
+        }
+
+        public static void ApplyEarlyHooks()
+        {
+            IL.InGameTranslator.LoadShortStrings += new ILContext.Manipulator(InGameTranslator_LoadShortStrings);
         }
       
         private static void InGameTranslator_LoadShortStrings(ILContext il)

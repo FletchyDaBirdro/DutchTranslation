@@ -1,13 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using DutchTranslation;
 using UnityEngine;
 using MoreSlugcats;
-using JetBrains.Annotations;
-using System.Runtime.CompilerServices;
 using RWCustom;
 
 namespace DutchTranslation
@@ -20,8 +13,9 @@ namespace DutchTranslation
             On.MoreSlugcats.ChallengeInformation.ctor += TranslateChallengeNames;
             On.Menu.LevelSelector.LevelItem.ctor += TranslateArenaMaps;
             On.ArenaBehaviors.StartBump.Update += StartBump_Update;
+            On.Menu.PauseMenu.ctor += PauseMenu_ctor;
         }
-
+        
         public static InGameTranslator IGT
         {
             get
@@ -81,6 +75,11 @@ namespace DutchTranslation
                     MainPlugIn.TransLogger.LogMessage("Translating challenge names failed!");
                 }
             }
+        }
+        
+        private static void PauseMenu_ctor(On.Menu.PauseMenu.orig_ctor orig, Menu.PauseMenu self, ProcessManager manager, RainWorldGame game)
+        {
+            orig(self, manager, game);
         }
 
         
