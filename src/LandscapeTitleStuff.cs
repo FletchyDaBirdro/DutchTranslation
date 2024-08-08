@@ -25,19 +25,24 @@ namespace DutchTranslation
 
                     if (isTitle)
                     {
-                        string[] array = fileName.Split(new char[] { '_' });
+                        string[] array = fileName.Split(
+                        [
+                            '_' 
+                        ]);
 
-                        bool flag = array.Length >= 2;
+                        bool isScene = array.Length >= 2;
 
-                        if (flag)
+                        if (isScene)
                         {
-                            bool isLandscapeScene = Region.GetRegionLandscapeScene(array[1]) != global::Menu.MenuScene.SceneID.Empty;
+                            bool sceneNotReplaced = Region.GetRegionLandscapeScene(array[1]) != global::Menu.MenuScene.SceneID.Empty;
 
-                            if (isLandscapeScene)
+                            if (sceneNotReplaced)
                             {
-                                string title = string.Format("{0}_{1}", fileName, "dut");
+                                string title = fileName + "_" + LocalizationTranslator.LangShort(LangID.LanguageID.Dutch);
 
-                                bool fileExists = File.Exists(AssetManager.ResolveFilePath(string.Format("Illustrations{0}{1}.png", Path.DirectorySeparatorChar, title)));
+                                string filePath = "Illustrations" + Path.DirectorySeparatorChar + title;
+
+                                bool fileExists = File.Exists(AssetManager.ResolveFilePath(filePath + ".png"));
 
                                 if (fileExists)
                                 {

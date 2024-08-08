@@ -91,34 +91,36 @@ namespace DutchTranslation
             orig(self);
 
             MainPlugIn.TransLogger.LogDebug("ArenaStuff: 0");
-            if (IGT.currentLanguage == LangID.LanguageID.Dutch)               
-            try
-            {               
-                if (self.startGameCounter == 0)
-                {                    
-                    MainPlugIn.TransLogger.LogDebug("ArenaStuff: 1");
-                    self.game.cameras[0].room.PlaySound(SoundID.UI_Multiplayer_Game_Start, 0f, 1f, 1f);                    
-
-                    if (ModManager.MSC && self.gameSession.arenaSitting.gameTypeSetup.gameType == MoreSlugcatsEnums.GameTypeID.Challenge)
-                    {
-                        MainPlugIn.TransLogger.LogDebug("ArenaStuff: 2");
-                        self.game.cameras[0].hud.textPrompt.AddMessage(IGT.Translate(self.gameSession.arenaSitting.gameTypeSetup.challengeMeta.name), 20, 160, false, true);
-                        MainPlugIn.TransLogger.LogDebug("ArenaStuff: 3");
-                    }
-                    else if (self.gameSession.arenaSitting.ShowLevelName)
-                    {
-                        MainPlugIn.TransLogger.LogDebug("ArenaStuff: 4");
-                        self.game.cameras[0].hud.textPrompt.AddMessage(IGT.Translate(MultiplayerUnlocks.LevelDisplayName(self.gameSession.arenaSitting.GetCurrentLevel)), 20, 160, false, true);
-                        MainPlugIn.TransLogger.LogDebug("ArenaStuff: 5");
-                    }
-                    self.Destroy();
-                }                
-            }                
-            catch (Exception ex)
+            if (IGT.currentLanguage == LangID.LanguageID.Dutch)
             {
-                MainPlugIn.TransLogger.LogError(ex);
-                MainPlugIn.TransLogger.LogMessage("Translating StartBump message failed!");
-            }            
+                try
+                {
+                    if (self.startGameCounter == 0)
+                    {
+                        MainPlugIn.TransLogger.LogDebug("ArenaStuff: 1");
+                        self.game.cameras[0].room.PlaySound(SoundID.UI_Multiplayer_Game_Start, 0f, 1f, 1f);
+
+                        if (ModManager.MSC && self.gameSession.arenaSitting.gameTypeSetup.gameType == MoreSlugcatsEnums.GameTypeID.Challenge)
+                        {
+                            MainPlugIn.TransLogger.LogDebug("ArenaStuff: 2");
+                            self.game.cameras[0].hud.textPrompt.AddMessage(IGT.Translate(self.gameSession.arenaSitting.gameTypeSetup.challengeMeta.name), 20, 160, false, true);
+                            MainPlugIn.TransLogger.LogDebug("ArenaStuff: 3");
+                        }
+                        else if (self.gameSession.arenaSitting.ShowLevelName)
+                        {
+                            MainPlugIn.TransLogger.LogDebug("ArenaStuff: 4");
+                            self.game.cameras[0].hud.textPrompt.AddMessage(IGT.Translate(MultiplayerUnlocks.LevelDisplayName(self.gameSession.arenaSitting.GetCurrentLevel)), 20, 160, false, true);
+                            MainPlugIn.TransLogger.LogDebug("ArenaStuff: 5");
+                        }
+                        self.Destroy();
+                    }
+                }
+                catch (Exception ex)
+                {
+                    MainPlugIn.TransLogger.LogError(ex);
+                    MainPlugIn.TransLogger.LogMessage("Translating StartBump message failed!");
+                }
+            }           
         }
 
         private static void MoreSlugcats_ChallengeInformation_GetOffset(On.MoreSlugcats.ChallengeInformation.orig_GetOffset orig, ChallengeInformation self, ref float creatureOffset, ref float itemOffset)
