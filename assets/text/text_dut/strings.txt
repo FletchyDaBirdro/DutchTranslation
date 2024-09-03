@@ -356,7 +356,7 @@ objecttype-VultureMask|Gierenmasker
 objecttype-DangleFruit|Blauwe Vrucht
 objecttype-KarmaFlower|Karma Bloem
 objecttype-BubbleGrass|Bubbelwier
-creaturetype-RedLizard|Red Lizard
+creaturetype-RedLizard|Rode Hagedis
 creaturetype-PoleMimic|Paal Plant
 creaturetype-MirosBird|Mirosvogel
 creaturetype-Centipede|Duizendpoot
