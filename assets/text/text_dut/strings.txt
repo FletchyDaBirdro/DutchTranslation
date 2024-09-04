@@ -1967,7 +1967,7 @@ A spear expert forced to fight to survive, their Expedition is<LINE>sure to be o
 Extremely agile and an adept swimmer, The Rivulet speeds<LINE>towards their goal out of necessity|Zeer wendbaar en een geboren zwemmer, haast De Waterrat<LINE>zich naar hun doel uit noodzaak
 Start the expedition with a Scavenger Bomb, a potential head start for combat related challenges.|Begin de expeditie met een Granaat, een potentiële voorsprong voor gevechts gerelateerde uitdagingen.
 A pacifist at heart, The Saint endures the bitter cold and searches<LINE>for their purpose|Een ware pacifist, De Heilige doorstaat de bittere kou en zoekt<LINE>naar hun lotsbestemming
-Earn <score_target> points from creature kills this cycle [<current_score>/<score_target>]|Verdien [<current_score>/<score_target>] punten voor het doden van wezens in één cyclus
+Earn <score_target> points from creature kills this cycle [<current_score>/<score_target>]|Verdien <score_target> punten gedurende één cyclus [<current_score>/<score_target>]
 Start the expedition with reinforced karma, a Karma Flower will spawn at the site of death|Begin de expeditie met beschermde karma. Een Karma Bloem zal verschijnen op de plek van je dood
 CHOOSE YOUR SLUGCAT|KIES JOUW SLAKKAT
 NEW<LINE>EXPEDITION|NIEUWE<LINE>EXPEDITIE
