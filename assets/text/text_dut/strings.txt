@@ -1405,7 +1405,7 @@ Keep your family safe!|Hou je familie veilig!
 ...Go find... shelter.|...Ga terug… naar thuis.
 Assets and content by:|Assets en inhoud door:
 Leave me alone...|Laat me alleen...
-creaturetype-Yeek|Yeek
+creaturetype-Yeek|Ieper
 Forgotten Conduit|Vergeten Pijpen
 Frosted Cathedral|Bevroren Kathedraal
 Glacial Wasteland|IJskoude Woestenij
@@ -1483,7 +1483,7 @@ Wait, please don't leave with that!|Wacht, je kunt daar niet mee weggaan!
 Looks to the Moon (Vents)|Kijkt naar de Maan (Uitlaten)
 creaturetype-MirosVulture|Miros Gier
 creaturetype-MotherSpider|Moeder Spin
-objecttype-DandelionPeach|Paardenbloem Perzik
+objecttype-DandelionPeach|Perzikpluim
 Unknown Pearl Contents...|Onbekende Parel Inhoud...
 ## without anything dying|## zonder dat iets sterft
 Arena character unlocked:|Arena personage ontgrendelt:
@@ -1876,7 +1876,7 @@ Reach the vista point in <region_name>|Bereik het vista punt in <region_name>
 E X P E D I T I O N    C O M P L E T E|E X P E D I T I E    V O L T O O I D
 <Unlocked> of <Max> Tracks Unlocked|<Unlocked> van <Max> Tracks Ontgrendeld
 NEW!|NIEUW!
-Yeek|Yeek
+Yeek|Ieper
 EXIT|VERLATEN
 EASY|MAKKELIJK
 HARD|MOEILIJK
