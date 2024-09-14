@@ -14,7 +14,7 @@ namespace DutchTranslation
             On.JollyCoop.JollyMenu.ColorChangeDialog.ColorSlider.GetSliderWidth += ColorSlider_GetSliderWidth;
         }
 
-        public static void ApplyEarlyHooks()
+        public static void ApplyILHook()
         {
             IL.InGameTranslator.LoadShortStrings += new ILContext.Manipulator(InGameTranslator_LoadShortStrings);
         }
@@ -36,7 +36,7 @@ namespace DutchTranslation
                 c.Emit(OpCodes.Ldloca, 0);
                 c.Emit<GeneralStuff>(OpCodes.Call, nameof(LoadStrings));
 
-                MainPlugIn.TransLogger.LogDebug(il.ToString());                              
+                //MainPlugIn.TransLogger.LogDebug(il.ToString());                              
             }
             catch (Exception ex)
             {

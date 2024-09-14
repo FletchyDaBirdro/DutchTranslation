@@ -17,8 +17,8 @@ namespace DutchTranslation
         public void LogInfo(object ex)
         {
             TransLogger.LogInfo(ex);
-        }   
-        
+        }        
+
         public void Awake()
         {
             LangID.RegisterValues();
@@ -31,7 +31,7 @@ namespace DutchTranslation
             On.RainWorld.OnModsInit += RainWorld_OnOnModsInit;
             On.RainWorld.OnModsDisabled += RainWorld_OnModsDisabled;
 
-            GeneralStuff.ApplyEarlyHooks();
+            GeneralStuff.ApplyILHook();
         }
 
         public void RainWorld_OnOnModsInit(On.RainWorld.orig_OnModsInit orig, global::RainWorld self)
