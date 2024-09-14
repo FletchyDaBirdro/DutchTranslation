@@ -2,6 +2,9 @@
 using UnityEngine;
 using MoreSlugcats;
 using RWCustom;
+using MonoMod.Cil;
+using Mono.Cecil.Cil;
+using System.Runtime.CompilerServices;
 
 namespace DutchTranslation
 {
@@ -11,17 +14,13 @@ namespace DutchTranslation
         {
             On.MoreSlugcats.ChallengeInformation.GetOffset += MoreSlugcats_ChallengeInformation_GetOffset;
             On.MoreSlugcats.ChallengeInformation.ctor += TranslateChallengeNames;
-            On.Menu.LevelSelector.LevelItem.ctor += TranslateArenaMaps;
-            On.ArenaBehaviors.StartBump.Update += StartBump_Update;
+            On.Menu.LevelSelector.LevelItem.ctor += TranslateArenaMaps;            
+            IL.ArenaBehaviors.StartBump.Update += new ILContext.Manipulator(ArenaBehaviors_StartBump_Update);
             On.Menu.PauseMenu.ctor += PauseMenu_ctor;
-        }
-        
-        public static InGameTranslator IGT
+        }       
+        public string Translate(string s)
         {
-            get
-            {
-                return Custom.rainWorld.inGameTranslator;
-            }
+            return Custom.rainWorld.inGameTranslator.Translate(s);
         }
 
         private static void TranslateArenaMaps(On.Menu.LevelSelector.LevelItem.orig_ctor orig, Menu.LevelSelector.LevelItem self, Menu.Menu menu, Menu.MenuObject owner, string name)
@@ -80,47 +79,37 @@ namespace DutchTranslation
         private static void PauseMenu_ctor(On.Menu.PauseMenu.orig_ctor orig, Menu.PauseMenu self, ProcessManager manager, RainWorldGame game)
         {
             orig(self, manager, game);
-        }
-
-        
-        //this is supposed to translate the pop-up that appears when starting a challenge or entering a level
-        //currently causes both the untranslated and the translated version to appear
-        //needs to be fixed later
-        private static void StartBump_Update(On.ArenaBehaviors.StartBump.orig_Update orig, ArenaBehaviors.StartBump self)
+        }               
+        public static void ArenaBehaviors_StartBump_Update(ILContext il)
         {
-            orig(self);
+            ILCursor c = new ILCursor(il);
+            
+            try
+            {                              
+                c.GotoNext(
+                    MoveType.Before,
+                    x => x.MatchLdarg(0),
+                    x => x.MatchLdfld(out _),
+                    x => x.MatchLdfld(out _),
+                    x => x.MatchLdfld(out _),
+                    x => x.MatchLdfld(out _),
+                    x => x.MatchLdfld(out _)
+                    );
 
-            MainPlugIn.TransLogger.LogDebug("ArenaStuff: 0");
-            if (IGT.currentLanguage == LangID.LanguageID.Dutch)
+                c.MoveAfterLabels();                
+                c.Emit(OpCodes.Ldarg, 0);
+                c.Index += 6;
+                c.Emit(OpCodes.Callvirt, typeof(ArenaStuff).GetMethod(nameof(Translate)));
+                //c.Emit(OpCodes.Stloc_0);
+                
+                MainPlugIn.TransLogger.LogMessage("ArenaStuff: ILHook succeeded!");
+                MainPlugIn.TransLogger.LogDebug(il.ToString());
+            }
+            catch (Exception ex)
             {
-                try
-                {
-                    if (self.startGameCounter == 0)
-                    {
-                        MainPlugIn.TransLogger.LogDebug("ArenaStuff: 1");
-                        self.game.cameras[0].room.PlaySound(SoundID.UI_Multiplayer_Game_Start, 0f, 1f, 1f);
-
-                        if (ModManager.MSC && self.gameSession.arenaSitting.gameTypeSetup.gameType == MoreSlugcatsEnums.GameTypeID.Challenge)
-                        {
-                            MainPlugIn.TransLogger.LogDebug("ArenaStuff: 2");
-                            self.game.cameras[0].hud.textPrompt.AddMessage(IGT.Translate(self.gameSession.arenaSitting.gameTypeSetup.challengeMeta.name), 20, 160, false, true);
-                            MainPlugIn.TransLogger.LogDebug("ArenaStuff: 3");
-                        }
-                        else if (self.gameSession.arenaSitting.ShowLevelName)
-                        {
-                            MainPlugIn.TransLogger.LogDebug("ArenaStuff: 4");
-                            self.game.cameras[0].hud.textPrompt.AddMessage(IGT.Translate(MultiplayerUnlocks.LevelDisplayName(self.gameSession.arenaSitting.GetCurrentLevel)), 20, 160, false, true);
-                            MainPlugIn.TransLogger.LogDebug("ArenaStuff: 5");
-                        }
-                        self.Destroy();
-                    }
-                }
-                catch (Exception ex)
-                {
-                    MainPlugIn.TransLogger.LogError(ex);
-                    MainPlugIn.TransLogger.LogMessage("Translating StartBump message failed!");
-                }
-            }           
+                MainPlugIn.TransLogger.LogError(ex);
+                MainPlugIn.TransLogger.LogMessage("ArenaStuff: ILHook failed!");
+            }
         }
 
         private static void MoreSlugcats_ChallengeInformation_GetOffset(On.MoreSlugcats.ChallengeInformation.orig_GetOffset orig, ChallengeInformation self, ref float creatureOffset, ref float itemOffset)
