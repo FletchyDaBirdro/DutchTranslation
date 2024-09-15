@@ -11,4 +11,4 @@ Yet to get translated:
 
 - Dating Sim
 - Dev Commentary
-- The pop-up message that appears when entering an arena map or challenge
+- The pop-up message that appears when entering an arena map
