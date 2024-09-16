@@ -12,12 +12,16 @@ namespace DutchTranslation
         public static void ApplyHooks()
         {
             On.MoreSlugcats.ChallengeInformation.GetOffset += MoreSlugcats_ChallengeInformation_GetOffset;
-            On.MoreSlugcats.ChallengeInformation.ctor += TranslateChallengeNames;
-            On.Menu.LevelSelector.LevelItem.ctor += TranslateArenaMaps;            
+            On.Menu.LevelSelector.LevelItem.ctor += Translate_ArenaMaps;            
             IL.ArenaBehaviors.StartBump.Update += new ILContext.Manipulator(ArenaBehaviors_StartBump_Update);
-            IL.Menu.PauseMenu.ctor += new ILContext.Manipulator(PauseMenu_ctor);            
+            IL.Menu.PauseMenu.ctor += new ILContext.Manipulator(PauseMenu_ctor);
+            IL.MoreSlugcats.ChallengeInformation.ctor += new ILContext.Manipulator(Translate_ChallengeNames);
         }
-        private static void TranslateArenaMaps(On.Menu.LevelSelector.LevelItem.orig_ctor orig, Menu.LevelSelector.LevelItem self, Menu.Menu menu, Menu.MenuObject owner, string name)
+        public string Translate(string s)
+        {
+            return Custom.rainWorld.inGameTranslator.Translate(s);
+        }
+        private static void Translate_ArenaMaps(On.Menu.LevelSelector.LevelItem.orig_ctor orig, Menu.LevelSelector.LevelItem self, Menu.Menu menu, Menu.MenuObject owner, string name)
         {
             orig(self, menu, owner, name);
 
@@ -36,42 +40,27 @@ namespace DutchTranslation
                     MainPlugIn.TransLogger.LogMessage("Translating Arenas failed!");
                 }
         }
-        private static void TranslateChallengeNames(On.MoreSlugcats.ChallengeInformation.orig_ctor orig, ChallengeInformation self, Menu.Menu menu, Menu.MenuObject owner, int challengeID)
+        private static void Translate_ChallengeNames(ILContext il)
         {
-            orig(self, menu, owner, challengeID);
+            ILCursor c = new ILCursor(il);
 
-            if (self.unlocked)
+            try
             {
-                try
-                {
-                    self.subObjects.RemoveAt(0);
-
-                    Menu.RoundedRect roundedRect = new Menu.RoundedRect(menu, self, self.posOffset, new Vector2(660f, 200f), false);
-
-                    string name = "";
-
-                    if (self.meta.name != null)
-                    {
-                        name = self.meta.name;
-                    }
-
-                    Menu.MenuLabel challenge = new Menu.MenuLabel(menu, self, menu.Translate("Challenge #<X>").Replace("<X>", challengeID.ToString()) + ": " + menu.Translate(name), new Vector2(roundedRect.pos.x + roundedRect.size.x / 2f, roundedRect.pos.y + roundedRect.size.y - 85f), new Vector2(0f, 100f), true, null);
-
-                    self.subObjects.Add(challenge);
-                    self.subObjects.Add(roundedRect);
-
-                }
-                catch (Exception ex)
-                {
-                    MainPlugIn.TransLogger.LogError(ex);
-                    MainPlugIn.TransLogger.LogMessage("Translating challenge names failed!");
-                }
+                c.GotoNext(
+                    MoveType.After,                    
+                    x => x.MatchLdstr(": ")
+                    );
+                
+                c.Emit(OpCodes.Ldarg, 0);
+                c.Index += 3;
+                c.Emit(OpCodes.Call, typeof(ArenaStuff).GetMethod(nameof(Translate)));
             }
-        }
-        public string Translate(string s)
-        {
-            return Custom.rainWorld.inGameTranslator.Translate(s);
-        }
+            catch (Exception ex)
+            {
+                MainPlugIn.TransLogger.LogError(ex);
+                MainPlugIn.TransLogger.LogMessage("Translating challenge names failed!");
+            }
+        }                
         public static void ArenaBehaviors_StartBump_Update(ILContext il)
         {
             ILCursor c = new ILCursor(il);
@@ -92,9 +81,7 @@ namespace DutchTranslation
                 c.MoveAfterLabels();                
                 c.Emit(OpCodes.Ldarg, 0);
                 c.Index += 6;
-                c.Emit(OpCodes.Callvirt, typeof(ArenaStuff).GetMethod(nameof(Translate)));
-
-                MainPlugIn.TransLogger.LogMessage("Challenge names succesfully translated!");
+                c.Emit(OpCodes.Callvirt, typeof(ArenaStuff).GetMethod(nameof(Translate)));               
 
                 //Translates arena names
                 c.GotoNext(
@@ -109,9 +96,7 @@ namespace DutchTranslation
                 c.MoveAfterLabels();
                 c.Emit(OpCodes.Ldarg, 0);
                 c.Index += 5;
-                c.Emit(OpCodes.Callvirt, typeof(ArenaStuff).GetMethod(nameof(Translate)));
-
-                MainPlugIn.TransLogger.LogMessage("Arena names succesfully translated!");                
+                c.Emit(OpCodes.Callvirt, typeof(ArenaStuff).GetMethod(nameof(Translate)));                                
             }
             catch (Exception ex)
             {
@@ -134,9 +119,6 @@ namespace DutchTranslation
                 c.Emit(OpCodes.Ldarg, 2);
                 c.Index += 4;
                 c.Emit(OpCodes.Call, typeof(ArenaStuff).GetMethod(nameof(Translate)));
-
-                MainPlugIn.TransLogger.LogMessage("Pause menu succesfully translated!");
-                //MainPlugIn.TransLogger.LogDebug(il.ToString());
             }
             catch(Exception ex) 
             {
