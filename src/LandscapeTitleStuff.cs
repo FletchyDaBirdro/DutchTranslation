@@ -40,9 +40,9 @@ namespace DutchTranslation
                             {
                                 string title = fileName + "_" + LocalizationTranslator.LangShort(LangID.LanguageID.Dutch);
 
-                                string filePath = "Illustrations" + Path.DirectorySeparatorChar + title;
+                                string path = "Illustrations" + Path.DirectorySeparatorChar + title;
 
-                                bool fileExists = File.Exists(AssetManager.ResolveFilePath(filePath + ".png"));
+                                bool fileExists = File.Exists(AssetManager.ResolveFilePath(path + ".png"));
 
                                 if (fileExists)
                                 {
