@@ -2398,11 +2398,28 @@ Andrew's Basement|Andrew's Kelder
 Thanks Andrew.|Je wordt bedankt, Andrew.
 
 //1.9.15
+BACKUPS|BACK-UPS
+RESTORE|HERSTELLEN
+CREATE|CREEËREN
+DELETE|VERWIJDEREN
+INFO|INFO
+STORY DATA|VERHAAL GEGEVENS
+No data|Geen gevens
 Stops nearby explosions causing a ringing sound to play|Weerhoud nabije explosies ervan om een ringend geluid te laten spelen
 No Ringing in Ears|Geen gering in oren
-STORY DATA|VERHAAL GEGEVENS
-backup_restore_confirm|JOUW HUIDIGE OPGESLAGEN GEGEVENS ZULLEN VERWIJDERD WORDEN!<LINE><LINE>Het kiezen om te herstellen zal de opgeslagen gegevens in AL jouw opgeslagen gegevens slots overschrijven met de gegevens van deze backup.<LINE>Deze operatie is permanent en kan niet ongedaan worden gemaakt.<LINE><LINE>Weet je zeker dat je jouw huidige opgeslagen gegevens wilt overschrijven met de gegevens van {X}?
+backup_restore_confirm|JOUW HUIDIGE OPGESLAGEN GEGEVENS ZULLEN VERWIJDERD WORDEN!<LINE><LINE>Het kiezen om te herstellen zal de opgeslagen gegevens in AL jouw opgeslagen gegevens slots overschrijven met de gegevens van deze back-up.<LINE>Deze operatie is permanent en kan niet ongedaan worden gemaakt.<LINE><LINE>Weet je zeker dat je jouw huidige opgeslagen gegevens wilt overschrijven met de gegevens van {X}?
 backup_restore_success|De opgeslagen gegevens van {X} zijn  hersteld.
 backup_info_disclaimer|(Gegevens hier zijn gebaseerd op jouw huidige ingeschakelde mods.<LINE>Er kunnen nog aanvullende gegevens bestaan van mods die op het huidige moment uitgeschakeld zijn)
 Issues found while loading mods!<LINE>Disabling problematic mods.<LINE>Press continue and then launch the game again.|Problemen gevonden tijdens het laden van mods!<LINE>Problematische mods aan het uitschakelen.<LINE>Druk op verdergaan en start het spel dan opnieuw op.
 Desync detected between user mod data and game mod data!<LINE>Re-sycing data.<LINE>Press continue and then launch the game again.<LINE>Disabled mods:|Desync gedetecteerd tussen gebruiker mod gegevens en spel mod gegevens!<LINE>Gegevens aan het her-synchroniseren.<LINE>Druk op verdergaan en start het spel dan opnieuw op.<LINE>Uitgeschakelde mods:
+backups_description|Bekijk, creeër, of herstel voorheen geback-upte opslag gegevens.
+backup_info_description|Bekijk informatie over de inhoud van de huidige geselecteerde back-up.
+backup_restore_description|Overschrijf jouw huidige opslag gegevens met de inhoud van de geselecteerde back-up.
+backup_create_description|Sla de huidige inhoud van jouw opslag gegevens op als een nieuwe back-up.
+backup_delete_description|Verwijder de geselecteerde back-up van de lijst van back-ups.
+backup_info_loading|Opslag slot informatie aan het laden...
+backup_info_no_data|Er bestaan geen verhaal gegevens in deze opslag slot.
+backup_delete_confirm|Weet je zeker dat je back-up {X} wilt verwijderen?<LINE>Deze handeling kan niet ongedaan gemaakt worden.
+backup_delete_success|{X} was met succes verwijderd.
+backup_create_success|Een nieuwe back-up {X} van jouw huidige opslag slot is gecreërd.
+backup_restore_failed|An error has occurred restoring the backup save data. In order to protect your save data, game launch has been halted.<LINE><LINE>Do you wish to retry restoring the backup data?
