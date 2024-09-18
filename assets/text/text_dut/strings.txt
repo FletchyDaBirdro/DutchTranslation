@@ -2404,7 +2404,7 @@ CREATE|CREEËREN
 DELETE|VERWIJDEREN
 INFO|INFO
 STORY DATA|VERHAAL GEGEVENS
-No data|Geen gevens
+No data|Geen gegevens
 Stops nearby explosions causing a ringing sound to play|Weerhoud nabije explosies ervan om een ringend geluid te laten spelen
 No Ringing in Ears|Geen gering in oren
 backup_restore_confirm|JOUW HUIDIGE OPGESLAGEN GEGEVENS ZULLEN VERWIJDERD WORDEN!<LINE><LINE>Het kiezen om te herstellen zal de opgeslagen gegevens in AL jouw opgeslagen gegevens slots overschrijven met de gegevens van deze back-up.<LINE>Deze operatie is permanent en kan niet ongedaan worden gemaakt.<LINE><LINE>Weet je zeker dat je jouw huidige opgeslagen gegevens wilt overschrijven met de gegevens van {X}?
