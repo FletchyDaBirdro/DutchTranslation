@@ -1,48 +1,48 @@
 ﻿0-132
-This is old broadcast data from the local group. It has decayed too rapidly, and nothing is left. Sorry.
+Dit is oude uitzendingsdata van de lokale groep. Het is te snel vergaan, en er is niets van over. Het spijt me.
 
-I can only read some dates and the length of messages. The rest is gone.
+Ik kan alleen wat datums en de lengte van berichten lezen. De rest is verdwenen.
 
-This was a broadcast node long ago. It is in read-only mode now. The last transmission recorded is "Hello? is anyone still reading me?"
+Dit was lang geleden een uitzendingsknoop. Het is nu in read-only modus. De laatste transmissie die opgenomen is, is "Hallo? is iemand me nog aan het lezen?"
 
-There is nothing left on it.
+Er is hier niets over.
 
-Not much of this remains. It was never meant to be used for long term storage.
+Er is hier niet veel van overgebleven. Het was nooit bedoeld als lange termijn opslag.
 
-Long ago there was a broadcasting network that allowed my kind to communicate over long distances. This is a relic of that.
+Lang geleden was er een uitzendingsnetwerk dat mijn soort liet communiceren over grote afstanden. Dit is een reliek daarvan.
 
-It's empty. That's a shame too. It would have been fun to read an old conversation.
+Het is leeg. Dat is zonde. Het zou leuk zijn geweest om een oud gesprek te lezen.
 
-"Do you think the local group is going to hold out much longer? It's been impossible to get a message to Chasing Wind for several<LINE>cycles now. I hope they're alright." This was a broadcasting node long ago. Now it just holds a reminder of our isolation.
+"Denken jullie dat de lokale groep het nog lang gaat uithouden? Het is al voor meerdere cyclussen onmogelijk om een bericht naar Windjager te sturen.<LINE>Ik hoop dat het goed met hen gaat." Dit was lang geleden een uitzendingsknoop. Nu is het alleen maar een herinnering aan onze langdurige isolatie.
 
-The data on this has burned away with age.
+De data op deze is weggebrand door veroudering.
 
-It's broadcast data, but most of it is corrupted. It may have tried to enter read-only mode at the same time as recording?
+Het is uitzendingsdata, maar het meeste is beschadigd. Het zou kunnen dat het probeerde read-only modus in te gaan op hetzelfde moment als dat het opgenomen werd?
 
-This was a relay from long ago. I can only read the names here. They remind me of better times.
+Dit was een relais van lang geleden. Ik kan alleen de namen hier lezen. Ze herinneren me aan betere tijden.
 
-"Transcendental Inversion! Transcendental Inversion! I keep telling you this, but it's clear that the influences of-," and it<LINE>cuts off after that. I have no clue what this conversation was about.
+"Transcendentale Omkering! Transcendentale Omkering! Ik blijf jullie dit maar vertellen, maar het is duidelijk dat de invloeden van-,"<LINE>en het eindigt daar. Ik heb geen idee waar dit gesprek over gegaan zou kunnen hebben.
 
-This is a cached log of equipment manifests packaged for Five Pebbles. It has information about the status of<LINE>machinery stationed on the surface. I don't think he would have cared to read this anyway!
+Dit is een gecached verslag van apparatuur manifesten verpakt voor Vijf Kiezels. Het heeft informatie over de status van de<LINE>machines die op het oppervlak gestationeerd zijn. Ik denk toch niet dat hij er genoeg om gaf om deze te lezen!
 
-It's blank. I can read some header information, but otherwise it's decayed.
+Het is blanco. ik kan wat kop informatie lezen, maar voor de rest is het vergaan.
 
-It's effectively blank.
+Het is nagenoeg blanco.
 
-It's inventory from some surface stationed machinery. It contains a history of fault information and repair requests.
+Het is een inventaris van een soort oppervlak gestationeerde machine. Het bevat een geschiedenis van foutinformatie en reparatie aanvragen.
 
-It is an equipment manifest from some kind of pump. It has an extensive log of fluid pressures, but nothing that is too interesting.
+Het is een apparatuur manifest voor een of ander soort pomp. Het heeft een uitgebreid verslag van vloeistofdrukken, maar niets dat erg interessant is.
 
-This is damaged. I can only read some names and dates.
+Dit is beschadigd. Ik kan alleen wat namen en datums lezen.
 
-This is data for a purposed organism.
+Dit is data voor een gemaakt organisme.
 
-It's an image of a small blue creature similar to yourself.
+Het is een afbeelding van een klein blauw wezen net zoals jij.
 
-It's a picture of scavengers with an excessive collection of pearls. It looks like someone was sharing pictures of the native<LINE>scavenger's odd behaviors over the broadcast network. I wonder why one scavenger would even need such a giant stash of pearls.
+Het is een afbeelding van een schooier met een buitensporige parel collectie. Het lijkt erop dat iemand afbeeldingen van de inheemse<LINE>schooier's vreemd gedrag over het uitzending netwerk aan het delen was. Ik vraag me af waarom één schooier überhaupt zo’n grote voorraad parels nodig heeft.
 
-It's an image of three overseers from different iterators, and I imagine a fourth took the picture. It was sent through a broadcast.<LINE>Possibly some kind of memento? It's not often that such a variety of overseers are together in one place, I wonder whose they are.
+Het is een afbeelding van drie opzichters van verschillende Iteratoren, en ik beeld me in dat een vierde de afbeelding nam. Het werd verzonden via een uitzending.<LINE>Misschien een soort aandenken? Het is niet vaak dat zo’n verscheidenheid aan opzichters samenkomen op dezelfde plek, ik vraag me af van wie deze zijn.
 
-This is a corrupted broadcast. I can't read anything except the header.
+Dit is een beschadigde uitzending. Ik kan niets lezen behalve de kop.
 
-"This will be my final broadcast to the local group. Within several cycles-," and the rest is corrupted. It's an old broadcast node's<LINE>final recording. Unfortunately these were not made for long term storage, so the rest of the message has been lost to decay.
+"Dit zal mijn laatste uitzending zijn aan de lokale groep. Binnen enkele cyclussen-," en de rest is beschadigd. Het is de laatste opname van een oude uitzendingsknoop's.<LINE>Jammer genoeg werden deze niet gemaakt voor lange termijn opslag, dus de rest van de boodschap is verloren gegaan door verval.
