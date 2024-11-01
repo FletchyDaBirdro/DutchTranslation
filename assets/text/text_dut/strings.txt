@@ -1337,7 +1337,7 @@ Take your offspring with you.|Neem je kroost met je mee.
 Too... broken...|Te... kapot...
 The Rot (Depths)|De Rot (Dieptes)
 Silent Construct|Stille Constructie
-Windswept Spires|Windstrekende Spitsen
+Windswept Spires|Winderige Spitsen
 Hold to view map|Ingedrukt houden om de kaart te bekijken
 Parry ## attacks|Blokkeer ## aanvallen
 Met Five Pebbles|Ontmoette Vijf Kiezels
