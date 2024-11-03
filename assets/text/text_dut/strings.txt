@@ -874,7 +874,7 @@ ps4_region_map_help|Druk op R1 om de regionale kaart te bekijken
 Successful cycles :|Succesvolle cyclussen :
 Helped Five Pebbles|Vijf Kiezels geholpen
 New arenas unlocked|Nieuwe arenas ontgrendeld
-mod_menu_apply_mods|Mod veranderingen aanbrengen, even geduld...
+mod_menu_apply_mods|Mod veranderingen aan het aanbrengen, even geduld...
 mod_menu_enable_all|Schakel alle mods in
 Creating index maps|Index kaarten maken
 OpDragger_MouseTuto|Houd de muisknop ingedrukt en sleep omhoog of omlaag om de waarde aan te passen
@@ -949,7 +949,7 @@ Right|Rechts
 Cross|Kruis
 Space|Spatie
 Shift|Shift
-PLAY!|SPEEL!
+PLAY!|SPELEN!
 Play!|Speel!
 ERROR|ERROR
 SCORE|SCORE
