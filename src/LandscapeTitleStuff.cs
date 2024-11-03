@@ -12,7 +12,6 @@ namespace DutchTranslation
         {
             On.Menu.MenuIllustration.ctor += ReplaceLandscapeTitles;
             On.Menu.FastTravelScreen.AddWorldLoaderResultToLoadedWorlds += FastTravelScreen_AddWorldLoaderResultToLoadedWorlds;
-            //On.Menu.FastTravelScreen.FinalizeRegionSwitch += Remove_Subtitle;
             //IL.Menu.FastTravelScreen.FinalizeRegionSwitch += new ILContext.Manipulator(Remove_Shadow);
         }
 
