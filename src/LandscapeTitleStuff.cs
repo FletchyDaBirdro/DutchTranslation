@@ -1,20 +1,22 @@
 ﻿using System;
 using System.IO;
 using UnityEngine;
+using MonoMod.Cil;
+using Mono.Cecil.Cil;
 
 namespace DutchTranslation
 {
-    public static class LandscapeTitleStuff
+    public class LandscapeTitleStuff
     {
         public static void ApplyHooks()
         {
             On.Menu.MenuIllustration.ctor += ReplaceLandscapeTitles;
             On.Menu.FastTravelScreen.AddWorldLoaderResultToLoadedWorlds += FastTravelScreen_AddWorldLoaderResultToLoadedWorlds;
-            On.Menu.FastTravelScreen.FinalizeRegionSwitch += FastTravelScreen_FinalizeRegionSwitch;
+            //On.Menu.FastTravelScreen.FinalizeRegionSwitch += Remove_Subtitle;
+            //IL.Menu.FastTravelScreen.FinalizeRegionSwitch += new ILContext.Manipulator(Remove_Shadow);
         }
 
         public static bool IsDutchTitle;
-
         private static void ReplaceLandscapeTitles(On.Menu.MenuIllustration.orig_ctor orig, Menu.MenuIllustration self, Menu.Menu menu, Menu.MenuObject owner, string folderName, string fileName, Vector2 pos, bool crispPixels, bool anchorCenter)
         {
             try
@@ -70,22 +72,42 @@ namespace DutchTranslation
             orig(self, reg);
         }
 
-        private static void FastTravelScreen_FinalizeRegionSwitch(On.Menu.FastTravelScreen.orig_FinalizeRegionSwitch orig, Menu.FastTravelScreen self, int newRegion)
+        /*private static void Remove_Shadow(ILContext il)
         {
-            orig(self, newRegion);
+            ILCursor c = new ILCursor(il);
+            ILLabel label = c.DefineLabel();
 
             try
             {
-                if (IsDutchTitle)
-                {                    
-                    self.pages[1].RemoveSubObject(self.subtitleLabel);                    
-                }
+                c.GotoNext(
+                    MoveType.Before,
+                    x => x.MatchRet()
+                );
+
+                label = c.MarkLabel();
+
+                c.GotoPrev(
+                    MoveType.Before,                    
+                    x => x.MatchLdsfld(typeof(SlugcatStats.Name).GetField(nameof(SlugcatStats.Name.White))),
+                    x => x.MatchCallOrCallvirt(out _),
+                    x => x.MatchCallOrCallvirt(typeof(System.String).GetMethod("op_Inequality")),
+                    x => x.MatchBrfalse(out _)
+                    );
+
+                c.MoveAfterLabels();               
+                c.Emit(OpCodes.Ldarg, 0);
+                c.Emit(OpCodes.Pop);
+                c.Emit(OpCodes.Ldsfld, typeof(LandscapeTitleStuff).GetField(nameof(IsDutchTitle)));
+                c.Emit(OpCodes.Brtrue, label);
+               
+
+                MainPlugIn.TransLogger.LogDebug(il.ToString());
             }
-            catch (Exception ex)
+            catch (Exception ex) 
             {
                 MainPlugIn.TransLogger.LogError(ex);
-                MainPlugIn.TransLogger.LogMessage("Something something display name failed!");
+                MainPlugIn.TransLogger.LogMessage("Removing shadow failed!");
             }
-        }
+        }*/
     }
 }
