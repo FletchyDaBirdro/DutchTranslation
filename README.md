@@ -7,7 +7,11 @@ This mod currently translates:
 - Arena Maps and Challenges
 
 
-Yet to get translated:
+In-progress:
 
 - Dating Sim
+
+
+Yet to get translated:
+
 - Dev Commentary
