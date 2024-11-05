@@ -1,5 +1,5 @@
 //Vanilla
-0Invert X|Spiegel X
+Invert X|Spiegel X
 Invert Y|Spiegel Y
 Champion|Kampioen
 NEW GAME|NIEUW SPEL
@@ -42,7 +42,7 @@ Stolen Enlightenment|Gestolen Verlichting
 Path of the pacifist|Pad van de pacifist
 The Saint-linebreaks|De Heilige
 switch_controls_jump|B-Knop
-Gametype description|Beschrijving van speltype
+Gametype description|Beschrijving van het speltype
 Play each level once|Speel elk level een keer
 Normal Rain World AI|Normale Rain World KI
 for killing creature|voor het doden van wezens
@@ -306,7 +306,7 @@ Press to join|Druk om mee te doen
 Repeat Rooms:|Herhaal Kamers:
 High wildlife|Hoog aantal wild
 for surviving|voor het overleven
-per spear hit|per geraakte speer
+per spear hit|per speertreffer
 Configuration|Configuratie
 HOLD TO START|HOUD INGEDRUKT OM TE STARTEN
 REGION SELECT|GEBIED SELECTEREN
@@ -391,7 +391,7 @@ Quieter gates/shelters|Zachtere poorten/schuilplaatsen
 Faster shelter opening|Sneller schuilplaatsen openen
 Pull spears from walls|Trek speren uit muren
 Unlock all collections|Ontgrendel alle collecties
-expedition-description|Zet uit op een Expeditie in deze uitdagende nieuwe spelmodus. Compleet willekeurige uitdagingen terwijl je perma dood vermijdt en werk aan het ontgrendelen van nieuwe handige voordelen, straffende lasten, en muziektracks om naar te luisteren in de Jukebox.
+expedition-description|Zet uit op een Expeditie in deze uitdagende nieuwe spelmodus. Compleet willekeurige uitdagingen terwijl je perma dood vermijdt en werkt aan het ontgrendelen van nieuwe handige voordelen, straffende lasten, en muziektracks om naar te luisteren in de Jukebox.
 Please leave me alone.|Laat me alsjeblieft alleen.
 That... Oh, thank you.|Dat... Oh, dank je.
 ...don't... come back.|...kom... niet terug.
@@ -869,7 +869,7 @@ creaturetype-EggBug|Eierdrager
 The Monk-linebreaks|De Monnik
 Speedrun Validation|Speedrun Validatie
 switch_controls_map|R Knop
-Showing level names|Level names bekijken
+Showing level names|Level namen aan het bekijken
 ps4_region_map_help|Druk op R1 om de regionale kaart te bekijken
 Successful cycles :|Succesvolle cyclussen :
 Helped Five Pebbles|Vijf Kiezels geholpen
@@ -884,7 +884,7 @@ Hunter Bonus Cycles|De Jager's Bonus Cyclussen
 Visual breath meter|Zichtbare luchtmeter
 Scavenger headshots|Schooier headshots
 NONE (User Defined)|GEEN (User Defined)
-rwremix-description|Een grote variatie aan configurabele toegankelijkheids- en community aangevraagde functies, inclusief nieuwe gameplay mechanieken en bonus functies. Gebruik het configuratiescherm om individuele functies aan en uit te zetten.
+rwremix-description|Een grote variatie aan configurabele toegankelijkheids- en door de community aangevraagde functies, inclusief nieuwe spelmechanieken en bonusfuncties. Gebruik het configuratiescherm om individuele functies aan en uit te zetten.
 Hello <PlayerName>.|Hallo <PlayerName>.
 still, very... bad.|nog steeds, erg... slecht.
 I will take a look.|Ik zal een kijkje nemen.
