@@ -29,8 +29,8 @@ objecttype-FlareBomb|Flitsbom
 objecttype-DataPearl|Parel
 objecttype-JellyFish|Kwal
 objecttype-SlimeMold|Slijmschimmel
-objecttype-EggBugEgg|Eierdrager Ei
-objecttype-NeedleEgg|NoedelVlieg Ei
+objecttype-EggBugEgg|Eierdragerei
+objecttype-NeedleEgg|Noedelvliegei
 creaturetype-Slugcat|Slakkat
 creaturetype-Vulture|Gier
 creaturetype-CicadaA|Octocade
@@ -42,14 +42,14 @@ Stolen Enlightenment|Gestolen Verlichting
 Path of the pacifist|Pad van de pacifist
 The Saint-linebreaks|De Heilige
 switch_controls_jump|B-Knop
-Gametype description|Beschrijving speltype
+Gametype description|Beschrijving van speltype
 Play each level once|Speel elk level een keer
 Normal Rain World AI|Normale Rain World KI
 for killing creature|voor het doden van wezens
 Persistent creatures|Hardnekkige wezens
 controller_reconnect|Herverbind de controller voor speler {0}.
 mod_menu_requirement|Benodigde aanvullende mods:
-mod_menu_ext_authors|Bekijk credits lijst for voor deze mod
+mod_menu_ext_authors|Bekijk de credits voor deze mod
 mod_menu_disable_all|Schakel alle mods uit
 Building token cache|Token cache bouwen
 OpCheckBox_MouseTuto|Druk om te schakelen
@@ -504,7 +504,7 @@ Great strides have been made|Grote vorderingen zijn gemaakt
 Complete the Scholar passage|Compleet de Leergierige doorgang
 Complete the Pilgrim passage|Compleet de Pelgrim doorgang
 creaturetype-BrotherLongLegs|Broeder Hooiwagen
-creaturetype-SmallNeedleWorm|Noedelvlieg Larve
+creaturetype-SmallNeedleWorm|Noedelvliegnimf
 Press any button to continue|Druk op iedere knop om verder te gaan
 A Bell, Eighteen Amber Beads|Een Bel, Achttien Amber Kralen
 Two Sprouts, Twelve Brackets|Twee Scheuten, Twaalf Steunen
@@ -653,7 +653,7 @@ objecttype-SSOracleSwarmer|Zenuwcel
 objecttype-OverseerCarcass|Overzichter's Oog
 creaturetype-DaddyLongLegs|Vader Hooiwagen
 creaturetype-TentaclePlant|Monsterkelp
-creaturetype-SpitterSpider|Spuug Spin
+creaturetype-SpitterSpider|Spuugspin
 creaturetype-BigNeedleWorm|Noedelvlieg
 Briefly tap DOWN to crouch|Druk kort op OMLAAG om te bukken
 Double tap to switch hands|Druk twee keer om van handen te wisselen
@@ -1413,9 +1413,9 @@ Ancient Labyrinth|Eeuwenoud Labyrinth
 Put a ## in a den|Stop een ## in een schuilplaats
 ...Nice to see...|...Leuk je te zien...
 ...Cold coming...|...Er komt vorst...
-Stop! Stop giving me your junk!|Stop! Stop me jouw rotzooi te geven!
-Facility Roots (Western Intake)|Faciliteits Wortelen (Westerse Inname)
-Clear the game as ## to unlock.|Voltooi het spel als ## om te ontgrendelen.
+Stop! Stop giving me your junk!|Hou! Hou op met mij jouw rotzooi te geven!
+Facility Roots (Western Intake)|Faciliteitswortelen (Westerse Inname)
+Clear the game as ## to unlock.|Voltooi het spel als ## om dit te ontgrendelen.
 ...why did you... save... me...|...waarom heb je... me... gered...
 Where do you find all of these?|Waar vind je dit allemaal?
 Let us see what you have found.|Laten we eens zien wat je hebt gevonden.
@@ -1426,7 +1426,7 @@ Korean translation by topicular|Koreaanse vertaling door topicular
 Leave me alone! You terrible creature!|Laat me alleen! Jij verschrikkelijk wezen!
 Pups can now be found in Sandbox Mode.|Welpen kunnen nu gevonden worden in de Sandbox Modus.
 Cold... You better go. I will be fine.|Kou... Je kunt beter gaan. Ik red me wel.
-The storm is coming. You should leave.|De stortbui komt eraan. Je kunt beter hier weg komen.
+The storm is coming. You should leave.|De sneeuwstorm komt eraan. Je kunt beter hier weg komen.
 We have read this one, little creature.|We hebben dit gelezen, klein wezen.
 Clear the game as <X> or <Y> to unlock.|Eindig het spel als <X> of <Y> om te ontgrendelen.
 Is that something new? Allow me to see.|Is dat iets nieuws? Laat me eens zien.
@@ -1481,8 +1481,8 @@ Get... get away... round.... thing.|Ga... ga weg... rond.... ding.
 Wait, please don't leave with that!|Wacht, je kunt daar niet mee weggaan!
 ...Friend... please find... safety.|...Vriend... breng jezelf alsjeblieft... in veiligheid.
 Looks to the Moon (Vents)|Kijkt naar de Maan (Uitlaten)
-creaturetype-MirosVulture|Miros Gier
-creaturetype-MotherSpider|Moeder Spin
+creaturetype-MirosVulture|Mirosgier
+creaturetype-MotherSpider|Moederspin
 objecttype-DandelionPeach|Perzikpluim
 Unknown Pearl Contents...|Onbekende Parel Inhoud...
 ## without anything dying|## zonder dat iets sterft
@@ -1513,8 +1513,8 @@ What are you doing?|Wat ben je aan het doen?
 ...All I... have...|...Alles wat... ik heb...
 ...Bring it back...|...Breng het terug...
 creaturetype-SpitLizard|Karamel Hagedis
-creaturetype-ZoopLizard|Aardbeien Hagedis
-Warp to random creature|Teleporteer naar willekeurig wezen
+creaturetype-ZoopLizard|Aardbei Hagedis
+Warp to random creature|Teleporteer naar een willekeurig wezen
 Are you not interested?|Ben je niet geïnteresseerd?
 What a dumb creature...|Wat een dom wezen...
 creaturetype-TerrorLongLegs|Horrorwagen
@@ -1536,7 +1536,7 @@ That can't be good...|Dat kan niet goed zijn...
 ...No, don't... take!|...Nee, neem dat... niet!
 ...Give it... back...|...Geef het... terug...
 ...Leave me... alone.|...Laat me... alleen.
-objecttype-FireEgg|Vuur Ei
+objecttype-FireEgg|Vuurei
 [ No Data Loaded ]|[ Geen Data Geladen ]
 Kill all creatures|Dood alle wezens
 Friends sheltered:|Vrienden in schuilplaats:
@@ -1565,7 +1565,7 @@ Swap Heads|Wissel van Hoofden
 Camouflage|Camouflage
 Time Limit|Tijdslimiet
 ## Seconds|## Seconden
-Acceptance|Acceptie
+Acceptance|Aanvaarding
 The Martyr|De Lijder
 The Mother|De Moeder
 GET OUT!|GA WEG!
@@ -1892,8 +1892,8 @@ This quest has been completed|Deze streeftocht is voltooid
 Total Points Earned: <points>|Totaal Aantal Punten Verdiend: <points>
 Yellow Lizards|Gele Hagedissen
 Red Centipedes|Rode Duizendpoten
-Miros Vultures|Miros Gieren
-Mother Spiders|Moeder Spinnen
+Miros Vultures|Mirosgieren
+Mother Spiders|Moederspinnen
 Slugcat Select|Slakkat Selecteren
 colored pearls|gekleurde parels
 Explosive Jump|Explosieve Sprong
@@ -1909,12 +1909,12 @@ Total: <total>|Totaal: <total>
 SLUGCAT SELECT|SLAKKAT SELECTEREN
 NEW BEST TIME:|NIEUWE BESTE TIJD:
 Red Lizards|Rode Hagedissen
-Pole Mimics|Paal Planten
-Miros Birds|Miros Vogels
+Pole Mimics|Paalplanten
+Miros Birds|Mirosvogels
 Eel Lizards|Aalgedissen
 Progression|Voortgang
 Neuron Glow|Zenuwcel Gloei
-Flare Bombs|Flits Bommen
+Flare Bombs|Flitsbommen
 Cycle Score|Cyclus Score
 UNLOCKABLES|Ontgrendelbaren
 EXPEDITIONS|EXPEDITIES
@@ -1928,7 +1928,7 @@ Points: <points>|Punten: <points>
 Burden: <burden>|Last: <burden>
 Creature Hunting|Jagen
 CHALLENGE FILTER|UITDAGINGSFILTER
-GAMEPLAY CHANGES|SPEL VERANDERINGEN
+GAMEPLAY CHANGES|VERANDERINGEN AAN HET SPEL
 CHALLENGE SELECT|UITDAGING SELECTEREN
 Spitter Spiders|Spuugspinnen
 Daddy Long Legs|Vader Hooiwagens
