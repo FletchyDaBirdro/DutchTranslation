@@ -158,7 +158,7 @@ Again.|Alweer.
 *sigh*|*zucht*
 friend|vriend
 little|klein
-Clear the game as Survivor or Monk to unlock.|Voltooi het spel als De Overlever of De Monnik om te ontgrendelen.
+Clear the game as Survivor or Monk to unlock.|Voltooi het spel als De Overlever of De Monnik om dit te ontgrendelen.
 Objects can be picked up, carried, and tossed|Voorwerpen kunnen opgepakt, gedragen en gegooid worden
 Some small creatures can be eaten immediately|Sommige kleine wezens kunnen onmiddellijk worden opgegeten
 MenuModList_ModButton_Enable_NonMouse_Console|Druk op BEVESTIGEN om deze content in te schakelen, druk op RECHTS om terug naar de lijst te gaan
@@ -1170,7 +1170,7 @@ And this one is fresh! It was not long ago this data was written to it!|En deze 
 Please sign in to PlayStation™Network to view leaderboards.|Log in op het PlayStation™Network om Leiderborden te zien.
 Progress towards Trophies will only be tracked for player 1|Voortgang voor Trofeeën wordt alleen bijgehouden voor Speler 1
 This may SIGNIFICANTLY alter your experience with the game.|Dit kan je ervaring met het spel AANZIENLIJK veranderen.
-(Normally requires completing previous campaigns to unlock)|(Benodigt normaal gesproken dat vorige campagnes compleet zijn om te ontgrendelen)
+(Normally requires completing previous campaigns to unlock)|(Benodigt normaal gesproken dat vorige campagnes compleet zijn om dit te ontgrendelen)
 Stop doing... this, or I... will not speak... to you again.|Stop met... dat, of ik... zal niet meer... met je spreken.
 You have been signed out from PlayStation™Network. Please connect to PlayStation™Network to view Leaderboards.|Je bent uitgelogd van het PlayStation™Network. Verbind met het PlayStation™Network om Leiderborden te zien.
 Items that typically attach to the terrain with a stem will spawn with their stems when placed in Sandbox mode|Voorwerpen dat typisch gezien vastzitten aan het terrein met een stengel zullen daarmee verschijnen als ze geplaatst worden in de Sandbox modus
@@ -1428,7 +1428,7 @@ Pups can now be found in Sandbox Mode.|Welpen kunnen nu gevonden worden in de Sa
 Cold... You better go. I will be fine.|Kou... Je kunt beter gaan. Ik red me wel.
 The storm is coming. You should leave.|De sneeuwstorm komt eraan. Je kunt beter hier weg komen.
 We have read this one, little creature.|We hebben dit gelezen, klein wezen.
-Clear the game as <X> or <Y> to unlock.|Eindig het spel als <X> of <Y> om te ontgrendelen.
+Clear the game as <X> or <Y> to unlock.|Eindig het spel als <X> of <Y> om dit te ontgrendelen.
 Is that something new? Allow me to see.|Is dat iets nieuws? Laat me eens zien.
 Special button interactions:|Speciale knop interacties:
 Auxiliary Transmission Array|Ondersteunende Transmissie Opstelling
@@ -1445,7 +1445,7 @@ Hold Pick Up with an empty hand to generate a spear|Houd Oppakken ingedrukt met 
 This is not a request. I have important work to do.|Dit is geen vraag. Ik heb belangrijk werk te verrichten.
 Press throw with empty hands to extend your tongue|Druk op Gooien met lege handen om je tong uit te rekken
 Hold Pick Up to move a spear to and from your back|Houd Oppakken ingedrukt om een speer op je rug te plaatsen en er van af te halen
-Undelete the challenge you just deleted to unlock.|Onverwijder de uitdaging die je zojuist verwijderde om te ontgrendelen.
+Undelete the challenge you just deleted to unlock.|Onverwijder de uitdaging die je zojuist verwijderde om dit te ontgrendelen.
 Hello again. I hope you have a reason to visit me.|Hallo alweer. Ik hoop dat je een reden hebt om me te bezoeken.
 Tap Pick up and Jump together to take flight|Druk tegelijkertijd op Oppakken en Springen om te vliegen
 You better go, <PlayerName>! I will be fine.|Je moet een schuilplaats gaan zoeken, <PlayerName>! Maak je maar geen zorgen over mij.
@@ -1454,7 +1454,7 @@ Hold Pick Up while holding up to combine two differing items|Houd Oppakken en Om
 Try using your weight in creative ways to gain an advantage.|Probeer je gewicht op creatieve manieren in je voordeel te gebruiken.
 Oh? What have you found this time? Let's see what it says...|Oh? Wat heb je deze keer gevonden? Laten we eens lezen wat erop staat...
 Hold Pick Up to regurgitate a random item|Houd Oppakken ingedrukt om een willekeurig voorwerp uit te spugen
-Clear a total of ## challenges to unlock.|Voltooi een totaal van ## uitdagingen om te ontgrendelen.
+Clear a total of ## challenges to unlock.|Voltooi in totaal van ## uitdagingen om dit te ontgrendelen.
 There's not a lot of time. You should go!|Er is geen tijd meer. Je moet gaan!
 Take your offspring with you when you go.|Neem je kroost mee als je gaat.
 Have you brought something new this time?|Heb je deze keer iets nieuws meegebracht?
@@ -1626,11 +1626,11 @@ Water Jet|Water Straal
 Spray Ink|Inkt Sproeien
 Creatures|Wezens
 The Nomad|De Nomade
-Clear the game as Gourmand, Artificer, or Hunter to unlock.|Voltooi het spel als De Bourgondiër, De Schepper of De Jager om te ontgrendelen.
+Clear the game as Gourmand, Artificer, or Hunter to unlock.|Voltooi het spel als De Bourgondiër, De Schepper of De Jager om dit te ontgrendelen.
 Hold the EAT button while a stunned creature is being held.|Houd de Eten knop ingedrukt terwijl je een verlamt wezen vasthoudt.
 The Rarefaction Cell item is now available in Sandbox Mode.|De Verdunningscel is nu beschikbaar in de Sandbox Modus.
 Little messenger, we do not have much time. You must hurry!|Kleine boodschapper, we hebben niet veel tijd. Je moet opschieten!
-Clear the game as Rivulet and Spearmaster to unlock.|Voltooi het spel als De Waterrat en De Speermeester om te ontgrendelen.
+Clear the game as Rivulet and Spearmaster to unlock.|Voltooi het spel als De Waterrat en De Speermeester om dit te ontgrendelen.
 Breathes underwater, and moves through the world with ease. These adaptations are essential,<LINE>as you'll be pitted against a world of increasingly frequent floods, where time is of the essence.|Ademt onderwater en beweegt zich moeiteloos door de wereld. Deze aanpassingen zijn essentieel<LINE>in een wereld van steeds vaker voorkomende vloedgolven, waar tijd kostbaar is.
 A fierce combatant, master of pyrotechnics and explosives. Keen to move up in<LINE>the foodchain, your journey will surely be one lined with constant bloodshed and warfare.|Een pittige vechter, meester van pyrotechnieken en explosieven. Gericht op het verhogen van de plek in<LINE>de voedselketen, jouw reis zal er een zijn van constant bloedvergiet en geweld.
 Frail and armed with a long tongue. Your journey will be one of perfect enlightenment,<LINE>but walking this path requires patience, caution, and complete attunement with the world.|Zwak en gewapend met een lange tong. Jouw reis zal er een van perfecte verlichting zijn,<LINE>maar dit pad vergt geduld, voorzichtigheid en een complete afstemming op de wereld.
@@ -1644,7 +1644,7 @@ The Rifle item is now available in Sandbox Mode.|Het Geweer voorwerp is nu besch
 How cute, you brought your family, <PlayerName>?|Wat schattig, je hebt een kindje meegenomen, <PlayerName>.
 12th Council Pillar, the House of Braids|12de Raadspilaar, Huis der Vlechten
 Pups can now be found in some campaigns.|Welpen kunnen nu gevonden worden in sommige campagnes.
-Ah, you have found me something to read?|Ah, you have found me something to read?
+Ah, you have found me something to read?|Ah, heb je iets voor me gevonden om te lezen?
 Oh... Please be careful on your journey.|Wees alsjeblieft voorzichtig tijdens je reis.
 Please, a moment of your time to finish?|Alsjeblieft, een beetje van je tijd om dit af te maken?
 Primary Cortex|Primaire Cortex
@@ -1656,7 +1656,7 @@ Challenge #<X>|Uitdaging #<X>
 Gain ## points|Verdien ## punten
 it... hurts...|het... doet pijn...
 Let me finish.|Laat me uitpraten.
-Revisit regions that were explored in the single player campaigns,<LINE>this time as an outside observer that watches the ecosystem<LINE>unfold, uninterrupted by the antics of the player.|Hervisiet gebieden die je tijdens de verhaal campagnes hebt ontdekt,<LINE>deze keer als een buitenstaander die toe kijkt hoe de ecosysteem<LINE>ontbloeit, ongestoord door de antics van de speler.
+Revisit regions that were explored in the single player campaigns,<LINE>this time as an outside observer that watches the ecosystem<LINE>unfold, uninterrupted by the antics of the player.|Hervisiet gebieden die je tijdens de verhaal campagnes hebt ontdekt,<LINE>deze keer als een buitenstaander die toe kijkt hoe het ecosysteem<LINE>zich ontbloeit, ongestoord door de capriolen van de speler.
 Try to meet the win requirements on a series of pre-constructed arena<LINE>scenarios. More challenges will be unlocked as progression is made by<LINE>clearing the single player campaigns.|Probeer de win-benodigdheden van een serie van voorgebouwde arena<LINE>scenario's te behalen. Meer uitdagingen worden ontgrendeld wanneer je voortgang<LINE>boekt bij het voltooien van verhaal campagnes.
 While in the air, tap jump and pick-up together to activate karmic enlightenment.|Terwijl je in de lucht bent, druk tegelijkertijd op Springen en Oppakken om karmische verlichting te activeren.
 While in the air, press jump and pick-up together, to propel yourself explosively.|Terwijl je in de lucht bent, druk tegelijkertijd op Springen en Oppakken om jezelf explosief voort te stuwen.
