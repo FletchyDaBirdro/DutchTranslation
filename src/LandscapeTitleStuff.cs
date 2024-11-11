@@ -3,6 +3,8 @@ using System.IO;
 using UnityEngine;
 using MonoMod.Cil;
 using Mono.Cecil.Cil;
+using On.Menu;
+using MoreSlugcats;
 
 namespace DutchTranslation
 {
@@ -13,46 +15,67 @@ namespace DutchTranslation
             On.Menu.MenuIllustration.ctor += ReplaceLandscapeTitles;
             On.Menu.FastTravelScreen.AddWorldLoaderResultToLoadedWorlds += FastTravelScreen_AddWorldLoaderResultToLoadedWorlds;
             //IL.Menu.FastTravelScreen.FinalizeRegionSwitch += new ILContext.Manipulator(Remove_Shadow);
+            On.Menu.MultiplayerMenu.ClearGameTypeSpecificButtons += MultiplayerMenu_ClearGameTypeSpecificButtons;
         }
 
         public static bool IsDutchTitle;
+
+        public static Menu.MultiplayerMenu MultiMenu;
+        
         private static void ReplaceLandscapeTitles(On.Menu.MenuIllustration.orig_ctor orig, Menu.MenuIllustration self, Menu.Menu menu, Menu.MenuObject owner, string folderName, string fileName, Vector2 pos, bool crispPixels, bool anchorCenter)
         {
             try
             {
                 if (menu.CurrLang == LangID.LanguageID.Dutch)
-                {
-                    bool isTitle = fileName.StartsWith("Title") && string.IsNullOrEmpty(folderName);
-
-                    if (isTitle)
+                {                                  
+                    if (fileName.StartsWith("Title") && string.IsNullOrEmpty(folderName))
                     {
                         string[] array = fileName.Split(
                         [
                             '_' 
-                        ]);
+                        ]);                        
 
-                        bool isScene = array.Length >= 2;
-
-                        if (isScene)
-                        {
-                            bool sceneNotReplaced = Region.GetRegionLandscapeScene(array[1]) != global::Menu.MenuScene.SceneID.Empty;
-
-                            if (sceneNotReplaced)
+                        if (array.Length >= 2)
+                        {                            
+                            if (Region.GetRegionLandscapeScene(array[1]) != global::Menu.MenuScene.SceneID.Empty)
                             {
                                 string title = fileName + "_" + LocalizationTranslator.LangShort(LangID.LanguageID.Dutch);
 
                                 string path = "Illustrations" + Path.DirectorySeparatorChar + title;
 
-                                bool fileExists = File.Exists(AssetManager.ResolveFilePath(path + ".png"));
-
-                                if (fileExists)
+                                if (File.Exists(AssetManager.ResolveFilePath(path + ".png")))
                                 {
                                     folderName = "Illustrations";
                                     fileName = title;
                                     IsDutchTitle = true;
                                     MainPlugIn.TransLogger.LogDebug(title + " has been loaded!");
                                 }
-                            }
+                            }                            
+                        }                        
+                    }
+                    else if (fileName.StartsWith("Competitive") && string.IsNullOrEmpty(folderName))
+                    {                                                
+                        string title = fileName + "_" + LocalizationTranslator.LangShort(LangID.LanguageID.Dutch);
+                        string path = "Illustrations" + Path.DirectorySeparatorChar + title;
+                        
+                        if (File.Exists(AssetManager.ResolveFilePath(path + ".png")))
+                        {                            
+                            folderName = "Illustrations";
+                            fileName = title;                            
+                            MainPlugIn.TransLogger.LogDebug(title + " has been loaded!");
+                        }
+
+                    }
+                    else if (ModManager.MSC && fileName.StartsWith("Challenge") && string.IsNullOrEmpty(folderName))
+                    {
+                        string title = fileName + "_" + LocalizationTranslator.LangShort(LangID.LanguageID.Dutch);
+                        string path = "Illustrations" + Path.DirectorySeparatorChar + title;
+
+                        if (File.Exists(AssetManager.ResolveFilePath(path + ".png")))
+                        {
+                            folderName = "Illustrations";
+                            fileName = title;                            
+                            MainPlugIn.TransLogger.LogDebug(title + " has been loaded!");                           
                         }
                     }
                 }
@@ -63,7 +86,7 @@ namespace DutchTranslation
                 MainPlugIn.TransLogger.LogMessage("Failed replacing the titles!");
             }
             orig(self, menu, owner, folderName, fileName, pos, crispPixels, anchorCenter);
-        }
+        }       
 
         private static void FastTravelScreen_AddWorldLoaderResultToLoadedWorlds(On.Menu.FastTravelScreen.orig_AddWorldLoaderResultToLoadedWorlds orig, Menu.FastTravelScreen self, int reg)
         {
@@ -108,5 +131,19 @@ namespace DutchTranslation
                 MainPlugIn.TransLogger.LogMessage("Removing shadow failed!");
             }
         }*/
+
+        private static void MultiplayerMenu_ClearGameTypeSpecificButtons(MultiplayerMenu.orig_ClearGameTypeSpecificButtons orig, Menu.MultiplayerMenu self)
+        {
+            orig(self);
+
+            for (int i = self.scene.flatIllustrations.Count - 1; i >= 0; i--) 
+            {
+                if (!ModManager.MSC || self.scene.flatIllustrations[i].fileName.ToLowerInvariant().EndsWith("dut"))
+                {
+                    self.scene.flatIllustrations[i].RemoveSprites();
+                    self.scene.RemoveSubObject(self.scene.flatIllustrations[i]);
+                }
+            }
+        }
     }
 }
