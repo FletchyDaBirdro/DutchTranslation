@@ -4,6 +4,7 @@ using MoreSlugcats;
 using RWCustom;
 using MonoMod.Cil;
 using Mono.Cecil.Cil;
+using Menu;
 
 namespace DutchTranslation
 {
@@ -17,10 +18,12 @@ namespace DutchTranslation
             IL.Menu.PauseMenu.ctor += new ILContext.Manipulator(PauseMenu_ctor);
             IL.MoreSlugcats.ChallengeInformation.ctor += new ILContext.Manipulator(Translate_ChallengeNames);
         }
+
         public string Translate(string s)
         {
             return Custom.rainWorld.inGameTranslator.Translate(s);
         }
+
         private static void Translate_ArenaMaps(On.Menu.LevelSelector.LevelItem.orig_ctor orig, Menu.LevelSelector.LevelItem self, Menu.Menu menu, Menu.MenuObject owner, string name)
         {
             orig(self, menu, owner, name);
@@ -40,6 +43,7 @@ namespace DutchTranslation
                     MainPlugIn.TransLogger.LogMessage("Translating Arenas failed!");
                 }
         }
+
         private static void Translate_ChallengeNames(ILContext il)
         {
             ILCursor c = new ILCursor(il);
@@ -60,7 +64,8 @@ namespace DutchTranslation
                 MainPlugIn.TransLogger.LogError(ex);
                 MainPlugIn.TransLogger.LogMessage("Translating challenge names failed!");
             }
-        }                
+        } 
+        
         public static void ArenaBehaviors_StartBump_Update(ILContext il)
         {
             ILCursor c = new ILCursor(il);
@@ -126,6 +131,7 @@ namespace DutchTranslation
                 MainPlugIn.TransLogger.LogMessage("PauseMenu_ctor: ILHook failed!");
             }
         }
+
         private static void MoreSlugcats_ChallengeInformation_GetOffset(On.MoreSlugcats.ChallengeInformation.orig_GetOffset orig, ChallengeInformation self, ref float creatureOffset, ref float itemOffset)
         {
             orig(self, ref creatureOffset, ref itemOffset);
