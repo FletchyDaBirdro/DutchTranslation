@@ -126,7 +126,7 @@ namespace DutchTranslation
 
             for (int i = self.scene.flatIllustrations.Count - 1; i >= 0; i--) 
             {
-                if (!ModManager.MSC || self.scene.flatIllustrations[i].fileName.ToLowerInvariant().EndsWith("dut"))
+                if (self.scene.flatIllustrations[i].fileName.ToLowerInvariant().EndsWith("dut"))
                 {
                     self.scene.flatIllustrations[i].RemoveSprites();
                     self.scene.RemoveSubObject(self.scene.flatIllustrations[i]);
