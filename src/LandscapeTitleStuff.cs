@@ -28,7 +28,7 @@ namespace DutchTranslation
             {
                 if (menu.CurrLang == LangID.LanguageID.Dutch)
                 {                                  
-                    if (fileName.StartsWith("Title") && string.IsNullOrEmpty(folderName))
+                    if (((ModManager.MSC && fileName.StartsWith("Challenge")) || fileName.StartsWith("Competitive") ||fileName.StartsWith("Title")) && string.IsNullOrEmpty(folderName))
                     {
                         string[] array = fileName.Split(
                         [
@@ -51,33 +51,21 @@ namespace DutchTranslation
                                     MainPlugIn.TransLogger.LogDebug(title + " has been loaded!");
                                 }
                             }                            
-                        }                        
-                    }
-                    else if (fileName.StartsWith("Competitive") && string.IsNullOrEmpty(folderName))
-                    {                                                
-                        string title = fileName + "_" + LocalizationTranslator.LangShort(LangID.LanguageID.Dutch);
-                        string path = "Illustrations" + Path.DirectorySeparatorChar + title;
-                        
-                        if (File.Exists(AssetManager.ResolveFilePath(path + ".png")))
-                        {                            
-                            folderName = "Illustrations";
-                            fileName = title;                            
-                            MainPlugIn.TransLogger.LogDebug(title + " has been loaded!");
                         }
-
-                    }
-                    else if (ModManager.MSC && fileName.StartsWith("Challenge") && string.IsNullOrEmpty(folderName))
-                    {
-                        string title = fileName + "_" + LocalizationTranslator.LangShort(LangID.LanguageID.Dutch);
-                        string path = "Illustrations" + Path.DirectorySeparatorChar + title;
-
-                        if (File.Exists(AssetManager.ResolveFilePath(path + ".png")))
+                        else
                         {
-                            folderName = "Illustrations";
-                            fileName = title;                            
-                            MainPlugIn.TransLogger.LogDebug(title + " has been loaded!");                           
+                            string title = fileName + "_" + LocalizationTranslator.LangShort(LangID.LanguageID.Dutch);
+                            string path = "Illustrations" + Path.DirectorySeparatorChar + title;
+
+                            if (File.Exists(AssetManager.ResolveFilePath(path + ".png")))
+                            {
+                                folderName = "Illustrations";
+                                fileName = title;
+                                MainPlugIn.TransLogger.LogDebug(title + " has been loaded!");
+                            }
+
                         }
-                    }
+                    }                                       
                 }
             }
             catch (Exception ex)
