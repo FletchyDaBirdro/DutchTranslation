@@ -4,7 +4,6 @@ using MoreSlugcats;
 using RWCustom;
 using MonoMod.Cil;
 using Mono.Cecil.Cil;
-using Menu;
 
 namespace DutchTranslation
 {

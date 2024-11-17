@@ -73,5 +73,8 @@ namespace DutchTranslation
             }
             return orig(lang);
         }
+
+        public static void UnapplyHooks()
+        { }
     }
 }

@@ -1,10 +1,7 @@
 ﻿using System;
 using System.IO;
 using UnityEngine;
-using MonoMod.Cil;
-using Mono.Cecil.Cil;
-using On.Menu;
-using MoreSlugcats;
+
 
 namespace DutchTranslation
 {
@@ -48,7 +45,7 @@ namespace DutchTranslation
                                     folderName = "Illustrations";
                                     fileName = title;
                                     IsDutchTitle = true;
-                                    MainPlugIn.TransLogger.LogDebug(title + " has been loaded!");
+                                    //MainPlugIn.TransLogger.LogDebug(title + " has been loaded!");
                                 }
                             }                            
                         }
@@ -61,7 +58,7 @@ namespace DutchTranslation
                             {
                                 folderName = "Illustrations";
                                 fileName = title;
-                                MainPlugIn.TransLogger.LogDebug(title + " has been loaded!");
+                                //MainPlugIn.TransLogger.LogDebug(title + " has been loaded!");
                             }
 
                         }
@@ -120,7 +117,7 @@ namespace DutchTranslation
             }
         }*/
 
-        private static void MultiplayerMenu_ClearGameTypeSpecificButtons(MultiplayerMenu.orig_ClearGameTypeSpecificButtons orig, Menu.MultiplayerMenu self)
+        private static void MultiplayerMenu_ClearGameTypeSpecificButtons(On.Menu.MultiplayerMenu.orig_ClearGameTypeSpecificButtons orig, Menu.MultiplayerMenu self)
         {
             orig(self);
 
