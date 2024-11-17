@@ -30,10 +30,8 @@ namespace DutchTranslation
 
             On.RainWorld.OnModsInit += RainWorld_OnOnModsInit;
             On.RainWorld.OnModsDisabled += RainWorld_OnModsDisabled;
-
-            GeneralStuff.ApplyILHook();
-        }
-
+            GeneralStuff.ApplyILHook();            
+        }        
         public void RainWorld_OnOnModsInit(On.RainWorld.orig_OnModsInit orig, global::RainWorld self)
         {
             orig(self);
@@ -44,8 +42,13 @@ namespace DutchTranslation
                 _Initialized = true;               
                 
                 GeneralStuff.ApplyHooks();
-                LandscapeTitleStuff.ApplyHooks();
                 ArenaStuff.ApplyHooks();
+                LandscapeTitleStuff.ApplyHooks();
+                ExpeditionStuff.ApplyHooks();
+                TransLogger.LogInfo("Applied hooks!");
+                
+                SpriteStuff.InitExpSprites();
+                TransLogger.LogInfo("Initialized sprites!");
 
                 TransLogger.LogInfo("Mod initialized!");
             }
@@ -58,11 +61,12 @@ namespace DutchTranslation
             {
                 orig.Invoke(self);
             }
-        } 
-                                                                                                   
+        }
         public void RainWorld_OnModsDisabled(On.RainWorld.orig_OnModsDisabled orig, global::RainWorld self, global::ModManager.Mod[] newlyDisabledMods)
         {
-            orig(self, newlyDisabledMods);            
+            orig(self, newlyDisabledMods); 
+            
+            SpriteStuff.UnloadExpSprites();
         }
 
         public void OnDestroy()
