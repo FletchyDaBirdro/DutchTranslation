@@ -1,4 +1,6 @@
 ﻿using System;
+using MonoMod.Cil;
+using Mono.Cecil.Cil;
 
 namespace DutchTranslation
 {
@@ -11,6 +13,7 @@ namespace DutchTranslation
             On.Menu.ChallengeSelectPage.ctor += ChallengeSelectPage_ctor;
             On.Menu.UnlockDialog.ctor += UnlockDialog_ctor;
             On.Menu.ProgressionPage.ctor += ProgressionPage_ctor;
+            IL.Menu.ChallengeSelectPage.GrafUpdate += new ILContext.Manipulator(ChallengeSelectPage_GrafUpdate);
         }
 
         private static void CharacterSelectPage_ctor(On.Menu.CharacterSelectPage.orig_ctor orig, Menu.CharacterSelectPage self, Menu.Menu menu, Menu.MenuObject owner, UnityEngine.Vector2 pos)
@@ -53,12 +56,12 @@ namespace DutchTranslation
                     self.Container.RemoveChild(self.pageTitle);
                     self.subObjects.Remove(self.localizedSubtitle);
 
-                    self.pageTitle = new FSprite("challengeselect_dut", true);
+                    self.pageTitle = new FSprite("expchallengeselect_dut", true);
                     self.pageTitle.SetAnchor(0.5f, 0f);
                     self.pageTitle.x = 683f;
                     self.pageTitle.y = 680f;
-                    self.pageTitle.shader = menu.manager.rainWorld.Shaders["MenuText"];
-
+                    self.pageTitle.shader = menu.manager.rainWorld.Shaders["MenuText"];                                        
+                    
                     self.Container.AddChild(self.pageTitle);
 
                     MainPlugIn.TransLogger.LogDebug("Replaced Challenge Select title!");
@@ -68,6 +71,45 @@ namespace DutchTranslation
             {
                 MainPlugIn.TransLogger.LogError(ex);
                 MainPlugIn.TransLogger.LogMessage("Replacing title failed!");
+            }
+        }
+         
+        private static void ChallengeSelectPage_GrafUpdate(ILContext il)
+        {
+            ILCursor c = new ILCursor(il);
+            ILLabel label = il.DefineLabel();
+
+            try
+            {
+                c.GotoNext(
+                    MoveType.Before,
+                    x => x.MatchLdarg(0),
+                    x => x.MatchLdfld(out _),
+                    x => x.MatchCallOrCallvirt(out _),
+                    x => x.MatchLdfld(out _),
+                    x => x.MatchLdstr("challengeselect"),
+                    x => x.MatchCallOrCallvirt(out _),
+                    x => x.MatchBrfalse(out _)
+                    );
+                c.Index += 6;
+                label = (ILLabel)c.Next.Operand;
+                c.Index += 1;
+                c.Emit(OpCodes.Ldarg_0);
+                c.EmitDelegate<Action<Menu.ChallengeSelectPage>>((Menu.ChallengeSelectPage self) =>
+                {
+                    if (self.pageTitle.element.name != "expchallengeselect_dut")
+                    {
+                        self.pageTitle.SetElementByName("expchallengeselect_dut");                        
+                    }
+                });
+                c.Emit(OpCodes.Br, label);                
+
+                MainPlugIn.TransLogger.LogDebug(il.ToString());
+            }
+            catch (Exception ex) 
+            {
+                MainPlugIn.TransLogger.LogError(ex);
+                MainPlugIn.TransLogger.LogMessage("ExpeditionStuff: ILHook failed!");
             }
         }
 
@@ -160,6 +202,16 @@ namespace DutchTranslation
                 MainPlugIn.TransLogger.LogError(ex);
                 MainPlugIn.TransLogger.LogMessage("Replacing title failed!");
             }
+        }
+
+        public static void UnapplyHooks() 
+        {
+            On.Menu.ExpeditionWinScreen.ctor -= ExpeditionWinScreen_ctor;
+            On.Menu.CharacterSelectPage.ctor -= CharacterSelectPage_ctor;
+            On.Menu.ChallengeSelectPage.ctor -= ChallengeSelectPage_ctor;
+            On.Menu.UnlockDialog.ctor -= UnlockDialog_ctor;
+            On.Menu.ProgressionPage.ctor -= ProgressionPage_ctor;
+            IL.Menu.ChallengeSelectPage.GrafUpdate -= new ILContext.Manipulator(ChallengeSelectPage_GrafUpdate);
         }
     }
 }
