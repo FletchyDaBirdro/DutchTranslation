@@ -75,6 +75,10 @@ namespace DutchTranslation
         }
 
         public static void UnapplyHooks()
-        { }
+        {
+            On.MoreSlugcats.ChatlogData.DecryptResult -= ChatlogData_DecryptResult;
+            On.JollyCoop.JollyMenu.ColorChangeDialog.ColorSlider.GetSliderWidth -= ColorSlider_GetSliderWidth;
+            IL.InGameTranslator.LoadShortStrings -= new ILContext.Manipulator(InGameTranslator_LoadShortStrings);
+        }
     }
 }

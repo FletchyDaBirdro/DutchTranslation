@@ -130,5 +130,13 @@ namespace DutchTranslation
                 }
             }
         }
+
+        public static void UnapplyHooks() 
+        {
+            On.Menu.MenuIllustration.ctor -= ReplaceLandscapeTitles;
+            On.Menu.FastTravelScreen.AddWorldLoaderResultToLoadedWorlds -= FastTravelScreen_AddWorldLoaderResultToLoadedWorlds;
+            //IL.Menu.FastTravelScreen.FinalizeRegionSwitch -= new ILContext.Manipulator(Remove_Shadow);
+            On.Menu.MultiplayerMenu.ClearGameTypeSpecificButtons -= MultiplayerMenu_ClearGameTypeSpecificButtons;
+        }
     }
 }

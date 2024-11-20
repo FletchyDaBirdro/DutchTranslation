@@ -149,5 +149,14 @@ namespace DutchTranslation
                 MainPlugIn.TransLogger.LogMessage("Items didn't offset.");
             }
         }
+
+        public static void UnapplyHooks() 
+        {
+            On.MoreSlugcats.ChallengeInformation.GetOffset -= MoreSlugcats_ChallengeInformation_GetOffset;
+            On.Menu.LevelSelector.LevelItem.ctor -= Translate_ArenaMaps;
+            IL.ArenaBehaviors.StartBump.Update -= new ILContext.Manipulator(ArenaBehaviors_StartBump_Update);
+            IL.Menu.PauseMenu.ctor -= new ILContext.Manipulator(PauseMenu_ctor);
+            IL.MoreSlugcats.ChallengeInformation.ctor -= new ILContext.Manipulator(Translate_ChallengeNames);
+        }
     }
 }
