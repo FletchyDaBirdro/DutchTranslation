@@ -14,6 +14,9 @@ namespace DutchTranslation
             On.Menu.UnlockDialog.ctor += UnlockDialog_ctor;
             On.Menu.ProgressionPage.ctor += ProgressionPage_ctor;
             IL.Menu.ChallengeSelectPage.GrafUpdate += new ILContext.Manipulator(ChallengeSelectPage_GrafUpdate);
+            On.Menu.StatsDialog.ctor += StatsDialog_ctor;
+            On.Menu.FilterDialog.ctor += FilterDialog_ctor;
+            On.Menu.ManualDialog.GetCancelButtonWidth += ManualDialog_GetCancelButtonWidth;
         }
 
         private static void CharacterSelectPage_ctor(On.Menu.CharacterSelectPage.orig_ctor orig, Menu.CharacterSelectPage self, Menu.Menu menu, Menu.MenuObject owner, UnityEngine.Vector2 pos)
@@ -104,7 +107,7 @@ namespace DutchTranslation
                 });
                 c.Emit(OpCodes.Br, label);                
 
-                MainPlugIn.TransLogger.LogDebug(il.ToString());
+                //MainPlugIn.TransLogger.LogDebug(il.ToString());
             }
             catch (Exception ex) 
             {
@@ -204,6 +207,61 @@ namespace DutchTranslation
             }
         }
 
+        private static void StatsDialog_ctor(On.Menu.StatsDialog.orig_ctor orig, Menu.StatsDialog self, ProcessManager manager)
+        {
+            orig(self, manager);
+
+            try
+            {
+                if (self.CurrLang == LangID.LanguageID.Dutch)
+                {
+                    self.pages[0].Container.RemoveChild(self.pageTitle);
+                    self.pages[0].subObjects.Remove(self.localizedSubtitle);
+
+                    self.pageTitle = new FSprite("milestones_dut", true);
+                    self.pageTitle.SetAnchor(0.5f, 0f);
+                    self.pageTitle.x = 720f;
+                    self.pageTitle.y = 680f;
+
+                    self.pages[0].Container.AddChild(self.pageTitle);
+
+                    MainPlugIn.TransLogger.LogDebug("Replaced Milestones title!");
+                }
+            }
+            catch (Exception ex) 
+            {
+                MainPlugIn.TransLogger.LogError(ex);
+                MainPlugIn.TransLogger.LogMessage("Replacing title failed!");
+            }
+        }
+
+        private static void FilterDialog_ctor(On.Menu.FilterDialog.orig_ctor orig, Menu.FilterDialog self, ProcessManager manager, Menu.ChallengeSelectPage owner)
+        {
+            orig(self, manager, owner);
+
+            try
+            {
+                if (self.CurrLang == LangID.LanguageID.Dutch)
+                {
+                    self.pages[0].subObjects.Remove(self.localizedSubtitle);
+                }
+            }
+            catch (Exception ex) 
+            {
+                MainPlugIn.TransLogger.LogError(ex);
+                MainPlugIn.TransLogger.LogMessage("Removing subtitle failed!");
+            }
+        }
+
+        private static float ManualDialog_GetCancelButtonWidth(On.Menu.ManualDialog.orig_GetCancelButtonWidth orig, InGameTranslator.LanguageID lang)
+        {            
+            if (lang == LangID.LanguageID.Dutch) 
+            {
+                return 160f;
+            }
+            return orig(lang);
+        }
+
         public static void UnapplyHooks() 
         {
             On.Menu.ExpeditionWinScreen.ctor -= ExpeditionWinScreen_ctor;
@@ -212,6 +270,9 @@ namespace DutchTranslation
             On.Menu.UnlockDialog.ctor -= UnlockDialog_ctor;
             On.Menu.ProgressionPage.ctor -= ProgressionPage_ctor;
             IL.Menu.ChallengeSelectPage.GrafUpdate -= new ILContext.Manipulator(ChallengeSelectPage_GrafUpdate);
+            On.Menu.StatsDialog.ctor -= StatsDialog_ctor;
+            On.Menu.FilterDialog.ctor -= FilterDialog_ctor;
+            On.Menu.ManualDialog.GetCancelButtonWidth -= ManualDialog_GetCancelButtonWidth;
         }
     }
 }
