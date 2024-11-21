@@ -103,6 +103,38 @@ namespace DutchTranslation
                 MainPlugIn.TransLogger.LogError(ex);
                 MainPlugIn.TransLogger.LogMessage("Failed initializing sprite! 6");
             }
+
+            try
+            {
+                if (!Futile.atlasManager.DoesContainElementWithName("milestones_dut"))
+                {
+                    Texture2D mileStones = new Texture2D(0, 0);
+                    mileStones.LoadImage(File.ReadAllBytes(AssetManager.ResolveFilePath("illustrations" + Path.DirectorySeparatorChar + "milestones_dut.png")));
+                    mileStones.filterMode = FilterMode.Point;
+                    Futile.atlasManager.LoadAtlasFromTexture("milestones_dut", mileStones, false);
+                }
+            }
+            catch (Exception ex)
+            {
+                MainPlugIn.TransLogger.LogError(ex);
+                MainPlugIn.TransLogger.LogMessage("Failed initializing sprite! 7");
+            }
+
+            try
+            {
+                if (!Futile.atlasManager.DoesContainElementWithName("mission_dut"))
+                {
+                    Texture2D mileStones = new Texture2D(0, 0);
+                    mileStones.LoadImage(File.ReadAllBytes(AssetManager.ResolveFilePath("illustrations" + Path.DirectorySeparatorChar + "mission_dut.png")));
+                    mileStones.filterMode = FilterMode.Point;
+                    Futile.atlasManager.LoadAtlasFromTexture("mission_dut", mileStones, false);
+                }
+            }
+            catch (Exception ex)
+            {
+                MainPlugIn.TransLogger.LogError(ex);
+                MainPlugIn.TransLogger.LogMessage("Failed initializing sprite! 7");
+            }
         }
 
         public static void UnloadExpSprites()
@@ -130,7 +162,15 @@ namespace DutchTranslation
             if (Futile.atlasManager.DoesContainElementWithName("progression_dut"))
             {
                 Futile.atlasManager.UnloadAtlas("progression_dut");
-            }            
+            }
+            if (Futile.atlasManager.DoesContainElementWithName("milestones_dut"))
+            {
+                Futile.atlasManager.UnloadAtlas("milestones_dut");
+            }
+            if (Futile.atlasManager.DoesContainElementWithName("mission_dut"))
+            {
+                Futile.atlasManager.UnloadAtlas("mission_dut");
+            }
         }
     }
 }

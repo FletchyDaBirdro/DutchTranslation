@@ -25,7 +25,7 @@ namespace DutchTranslation
             {
                 if (menu.CurrLang == LangID.LanguageID.Dutch)
                 {                                  
-                    if (((ModManager.MSC && fileName.StartsWith("Challenge")) || fileName.StartsWith("Competitive") || fileName.StartsWith("Title")) && string.IsNullOrEmpty(folderName))
+                    if (((ModManager.JollyCoop && fileName.StartsWith("jolly_title")) || (ModManager.MSC && fileName.StartsWith("Challenge")) || fileName.StartsWith("Competitive") || fileName.StartsWith("Title")) && string.IsNullOrEmpty(folderName) || (ModManager.JollyCoop || ModManager.Expedition) && fileName.StartsWith("manual"))
                     {
                         string[] array = fileName.Split(
                         [
@@ -33,12 +33,24 @@ namespace DutchTranslation
                         ]);                        
 
                         if (array.Length >= 2)
-                        {                            
+                        {
+                            string title = fileName + "_" + LocalizationTranslator.LangShort(LangID.LanguageID.Dutch);
+
+                            string path = "Illustrations" + Path.DirectorySeparatorChar + title;
+
+                            if (File.Exists(AssetManager.ResolveFilePath(path + ".png")))
+                            {
+                                folderName = "Illustrations";
+                                fileName = title;
+                                IsDutchTitle = true;
+                                //MainPlugIn.TransLogger.LogDebug(title + " has been loaded!");
+                            }
+
                             if (Region.GetRegionLandscapeScene(array[1]) != global::Menu.MenuScene.SceneID.Empty)
                             {
-                                string title = fileName + "_" + LocalizationTranslator.LangShort(LangID.LanguageID.Dutch);
+                                title = fileName + "_" + LocalizationTranslator.LangShort(LangID.LanguageID.Dutch);
 
-                                string path = "Illustrations" + Path.DirectorySeparatorChar + title;
+                                path = "Illustrations" + Path.DirectorySeparatorChar + title;
 
                                 if (File.Exists(AssetManager.ResolveFilePath(path + ".png")))
                                 {
@@ -62,20 +74,7 @@ namespace DutchTranslation
                             }
 
                         }
-                    } 
-                    else if ((ModManager.JollyCoop || ModManager.Expedition) && fileName.StartsWith("manual"))
-                    {
-                        string title = fileName + "_" + LocalizationTranslator.LangShort(LangID.LanguageID.Dutch);
-                        string path = "Illustrations" + Path.DirectorySeparatorChar + title;
-
-                        if (File.Exists(AssetManager.ResolveFilePath(path + ".png")))
-                        {
-                            folderName = "Illustrations";
-                            fileName = title;
-                            MainPlugIn.TransLogger.LogDebug(title + " has been loaded!");
-                        }
-
-                    }
+                    }                   
                 }
             }
             catch (Exception ex)

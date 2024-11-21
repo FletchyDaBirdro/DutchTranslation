@@ -81,9 +81,33 @@ namespace DutchTranslation
         {
             ILCursor c = new ILCursor(il);
             ILLabel label = il.DefineLabel();
+            ILLabel label2 = il.DefineLabel();
 
             try
             {
+                c.GotoNext(
+                    MoveType.Before,
+                    x => x.MatchLdarg(0),
+                    x => x.MatchLdfld(out _),
+                    x => x.MatchCallOrCallvirt(out _),
+                    x => x.MatchLdfld(out _),
+                    x => x.MatchLdstr("mission"),
+                    x => x.MatchCallOrCallvirt(typeof(System.String).GetMethod("op_Inequality")),
+                    x => x.MatchBrfalse(out _)
+                    );
+                c.Index += 6;
+                label = (ILLabel)c.Next.Operand;
+                c.Index += 1;
+                c.Emit(OpCodes.Ldarg_0);
+                c.EmitDelegate<Action<Menu.ChallengeSelectPage>>((Menu.ChallengeSelectPage self) => 
+                {
+                    if (self.pageTitle.element.name != "mission_dut")
+                    {
+                        self.pageTitle.SetElementByName("mission_dut");
+                    }
+                });
+                c.Emit(OpCodes.Br, label);
+
                 c.GotoNext(
                     MoveType.Before,
                     x => x.MatchLdarg(0),
@@ -95,7 +119,7 @@ namespace DutchTranslation
                     x => x.MatchBrfalse(out _)
                     );
                 c.Index += 6;
-                label = (ILLabel)c.Next.Operand;
+                label2 = (ILLabel)c.Next.Operand;
                 c.Index += 1;
                 c.Emit(OpCodes.Ldarg_0);
                 c.EmitDelegate<Action<Menu.ChallengeSelectPage>>((Menu.ChallengeSelectPage self) =>
@@ -105,7 +129,7 @@ namespace DutchTranslation
                         self.pageTitle.SetElementByName("expchallengeselect_dut");                        
                     }
                 });
-                c.Emit(OpCodes.Br, label);                
+                c.Emit(OpCodes.Br, label2);                
 
                 //MainPlugIn.TransLogger.LogDebug(il.ToString());
             }
