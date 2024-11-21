@@ -1,6 +1,8 @@
 ﻿using System;
 using System.IO;
 using UnityEngine;
+using MonoMod.Cil;
+using Mono.Cecil.Cil;
 
 
 namespace DutchTranslation
@@ -11,7 +13,7 @@ namespace DutchTranslation
         {
             On.Menu.MenuIllustration.ctor += ReplaceLandscapeTitles;
             On.Menu.FastTravelScreen.AddWorldLoaderResultToLoadedWorlds += FastTravelScreen_AddWorldLoaderResultToLoadedWorlds;
-            //IL.Menu.FastTravelScreen.FinalizeRegionSwitch += new ILContext.Manipulator(Remove_Shadow);
+            IL.Menu.FastTravelScreen.FinalizeRegionSwitch += new ILContext.Manipulator(Remove_Shadow);
             On.Menu.MultiplayerMenu.ClearGameTypeSpecificButtons += MultiplayerMenu_ClearGameTypeSpecificButtons;
         }
 
@@ -91,7 +93,7 @@ namespace DutchTranslation
             orig(self, reg);
         }
 
-        /*private static void Remove_Shadow(ILContext il)
+        private static void Remove_Shadow(ILContext il)
         {
             ILCursor c = new ILCursor(il);
             ILLabel label = c.DefineLabel();
@@ -106,7 +108,7 @@ namespace DutchTranslation
                 label = c.MarkLabel();
 
                 c.GotoPrev(
-                    MoveType.Before,                    
+                    MoveType.After,                    
                     x => x.MatchLdsfld(typeof(SlugcatStats.Name).GetField(nameof(SlugcatStats.Name.White))),
                     x => x.MatchCallOrCallvirt(out _),
                     x => x.MatchCallOrCallvirt(typeof(System.String).GetMethod("op_Inequality")),
@@ -119,7 +121,6 @@ namespace DutchTranslation
                 c.Emit(OpCodes.Ldsfld, typeof(LandscapeTitleStuff).GetField(nameof(IsDutchTitle)));
                 c.Emit(OpCodes.Brtrue, label);
                
-
                 MainPlugIn.TransLogger.LogDebug(il.ToString());
             }
             catch (Exception ex) 
@@ -127,7 +128,7 @@ namespace DutchTranslation
                 MainPlugIn.TransLogger.LogError(ex);
                 MainPlugIn.TransLogger.LogMessage("Removing shadow failed!");
             }
-        }*/
+        }
 
         private static void MultiplayerMenu_ClearGameTypeSpecificButtons(On.Menu.MultiplayerMenu.orig_ClearGameTypeSpecificButtons orig, Menu.MultiplayerMenu self)
         {
@@ -147,7 +148,7 @@ namespace DutchTranslation
         {
             On.Menu.MenuIllustration.ctor -= ReplaceLandscapeTitles;
             On.Menu.FastTravelScreen.AddWorldLoaderResultToLoadedWorlds -= FastTravelScreen_AddWorldLoaderResultToLoadedWorlds;
-            //IL.Menu.FastTravelScreen.FinalizeRegionSwitch -= new ILContext.Manipulator(Remove_Shadow);
+            IL.Menu.FastTravelScreen.FinalizeRegionSwitch -= new ILContext.Manipulator(Remove_Shadow);
             On.Menu.MultiplayerMenu.ClearGameTypeSpecificButtons -= MultiplayerMenu_ClearGameTypeSpecificButtons;
         }
     }
