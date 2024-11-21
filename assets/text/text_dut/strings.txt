@@ -1147,7 +1147,7 @@ Limit exceeded. You may need to reduce the filesize or remove prior workshop con
 A little animal, on the floor of my chamber. I think I know what you are looking for.|Een klein dier, op de vloer van mijn kamer. Ik denk dat ik weet waar je naar zoekt.
 Really exit? Note that quitting after 30 seconds into a cycle counts as a loss.|Het spel echt verlaten? Houd er rekening mee dat stoppen nadat er 30 seconden in een cyclus voorbij zijn, telt als een verlies.
 You get these at Five Pebbles'?<LINE>Thank you so much. I'm sure he won't mind.|Vond je deze bij Vijf Kiezels?<LINE>Dank je wel. Ik weet zeker dat hij dat niet erg vindt.
-Create custom scenarios using levels, items and creatures<LINE>that have been unlocked in the single player campaigns.<LINE>Defeating creatures or other actions can be set to award points,<LINE>but Sandbox is mostly about customization and fun!|Creëer aangepaste scenario's met levels, voorwerpen en wezens<LINE>die zijn ontgrendeld in de verhaal campagnes.<LINE>Het verslaan van wezens of andere acties kan ingesteld worden om punten toe te reiken,<LINE>maar Sandbox gaat vooral om de aanpasbaarheid en plezier!
+Create custom scenarios using levels, items and creatures<LINE>that have been unlocked in the single player campaigns.<LINE>Defeating creatures or other actions can be set to award points,<LINE>but Sandbox is mostly about customization and fun!|Creëer aangepaste scenario's met levels, voorwerpen en wezens<LINE>die zijn ontgrendeld in de verhaalcampagnes.<LINE>Het verslaan van wezens of andere acties kan ingesteld worden om punten toe te reiken,<LINE>maar Sandbox gaat vooral om de aanpasbaarheid en plezier!
 For you though, there is another way. The old path. Go to the west past the Farm Arrays, and then down into the earth<LINE>where the land fissures, as deep as you can reach, where the ancients built their temples and danced their silly rituals.|Maar voor jou is er een andere manier. De oude manier. Ga naar het westen langs de Akkerrijen, en dan diep in de aarde<LINE>waar het land openscheurt, zo diep als je kan reiken, waar de Ouden hun tempels bouwden en hun dwaze rituelen dansten.
 Compete in a battle against each other and the elements.<LINE>In this mode points are awarded for food items consumed,<LINE>with surviving players always ranking above dead players.<LINE>New levels, items and creatures can be unlocked in the<LINE>single player campaigns.|Ga de strijd aan in een gevecht tegen elkaar en de elementen.<LINE>In deze modus worden punten toegekend voor geconsumeerde voedselpunten,<LINE>waar overlevende spelers altijd hoger in de ranglijst komen dan dode spelers.<LINE>Nieuwe levels, voorwerpen en wezens kunnen worden ontgrendeld in de<LINE>verhaal campagnes.
 No items except what you place in the editor|Geen voorwerpen behalve hetgene dat geplaatst wordt in de editor
@@ -1656,8 +1656,8 @@ Challenge #<X>|Uitdaging #<X>
 Gain ## points|Verdien ## punten
 it... hurts...|het... doet pijn...
 Let me finish.|Laat me uitpraten.
-Revisit regions that were explored in the single player campaigns,<LINE>this time as an outside observer that watches the ecosystem<LINE>unfold, uninterrupted by the antics of the player.|Hervisiet gebieden die je tijdens de verhaal campagnes hebt ontdekt,<LINE>deze keer als een buitenstaander die toe kijkt hoe het ecosysteem<LINE>zich ontbloeit, ongestoord door de capriolen van de speler.
-Try to meet the win requirements on a series of pre-constructed arena<LINE>scenarios. More challenges will be unlocked as progression is made by<LINE>clearing the single player campaigns.|Probeer de win-benodigdheden van een serie van voorgebouwde arena<LINE>scenario's te behalen. Meer uitdagingen worden ontgrendeld wanneer je voortgang<LINE>boekt bij het voltooien van verhaal campagnes.
+Revisit regions that were explored in the single player campaigns,<LINE>this time as an outside observer that watches the ecosystem<LINE>unfold, uninterrupted by the antics of the player.|Hervisiet gebieden die je tijdens de verhaalcampagnes hebt ontdekt,<LINE>deze keer als een buitenstaander die toe kijkt hoe het ecosysteem<LINE>zich ontbloeit, ongestoord door de capriolen van de speler.
+Try to meet the win requirements on a series of pre-constructed arena<LINE>scenarios. More challenges will be unlocked as progression is made by<LINE>clearing the single player campaigns.|Probeer de win-benodigdheden van een serie van voorgebouwde arena<LINE>scenario's te behalen. Meer uitdagingen worden ontgrendeld wanneer je voortgang<LINE>boekt bij het voltooien van verhaalcampagnes.
 While in the air, tap jump and pick-up together to activate karmic enlightenment.|Terwijl je in de lucht bent, druk tegelijkertijd op Springen en Oppakken om karmische verlichting te activeren.
 While in the air, press jump and pick-up together, to propel yourself explosively.|Terwijl je in de lucht bent, druk tegelijkertijd op Springen en Oppakken om jezelf explosief voort te stuwen.
 Tap the throw button to extend your tongue. Press jump while attached to let go.|Druk op Gooien om je tong uit te rekken. Druk op Springen terwijl je vastzit om los te laten.
@@ -2074,7 +2074,7 @@ No stealing|Geen stelen
 INFO_DIFF_DESCRIPTION|Klik voor meer informatie over moeilijkheids opties
 description_spears_on|Speren die je gooit, zullen andere spelers missen
 MANUAL_INTRODUCTION_1|Vrolijke Co-op laat je de verhaalscampagne en andere spelmodussen spelen met je vrienden! Selecteer jouw favoriete slakkat en ervaar de reis met tot wel 4 spelers.
-MANUAL_PIGGYBACKING_1|In Vrolijke Co-op, de <PICK UP> knop ingedrukt houden naast een speler die aan het bukken is, laat je hen meeliften op je rug. Dit kun je ook doen bij spelers die geïncapaciteerd zijn.
+MANUAL_PIGGYBACKING_1|In Vrolijke Co-op, als je de <PICK UP> knop ingedrukt houdt naast een speler die aan het bukken is, laat je hen meeliften op je rug. Dit kun je ook doen bij spelers die geïncapaciteerd zijn.
 MANUAL_PIGGYBACKING_2|Je kunt spelers die op je rug zitten, gooien om hoger gelegen plekken of voorwerpen te bereiken. Spelers die gedragen worden, kunnen er ook op elk moment vanaf springen.
 INFO_CAMERA_DESCRIPTION|Klik voor meer informatie over camera opties
 INFO_COLOR_DESCRIPTION|Klik voor meer informatie over kleur opties
@@ -2083,8 +2083,8 @@ description_spears_off|Speren die je gooit, zullen andere spelers raken
 CAMERA INFORMATION|CAMERA INFORMATIE
 description_pup_on|Speler <p_n> zal een welp zijn
 description_hud_on|Verberg speler namen en andere indicaties
-MANUAL_SURVIVING_1|Om succesvol te slapen, moeten alle levende spelers in dezelfde schuilplaats zijn, onafhankelijk van de moeilijkheid! Dit geldt ook voor andere gebeurtenissen, zoals door het passeren van poorten.
-MANUAL_SELECTING_1|Je kunt mixen en combineren als welke slakkatten je speelt! Eerst selecteer je een campagne zoals normaal, wat de wereld en het verhaal bepaalt (dingen zoals benodigd voedsel, wezen spawns, enz.).
+MANUAL_SURVIVING_1|Om succesvol te slapen, moeten alle levende spelers in dezelfde schuilplaats zijn, onafhankelijk van de moeilijkheid! Dit geldt ook voor andere gebeurtenissen, zoals het passeren van poorten.
+MANUAL_SELECTING_1|Je kunt mixen en combineren als welke slakkatten je speelt! Eerst selecteer je een campagne zoals normaal, wat de wereld en het verhaal bepaalt (zoals benodigd voedsel, wezens die verschijnen, enz.).
 MANUAL_SELECTING_2|Dan breng je het Vrolijke menu op en selecteer je het uiterlijk en vaardigheden van elke individuele speler! Je kunt ook kiezen om als een welp te spelen.
 COLOR INFORMATION|KLEUR INFORMATIE
 Vanilla shortcuts|Vanilla sluipwegen
@@ -2097,7 +2097,7 @@ MANUAL_POINTING_3|Wijzen naar een wezen of voorwerp markeert het. Schooiers zull
 Adjust the number of players|Pas het aantal spelers aan
 description_camera_toggle_on|Wanneer je gevolgd wordt door de vragen zal het opnieuw aanvragen ervan het sturen naar de volgende speler
 CLOSE|SLUITEN
-RESET|Reset
+RESET|RESETTEN
 PLAYER_CLASS_INSTRUCTION_MAIN|Om het Speler 1 personage te veranderen, ga je een andere verhaalscampagne.
 description_camera_toggle_off|De camera aanvragen wanneer je al gevolgd wordt, zal niets doen
 description_smart_shorcuts_on|(Aanbevolen) Wanneer je van kamer wisselt, wacht je op andere spelers in sluipwegen
@@ -2124,7 +2124,7 @@ description_hud_off|Laat speler namen en andere indicators zien
 COLOR CONFIGURATION|Kleur configuratie
 JOLLY_MANUAL_BUTTON|Handleiding
 SELECTING A SLUGCAT|EEN SLAKKAT SELECTEREN
-MANUAL_DIFFICULTY_1|Er zijn drie moeilijkheids standen beschikbaar in Vrolijke Co-op:
+MANUAL_DIFFICULTY_1|Er zijn drie moeilijkheidsstanden beschikbaar in Vrolijke Co-op:
 MANUAL_DIFFICULTY_2|- Makkelijk: maar één speler hoeft een schuilplaats te bereiken.
 MANUAL_DIFFICULTY_3|- Normaal: alle spelers (dood of levend) moeten de schuilplaats bereiken. Zorg ervoor om je gevallen teammaatjes te dragen!
 MANUAL_DIFFICULTY_4|- Moeilijk: elke speler moet nog leven om de cyclus af te ronden.
@@ -2136,7 +2136,7 @@ ADJUST_CAMERA|Pas de camera toegankelijkheid aan
 Camera doesn't cycle|Camera wisselt niet
 Smart shortcuts|Slimme sluipwegen
 Vanilla lizards|Vanilla hagedissen
-MANUAL_CAMERA_1|In Vrolijke Co-op wordt de camera gedeeld door alle spelers, en volgt een specifieke speler op iedere gegeven tijd. Druk op de <MAP> knop om de camera terug naar jou te richten.
+MANUAL_CAMERA_1|In Vrolijke Co-op wordt de camera gedeeld door alle spelers, en volgt het ten alle tijden een specifieke speler. Druk op de <MAP> knop om de camera terug naar jou te richten.
 MANUAL_CAMERA_2|Je kunt instellen hoe snel de <MAP> knop ingedrukt moet worden in het Vrolijke Co-op menu.
 MANUAL_CAMERA_3|Als de camera wisseling optie is ingeschakeld in het Vrolijke menu, zal op de <MAP> knop drukken terwijl de camera je al volgt in plaats daarvan de volgende speler volgen.
 MANUAL_CAMERA_4|De indicator rechtsonder laat een pijl zien bij de speler die op het huidige moment gevolgd wordt door de camera.
