@@ -13,7 +13,7 @@ namespace DutchTranslation
         {
             On.Menu.MenuIllustration.ctor += ReplaceLandscapeTitles;
             On.Menu.FastTravelScreen.AddWorldLoaderResultToLoadedWorlds += FastTravelScreen_AddWorldLoaderResultToLoadedWorlds;
-            IL.Menu.FastTravelScreen.FinalizeRegionSwitch += new ILContext.Manipulator(Remove_Shadow);
+            IL.Menu.FastTravelScreen.FinalizeRegionSwitch += new ILContext.Manipulator(Remove_Subtitle);
             On.Menu.MultiplayerMenu.ClearGameTypeSpecificButtons += MultiplayerMenu_ClearGameTypeSpecificButtons;
         }
 
@@ -34,7 +34,7 @@ namespace DutchTranslation
                             '_' 
                         ]);                        
 
-                        if (array.Length >= 2)
+                        if (array.Length >= 2 && Region.GetRegionLandscapeScene(array[1]) != global::Menu.MenuScene.SceneID.Empty || array.Length == 1 || array.Length >= 2)
                         {
                             string title = fileName + "_" + LocalizationTranslator.LangShort(LangID.LanguageID.Dutch);
 
@@ -45,37 +45,9 @@ namespace DutchTranslation
                                 folderName = "Illustrations";
                                 fileName = title;
                                 IsDutchTitle = true;
-                                //MainPlugIn.TransLogger.LogDebug(title + " has been loaded!");
-                            }
-
-                            if (Region.GetRegionLandscapeScene(array[1]) != global::Menu.MenuScene.SceneID.Empty)
-                            {
-                                title = fileName + "_" + LocalizationTranslator.LangShort(LangID.LanguageID.Dutch);
-
-                                path = "Illustrations" + Path.DirectorySeparatorChar + title;
-
-                                if (File.Exists(AssetManager.ResolveFilePath(path + ".png")))
-                                {
-                                    folderName = "Illustrations";
-                                    fileName = title;
-                                    IsDutchTitle = true;
-                                    //MainPlugIn.TransLogger.LogDebug(title + " has been loaded!");
-                                }
-                            }                            
-                        }
-                        else
-                        {
-                            string title = fileName + "_" + LocalizationTranslator.LangShort(LangID.LanguageID.Dutch);
-                            string path = "Illustrations" + Path.DirectorySeparatorChar + title;
-
-                            if (File.Exists(AssetManager.ResolveFilePath(path + ".png")))
-                            {
-                                folderName = "Illustrations";
-                                fileName = title;
-                                //MainPlugIn.TransLogger.LogDebug(title + " has been loaded!");
-                            }
-
-                        }
+                                MainPlugIn.TransLogger.LogDebug(title + " has been loaded!");
+                            }                                                    
+                        }                       
                     }                   
                 }
             }
@@ -93,7 +65,7 @@ namespace DutchTranslation
             orig(self, reg);
         }
 
-        private static void Remove_Shadow(ILContext il)
+        private static void Remove_Subtitle(ILContext il)
         {
             ILCursor c = new ILCursor(il);
             ILLabel label = c.DefineLabel();
@@ -126,7 +98,7 @@ namespace DutchTranslation
             catch (Exception ex) 
             {
                 MainPlugIn.TransLogger.LogError(ex);
-                MainPlugIn.TransLogger.LogMessage("Removing shadow failed!");
+                MainPlugIn.TransLogger.LogMessage("Removing subtitle failed!");
             }
         }
 
@@ -148,7 +120,7 @@ namespace DutchTranslation
         {
             On.Menu.MenuIllustration.ctor -= ReplaceLandscapeTitles;
             On.Menu.FastTravelScreen.AddWorldLoaderResultToLoadedWorlds -= FastTravelScreen_AddWorldLoaderResultToLoadedWorlds;
-            IL.Menu.FastTravelScreen.FinalizeRegionSwitch -= new ILContext.Manipulator(Remove_Shadow);
+            IL.Menu.FastTravelScreen.FinalizeRegionSwitch -= new ILContext.Manipulator(Remove_Subtitle);
             On.Menu.MultiplayerMenu.ClearGameTypeSpecificButtons -= MultiplayerMenu_ClearGameTypeSpecificButtons;
         }
     }
