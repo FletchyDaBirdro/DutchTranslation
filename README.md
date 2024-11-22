@@ -5,6 +5,7 @@ This mod currently translates:
 - Expedition
 - Jolly Co-Op
 - Arena Maps and Challenges
+- Most title graphics
 
 
 In-progress:
