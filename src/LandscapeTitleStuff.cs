@@ -121,7 +121,7 @@ namespace DutchTranslation
                 c.Emit(OpCodes.Ldsfld, typeof(LandscapeTitleStuff).GetField(nameof(IsDutchTitle)));
                 c.Emit(OpCodes.Brtrue, label);
                
-                MainPlugIn.TransLogger.LogDebug(il.ToString());
+                //MainPlugIn.TransLogger.LogDebug(il.ToString());
             }
             catch (Exception ex) 
             {

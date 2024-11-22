@@ -64,18 +64,18 @@ namespace DutchTranslation
         }
         public void RainWorld_OnModsDisabled(On.RainWorld.orig_OnModsDisabled orig, global::RainWorld self, global::ModManager.Mod[] newlyDisabledMods)
         {
-            orig(self, newlyDisabledMods);
-            
-            GeneralStuff.UnapplyHooks();
-            ArenaStuff.UnapplyHooks();
-            LandscapeTitleStuff.UnapplyHooks(); 
-            ExpeditionStuff.UnapplyHooks();
-            
-            SpriteStuff.UnloadExpSprites();
+            orig(self, newlyDisabledMods);                       
         }
 
         public void OnDestroy()
         {
+            GeneralStuff.UnapplyHooks();
+            ArenaStuff.UnapplyHooks();
+            LandscapeTitleStuff.UnapplyHooks();
+            ExpeditionStuff.UnapplyHooks();
+
+            SpriteStuff.UnloadExpSprites();
+
             LangID.UnregisterValues();
         }
     }
