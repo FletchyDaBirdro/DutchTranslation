@@ -17,9 +17,7 @@ namespace DutchTranslation
             On.Menu.MultiplayerMenu.ClearGameTypeSpecificButtons += MultiplayerMenu_ClearGameTypeSpecificButtons;
         }
 
-        public static bool IsDutchTitle;
-
-        public static Menu.MultiplayerMenu MultiMenu;
+        public static bool IsDutchTitle;        
         
         private static void ReplaceLandscapeTitles(On.Menu.MenuIllustration.orig_ctor orig, Menu.MenuIllustration self, Menu.Menu menu, Menu.MenuObject owner, string folderName, string fileName, Vector2 pos, bool crispPixels, bool anchorCenter)
         {
