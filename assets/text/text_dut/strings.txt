@@ -191,9 +191,9 @@ Yet another gift?|Alweer een geschenk?
 And you are back.|En je bent terug.
 A Helping Hand|Een Helpende Hand
 mod_menu_error|Gefaald om mods aan te brengen door de volgende fout:
-Garbage Wastes|Vuilnis Woestenij
+Garbage Wastes|Vuilniswoestenij
 Shaded Citadel|Verduisterd Citadel
-Chimney Canopy|Schoorsteen Daken
+Chimney Canopy|Schoorsteendaken
 Unknown Region|Onbekend Gebied
 Scavenger Toll|Schooier-Tol
 RESET PROGRESS|VOORTGANG RESETTEN
@@ -842,7 +842,7 @@ Allows Saint to be able to throw spears|Laat De Heilige speren gooien
 Workshop upload completed successfully!|Workshop upload succesvol afgerond!
 <CapPlayerName>! Stay still and listen.|<CapPlayerName>! Zit stil en luister.
 objecttype-Rock|Steen
-Drainage System|Afvoer Systeem
+Drainage System|Afvoersysteem
 History lessons|Geschiedenis lessen
 Change language|Taal veranderen
 Bind <X> button|Bind <X> knop
