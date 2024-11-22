@@ -4,7 +4,7 @@
 	"version": "0.5.0",
 	"hide_version": false,
 	"authors": "FletchyDaBirdro",
-	"description": "This is a Dutch translation of Rain World.",
+	"description": "A mod that translates the majority of the game to Dutch.<LINE><LINE>To use this, go to the Options menu and select \"Dutch\" as the language.",
 	"requirements": [],
 	"requirements_names": [],
 	"checksum_override_version": false,
