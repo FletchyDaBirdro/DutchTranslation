@@ -1,11 +1,11 @@
 sm3
 rv4
 
-After only a few minutes of waiting, you feel and hear an ominous rumbling.
-The slugcat springs back out of the puddle excitedly, a huge smile on their face.
-They are trailed by a monstrous mechanical beast larger than you've ever seen.
-You are not smiling.
-You are scared.
+Al na een paar minuten wachten, voel en hoor je een onheilspellend gerommel.
+De slakkat springt enthousiast uit het plasje, met een grote glimlach op hun gezicht.
+Het wordt gevolgd door een monsterlijk mechanisch beest dat groter was dan je ooit had gezien.
+Je bent niet aan het glimlachen.
+Je bent bang.
 
-Roll out of the way
+Rol uit de weg
 east_5b2.txt

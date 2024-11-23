@@ -1,14 +1,14 @@
 sm7
 bsm3m1
 
-"All we have at the moment are these marshmallows that Ruffles gathered last time they were out."
-You recoil at the food item.
-It's not one you're familiar with, and you're not sure what to make of it.
-"You can have some, we have plenty."
+"Het enige dat we op dit moment hebben zijn deze marshmallows die Rakker heeft verzameld de laatste keer dat het buiten was."
+Je deinst terug bij de aanblik van het voedsel.
+Het is niet iets waar je bekend mee bent, en je weet niet wat je ervan moet maken.
+"Je mag er wat van hebben, we hebben meer dan genoeg."
 
-Take the marshmallow
+Neem de marshmallow aan
 east_17a.txt
-Offer your egg
+Bied jouw ei aan
 east_18.txt
-Eat the glowy food instead
+Eet in plaats daarvan het gloeiende voedsel
 east_17b.txt

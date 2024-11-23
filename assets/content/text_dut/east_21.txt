@@ -1,12 +1,11 @@
 sm4
 bsm4
 
-She suddenly cracks the egg in half.
-A forceful suction begins that pulls the machine and all of the floating lights into it.
-As they collect into a central point, it's as if all of their
-lights begin to combine to create an increasingly blinding glow. 
-The suction only grows stronger, pulling the water, rocks and surrounding metal into it.
-You and your partner are caught up in this and get assimilated as well.
+Ze breekt het ei ineens in tweeen.
+Een krachtige zuigkracht begint die de machine en alle zwevende lichtjes erin trekt.
+Terwijl ze zich in een centraal punt verzamelen, het is alsof al hun lichtjes beginnen te combineren om een steeds fellere gloei te maken.
+De zuigkracht wordt alleen maar sterker, en trekt het water, de stenen en omliggend metaal in zich.
+Jij en jouw partner worden hierin meegesleept en worden ook erin opgenomen.
 
-Open your eyes
+Open je ogen
 east_22.txt

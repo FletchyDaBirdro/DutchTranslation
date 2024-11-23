@@ -1,10 +1,10 @@
 sm8
 rv4
 
-You're rapidly escorted along the surface of the water towards
-a towering monolith of a structure in the distance.
-The slugcat does not let up their energy as they take you inside the
-structure and you quickly weave through a maze of interior passages.
+Je wordt razendsnel over het oppervlak van het water geleid richting
+een torenhoge monoliet van een structuur in de verte.
+De slakkat raakt hun energie niet kwijt terwijl het jouw mee naar binnen de
+structuur neemt en je snel zigzagt door een doolhof van inwendige gangen.
 
-"ur mother lives here??"
+"jouw moeder woont hier??"
 east_11.txt

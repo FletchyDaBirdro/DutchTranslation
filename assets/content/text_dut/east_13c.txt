@@ -1,12 +1,12 @@
 sm3
 none
 
-You hop through the tunnel and crawl as fast as you can.
-This is the worst day of your life.
-How could you have made such a fool of yourself?
-You run and run, and don't ever look back.
+Je springt door de tunnel en kruipt zo snel als je kan.
+Dit is de ergste dag van jouw leven.
+Hoe had je jezelf zo voor paal kunnen zetten?
+Je rent en rent, en kijkt nooit meer terug.
 
-RESTART
+HERSTARTEN
 start.txt
 
 FADE

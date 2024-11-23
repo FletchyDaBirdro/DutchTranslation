@@ -1,11 +1,11 @@
 sm3
 rv2
 
-There's no way this advanced machine isn't already judging your intelligence.
-You're blowing this. How embarrassing.
-You need to find a way out.
-You turn and make a dash for the room's exit.
-"Hey!! Wait, where are you going?!" The other slugcat cries out behind you.
+Er is geen enkele mogelijkheid dat deze geavanceerde machine niet al jouw intelligentie aan het beoordelen is.
+Je bent dit aan het verzieken. Wat een vernedering.
+Je moet een weg hieruit vinden.
+Je draait je om en maakt een sprintje naar de uitgang van de kamer.
+"Hé!! Wacht, waar ga je naartoe?!" Roept de andere slakkat achter jou.
 
-Just keep running.
+Blijf gewoon door rennen.
 east_13c.txt

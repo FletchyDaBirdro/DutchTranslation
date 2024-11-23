@@ -1,12 +1,12 @@
 sm2
 rv1
 
-You still do not know what to make of this slugcat.
-Its body is blue and slimy and you do not feel particularly well about it.
-You would prefer to have a less hyperactive friend.
-You notice that it's watching you very carefully, as if it is waiting for a chance to pounce on you.
-You cannot help but feel that it is a little too friendly and you are not quite sure why.
-Perhaps it is just the effect of the creature's natural exuberance and you are over-thinking it.
+Je hebt nog steeds geen idee wat je van deze slakkat moet maken.
+Hun lichaam is blauw en slijmerig en je voelt je er niet bepaald goed bij.
+Je had liever een minder hyperactieve vriend gehad.
+Je merkt dat het jou heel zorgvuldig zit te bekijken, alsof het zit te wachten op een kans om jouw te bespringen.
+Je kan het niet laten om te denken dat het een klein beetje te vriendelijk is en je weet niet zeker waarom.
+Misschien is het gewoon het effect van het wezen's natuurlijke uitbundigheid en denk je er te veel over na.
 
-Break the silence.
+Breek de stilte.
 east_8.txt

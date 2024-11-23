@@ -1,12 +1,12 @@
 sm4
 sa3
 
-The slugcat settles the egg on the ground and stares at it with determination.
-"Let me take care of this. It'll all be over soon."
-They enter into a deep concentration, and begin to levitate slightly above the ground.
-A bright X-shaped light forms above their head, and then begins to travel towards the egg.
-As the light settles over the egg, it begins to grow increasingly brighter.
-Then in a quick culmination, the light is met with a deafening pang as it ruptures the egg.
+De slakkat legt het ei op de grond en staart ernaar met een gedetermineerde blik.
+"Laat mij dit maar regelen. Straks zal het allemaal voorbij zijn."
+Het begint zich diep te concentreren, en zweeft een klein stukje boven de grond.
+Een fel licht in de vorm van een X verschijnt boven hun hoofd, en maakt zijn weg richting het ei.
+Terwijl het licht boven het ei zweeft, begint het steeds feller en feller te worden.
+En dat resulteert in een oorverdovende pang als het het ei openscheurd.
 
-Cover your ears.
+Bedek jouw oren.
 down_c7.txt

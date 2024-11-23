@@ -1,11 +1,11 @@
 sm7
 bsm2
 
-"Oh, of course! It's been a while since I've cooked a proper meal!"
-The machine twirls around through the air excitedly.
-"With this egg we can make a classic, yet somewhat modern Slug Cake!"
-"u need more than an egg for that..." you say as you ponder the orbulus egg.
-"I can improvise. I'll have you know that I am a very capable cook!"
+"Oh, natuurlijk! Het is lang geleden sinds ik een degelijke maaltijd heb gekookt!"
+De machine danst enthousiast door de kamer.
+"Met dit ei kunnen we een klassieke, maar ook een beetje moderne Slakkencake maken!"
+"je hebt daar meer dan alleen ei voor nodig..." zeg je terwijl je over het bolvormige ei peinst.
+"Ik kan improviseren. Ik moet je laten weten dat ik een meer dan capabele kok ben!"
 
-"ok, good luck mom"
+"ok, veel geluk mama"
 east_20.txt

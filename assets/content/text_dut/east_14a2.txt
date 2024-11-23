@@ -1,14 +1,14 @@
 rv5b
 bsm3n
 
-"What, how can you not have a name?" Their mom seems astonished.
-"It's fine mom, don't be weird about it." The other slugcat interjects.
-"No, we need to give them a nickname. How about Sofanthiel?"
-"What?? Mom, what kind of name is that? That sounds dumb."
-"Okay, fine, what about Gorbo?"
-"Mom, you're like... the worst at coming up with names??"
-"Shhh, Ruffles, I'm trying to think here."
-"I told you not to call me that..."
+"Wat, hoe kun je geen naam hebben?" Hun moeder lijkt sprakeloos.
+"Het is oké mama, wees er niet raar om." Onderbreekt de andere slakkat.
+"Nee, we moeten hen een bijnaam geven. Wat dacht je van Sofanthiel?"
+"Wat?? Mama, wat voor soort naam is dat? Dat klinkt stom."
+"Oké, prima, wat dacht je van Gorbo?"
+"Mama, je bent echt… de slechtste in het bedenken van namen??"
+"Shhh, Rakker, ik probeer hier na te denken."
+"Ik zei toch dat je me niet zo moet noemen..."
 
-"uh, its okay, lets just get back on track..."
+"uh, 't is oké, laten we de draad weer oppakken..."
 east_15.txt

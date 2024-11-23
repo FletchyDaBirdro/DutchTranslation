@@ -1,8 +1,8 @@
 sm10
 bsm3
 
-"Ah, you would like me to read this? It's a bit dusty, but I will do my best. Hold on..."
-Their mother begins to explain the properties of the egg to you in excruciating detail.
+"Ah, wil je dat ik dit lees? Het is een beetje stoffig, maar ik zal mijn best doen. Wacht even..."
+Hun moeder begint de eigenschappen van het ei in pijnlijk detail aan jou uit te leggen.
 
-"wat?! no dont explain it, make food with it!!"
+"wat?! leg het nie uit, maak er eten van!!"
 east_19.txt

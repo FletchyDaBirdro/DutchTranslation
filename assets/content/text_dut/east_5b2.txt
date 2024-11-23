@@ -1,12 +1,12 @@
 sm5
 rv4
 
-You try to move, but the beast is practically as large as the entire interior of the cave.
-Its mechanical jaw crushes around you like a prison.
-The other slugcat slips out swiftly with a giggle,
-while the jaws clamp shut and shatter every bone in your body.
+Je probeert te bewegen, maar het beest is praktisch zo groot als de hele binnenkant van de grot.
+Hun mechanische kaak drukt om je heen als een gevangenis.
+De andere slakkat glipt er vlug tussenuit met een glimlach,
+terwijl de kaken dichtslaan en ieder bot in jouw lichaam verbrijzelen.
 
-RESTART
+HERSTARTEN
 start.txt
 
 FADE

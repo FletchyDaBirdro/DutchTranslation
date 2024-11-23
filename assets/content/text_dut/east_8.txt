@@ -1,13 +1,13 @@
 sm2
 rv2
 
-"umm, i should probably-"
-"So, anyway, if you're looking to date me, you need to meet my mother first."
-"what"
-"Sorry, it's a requirement. Do you want to go see her now?"
-"i... well... uh..."
+"umm, ik kan beter-"
+"Dus, als je met mij wilt daten, moet je eerst mijn moeder ontmoeten."
+"wat"
+"Sorry, het is een eis. Wil je haar nu zien?"
+"ik... nou... uh..."
 
-"yea sure i guess..."
+"ja zeker denk ik..."
 east_9a.txt
-"no i really gotta be going now..."
+"nee ik moe nu ech gaan..."
 east_9b.txt

@@ -1,15 +1,15 @@
 sm5
 bsm3m2
 
-You stick the marshmallow in your mouth, and it is immediately not what you were expecting.
-While it is soft and chewy like a good slime mold would be, it has an added layer of awful spice.
-It's actually so gross. Your entire mouth is on fire.
-As you swallow, you feel as if acid is running through your insides.
-You fall to the ground in pain. What did you just eat?!
-The world around you goes blurry as the fire rages inside.
-This will be your final meal.
+Je stopt de marshmallow in jouw mond, en meteen is het iets wat je niet had verwacht.
+Hoewel het zacht en taai is zoals een goede slijmschimmel zou zijn, heeft het een toegevoegde laag met verschrikkelijke pittigheid.
+Het is echt ranzig. Je hele mond staat in vuur en vlam.
+Terwijl je het doorslikt, voelt het alsof er zuur door je binnenste stroomt.
+Je klapt dubbel van de pijn. Wat had je zojuist gegeten?!
+De wereld om je heen wordt wazig terwijl het vuur binnen in je raast.
+Dit zal jouw laatste eetmaal zijn.
 
-RESTART
+HERSTARTEN
 start.txt
 
 FADE

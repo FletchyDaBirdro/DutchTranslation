@@ -1,15 +1,15 @@
 sm7
 bsm3n
 
-You question everything, was this a trap? Is this even a viable partner?
-There is no doubt in your mind now that the slugcat must be a construct,
-a programmed puppet controlled by her mother's voice.
-She is not truly alive in any way you can tell.
-This is simply the next generation of a very old tradition, using a new form of technology as a tool.
+Je betwijfeld alles, was dit een valstrik? Is dit wel een geschikte partner?
+Je twijfelt er niet aan dat de slakkat een construct moet zijn,
+een geprogrammeerde pop bestuurd door de stem van hun moeder.
+Voor zover je kan zien, is het niet echt in leven.
+Dit is simpelweg de volgende generatie van een eeuwenoude traditie, die een nieuwe soort technologie gebruikt als middel.
 
-"nice to meet u."
+"leuk u te ontmoeten."
 east_14a.txt
-"can u understand me?"
+"kunt u me verstaan?"
 east_13.txt
-"im lookin for a soulmate."
+"ik ben op zoek naar een zielsverwant."
 east_14b.txt

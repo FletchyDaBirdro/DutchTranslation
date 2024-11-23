@@ -5,7 +5,7 @@ $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 $$$$$$$$$$
 
-Accept your fate.
+Accepteer jouw lot.
 END
-Retry.
+Opnieuw proberen.
 start.txt

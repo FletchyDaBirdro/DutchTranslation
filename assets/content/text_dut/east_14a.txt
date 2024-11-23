@@ -1,11 +1,11 @@
 sm10
 bsm3
 
-The device floats over to you. "Oh, how sweet, nice to meet you too!~"
-It looks towards the other slugcat. "Is this your new friend? I always enjoy having more company."
-Their mom seems very polite. You feel a little more comfortable.
-"yea i think were dating now or something?"
-"How adorable! A new member of the family! What's your name?"
+Het apparaat zweeft dicht tegen jou aan. "Oh, wat aardig, ook leuk om jou te ontmoeten!~"
+Het kijkt naar de andere slakkat. "Is dit jouw nieuwe vriend? Ik vind het altijd leuk om meer gezelschap te hebben."
+Hun moeder lijkt erg attent. Je voelt je wat meer op je gemak.
+"ja ik denk dat we nu aan het daten zijn of zoiets?"
+"Wat schattig! Een nieuw lid in de familie! Wat is jouw naam?"
 
-"uh... i don't have a name..."
+"uh... ik heb geen naam..."
 east_14a2.txt

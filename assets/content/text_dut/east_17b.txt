@@ -1,13 +1,12 @@
 sm1
 bsm4
 
-"nah im good ill just take one of these."
-You jump up and grab one of the glowy food items floating in the air.
-Almost immediately as you touch it, your partner's mother lets out a
-guttural screech, piercing your eardrums.
-You don't know what's happening.
-You turn quickly to look back at the other slugcat in confusion,
-but they appear to be screaming as well.
+"nee bedankt ik neem wel een van deze."
+Je springt en en grijpt wat van het gloeiende eten dat in de lucht zweeft.
+Bijna precies op het moment dat je het aanraakt, laat de moeder van jouw partner een gutterale schreeuw horen die jouw trommelvliezen doet barsten.
+Je weet niet wat er loos is.
+Je draait je vlug om om verward naar de andere slakkat te kijken,
+maar het lijkt ook te schreeuwen.
 
-"uh did i do something wrong?"
+"uh heb ik iets verkeerds gedaan?"
 east_17b2.txt

@@ -1,14 +1,14 @@
 sm2
 rv4
 
-Without listening to your response, the gill-slugcat jumps up on top of you.
-"Mmwah! You smell so good; you are so, so good!"
-"woa, calm down... ur being obnoxious." you reply.
-It's not that you have anything against it per se,
-but this one just seems to be incredibly excited about you, and that makes you uncomfortable.
-"Are you afraid of me?" The blue creature asks.
+Zonder naar jouw antwoord te luisteren, springt de gekieuwde slakkat bovenop jou.
+"Mmwaa! Je ruikt zo goed; jij bent zo, zo goed!"
+"woa, effe dimmen... je bent irritant." antwoord je.
+Het is niet per se zo dat je er iets op tegen hebt,
+maar deze is zo opgewonden over jou, en dat maakt jou ongemakkelijk.
+"Ben je bang voor me?" Vraagt het blauwe wezen.
 
-"psh, no way, ur nothing"
+"pss, absoluut niet, jij bent niets"
 east_5.txt
-"yea a little"
+"ja een beetje"
 east_6.txt

@@ -1,11 +1,11 @@
 sm2
 none
 
-The gill-slugcat giggles and then suddenly jumps down into a small puddle of water and disappears.
-The cave becomes very quiet after that.
-You wonder if they're coming back or if maybe it didn't like your answer.
+De gekieuwde slakkat giegelt en springt dan ineens in een klein plasje water en verdwijnt.
+De grot wordt daarna erg stil.
+Je vraagt je af of het ooit nog terugkomt of dat het misschien jouw antwoord niet leuk vond.
 
-Chase after them
+Achtervolg hen
 east_5a.txt
-Wait.
+Wacht.
 east_5b.txt

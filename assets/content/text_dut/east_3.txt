@@ -1,12 +1,12 @@
 sm8
 rv4
 
-A creature suddenly springs out at an alarming speed.
-It's another slugcat like you, except blue colored with some kind of strange aquatic gills on their face.
-They jump up and down in excitement upon seeing you.
-"It's another slugcat! It's another slugcat!" It says, clearly an energetic one.
-It continues speaking excitedly.
-"Hwah! Another slugcat! Did you come here to scavenge materials too?!"
+Een wezen springt er opeens uit met een alarmerende snelheid.
+Het is een andere slakkat zoals jij, maar dan blauw gekleurd en met vreemde kieuwen aan hun gezicht.
+Het springt enthousiast op en neer zodra het jou ziet.
+"Een andere slakkat! Een andere slakkat!" zegt het, duidelijk een energiekeling.
+Het spreekt enthousiast verder.
+"Hwaa! Een andere slakkat! Kom je hier ook om materialen te scharrelen?!"
 
-"im scavenging for love <3"
+"ik ben aan het scharrelen voor liefde <3"
 east_4.txt

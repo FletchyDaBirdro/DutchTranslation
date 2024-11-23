@@ -1,16 +1,15 @@
 sm5
 rv3
 
-"STOP HURTING MY MOM!!" 
-The other slugcat skips across the surface of the water pool
-at a speed that should not be physically possible.
-Before you know it their hands are around your throat.
-They push you down under the water and hold you there.
-You struggle to get free, but there's no hope.
-The glow of the floating food items twinkle above the surface of the water, looking like stars.
-It's a beautiful final vision to end your journey on.
+"STOP MET MAMA PIJN TE DOEN!!"
+De andere slakkat springt over de oppervlak van het plasje met een snelheid die niet fysiek mogelijk zou moeten zijn.
+Voordat je het weet zitten hun handen om jouw keel.
+Het duwt jouw onder water en houdt jou daar.
+Je worstelt om vrij te komen, maar het is hopeloos.
+De gloei van het zwevende voedsel twinkelt als sterren boven het wateroppervlak.
+Het is een schitterende laatste beeld om jouw reis mee te beeindigen.
 
-RESTART
+HERSTARTEN
 start.txt
 
 FADE

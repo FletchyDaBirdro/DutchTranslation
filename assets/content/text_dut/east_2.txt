@@ -1,11 +1,10 @@
 sm1
 none
 
-You step into the entrance and make yourself comfortable.
-However, you begin to hear some noise.
-It sounds like someone is moving around and making sounds, but you cannot make
-out what it is because the noise is coming from further inside the cave. 
-You are uneasy and unsure of what to do.
+Je stapt naar binnen en maakt het jezelf gemakkelijk.
+Maar, je hoort wat geluid.
+Het klinkt alsof er iets rond beweegt en geluiden maakt, maar je kan niet uitmaken wat het is omdat het geluid van ergens dieper de grot uit komt.
+Je voelt je ongemakkelijk en weet niet wat je moet doen.
 
-Call out to them.
+Roep naar hen.
 east_3.txt

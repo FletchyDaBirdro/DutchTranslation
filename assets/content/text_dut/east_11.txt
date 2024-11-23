@@ -1,13 +1,13 @@
 sm7
 rv1
 
-"Yeah she's right in this next room!"
-You emerge into a large open metallic chamber, the floors of which are soaked with pools of water.
-A mechanical device floats around the chamber, gleaming with floating lights.
-You don't understand.
-"huh, where ur mom at??"
-"What do you mean, she's right there!"
-The slugcat excitedly points towards the floating device, then randomly does a backflip.
+"Ja ze zit hier in de volgende kamer!"
+Je komt uit in een grote open metalen kamer, waarvan de vloeren onder de plasjes water waren.
+Een mechanisch apparaat zweeft door de kamer, glinsterend met zwevende lichtjes.
+Je begrijpt het niet.
+"huh, waar is je moeder dan??"
+"Wat bedoel je, ze is daar!"
+De slakkat wijst enthousiast naar het zwevende apparaat, en doet dan een willekeurige.
 
-"wat do u mean??"
+"wat bedoel je??"
 east_12.txt

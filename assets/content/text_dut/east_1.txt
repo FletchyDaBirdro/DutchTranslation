@@ -1,10 +1,10 @@
 sm1
 none
 
-You travel to the east, to a large expanse of water littered with small islands 
-and outcroppings of industrial waste and the skeletons of civilizations long forgotten.
-When you arrive at this water's edge, you search around for a little while,
-and then you find a small cave that you think will make a suitable home for you.
+Je reist naar het oosten, naar een uitgestrekte watervlakte gevuld met kleine eilandjes
+en uitlopers van industrieel afval en de skeletten van lang vergeten beschavingen.
+Wanneer je bij de de waterkant aankomt, kijk je wat in het rond,
+en dan vind je een kleine grot waarvan je denkt dat het een geschikte thuisplaats voor jou zal zijn.
 
-Enter.
+Naar binnen gaan.
 east_2.txt
