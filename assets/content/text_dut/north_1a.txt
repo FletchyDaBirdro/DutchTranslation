@@ -1,9 +1,9 @@
 sm6
 sp2
 
-You decide to wait and watch it some more, as you're not too sure what to make of the creature. 
-It simply sits there and continues to generate more and more spikes out of its tail, building an arsenal of weaponry. 
-It must be preparing for a big hunt. A true survivor. You can't help but be impressed.
+Je besluit om te wachten en verder te kijken, omdat je niet zeker weet wat je van dit wezen moet maken.
+Het zit daar gewoon en blijft meer en meer stekels met hun staart maken, en maakt een heel wapenmagazijn.
+Het moet zich aan het voorbereiden zijn voor een grote jacht. Een ware overlever. Je kunt het niet laten om onder de indruk te zijn.
 
-Grab some spears to assist it in the hunt.
+Grijp een paar speren om het te assisteren in de jacht.
 north_1b.txt
