@@ -28,8 +28,7 @@ namespace DutchTranslation
         {
             TransLogger = base.Logger;
 
-            On.RainWorld.OnModsInit += RainWorld_OnOnModsInit;
-            On.RainWorld.OnModsDisabled += RainWorld_OnModsDisabled;
+            On.RainWorld.OnModsInit += RainWorld_OnOnModsInit;            
             GeneralStuff.ApplyILHook();            
         }        
         public void RainWorld_OnOnModsInit(On.RainWorld.orig_OnModsInit orig, global::RainWorld self)
@@ -61,11 +60,7 @@ namespace DutchTranslation
             {
                 orig.Invoke(self);
             }
-        }
-        public void RainWorld_OnModsDisabled(On.RainWorld.orig_OnModsDisabled orig, global::RainWorld self, global::ModManager.Mod[] newlyDisabledMods)
-        {
-            orig(self, newlyDisabledMods);                       
-        }
+        }       
 
         public void OnDestroy()
         {
