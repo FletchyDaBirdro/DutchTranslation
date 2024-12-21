@@ -1,5 +1,5 @@
 //Vanilla
-0Invert X|Spiegel X
+Invert X|Spiegel X
 Invert Y|Spiegel Y
 Champion|Kampioen
 NEW GAME|NIEUW SPEL
@@ -29,8 +29,8 @@ objecttype-FlareBomb|Flitsbom
 objecttype-DataPearl|Parel
 objecttype-JellyFish|Kwal
 objecttype-SlimeMold|Slijmschimmel
-objecttype-EggBugEgg|Eierdrager Ei
-objecttype-NeedleEgg|NoedelVlieg Ei
+objecttype-EggBugEgg|Eierdragerei
+objecttype-NeedleEgg|Noedelvliegei
 creaturetype-Slugcat|Slakkat
 creaturetype-Vulture|Gier
 creaturetype-CicadaA|Octocade
@@ -42,14 +42,14 @@ Stolen Enlightenment|Gestolen Verlichting
 Path of the pacifist|Pad van de pacifist
 The Saint-linebreaks|De Heilige
 switch_controls_jump|B-Knop
-Gametype description|Beschrijving speltype
+Gametype description|Beschrijving van het speltype
 Play each level once|Speel elk level een keer
 Normal Rain World AI|Normale Rain World KI
 for killing creature|voor het doden van wezens
 Persistent creatures|Hardnekkige wezens
 controller_reconnect|Herverbind de controller voor speler {0}.
 mod_menu_requirement|Benodigde aanvullende mods:
-mod_menu_ext_authors|Bekijk credits lijst for voor deze mod
+mod_menu_ext_authors|Bekijk de credits voor deze mod
 mod_menu_disable_all|Schakel alle mods uit
 Building token cache|Token cache bouwen
 OpCheckBox_MouseTuto|Druk om te schakelen
@@ -158,7 +158,7 @@ Again.|Alweer.
 *sigh*|*zucht*
 friend|vriend
 little|klein
-Clear the game as Survivor or Monk to unlock.|Voltooi het spel als De Overlever of De Monnik om te ontgrendelen.
+Clear the game as Survivor or Monk to unlock.|Voltooi het spel als De Overlever of De Monnik om dit te ontgrendelen.
 Objects can be picked up, carried, and tossed|Voorwerpen kunnen opgepakt, gedragen en gegooid worden
 Some small creatures can be eaten immediately|Sommige kleine wezens kunnen onmiddellijk worden opgegeten
 MenuModList_ModButton_Enable_NonMouse_Console|Druk op BEVESTIGEN om deze content in te schakelen, druk op RECHTS om terug naar de lijst te gaan
@@ -191,9 +191,9 @@ Yet another gift?|Alweer een geschenk?
 And you are back.|En je bent terug.
 A Helping Hand|Een Helpende Hand
 mod_menu_error|Gefaald om mods aan te brengen door de volgende fout:
-Garbage Wastes|Vuilnis Woestenij
+Garbage Wastes|Vuilniswoestenij
 Shaded Citadel|Verduisterd Citadel
-Chimney Canopy|Schoorsteen Daken
+Chimney Canopy|Schoorsteendaken
 Unknown Region|Onbekend Gebied
 Scavenger Toll|Schooier-Tol
 RESET PROGRESS|VOORTGANG RESETTEN
@@ -306,7 +306,7 @@ Press to join|Druk om mee te doen
 Repeat Rooms:|Herhaal Kamers:
 High wildlife|Hoog aantal wild
 for surviving|voor het overleven
-per spear hit|per geraakte speer
+per spear hit|per speertreffer
 Configuration|Configuratie
 HOLD TO START|HOUD INGEDRUKT OM TE STARTEN
 REGION SELECT|GEBIED SELECTEREN
@@ -354,9 +354,9 @@ A final charitable act|Een laatste liefdadigheid
 Path of self-sacrifice|Pad van zelfopoffering
 objecttype-VultureMask|Gierenmasker
 objecttype-DangleFruit|Blauwe Vrucht
-objecttype-KarmaFlower|Karma Bloem
+objecttype-KarmaFlower|Karmabloem
 objecttype-BubbleGrass|Bubbelwier
-creaturetype-RedLizard|Red Lizard
+creaturetype-RedLizard|Rode Hagedis
 creaturetype-PoleMimic|Paal Plant
 creaturetype-MirosBird|Mirosvogel
 creaturetype-Centipede|Duizendpoot
@@ -391,7 +391,7 @@ Quieter gates/shelters|Zachtere poorten/schuilplaatsen
 Faster shelter opening|Sneller schuilplaatsen openen
 Pull spears from walls|Trek speren uit muren
 Unlock all collections|Ontgrendel alle collecties
-expedition-description|Zet uit op een Expeditie in deze uitdagende nieuwe spelmodus. Compleet willekeurige uitdagingen terwijl je perma dood vermijdt en werk aan het ontgrendelen van nieuwe handige voordelen, straffende lasten, en muziektracks om naar te luisteren in de Jukebox.
+expedition-description|Zet uit op een Expeditie in deze uitdagende nieuwe spelmodus. Compleet willekeurige uitdagingen terwijl je perma dood vermijdt en werkt aan het ontgrendelen van nieuwe handige voordelen, straffende lasten, en muziek om naar te luisteren in de Jukebox.
 Please leave me alone.|Laat me alsjeblieft alleen.
 That... Oh, thank you.|Dat... Oh, dank je.
 ...don't... come back.|...kom... niet terug.
@@ -504,7 +504,7 @@ Great strides have been made|Grote vorderingen zijn gemaakt
 Complete the Scholar passage|Compleet de Leergierige doorgang
 Complete the Pilgrim passage|Compleet de Pelgrim doorgang
 creaturetype-BrotherLongLegs|Broeder Hooiwagen
-creaturetype-SmallNeedleWorm|Noedelvlieg Larve
+creaturetype-SmallNeedleWorm|Noedelvliegnimf
 Press any button to continue|Druk op iedere knop om verder te gaan
 A Bell, Eighteen Amber Beads|Een Bel, Achttien Amber Kralen
 Two Sprouts, Twelve Brackets|Twee Scheuten, Twaalf Steunen
@@ -653,7 +653,7 @@ objecttype-SSOracleSwarmer|Zenuwcel
 objecttype-OverseerCarcass|Overzichter's Oog
 creaturetype-DaddyLongLegs|Vader Hooiwagen
 creaturetype-TentaclePlant|Monsterkelp
-creaturetype-SpitterSpider|Spuug Spin
+creaturetype-SpitterSpider|Spuugspin
 creaturetype-BigNeedleWorm|Noedelvlieg
 Briefly tap DOWN to crouch|Druk kort op OMLAAG om te bukken
 Double tap to switch hands|Druk twee keer om van handen te wisselen
@@ -842,7 +842,7 @@ Allows Saint to be able to throw spears|Laat De Heilige speren gooien
 Workshop upload completed successfully!|Workshop upload succesvol afgerond!
 <CapPlayerName>! Stay still and listen.|<CapPlayerName>! Zit stil en luister.
 objecttype-Rock|Steen
-Drainage System|Afvoer Systeem
+Drainage System|Afvoersysteem
 History lessons|Geschiedenis lessen
 Change language|Taal veranderen
 Bind <X> button|Bind <X> knop
@@ -869,12 +869,12 @@ creaturetype-EggBug|Eierdrager
 The Monk-linebreaks|De Monnik
 Speedrun Validation|Speedrun Validatie
 switch_controls_map|R Knop
-Showing level names|Level names bekijken
+Showing level names|Level namen aan het bekijken
 ps4_region_map_help|Druk op R1 om de regionale kaart te bekijken
 Successful cycles :|Succesvolle cyclussen :
 Helped Five Pebbles|Vijf Kiezels geholpen
 New arenas unlocked|Nieuwe arenas ontgrendeld
-mod_menu_apply_mods|Mod veranderingen aanbrengen, even geduld...
+mod_menu_apply_mods|Mod veranderingen aan het aanbrengen, even geduld...
 mod_menu_enable_all|Schakel alle mods in
 Creating index maps|Index kaarten maken
 OpDragger_MouseTuto|Houd de muisknop ingedrukt en sleep omhoog of omlaag om de waarde aan te passen
@@ -884,7 +884,7 @@ Hunter Bonus Cycles|De Jager's Bonus Cyclussen
 Visual breath meter|Zichtbare luchtmeter
 Scavenger headshots|Schooier headshots
 NONE (User Defined)|GEEN (User Defined)
-rwremix-description|Een grote variatie aan configurabele toegankelijkheids- en community aangevraagde functies, inclusief nieuwe gameplay mechanieken en bonus functies. Gebruik het configuratiescherm om individuele functies aan en uit te zetten.
+rwremix-description|Een grote variatie aan configurabele toegankelijkheids- en door de community aangevraagde functies, inclusief nieuwe spelmechanieken en bonusfuncties. Gebruik het configuratiescherm om individuele functies aan en uit te zetten.
 Hello <PlayerName>.|Hallo <PlayerName>.
 still, very... bad.|nog steeds, erg... slecht.
 I will take a look.|Ik zal een kijkje nemen.
@@ -949,7 +949,7 @@ Right|Rechts
 Cross|Kruis
 Space|Spatie
 Shift|Shift
-PLAY!|SPEEL!
+PLAY!|SPELEN!
 Play!|Speel!
 ERROR|ERROR
 SCORE|SCORE
@@ -1147,7 +1147,7 @@ Limit exceeded. You may need to reduce the filesize or remove prior workshop con
 A little animal, on the floor of my chamber. I think I know what you are looking for.|Een klein dier, op de vloer van mijn kamer. Ik denk dat ik weet waar je naar zoekt.
 Really exit? Note that quitting after 30 seconds into a cycle counts as a loss.|Het spel echt verlaten? Houd er rekening mee dat stoppen nadat er 30 seconden in een cyclus voorbij zijn, telt als een verlies.
 You get these at Five Pebbles'?<LINE>Thank you so much. I'm sure he won't mind.|Vond je deze bij Vijf Kiezels?<LINE>Dank je wel. Ik weet zeker dat hij dat niet erg vindt.
-Create custom scenarios using levels, items and creatures<LINE>that have been unlocked in the single player campaigns.<LINE>Defeating creatures or other actions can be set to award points,<LINE>but Sandbox is mostly about customization and fun!|Creëer aangepaste scenario's met levels, voorwerpen en wezens<LINE>die zijn ontgrendeld in de verhaal campagnes.<LINE>Het verslaan van wezens of andere acties kan ingesteld worden om punten toe te reiken,<LINE>maar Sandbox gaat vooral om de aanpasbaarheid en plezier!
+Create custom scenarios using levels, items and creatures<LINE>that have been unlocked in the single player campaigns.<LINE>Defeating creatures or other actions can be set to award points,<LINE>but Sandbox is mostly about customization and fun!|Creëer aangepaste scenario's met levels, voorwerpen en wezens<LINE>die zijn ontgrendeld in de verhaalcampagnes.<LINE>Het verslaan van wezens of andere acties kan ingesteld worden om punten toe te reiken,<LINE>maar Sandbox gaat vooral om de aanpasbaarheid en plezier!
 For you though, there is another way. The old path. Go to the west past the Farm Arrays, and then down into the earth<LINE>where the land fissures, as deep as you can reach, where the ancients built their temples and danced their silly rituals.|Maar voor jou is er een andere manier. De oude manier. Ga naar het westen langs de Akkerrijen, en dan diep in de aarde<LINE>waar het land openscheurt, zo diep als je kan reiken, waar de Ouden hun tempels bouwden en hun dwaze rituelen dansten.
 Compete in a battle against each other and the elements.<LINE>In this mode points are awarded for food items consumed,<LINE>with surviving players always ranking above dead players.<LINE>New levels, items and creatures can be unlocked in the<LINE>single player campaigns.|Ga de strijd aan in een gevecht tegen elkaar en de elementen.<LINE>In deze modus worden punten toegekend voor geconsumeerde voedselpunten,<LINE>waar overlevende spelers altijd hoger in de ranglijst komen dan dode spelers.<LINE>Nieuwe levels, voorwerpen en wezens kunnen worden ontgrendeld in de<LINE>verhaal campagnes.
 No items except what you place in the editor|Geen voorwerpen behalve hetgene dat geplaatst wordt in de editor
@@ -1170,7 +1170,7 @@ And this one is fresh! It was not long ago this data was written to it!|En deze 
 Please sign in to PlayStation™Network to view leaderboards.|Log in op het PlayStation™Network om Leiderborden te zien.
 Progress towards Trophies will only be tracked for player 1|Voortgang voor Trofeeën wordt alleen bijgehouden voor Speler 1
 This may SIGNIFICANTLY alter your experience with the game.|Dit kan je ervaring met het spel AANZIENLIJK veranderen.
-(Normally requires completing previous campaigns to unlock)|(Benodigt normaal gesproken dat vorige campagnes compleet zijn om te ontgrendelen)
+(Normally requires completing previous campaigns to unlock)|(Benodigt normaal gesproken dat vorige campagnes compleet zijn om dit te ontgrendelen)
 Stop doing... this, or I... will not speak... to you again.|Stop met... dat, of ik... zal niet meer... met je spreken.
 You have been signed out from PlayStation™Network. Please connect to PlayStation™Network to view Leaderboards.|Je bent uitgelogd van het PlayStation™Network. Verbind met het PlayStation™Network om Leiderborden te zien.
 Items that typically attach to the terrain with a stem will spawn with their stems when placed in Sandbox mode|Voorwerpen dat typisch gezien vastzitten aan het terrein met een stengel zullen daarmee verschijnen als ze geplaatst worden in de Sandbox modus
@@ -1337,7 +1337,7 @@ Take your offspring with you.|Neem je kroost met je mee.
 Too... broken...|Te... kapot...
 The Rot (Depths)|De Rot (Dieptes)
 Silent Construct|Stille Constructie
-Windswept Spires|Windstrekende Spitsen
+Windswept Spires|Winderige Spitsen
 Hold to view map|Ingedrukt houden om de kaart te bekijken
 Parry ## attacks|Blokkeer ## aanvallen
 Met Five Pebbles|Ontmoette Vijf Kiezels
@@ -1405,7 +1405,7 @@ Keep your family safe!|Hou je familie veilig!
 ...Go find... shelter.|...Ga terug… naar thuis.
 Assets and content by:|Assets en inhoud door:
 Leave me alone...|Laat me alleen...
-creaturetype-Yeek|Yeek
+creaturetype-Yeek|Pieper
 Forgotten Conduit|Vergeten Pijpen
 Frosted Cathedral|Bevroren Kathedraal
 Glacial Wasteland|IJskoude Woestenij
@@ -1413,9 +1413,9 @@ Ancient Labyrinth|Eeuwenoud Labyrinth
 Put a ## in a den|Stop een ## in een schuilplaats
 ...Nice to see...|...Leuk je te zien...
 ...Cold coming...|...Er komt vorst...
-Stop! Stop giving me your junk!|Stop! Stop me jouw rotzooi te geven!
-Facility Roots (Western Intake)|Faciliteits Wortelen (Westerse Inname)
-Clear the game as ## to unlock.|Voltooi het spel als ## om te ontgrendelen.
+Stop! Stop giving me your junk!|Hou! Hou op met mij jouw rotzooi te geven!
+Facility Roots (Western Intake)|Faciliteitswortelen (Westerse Inname)
+Clear the game as ## to unlock.|Voltooi het spel als ## om dit te ontgrendelen.
 ...why did you... save... me...|...waarom heb je... me... gered...
 Where do you find all of these?|Waar vind je dit allemaal?
 Let us see what you have found.|Laten we eens zien wat je hebt gevonden.
@@ -1426,9 +1426,9 @@ Korean translation by topicular|Koreaanse vertaling door topicular
 Leave me alone! You terrible creature!|Laat me alleen! Jij verschrikkelijk wezen!
 Pups can now be found in Sandbox Mode.|Welpen kunnen nu gevonden worden in de Sandbox Modus.
 Cold... You better go. I will be fine.|Kou... Je kunt beter gaan. Ik red me wel.
-The storm is coming. You should leave.|De stortbui komt eraan. Je kunt beter hier weg komen.
+The storm is coming. You should leave.|De sneeuwstorm komt eraan. Je kunt beter hier weg komen.
 We have read this one, little creature.|We hebben dit gelezen, klein wezen.
-Clear the game as <X> or <Y> to unlock.|Eindig het spel als <X> of <Y> om te ontgrendelen.
+Clear the game as <X> or <Y> to unlock.|Eindig het spel als <X> of <Y> om dit te ontgrendelen.
 Is that something new? Allow me to see.|Is dat iets nieuws? Laat me eens zien.
 Special button interactions:|Speciale knop interacties:
 Auxiliary Transmission Array|Ondersteunende Transmissie Opstelling
@@ -1445,7 +1445,7 @@ Hold Pick Up with an empty hand to generate a spear|Houd Oppakken ingedrukt met 
 This is not a request. I have important work to do.|Dit is geen vraag. Ik heb belangrijk werk te verrichten.
 Press throw with empty hands to extend your tongue|Druk op Gooien met lege handen om je tong uit te rekken
 Hold Pick Up to move a spear to and from your back|Houd Oppakken ingedrukt om een speer op je rug te plaatsen en er van af te halen
-Undelete the challenge you just deleted to unlock.|Onverwijder de uitdaging die je zojuist verwijderde om te ontgrendelen.
+Undelete the challenge you just deleted to unlock.|Onverwijder de uitdaging die je zojuist verwijderde om dit te ontgrendelen.
 Hello again. I hope you have a reason to visit me.|Hallo alweer. Ik hoop dat je een reden hebt om me te bezoeken.
 Tap Pick up and Jump together to take flight|Druk tegelijkertijd op Oppakken en Springen om te vliegen
 You better go, <PlayerName>! I will be fine.|Je moet een schuilplaats gaan zoeken, <PlayerName>! Maak je maar geen zorgen over mij.
@@ -1454,7 +1454,7 @@ Hold Pick Up while holding up to combine two differing items|Houd Oppakken en Om
 Try using your weight in creative ways to gain an advantage.|Probeer je gewicht op creatieve manieren in je voordeel te gebruiken.
 Oh? What have you found this time? Let's see what it says...|Oh? Wat heb je deze keer gevonden? Laten we eens lezen wat erop staat...
 Hold Pick Up to regurgitate a random item|Houd Oppakken ingedrukt om een willekeurig voorwerp uit te spugen
-Clear a total of ## challenges to unlock.|Voltooi een totaal van ## uitdagingen om te ontgrendelen.
+Clear a total of ## challenges to unlock.|Voltooi in totaal van ## uitdagingen om dit te ontgrendelen.
 There's not a lot of time. You should go!|Er is geen tijd meer. Je moet gaan!
 Take your offspring with you when you go.|Neem je kroost mee als je gaat.
 Have you brought something new this time?|Heb je deze keer iets nieuws meegebracht?
@@ -1481,9 +1481,9 @@ Get... get away... round.... thing.|Ga... ga weg... rond.... ding.
 Wait, please don't leave with that!|Wacht, je kunt daar niet mee weggaan!
 ...Friend... please find... safety.|...Vriend... breng jezelf alsjeblieft... in veiligheid.
 Looks to the Moon (Vents)|Kijkt naar de Maan (Uitlaten)
-creaturetype-MirosVulture|Miros Gier
-creaturetype-MotherSpider|Moeder Spin
-objecttype-DandelionPeach|Paardenbloem Perzik
+creaturetype-MirosVulture|Mirosgier
+creaturetype-MotherSpider|Moederspin
+objecttype-DandelionPeach|Perzikpluim
 Unknown Pearl Contents...|Onbekende Parel Inhoud...
 ## without anything dying|## zonder dat iets sterft
 Arena character unlocked:|Arena personage ontgrendelt:
@@ -1513,8 +1513,8 @@ What are you doing?|Wat ben je aan het doen?
 ...All I... have...|...Alles wat... ik heb...
 ...Bring it back...|...Breng het terug...
 creaturetype-SpitLizard|Karamel Hagedis
-creaturetype-ZoopLizard|Aardbeien Hagedis
-Warp to random creature|Teleporteer naar willekeurig wezen
+creaturetype-ZoopLizard|Aardbei Hagedis
+Warp to random creature|Teleporteer naar een willekeurig wezen
 Are you not interested?|Ben je niet geïnteresseerd?
 What a dumb creature...|Wat een dom wezen...
 creaturetype-TerrorLongLegs|Horrorwagen
@@ -1536,7 +1536,7 @@ That can't be good...|Dat kan niet goed zijn...
 ...No, don't... take!|...Nee, neem dat... niet!
 ...Give it... back...|...Geef het... terug...
 ...Leave me... alone.|...Laat me... alleen.
-objecttype-FireEgg|Vuur Ei
+objecttype-FireEgg|Vuurei
 [ No Data Loaded ]|[ Geen Data Geladen ]
 Kill all creatures|Dood alle wezens
 Friends sheltered:|Vrienden in schuilplaats:
@@ -1565,7 +1565,7 @@ Swap Heads|Wissel van Hoofden
 Camouflage|Camouflage
 Time Limit|Tijdslimiet
 ## Seconds|## Seconden
-Acceptance|Acceptie
+Acceptance|Aanvaarding
 The Martyr|De Lijder
 The Mother|De Moeder
 GET OUT!|GA WEG!
@@ -1626,11 +1626,11 @@ Water Jet|Water Straal
 Spray Ink|Inkt Sproeien
 Creatures|Wezens
 The Nomad|De Nomade
-Clear the game as Gourmand, Artificer, or Hunter to unlock.|Voltooi het spel als De Bourgondiër, De Schepper of De Jager om te ontgrendelen.
+Clear the game as Gourmand, Artificer, or Hunter to unlock.|Voltooi het spel als De Bourgondiër, De Schepper of De Jager om dit te ontgrendelen.
 Hold the EAT button while a stunned creature is being held.|Houd de Eten knop ingedrukt terwijl je een verlamt wezen vasthoudt.
 The Rarefaction Cell item is now available in Sandbox Mode.|De Verdunningscel is nu beschikbaar in de Sandbox Modus.
 Little messenger, we do not have much time. You must hurry!|Kleine boodschapper, we hebben niet veel tijd. Je moet opschieten!
-Clear the game as Rivulet and Spearmaster to unlock.|Voltooi het spel als De Waterrat en De Speermeester om te ontgrendelen.
+Clear the game as Rivulet and Spearmaster to unlock.|Voltooi het spel als De Waterrat en De Speermeester om dit te ontgrendelen.
 Breathes underwater, and moves through the world with ease. These adaptations are essential,<LINE>as you'll be pitted against a world of increasingly frequent floods, where time is of the essence.|Ademt onderwater en beweegt zich moeiteloos door de wereld. Deze aanpassingen zijn essentieel<LINE>in een wereld van steeds vaker voorkomende vloedgolven, waar tijd kostbaar is.
 A fierce combatant, master of pyrotechnics and explosives. Keen to move up in<LINE>the foodchain, your journey will surely be one lined with constant bloodshed and warfare.|Een pittige vechter, meester van pyrotechnieken en explosieven. Gericht op het verhogen van de plek in<LINE>de voedselketen, jouw reis zal er een zijn van constant bloedvergiet en geweld.
 Frail and armed with a long tongue. Your journey will be one of perfect enlightenment,<LINE>but walking this path requires patience, caution, and complete attunement with the world.|Zwak en gewapend met een lange tong. Jouw reis zal er een van perfecte verlichting zijn,<LINE>maar dit pad vergt geduld, voorzichtigheid en een complete afstemming op de wereld.
@@ -1644,7 +1644,7 @@ The Rifle item is now available in Sandbox Mode.|Het Geweer voorwerp is nu besch
 How cute, you brought your family, <PlayerName>?|Wat schattig, je hebt een kindje meegenomen, <PlayerName>.
 12th Council Pillar, the House of Braids|12de Raadspilaar, Huis der Vlechten
 Pups can now be found in some campaigns.|Welpen kunnen nu gevonden worden in sommige campagnes.
-Ah, you have found me something to read?|Ah, you have found me something to read?
+Ah, you have found me something to read?|Ah, heb je iets voor me gevonden om te lezen?
 Oh... Please be careful on your journey.|Wees alsjeblieft voorzichtig tijdens je reis.
 Please, a moment of your time to finish?|Alsjeblieft, een beetje van je tijd om dit af te maken?
 Primary Cortex|Primaire Cortex
@@ -1656,8 +1656,8 @@ Challenge #<X>|Uitdaging #<X>
 Gain ## points|Verdien ## punten
 it... hurts...|het... doet pijn...
 Let me finish.|Laat me uitpraten.
-Revisit regions that were explored in the single player campaigns,<LINE>this time as an outside observer that watches the ecosystem<LINE>unfold, uninterrupted by the antics of the player.|Hervisiet gebieden die je tijdens de verhaal campagnes hebt ontdekt,<LINE>deze keer als een buitenstaander die toe kijkt hoe de ecosysteem<LINE>ontbloeit, ongestoord door de antics van de speler.
-Try to meet the win requirements on a series of pre-constructed arena<LINE>scenarios. More challenges will be unlocked as progression is made by<LINE>clearing the single player campaigns.|Probeer de win-benodigdheden van een serie van voorgebouwde arena<LINE>scenario's. Meer uitdagingen worden ontgrendeld wanneer je voortgang boekt bij<LINE>het eindigen van verhaal campagnes.
+Revisit regions that were explored in the single player campaigns,<LINE>this time as an outside observer that watches the ecosystem<LINE>unfold, uninterrupted by the antics of the player.|Hervisiet gebieden die je tijdens de verhaalcampagnes hebt ontdekt,<LINE>deze keer als een buitenstaander die toe kijkt hoe het ecosysteem<LINE>zich ontbloeit, ongestoord door de capriolen van de speler.
+Try to meet the win requirements on a series of pre-constructed arena<LINE>scenarios. More challenges will be unlocked as progression is made by<LINE>clearing the single player campaigns.|Probeer de win-benodigdheden van een serie van voorgebouwde arena<LINE>scenario's te behalen. Meer uitdagingen worden ontgrendeld wanneer je voortgang<LINE>boekt bij het voltooien van verhaalcampagnes.
 While in the air, tap jump and pick-up together to activate karmic enlightenment.|Terwijl je in de lucht bent, druk tegelijkertijd op Springen en Oppakken om karmische verlichting te activeren.
 While in the air, press jump and pick-up together, to propel yourself explosively.|Terwijl je in de lucht bent, druk tegelijkertijd op Springen en Oppakken om jezelf explosief voort te stuwen.
 Tap the throw button to extend your tongue. Press jump while attached to let go.|Druk op Gooien om je tong uit te rekken. Druk op Springen terwijl je vastzit om los te laten.
@@ -1771,7 +1771,7 @@ Monster Kelp|Monster Kelp
 Lantern Mice|Lantaarn Muizen
 LEVEL <next>|LEVEL <next>
 Vulture Mask|Gierenmasker
-Karma Flower|Karma Bloem
+Karma Flower|Karmabloem
 High Agility|Hoge Wendbaarheid
 Perk: <perk>|Voordeel: <perk>
 Birdwatching|Vogelspotten
@@ -1786,7 +1786,7 @@ White Cicadas|Witte Octocades
 Black Cicadas|Zwarte Octocades
 King Vultures|Gieren Koningen
 Large Spiders|Wolfspinnen
-Stowaway Bugs|Stowaway
+Stowaway Bugs|Landpokken
 common pearls|gewone parels
 Item Crafting|Voorwerp Maken
 Vulture Masks|Gierenmaskers
@@ -1814,8 +1814,8 @@ Centiwings|Zwevendpoten
 Tube Worms|Grijpwormen
 Leviathans|Leviathans
 Inspectors|Inspecteurs
-Back Spear|Rug Speer
-Joke Rifle|Joke Geweer
+Back Spear|Rugspeer
+Joke Rifle|Grappen Geweer
 AVAILABLE:|BESCHIKBAAR:
 Puff Balls|Spoordonzen
 CHALLENGES|UITDAGINGEN
@@ -1874,9 +1874,9 @@ You feel the presence of a vista . . .|Je voelt de aanwezigheid van een vista . 
 <region> pearl delivered to <iterator>|<region> parel geleverd aan <iterator>
 Reach the vista point in <region_name>|Bereik het vista punt in <region_name>
 E X P E D I T I O N    C O M P L E T E|E X P E D I T I E    V O L T O O I D
-<Unlocked> of <Max> Tracks Unlocked|<Unlocked> van <Max> Tracks Ontgrendeld
+<Unlocked> of <Max> Tracks Unlocked|<Unlocked> van de <Max> Nummers Ontgrendeld
 NEW!|NIEUW!
-Yeek|Yeek
+Yeek|Piepers
 EXIT|VERLATEN
 EASY|MAKKELIJK
 HARD|MOEILIJK
@@ -1892,30 +1892,30 @@ This quest has been completed|Deze streeftocht is voltooid
 Total Points Earned: <points>|Totaal Aantal Punten Verdiend: <points>
 Yellow Lizards|Gele Hagedissen
 Red Centipedes|Rode Duizendpoten
-Miros Vultures|Miros Gieren
-Mother Spiders|Moeder Spinnen
+Miros Vultures|Mirosgieren
+Mother Spiders|Moederspinnen
 Slugcat Select|Slakkat Selecteren
 colored pearls|gekleurde parels
 Explosive Jump|Explosieve Sprong
 Scavenger Bomb|Granaat
 Electric Spear|Schokspeer
-Neuron Gifting|Zenuwcel Levering
-Pearl Delivery|Parel Levering
-Pearl Hoarding|Parel Verzamelen
+Neuron Gifting|Zenuwcel Schenken
+Pearl Delivery|Parels Bezorgen
+Pearl Hoarding|Parels Verzamelen
 Vista Visiting|Vista Bezoeken
-Scavenger Hunt|Schooier Jacht
+Scavenger Hunt|Schooierjacht
 Challenge list|Uitdagingslijst
 Total: <total>|Totaal: <total>
 SLUGCAT SELECT|SLAKKAT SELECTEREN
 NEW BEST TIME:|NIEUWE BESTE TIJD:
 Red Lizards|Rode Hagedissen
-Pole Mimics|Paal Planten
-Miros Birds|Miros Vogels
+Pole Mimics|Paalplanten
+Miros Birds|Mirosvogels
 Eel Lizards|Aalgedissen
 Progression|Voortgang
-Neuron Glow|Zenuwcel Gloei
-Flare Bombs|Flits Bommen
-Cycle Score|Cyclus Score
+Neuron Glow|Zenuwcelgloei
+Flare Bombs|Flitsbommen
+Cycle Score|Cyclusscore
 UNLOCKABLES|Ontgrendelbaren
 EXPEDITIONS|EXPEDITIES
 Small Centipedes|Kleine Duizendpoten
@@ -1928,7 +1928,7 @@ Points: <points>|Punten: <points>
 Burden: <burden>|Last: <burden>
 Creature Hunting|Jagen
 CHALLENGE FILTER|UITDAGINGSFILTER
-GAMEPLAY CHANGES|SPEL VERANDERINGEN
+GAMEPLAY CHANGES|VERANDERINGEN AAN HET SPEL
 CHALLENGE SELECT|UITDAGING SELECTEREN
 Spitter Spiders|Spuugspinnen
 Daddy Long Legs|Vader Hooiwagens
@@ -1940,7 +1940,7 @@ Enable Passages|Schakel Doorgangen In
 Slugcat: <slug>|Slakkat: <slug>
 Scavenger Bombs|Granaten
 Item Collecting|Voorwerpen Verzamelen
-Nature's Friend|Natuur's Vriend
+Nature's Friend|Dierenvriend
 Hunter Gatherer|Jager Verzamelaar
 Change of Heart|Ommezwaai
 Strawberry Lizards|Aardbei Hagedissen
@@ -1954,21 +1954,21 @@ ps4_expedition_core_description|Rain World Expeditie Kerngegevens
 ps4_save_expedition_core_failed|Error bij het opslaan van Expeditie kerngegevens.
 ps4_load_expedition_core_failed|Expeditie kerngegevens zijn beschadigd en zullen worden verwijderd.
 Earn <achievement_name> passage|Verdien <achievement_name> doorgang
-Plays unlocked tracks at random|Speelt willekeurig ontgrendelde tracks af
+Plays unlocked tracks at random|Speelt willekeurig ontgrendelde nummers af
 ps4_save_expedition_core_failed_free_space|Error bij het opslaan van Expeditie kerngegevens. Niet genoeg vrije ruimte. Wil je het opnieuw proberen?
 Start the expedition with a Scavenger Bomb|Begin de expeditie met een Granaat
-With no unique skills to boast about, The Survivor embarks on an<LINE>Expedition to test their resolve|Zonder unieke vaardigheden om over op te scheppen, gaat De Overlever op een<LINE>Expeditie om hun vastberadenheid te testen
-Attuned with nature and empathetic to its inhabitants, The Monk departs<LINE>to find their place in the world|In toon met de natuur en empatisch naar haar bewoners vertrekt De Monnik<LINE>om hun plek in de wereld te vinden
-Opens the challenge filter menu, allowing you to toggle which types of challenges can appear when re-rolling.|Opent het uitdagingsfilter menu, die je laat kiezen welke soort uitdagingen kunnen verschijnen bij het herrollen.
-Dextrous and handy with a spear, The Hunter sets forth once again<LINE>into a world of danger|Handig met een speer, zet De Jager nog eens uit<LINE>in een wereld vol gevaar
+With no unique skills to boast about, The Survivor embarks on an<LINE>Expedition to test their resolve|Zonder unieke vaardigheden om over op te scheppen,<LINE>gaat De Overlever op een Expeditie om hun vastberadenheid te testen
+Attuned with nature and empathetic to its inhabitants, The Monk departs<LINE>to find their place in the world|In toon met de natuur en empatisch naar haar bewoners<LINE>vertrekt De Monnik om hun plek in de wereld te vinden
+Opens the challenge filter menu, allowing you to toggle which types of challenges can appear when re-rolling.|Opent het uitdagingsfiltermenu, die je laat kiezen welke soort uitdagingen kunnen verschijnen bij het herrollen.
+Dextrous and handy with a spear, The Hunter sets forth once again<LINE>into a world of danger|Handig met een speer, zet De Jager<LINE>nog eens uit in een wereld vol gevaar
 A brave explorer, hungry for their next adventure, or perhaps<LINE>their next meal|Een dappere ontdekker die smult naar hun volgende avontuur, of misschien wel<LINE>hun volgende maaltijd
-An explosive fighter and combat expert, The Artificer journeys once<LINE>again into the unknown|Als explosieve gevechts expert, reist De Schepper opnieuw<LINE>in het onbekende
-A spear expert forced to fight to survive, their Expedition is<LINE>sure to be one fraught with peril|Als speer expert die gedwongen is om te vechten om te overleven, zal hun Expeditie<LINE>er zeker een vol periel zijn
-Extremely agile and an adept swimmer, The Rivulet speeds<LINE>towards their goal out of necessity|Zeer wendbaar en een geboren zwemmer, haast De Waterrat<LINE>zich naar hun doel uit noodzaak
+An explosive fighter and combat expert, The Artificer journeys once<LINE>again into the unknown|Een explosieve gevechtsexpert,<LINE>De Schepper vertrekt opnieuw naar het onbekende
+A spear expert forced to fight to survive, their Expedition is<LINE>sure to be one fraught with peril|Een speerexpert die gedwongen is om te vechten om te overleven.<LINE>Hun Expeditie zal er zeker een vol periel zijn
+Extremely agile and an adept swimmer, The Rivulet speeds<LINE>towards their goal out of necessity|Zeer wendbaar en een geboren zwemmer. De Waterrat haast<LINE>zich naar hun doel uit noodzaak
 Start the expedition with a Scavenger Bomb, a potential head start for combat related challenges.|Begin de expeditie met een Granaat, een potentiële voorsprong voor gevechts gerelateerde uitdagingen.
-A pacifist at heart, The Saint endures the bitter cold and searches<LINE>for their purpose|Een ware pacifist, De Heilige doorstaat de bittere kou en zoekt<LINE>naar hun lotsbestemming
-Earn <score_target> points from creature kills this cycle [<current_score>/<score_target>]|Verdien [<current_score>/<score_target>] punten voor het doden van wezens in één cyclus
-Start the expedition with reinforced karma, a Karma Flower will spawn at the site of death|Begin de expeditie met beschermde karma. Een Karma Bloem zal verschijnen op de plek van je dood
+A pacifist at heart, The Saint endures the bitter cold and searches<LINE>for their purpose|Een ware pacifist, De Heilige doorstaat de bittere kou<LINE>en zoekt naar hun lotsbestemming
+Earn <score_target> points from creature kills this cycle [<current_score>/<score_target>]|Verdien <score_target> punten gedurende één cyclus [<current_score>/<score_target>]
+Start the expedition with reinforced karma, a Karma Flower will spawn at the site of death|Begin de expeditie met beschermde karma. Een Karmabloem zal verschijnen op de plek van je dood
 CHOOSE YOUR SLUGCAT|KIES JOUW SLAKKAT
 NEW<LINE>EXPEDITION|NIEUWE<LINE>EXPEDITIE
 Spear Dual-Wielding|Twee Speren Dragen
@@ -2014,45 +2014,45 @@ Craft different combinations of items together by holding UP and PICK UP|Voeg ve
 Whilst undertaking an expedition, certain gameplay elements are changed:|Terwijl je een expeditie ondergaat, zijn bepaalde spel elementen veranderd:
 Increases the players movement abilities, granting high speed and jump height|Verhoogt de speler’s bewegingsvaardigheden, geeft hoge snelheid en een hogere sprong
 Expedition is a challenge oriented gamemode featuring permadeath and progression. Pick a character and prepare for an expedition by selecting which challenges to undertake.|Expeditie is een uitdaging georienteerde spelmodus met permadood en voortgang. Kies een personage en bereid je voor op een expeditie door te selecteren welke uitdagingen je ondergaat.
-A successful expedition will grant points and varying rewards depending on what was accomplished, these can range from new Perks to use in future runs, Burdens to increase the difficulty in interesting ways, and music tracks that can be played in the Jukebox menu.|Een succesvolle expeditie geeft punten en verscheidene beloningen gebaseerd op wat er bereikt is. Deze kunnen uitlopen van nieuwe Voordelen voor bij toekomstige runs, Lasten die de moeilijkheid op interessante manieren verhogen tot muziek tracks die je kan afspelen in de Jukebox menu.
-Players start the Expedition in a randomly selected shelter.<LINE>All characters start with two karma and have a maximum karma limit of five.<LINE>The Survivor achievement is completed by default, and other achievements are not gated by it.<LINE>Passages are disabled by default, instead being unlocked by a Perk.<LINE>Echoes will not spawn on the first cycle.<LINE>There is no cycle limit for The Hunter in Expedition.<LINE>Collectable tokens will not appear and discovered lore is not saved in the Collection menu.|Spelers starten de Expeditie in een willekeurig geselecteerde schuilplaats.<LINE>Alle personages starten met twee karma en hebben een maximum karma limiet van vijf.<LINE>De Overlever achievement is meteen compleet, en andere achievements worden er niet door geblokkeerd.<LINE>Doorgangen zijn standaard uitgeschakeld, en worden in plaats daarvan ingeschakeld met een Voordeel.<LINE>Echoes zullen niet verschijnen op de eerste cyclus.<LINE>Er is geen cyclus limiet voor De Jager in Expeditie.<LINE>Verzamelbare tokens zullen niet verschijnen.
-Select a slugcat to use for the duration of the expedition. The expedition will take place in the same world as their campaign but with story elements removed. If Jolly Co-op is enabled, you can also configure the number of additional players at any time.|Selecteer een slakkat om te gebruiken tijdens de expeditie. De expeditie zal plaats nemen in dezelfde wereld als hun campagne, maar zonder verhaal elementen. Als de Vrolijke Co-op is ingeschakeld, kun je op elk moment het aantal spelers configureren.
+A successful expedition will grant points and varying rewards depending on what was accomplished, these can range from new Perks to use in future runs, Burdens to increase the difficulty in interesting ways, and music tracks that can be played in the Jukebox menu.|Een succesvolle expeditie geeft punten en verscheidene beloningen gebaseerd op wat er bereikt is. Deze kunnen uitlopen van nieuwe Voordelen voor bij toekomstige runs, Lasten die de moeilijkheid op interessante manieren verhogen tot muzieknummers die je kan afspelen in de Jukebox menu.
+Players start the Expedition in a randomly selected shelter.<LINE>All characters start with two karma and have a maximum karma limit of five.<LINE>The Survivor achievement is completed by default, and other achievements are not gated by it.<LINE>Passages are disabled by default, instead being unlocked by a Perk.<LINE>Echoes will not spawn on the first cycle.<LINE>There is no cycle limit for The Hunter in Expedition.<LINE>Collectable tokens will not appear and discovered lore is not saved in the Collection menu.|Spelers beginnen de Expeditie in een willekeurig geselecteerde schuilplaats.<LINE>Alle personages beginnen met twee karma en hebben een maximum karma limiet van vijf.<LINE>De Overlever doorgang is meteen compleet, en andere doorgangen worden er niet door geblokkeerd.<LINE>Doorgangen zijn standaard uitgeschakeld, en worden in plaats daarvan ingeschakeld met een Voordeel.<LINE>Echoes zullen niet verschijnen op de eerste cyclus.<LINE>Er is geen cycluslimiet voor De Jager in Expeditie.<LINE>Verzamelbare tokens zullen niet verschijnen.
+Select a slugcat to use for the duration of the expedition. The expedition will take place in the same world as their campaign but with story elements removed. If Jolly Co-op is enabled, you can also configure the number of additional players at any time.|Selecteer een slakkat om te gebruiken tijdens de expeditie. De expeditie zal plaats nemen in dezelfde wereld als hun campagne, maar zonder verhaalelementen. Als de Vrolijke Co-op is ingeschakeld, kun je op elk moment het aantal spelers configureren.
 Monk and Survivor - Unlocked by default<LINE>Hunter - Unlocked once Monk or Surivor's campaign is beaten<LINE>Others - Unlocked once their campaign is beaten|Monnik en Overlever - Meteen ontgrendeld<LINE>Jager - Ontgrendeld nadat de Monnik of de Overlever's campagne is voltooid<LINE>Andere - Ontgrendeld nadat hun campagne is voltooid
-The challenge select page is where you craft your expedition. Adjust the number and types of challenges you will aim to complete and see how many points you will earn once the expedition is completed.|De uitdagings selecteer pagina is waar je je expeditie in elkaar zet. Pas het nummer en soort uitdagingen aan die je wilt doen en zie hoeveel punten je krijgt zodra je de expeditie afrondt.
-Toggles whether or not the selected challenge is hidden. Hidden challenges are completely random and their requirements are only revealed once all regular challenges have been completed. Hidden challenges are worth twice as many points. An expedition must have at least one non-hidden challenge.|Schakelt in of geselecteerd uitdagingen wel of niet verborgen worden. Verborgen uitdagingen zijn volledig willekeurig en hun benodigdheden worden pas onthuld als alle normale uitdagingen compleet zijn. Verborgen uitdagingen zijn twee keer zoveel punten waard. Een expeditie moet tenminste één niet-verborgen uitdaging hebben.
+The challenge select page is where you craft your expedition. Adjust the number and types of challenges you will aim to complete and see how many points you will earn once the expedition is completed.|De uitdagingsselecteerpagina is waar je jouw expeditie in elkaar zet. Pas het nummer en soort uitdagingen aan die je wilt doen en zie hoeveel punten je krijgt zodra je de expeditie afrondt.
+Toggles whether or not the selected challenge is hidden. Hidden challenges are completely random and their requirements are only revealed once all regular challenges have been completed. Hidden challenges are worth twice as many points. An expedition must have at least one non-hidden challenge.|Schakelt in of geselecteerd uitdagingen wel of niet verborgen worden. Verborgen uitdagingen zijn volledig willekeurig en hun benodigdheden worden pas onthuld als alle normale uitdagingen voltooid zijn. Verborgen uitdagingen zijn twee keer zoveel punten waard. Een expeditie moet tenminste één niet-verborgen uitdaging hebben.
 Controls how many challenges the expedition will have, up to a maximum of five. A point bonus is applied for multiple challenges.|Controleer hoeveel uitdagingen de expeditie zal hebben, tot een maximum van vijf. Een puntenbonus wordt aangebracht voor meerdere uitdagingen.
 Randomizes all challenges at once. Can only be used if no challenge filters are applied.|Kiest willekeurig alle uitdagingen. Kan alleen gebruikt worden als er geen uitdagingsfilters zijn aangebracht.
 Indicates your progress to the next level and how much the current expedition will award. If the bar blinks rapidly then completing the expedition will grant a level. The number at the end of the bar displays how many levels will granted.|Laat jouw voortgang tot het volgende level zien en hoeveel de huidige expeditie zal belonen. Als de bar snel knippert, dan zal het afronden van de expeditie je een level geven. Het nummer aan het einde van de bar geeft aan hoeveel levels gegeven zullen worden.
-Complete quests to unlock additional content such as perks, burdens and music tracks.<LINE><LINE>'Expedition' quests are completed by undertaking an expedition that meets certain requirements, whilst 'Milestone' quests are completed after reaching a specific goal across multiple expeditions.|Voltooi streeftochten om aanvullende inhoud te ontgrendelen zoals voordelen, lasten en muziektracks.<LINE><LINE>'Expeditie' streeftochten worden voltooid door een expeditie te ondergaan die aan bepaalde benodigdheden voldoet, terwijl 'Mijlpaal' streeftochten worden voltooid nadat je, verspreid over meerdere expedities, een bepaald doel hebt bereikt.
-Highlight a quest to see all of its requirements and rewards. Try to put together an expedition that completes multiple quests at once!|Highlight een streeftocht om al zijn benodigdheden en beloningen te zien. Probeer een expeditie in elkaar te zetten dat meerdere streeftochten tegelijkertijd afrondt!
+Complete quests to unlock additional content such as perks, burdens and music tracks.<LINE><LINE>'Expedition' quests are completed by undertaking an expedition that meets certain requirements, whilst 'Milestone' quests are completed after reaching a specific goal across multiple expeditions.|Voltooi streeftochten om aanvullende inhoud te ontgrendelen zoals voordelen, lasten en muzieknummers.<LINE><LINE>'Expeditie' streeftochten worden voltooid door een expeditie te ondergaan die aan bepaalde benodigdheden voldoet, terwijl 'Mijlpaal' streeftochten worden voltooid nadat je, verspreid over meerdere expedities, een bepaald doel hebt bereikt.
+Highlight a quest to see all of its requirements and rewards. Try to put together an expedition that completes multiple quests at once!|Highlight een streeftocht om al zijn benodigdheden en beloningen te zien. Probeer een expeditie in elkaar te zetten die meerdere streeftochten tegelijkertijd afrondt!
 Grants The Hunter's ability to store spears on their back to other characters. A useful buff for players engaging in combat challenges.|Geeft andere personages De Jager's vaardigheid om speren op hun rug te dragen. Een handig voordeel voor spelers die aan gevechtsuitdagingen doen.
 Missions are hand-crafted expeditions with specific challenges and starting locations. Some missions may also require you to use a certain Perk or Burden. These cannot be removed, however additional Perks and Burdens can be enabled if desired.|Missies zijn handgemaakte expedities met specifieke uitdagingen en start locaties. Sommige missies benodigen ook het gebruik van een bepaalde Voordeel of Last. Hoewel deze niet verwijderd kunnen worden, kunnen aanvullende Voordelen en Lasten naar wens worden ingeschakeld.
 In order to select a mission, you must first unlock all of its requirements. Some quests will require that a mission is completed to grant its rewards. You can also repeat a mission at anytime to strive for the fastest time!|Om een missie te selecteren, moet je eerst alle benodigdheden ontgrendelen. Sommige streeftochten benodigen dat een missie afgerond is voordat de beloningen worden uitgereikt. Je kunt een missie ook op elk moment herhalen om voor de snelste tijd te gaan!
-The Jukebox menu lets you listen to your favourite tracks from Rain World and Rain World: Downpour. All music tracks can be unlocked as rewards for completing quests.|Het Jukebox menu laat je naar je favoriete tracks uit Rain World en Rain World: Downpour luisteren. Alle muziek tracks kunnen worden ontgrendeld als beloning voor het afronden van streeftochten.
-Repeats the currently selected track|Herhaalt de huidige geselecteerde track
-Set a track to play as the menu theme|Stel een track in om als menu thema te spelen
+The Jukebox menu lets you listen to your favourite tracks from Rain World and Rain World: Downpour. All music tracks can be unlocked as rewards for completing quests.|Het Jukebox menu laat je naar je favoriete muziek uit Rain World en Rain World: Downpour luisteren. Alle muziek kan worden ontgrendeld als beloning voor het afronden van streeftochten.
+Repeats the currently selected track|Herhaalt het huidige geselecteerde nummer
+Set a track to play as the menu theme|Stel een nummer in om als menu thema te spelen
 Unlocked via quests, perks can be applied to an expedition to even the odds, granting new tools and abilities for making completing challenges easier. See below for a full list of unlockable perks.|Ontgrendeld via streeftochten, voordelen kunnen aangebracht worden aan een expeditie om de kansen gelijk te zetten, en geeft nieuwe hulpmiddelen en vaardigheden die het afronden van uitdagingen makkelijker maakt. Kijk hier beneden voor de volledige lijst van ontgrendelbare voordelen.
 Start the expedition with a persistent glow around the player, usually granted by consuming a neuron. Useful in dark environments or when using the BLINDED burden.|Begin de expeditie met een constante gloei rond de speler, die je normaal verkrijgt door een zenuwcel te eten. Handig in donkere omgevingen of als je de VERBLIND last gebruikt.
 Start the expedition with a Scavenger Lantern, a portable light source -- and for some slugcats -- a source of vital warmth.|Begin de expeditie met een Lantaarn, een draagbare lichtbron (en voor sommige slakkatten een vitale bron van warmte).
-Grants the ability to slow time at will by holding PICK UP and pressing MAP. A visual indicator for the ability's cooldown appears above the cycle timer.|Geeft je de vaardigheid om de tijd op ieder moment te vertragen door OPPAKKEN ingedrukt te houden en op KAART te drukken. Een visuale indicator voor de vaardigheid’s cooldown verschijnt boven de cyclus timer.
+Grants the ability to slow time at will by holding PICK UP and pressing MAP. A visual indicator for the ability's cooldown appears above the cycle timer.|Geeft je de vaardigheid om de tijd op ieder moment te vertragen door OPPAKKEN ingedrukt te houden en op KAART te drukken. Een visuale indicator voor de vaardigheid’s cooldown verschijnt boven de cyclustimer.
 re-enables the use of passages to travel to previously visited shelters and recover all karma while doing so. Rather than being granted by achievements, a passage is awarded for each completed challenge.|Schakelt het gebruik van doorgangen weer in om te reizen naar eerder bezochte schuilplaatsen en op hetzelfde moment al je karma te herstellen. In plaats van verkregen te worden via prestaties, wordt een doorgang beloond voor elke afgeronde uitdaging.
 Start the expedition with a Vulture Mask, helping to keep hostile creatures at bay, or make them fleeing targets.|Begin de expeditie met een Gierenmasker, die helpt vijandige wezens weg te houden, of hen tot vluchtende doelwitten maakt.
-Start the expedition with reinforced karma. Reinforced karma is the only way to prevent permadeath at the lowest karma level. If the cycle ends in failure, a karma flower will appear at the site of death. Will be permanently lost if not recovered.|Start de expeditie met beschermde karma. Beschermde karma is de enige manier om permadood op het laagste karma level te voorkomen. Als je de cyclus faalt, zal een karma bloem verschijnen op de plek van je dood, die permanent verloren raakt als het niet wordt gepakt.
+Start the expedition with reinforced karma. Reinforced karma is the only way to prevent permadeath at the lowest karma level. If the cycle ends in failure, a karma flower will appear at the site of death. Will be permanently lost if not recovered.|Start de expeditie met beschermde karma. Beschermde karma is de enige manier om permadood op het laagste karmalevel te voorkomen. Als je de cyclus faalt, zal een Karmabloem verschijnen op de plek van je dood, die permanent verloren raakt als het niet wordt gepakt.
 Bestows the Spearmaster's dual-wielding ability to other characters. Being able to carry a spear in each hand greatly increases the speed at which you can deal damage.|Geeft de Speermeester’s vaardigheid om twee speren tegelijk te dragen aan andere personages. Dit vergroot de snelheid waarmee je schade kunt aanbrengen.
 Start the expedition with a Singularity Bomb, a devastating weapon that can eliminate even the toughest of creatures, just make sure not to get caught in the blast.|Begin de expeditie met een Singulariteitsbom, een vernietigend wapen dat zelfs de sterkste wezens kan elimineren. Zorg er alleen voor dat je zelf niet in de explosie terechtkomt.
 Withstand explosive encounters by borrowing The Artificer's explosion immunity. Useful if unfavored by the Scavengers, or for surviving situations where an explosion may be a last resort.|Doorsta explosieve confrontaties door De Schepper’s explosie immuniteit te lenen. Handig als je een ongunstige relatie hebt met de Schooiers, of voor het overleven van situaties waar een explosie een laatste uitweg is.
 Grants The Gourmand's crafting ability to other characters. Experiment with objects you find by combining them into new ones to help in different situations. Activate by holding UP and PICK UP with an item in each hand.|Geeft andere personages De Bourgondiër's ambachts vaardigheid. Experimenteer met voorwerpen die je vindt door ze te combineren tot nieuwe voorwerpen die helpen in verschillende situaties. Activeer door tegelijkertijd OMHOOG en OPPAKKEN ingedrukt te houden met een voorwerp in iedere hand.
 Increases the chosen characters running and jumping abilities by borrowing The Rivulet's high agility, letting you cross great distances with ease. Less efective for larger characters.|Verhoogt de gekozen personage's rennen en springen vaardigheden door De Waterrat's hoge wendbaarheid te lenen, waardoor je makkelijk grote afstanden kunt overbruggen. Minder effectief voor grotere personages.
-Start the expedition with the Joke Rifle. Originally shown off as an April Fools joke, the Rifle makes its way into Rain World: Downpour as a useful tool. Experiment by loading different items as ammo by holding the PICK UP button, and fire the Rifle with the THROW button.|Begin de expeditie met het Grappen Geweer. Eerst een 1 april grap, het Geweer maakt zijn weg in Rain World: Downpour als een handige tool. Experimenteer door verschillende voorwerpen te laden als ammo door de OPPAKKEN knop ingedrukt te houden en vuur het geweer met de GOOIEN knop.
+Start the expedition with the Joke Rifle. Originally shown off as an April Fools joke, the Rifle makes its way into Rain World: Downpour as a useful tool. Experiment by loading different items as ammo by holding the PICK UP button, and fire the Rifle with the THROW button.|Begin de expeditie met het Grappen Geweer. Eerst een 1 april grap, het Geweer maakt zijn weg in Rain World: Downpour als een handig werktuig. Experimenteer door verschillende voorwerpen te laden als ammo door de OPPAKKEN knop ingedrukt te houden en vuur het geweer met de GOOIEN knop.
 Shrouds the entire world in an endless night, obscuring danger in every shadow. A light source will be vital for survival.|Dekt de hele wereld in een eindeloze nacht en verstopt gevaar in elke schaduw. Een lichtbron zal vitaal zijn om te overleven.
-Removes the safety net that karma provides, triggering permadeath for any failure. Made only slightly less punishing with the use of the Karma Flower perk.|Verwijdert het veiligheidsnet dat karma geeft, triggering permadood bij elke mislukking. Wordt alleen een klein beetje minder straffend gemaakt met de Karma Bloem perk.
+Removes the safety net that karma provides, triggering permadeath for any failure. Made only slightly less punishing with the use of the Karma Flower perk.|Verwijdert het veiligheidsnet dat karma geeft, triggering permadood bij elke mislukking. Wordt alleen een klein beetje minder straffend gemaakt met de Karmabloem perk.
 Makes the player public enemy number one. All hostile creatures in the region will know your location at all times, making standing still a bad choice.|Maakt de speler publieke vijand nummer één. Alle vijandige wezens weten ten alle tijden jouw locatie, wat stilstaan een slechte keuze maakt.
 Something stalks you through the world, endlessly searching for its target. Though not impossible to defeat, it will always return.|Iets stalkt je door de wereld, eindeloos zoekend naar hun doelwit. Hoewel het niet onmogelijk is om het te verslaan, komt het altijd weer terug.
 
 //Jolly Co-op
 JOLLY COOP|VROLIJKE CO-OP
 Difficulty|Moeilijkheid
-Color Mode|Kleur Modus
+Color Mode|Kleurmodus
 INFO_COLOR|Er zijn drie kleur opties:<LINE><LINE>- Standaard: De originele kleuren voor elke slakkat.<LINE>- Automatisch: Laat het spel verschillende kleuren selecteren voor elke slakkat.<LINE>- Aangepast: Pas de kleuren aan met sliders.
 Input Help|Input Help
 Spears hit|Speren raken
@@ -2065,7 +2065,7 @@ ADJUST_COLOR|Pas de kleur modus aan
 COLOR_BUTTON|Kleur
 REFER_MANUAL|Lees de handleiding voor meer informatie
 INTRODUCTION|INTRODUCTIE
-DIFFICULTIES|MOEILIJKHEIDS STANDEN
+DIFFICULTIES|MOEILIJKHEIDSSTANDEN
 PIGGYBACKING|MEELIFTEN
 INFO_DIFF|Er zijn drie moeilijkheidsstanden beschikbaar in Vrolijke Co-op:<LINE><LINE>- Op de makkelijke stand hoeft maar één speler een schuilplaats te bereiken.<LINE>- Op de normale stand moeten alle spelers (dood of levend) de schuilplaats bereiken. Zorg ervoor om je gevallen teammaatjes te dragen!<LINE>- Op de moeilijke stand moet elke speler in leven zijn om de cyclus af te ronden.<LINE><LINE>Onthoud dat om te slapen, alle spelers in dezelfde schuilplaats moeten zijn, onafhankelijk van de moeilijkheid!
 INFO_CAMERA|In Vrolijke Co-op wordt de camera gedeeld door alle spelers. Tijdens het spelen, zal er rechtsonder een pijl laten zien wie de camera op dat moment volgt.<LINE>Om de camera te re-target naar jouw speler, druk je op de KAART knop.<LINE><LINE>De Camera Input optie configureert hoe snel je moet drukken, en is vooral een toegankelijkheids optie!
@@ -2074,7 +2074,7 @@ No stealing|Geen stelen
 INFO_DIFF_DESCRIPTION|Klik voor meer informatie over moeilijkheids opties
 description_spears_on|Speren die je gooit, zullen andere spelers missen
 MANUAL_INTRODUCTION_1|Vrolijke Co-op laat je de verhaalscampagne en andere spelmodussen spelen met je vrienden! Selecteer jouw favoriete slakkat en ervaar de reis met tot wel 4 spelers.
-MANUAL_PIGGYBACKING_1|In Vrolijke Co-op, de <PICK UP> knop ingedrukt houden naast een speler die aan het bukken is, laat je hen meeliften op je rug. Dit kun je ook doen bij spelers die geïncapaciteerd zijn.
+MANUAL_PIGGYBACKING_1|In Vrolijke Co-op, als je de <PICK UP> knop ingedrukt houdt naast een speler die aan het bukken is, laat je hen meeliften op je rug. Dit kun je ook doen bij spelers die geïncapaciteerd zijn.
 MANUAL_PIGGYBACKING_2|Je kunt spelers die op je rug zitten, gooien om hoger gelegen plekken of voorwerpen te bereiken. Spelers die gedragen worden, kunnen er ook op elk moment vanaf springen.
 INFO_CAMERA_DESCRIPTION|Klik voor meer informatie over camera opties
 INFO_COLOR_DESCRIPTION|Klik voor meer informatie over kleur opties
@@ -2083,8 +2083,8 @@ description_spears_off|Speren die je gooit, zullen andere spelers raken
 CAMERA INFORMATION|CAMERA INFORMATIE
 description_pup_on|Speler <p_n> zal een welp zijn
 description_hud_on|Verberg speler namen en andere indicaties
-MANUAL_SURVIVING_1|Om succesvol te slapen, moeten alle levende spelers in dezelfde schuilplaats zijn, onafhankelijk van de moeilijkheid! Dit geldt ook voor andere gebeurtenissen, zoals door het passeren van poorten.
-MANUAL_SELECTING_1|Je kunt mixen en combineren als welke slakkatten je speelt! Eerst selecteer je een campagne zoals normaal, wat de wereld en het verhaal bepaalt (dingen zoals benodigd voedsel, wezen spawns, enz.).
+MANUAL_SURVIVING_1|Om succesvol te slapen, moeten alle levende spelers in dezelfde schuilplaats zijn, onafhankelijk van de moeilijkheid! Dit geldt ook voor andere gebeurtenissen, zoals het passeren van poorten.
+MANUAL_SELECTING_1|Je kunt mixen en combineren als welke slakkatten je speelt! Eerst selecteer je een campagne zoals normaal, wat de wereld en het verhaal bepaalt (zoals benodigd voedsel, wezens die verschijnen, enz.).
 MANUAL_SELECTING_2|Dan breng je het Vrolijke menu op en selecteer je het uiterlijk en vaardigheden van elke individuele speler! Je kunt ook kiezen om als een welp te spelen.
 COLOR INFORMATION|KLEUR INFORMATIE
 Vanilla shortcuts|Vanilla sluipwegen
@@ -2097,7 +2097,7 @@ MANUAL_POINTING_3|Wijzen naar een wezen of voorwerp markeert het. Schooiers zull
 Adjust the number of players|Pas het aantal spelers aan
 description_camera_toggle_on|Wanneer je gevolgd wordt door de vragen zal het opnieuw aanvragen ervan het sturen naar de volgende speler
 CLOSE|SLUITEN
-RESET|Reset
+RESET|RESETTEN
 PLAYER_CLASS_INSTRUCTION_MAIN|Om het Speler 1 personage te veranderen, ga je een andere verhaalscampagne.
 description_camera_toggle_off|De camera aanvragen wanneer je al gevolgd wordt, zal niets doen
 description_smart_shorcuts_on|(Aanbevolen) Wanneer je van kamer wisselt, wacht je op andere spelers in sluipwegen
@@ -2124,7 +2124,7 @@ description_hud_off|Laat speler namen en andere indicators zien
 COLOR CONFIGURATION|Kleur configuratie
 JOLLY_MANUAL_BUTTON|Handleiding
 SELECTING A SLUGCAT|EEN SLAKKAT SELECTEREN
-MANUAL_DIFFICULTY_1|Er zijn drie moeilijkheids standen beschikbaar in Vrolijke Co-op:
+MANUAL_DIFFICULTY_1|Er zijn drie moeilijkheidsstanden beschikbaar in Vrolijke Co-op:
 MANUAL_DIFFICULTY_2|- Makkelijk: maar één speler hoeft een schuilplaats te bereiken.
 MANUAL_DIFFICULTY_3|- Normaal: alle spelers (dood of levend) moeten de schuilplaats bereiken. Zorg ervoor om je gevallen teammaatjes te dragen!
 MANUAL_DIFFICULTY_4|- Moeilijk: elke speler moet nog leven om de cyclus af te ronden.
@@ -2136,7 +2136,7 @@ ADJUST_CAMERA|Pas de camera toegankelijkheid aan
 Camera doesn't cycle|Camera wisselt niet
 Smart shortcuts|Slimme sluipwegen
 Vanilla lizards|Vanilla hagedissen
-MANUAL_CAMERA_1|In Vrolijke Co-op wordt de camera gedeeld door alle spelers, en volgt een specifieke speler op iedere gegeven tijd. Druk op de <MAP> knop om de camera terug naar jou te richten.
+MANUAL_CAMERA_1|In Vrolijke Co-op wordt de camera gedeeld door alle spelers, en volgt het ten alle tijden een specifieke speler. Druk op de <MAP> knop om de camera terug naar jou te richten.
 MANUAL_CAMERA_2|Je kunt instellen hoe snel de <MAP> knop ingedrukt moet worden in het Vrolijke Co-op menu.
 MANUAL_CAMERA_3|Als de camera wisseling optie is ingeschakeld in het Vrolijke menu, zal op de <MAP> knop drukken terwijl de camera je al volgt in plaats daarvan de volgende speler volgen.
 MANUAL_CAMERA_4|De indicator rechtsonder laat een pijl zien bij de speler die op het huidige moment gevolgd wordt door de camera.
@@ -2398,11 +2398,28 @@ Andrew's Basement|Andrew's Kelder
 Thanks Andrew.|Je wordt bedankt, Andrew.
 
 //1.9.15
+BACKUPS|BACK-UPS
+RESTORE|HERSTELLEN
+CREATE|CREEËREN
+DELETE|VERWIJDEREN
+INFO|INFO
+STORY DATA|VERHAAL GEGEVENS
+No data|Geen gegevens
 Stops nearby explosions causing a ringing sound to play|Weerhoud nabije explosies ervan om een ringend geluid te laten spelen
 No Ringing in Ears|Geen gering in oren
-STORY DATA|VERHAAL GEGEVENS
-backup_restore_confirm|JOUW HUIDIGE OPGESLAGEN GEGEVENS ZULLEN VERWIJDERD WORDEN!<LINE><LINE>Het kiezen om te herstellen zal de opgeslagen gegevens in AL jouw opgeslagen gegevens slots overschrijven met de gegevens van deze backup.<LINE>Deze operatie is permanent en kan niet ongedaan worden gemaakt.<LINE><LINE>Weet je zeker dat je jouw huidige opgeslagen gegevens wilt overschrijven met de gegevens van {X}?
+backup_restore_confirm|JOUW HUIDIGE OPGESLAGEN GEGEVENS ZULLEN VERWIJDERD WORDEN!<LINE><LINE>Het kiezen om te herstellen zal de opgeslagen gegevens in AL jouw opgeslagen gegevens slots overschrijven met de gegevens van deze back-up.<LINE>Deze operatie is permanent en kan niet ongedaan worden gemaakt.<LINE><LINE>Weet je zeker dat je jouw huidige opgeslagen gegevens wilt overschrijven met de gegevens van {X}?
 backup_restore_success|De opgeslagen gegevens van {X} zijn  hersteld.
 backup_info_disclaimer|(Gegevens hier zijn gebaseerd op jouw huidige ingeschakelde mods.<LINE>Er kunnen nog aanvullende gegevens bestaan van mods die op het huidige moment uitgeschakeld zijn)
 Issues found while loading mods!<LINE>Disabling problematic mods.<LINE>Press continue and then launch the game again.|Problemen gevonden tijdens het laden van mods!<LINE>Problematische mods aan het uitschakelen.<LINE>Druk op verdergaan en start het spel dan opnieuw op.
 Desync detected between user mod data and game mod data!<LINE>Re-sycing data.<LINE>Press continue and then launch the game again.<LINE>Disabled mods:|Desync gedetecteerd tussen gebruiker mod gegevens en spel mod gegevens!<LINE>Gegevens aan het her-synchroniseren.<LINE>Druk op verdergaan en start het spel dan opnieuw op.<LINE>Uitgeschakelde mods:
+backups_description|Bekijk, creeër, of herstel voorheen geback-upte opslag gegevens.
+backup_info_description|Bekijk informatie over de inhoud van de huidige geselecteerde back-up.
+backup_restore_description|Overschrijf jouw huidige opslag gegevens met de inhoud van de geselecteerde back-up.
+backup_create_description|Sla de huidige inhoud van jouw opslag gegevens op als een nieuwe back-up.
+backup_delete_description|Verwijder de geselecteerde back-up van de lijst van back-ups.
+backup_info_loading|Opslag slot informatie aan het laden...
+backup_info_no_data|Er bestaan geen verhaal gegevens in deze opslag slot.
+backup_delete_confirm|Weet je zeker dat je back-up {X} wilt verwijderen?<LINE>Deze handeling kan niet ongedaan gemaakt worden.
+backup_delete_success|{X} was met succes verwijderd.
+backup_create_success|Een nieuwe back-up {X} van jouw huidige opslag slot is gecreërd.
+backup_restore_failed|An error has occurred restoring the backup save data. In order to protect your save data, game launch has been halted.<LINE><LINE>Do you wish to retry restoring the backup data?
