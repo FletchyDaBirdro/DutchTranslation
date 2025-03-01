@@ -1163,7 +1163,7 @@ These are recommended starting points based on different playstyles.|Dit zijn aa
 It also largely negates the game's difficulty curve and progression.|Het negeert ook voor het grote deel het spel's moeilijkheids curve en voortgang.
 (Normally requires finding Green unlock tokens in the campaign maps)|(Benodigt normaal gesproken het vinden van Groene ontgrendel tokens in de campagne kaarten)
 “Go west, past the Farm Arrays and then down deep into the earth...”|“Ga naar het westen langs de Akkerrijen en dan diep in de aarde...”
-JUMP/THROW buttons - Switch layers<LINE>PICKUP button - Select shelter|SPRINGEN/GOOIEN knoppen - Wissel van lagen<LINE>OPPAKKEN knop - Selecteer schuilplaats
+JUMP/THROW buttons - Switch layers<LINE>PICK UP button - Select shelter|SPRINGEN/GOOIEN knoppen - Wissel van lagen<LINE>OPPAKKEN knop - Selecteer schuilplaats
 Allow passing any gate for free, regardless of your current karma level|Laat de speler gratis poorten passeren, ongeacht het huidige karma level
 Hide the remaining cycle time while in maps that are safe from the rain|Verberg de overgebleven cyclus tijd terwijl je in ruimtes bent die veilig zijn van de regen
 And this one is fresh! It was not long ago this data was written to it!|En deze is vers! Er was nog niet lang geleden data ingeschreven!
