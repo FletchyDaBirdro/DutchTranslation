@@ -1,17 +1,17 @@
 {
   "Title": "Dutch Translation (WIP)",
-  "Description": "This is a Dutch translation of Rain World.",
+  "Description": "A mod that translates the majority of the game to Dutch.\u003CLINE\u003E\u003CLINE\u003ETo use this, go to the Options menu and select \u0022Dutch\u0022 as the language.",
   "ID": "fdb.dutchrw",
-  "Version": "0.5.0",
+  "Version": "0.5.1",
   "TargetGameVersion": "v1.9.15b",
   "Requirements": "",
   "RequirementNames": "",
   "Authors": "FletchyDaBirdro",
-  "Visibility": "Unlisted",
+  "Visibility": "Public",
   "Tags": [
     "Translations"
   ],
-  "WorkshopID": 3261303831,
-  "UploadFilesOnly": false,
-  "UploadThumbnail": true
+  "WorkshopID": 3370303652,
+  "UploadFilesOnly": true,
+  "UploadThumbnail": false
 }
