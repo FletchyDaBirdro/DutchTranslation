@@ -10,6 +10,10 @@ This mod currently translates:
 
 In-progress:
 
+- The Watcher
+
+On hold:
+
 - Dating Sim
 
 
