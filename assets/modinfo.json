@@ -3,6 +3,7 @@
 	"name": "Dutch Translation",
 	"version": "0.5.1",
 	"hide_version": false,
+        "target_game_version": "v1.10.3",
 	"authors": "FletchyDaBirdro",
 	"description": "A mod that translates the majority of the game to Dutch.<LINE><LINE>To use this, go to the Options menu and select \"Dutch\" as the language.",
 	"requirements": [],
