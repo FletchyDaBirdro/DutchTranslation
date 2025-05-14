@@ -1240,9 +1240,9 @@ I have had scavengers come by before. Scavengers!<LINE>And they left me alive!<L
 You must excuse me if I repeat myself. My memory is bad.<LINE>I used to have a pathetic five neurons... And then you ate one.<LINE>Maybe I've told you that before as well.|Je moet me verontschuldigen als ik mezelf herhaal. Ik heb een slecht geheugen.<LINE>Ik had eerst vijf miezerige zenuwcellen... Totdat jij er een at.<LINE>Misschien heb ik jou dat ook al verteld.
 Or actually I'm sure he would, but he has so many of these~<LINE>it doesn't do him any difference.<LINE>For me though, it does! Thank you, little creature!|Of eigenlijk zou hij dat wel vinden, maar hij heeft zoveel van deze~<LINE>dat het voor hem geen verschil maakt.<LINE>Voor mij doet dat het wel! Dank je wel, klein wezen!
 You come here, but you can't be respectful enough to listen to me.<LINE>Will you listen this time?|Je komt hier naartoe, maar je hebt niet genoeg respect om naar me te luisteren.<LINE>Wil je deze keer wel luisteren?
-DUTCH|NEDERLANDS
 
 //MSC
+moreslugcats-name|Meer Slakkatten Uitbreiding
 Bite|Bijten
 Hiss|Blazen
 Call|Roepen
@@ -1728,6 +1728,7 @@ I used to be furious at the idea of creatures crawling through my superstructure
 This easter egg was inspired by the original Moar Slugcats Dating Sim mod, but has no affiliation with the original creators.|Deze easter egg was geïnspireerd door de originele Moar Slugcats Dating Sim mod, maar heeft geen affiliatie met de oorspronkelijke makers.
 
 //Expedition
+expedition-name|Expeditie
 You are missing one or more of the mission's requirements|Je mist één of meer van de missie's benodigdheden
 Burdens are modifiers you can add to your Expedition to increase the difficulty. In return, a multiplier is applied to your final score, increasing the number of points it's possible to earn.|Lasten zijn aanpassingen die je aan je Expeditie kan toevoegen om de moeilijkheid te vergroten. In ruil daarvoor wordt een vermenigvuldiger aan je uiteindelijke score toegebracht, waarmee je het totaal aantal mogelijk verkregen punten vergroot.
 Challenges can be re-rolled for new ones by selecting them. The difficulty of the new challenge can be adjusted by dragging the difficulty slider, more difficult challenges award more points.|Uitdagingen kunnen worden herrolt voor nieuwe door ze te selecteren. De moeilijkheid van de nieuwe uitdaging kan aangepast worden door met de moeilijkheids slider te slepen. Moeilijkere uitdagingen leveren meer punten op.
@@ -2050,6 +2051,7 @@ Makes the player public enemy number one. All hostile creatures in the region wi
 Something stalks you through the world, endlessly searching for its target. Though not impossible to defeat, it will always return.|Iets stalkt je door de wereld, eindeloos zoekend naar hun doelwit. Hoewel het niet onmogelijk is om het te verslaan, komt het altijd weer terug.
 
 //Jolly Co-op
+jollycoop-name|Vrolijke Co-op
 JOLLY COOP|VROLIJKE CO-OP
 Difficulty|Moeilijkheid
 Color Mode|Kleurmodus
@@ -2530,3 +2532,17 @@ PICK UP button - Return to regional map_2|vierkante knop - Terug naar de regiona
 PICK UP button - Return to regional map_3|Y Knop - Terug naar de regionale kaart
 PICK UP button - Return to regional map_4|Linker Knop - Terug naar de regionale kaart
 PICK UP button - Return to regional map_5|B Knop - Terug naar de regionale kaart
+Fixed campaign seed|Vastgestelde campagne seed
+watcher-description|Een uitbreiding die een nieuwe campagne toevoegd: De Waker. Deze uitbreiding bevat nieuwe gebieden, wezens, mechanieken, voorwerpen, meer dan 150 nieuwe muzieknummers en veel meer.
+Enable tutorials|Schakel tutorials in
+Special|Speciaal
+Unlock Watcher arena character|Ontgrendel Waker arena personage
+Show tutorial messages for Watcher's mechanics during the story campaign|Laat tutorial berichten voor Waker's mechanieken zien tijdens de verhaalcampagne
+Unlock Watcher campaign|Ontgrendel Waker campagne
+watcher-name|De Waker
+(Normally requires completing the game as Survivor or Monk to unlock)|(Benodigt normaal gesproken om het spel te voltooien als de Overlever of deMonnik om dit te ontgrendelen)
+Seed the determinations of warp point destinations to create less randomness in runs|Stel de bepalingen van warppuntbestemmingen vast om te zorgen voor minder willekeurigheid tijdens runs
+The following options contain spoilers.|De volgende opties bevatten spoilers.
+
+//Dutchrw
+DUTCH|NEDERLANDS
