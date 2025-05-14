@@ -539,9 +539,10 @@ switch_controls_singlejoyconl_pickup|Linker Knop
 switch_controls_singlejoyconr_pickup|B Knop
 Creatures are vicious and aggressive|Wezens zijn woest en agressief
 switch_single_joycon_region_map_help|Druk op de SR Knop om de regionale kaart te bekijken
+JUMP/THROW buttons - Switch layers_1|SPRINGEN/GOOIEN knoppen - Wissel van lagen
 JUMP/THROW buttons - Switch layers_2|Kruis Knop/Cirkel Knop - Wissel van lagen
 JUMP/THROW buttons - Switch layers_3|B Knop/A Knop - Wissel van lagen
-JUMP/THROW buttons - Switch layers_4|Down Knop/Right Knop - Wissel van lagen
+JUMP/THROW buttons - Switch layers_4|Omlaag Knop/Rechter Knop - Wissel van lagen
 JUMP/THROW buttons - Switch layers_5|A Knop/X Knop - Wissel van lagen
 Title is offline or is disconnected.|Titel is offline of is niet verbonden.
 OpKeyBinder_NonMouseJoystickBindTuto|Druk op een knop om het vast te binden (PAUZEER om te ontbinden, START om controller nummer in te stellen)
@@ -688,7 +689,6 @@ Pick up / Eat button interactions:|Oppakken / Eten knop interacties:
 Game Over - Press SPACE to restart|Game Over - Druk op SPATIE om te herstarten
 switch_controls_singlejoyconl_jump|Omlaag Knop
 switch_controls_singlejoyconr_jump|A Knop
-JUMP/THROW buttons - Switch layers|SPRINGEN/GOOIEN knoppen - Wissel van lagen
 ps4_save_options_failed_free_space|Fout opgetreden bij het opslaan van opties data. Niet genoeg vrije ruimte. Opnieuw proberen?
 ConfigContainer_AlertPasteCosmetic|Plakte<Text> van klembord
 MenuModList_ModButton_Enable_Mouse|Schakel <Mod> in
@@ -2520,3 +2520,13 @@ Ahh yes! The paths! How wonderous!|Ahh ja! De paden! How wonderous!
 How auspicious it was, our meeting...|How auspicious it was, onze ontmoeting...
 Forgive me if I cannot respond in kind. This body is so limited...|Vergeef het me als ik niet in respond in kind. Dit lichaam is erg gelimiteerd...
 How I have wished for this day. My dear friend, welcome.|How I have wished for this day. Mijn goede vriend, welkom.
+JUMP button - View map for region_1|SPRINGEN knop - Bekijk kaart voor gebied
+JUMP button - View map for region_2|kruis knop - Bekijk kaart voor gebied
+JUMP button - View map for region_3|B Knop - Bekijk kaart voor gebied
+JUMP button - View map for region_4|Omlaag Knop - Bekijk kaart voor gebied
+JUMP button - View map for region_5|A Knop - Bekijk kaart voor gebied
+PICK UP button - Return to regional map_1|OPPAKKEN knop - Terug naar de regionale kaart
+PICK UP button - Return to regional map_2|vierkante knop - Terug naar de regionale kaart
+PICK UP button - Return to regional map_3|Y Knop - Terug naar de regionale kaart
+PICK UP button - Return to regional map_4|Linker Knop - Terug naar de regionale kaart
+PICK UP button - Return to regional map_5|B Knop - Terug naar de regionale kaart
