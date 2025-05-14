@@ -539,9 +539,10 @@ switch_controls_singlejoyconl_pickup|Linker Knop
 switch_controls_singlejoyconr_pickup|B Knop
 Creatures are vicious and aggressive|Wezens zijn woest en agressief
 switch_single_joycon_region_map_help|Druk op de SR Knop om de regionale kaart te bekijken
+JUMP/THROW buttons - Switch layers_1|SPRINGEN/GOOIEN knoppen - Wissel van lagen
 JUMP/THROW buttons - Switch layers_2|Kruis Knop/Cirkel Knop - Wissel van lagen
 JUMP/THROW buttons - Switch layers_3|B Knop/A Knop - Wissel van lagen
-JUMP/THROW buttons - Switch layers_4|Down Knop/Right Knop - Wissel van lagen
+JUMP/THROW buttons - Switch layers_4|Omlaag Knop/Rechter Knop - Wissel van lagen
 JUMP/THROW buttons - Switch layers_5|A Knop/X Knop - Wissel van lagen
 Title is offline or is disconnected.|Titel is offline of is niet verbonden.
 OpKeyBinder_NonMouseJoystickBindTuto|Druk op een knop om het vast te binden (PAUZEER om te ontbinden, START om controller nummer in te stellen)
@@ -688,7 +689,6 @@ Pick up / Eat button interactions:|Oppakken / Eten knop interacties:
 Game Over - Press SPACE to restart|Game Over - Druk op SPATIE om te herstarten
 switch_controls_singlejoyconl_jump|Omlaag Knop
 switch_controls_singlejoyconr_jump|A Knop
-JUMP/THROW buttons - Switch layers|SPRINGEN/GOOIEN knoppen - Wissel van lagen
 ps4_save_options_failed_free_space|Fout opgetreden bij het opslaan van opties data. Niet genoeg vrije ruimte. Opnieuw proberen?
 ConfigContainer_AlertPasteCosmetic|Plakte<Text> van klembord
 MenuModList_ModButton_Enable_Mouse|Schakel <Mod> in
@@ -1240,9 +1240,9 @@ I have had scavengers come by before. Scavengers!<LINE>And they left me alive!<L
 You must excuse me if I repeat myself. My memory is bad.<LINE>I used to have a pathetic five neurons... And then you ate one.<LINE>Maybe I've told you that before as well.|Je moet me verontschuldigen als ik mezelf herhaal. Ik heb een slecht geheugen.<LINE>Ik had eerst vijf miezerige zenuwcellen... Totdat jij er een at.<LINE>Misschien heb ik jou dat ook al verteld.
 Or actually I'm sure he would, but he has so many of these~<LINE>it doesn't do him any difference.<LINE>For me though, it does! Thank you, little creature!|Of eigenlijk zou hij dat wel vinden, maar hij heeft zoveel van deze~<LINE>dat het voor hem geen verschil maakt.<LINE>Voor mij doet dat het wel! Dank je wel, klein wezen!
 You come here, but you can't be respectful enough to listen to me.<LINE>Will you listen this time?|Je komt hier naartoe, maar je hebt niet genoeg respect om naar me te luisteren.<LINE>Wil je deze keer wel luisteren?
-DUTCH|NEDERLANDS
 
 //MSC
+moreslugcats-name|Meer Slakkatten Uitbreiding
 Bite|Bijten
 Hiss|Blazen
 Call|Roepen
@@ -1728,6 +1728,7 @@ I used to be furious at the idea of creatures crawling through my superstructure
 This easter egg was inspired by the original Moar Slugcats Dating Sim mod, but has no affiliation with the original creators.|Deze easter egg was geïnspireerd door de originele Moar Slugcats Dating Sim mod, maar heeft geen affiliatie met de oorspronkelijke makers.
 
 //Expedition
+expedition-name|Expeditie
 You are missing one or more of the mission's requirements|Je mist één of meer van de missie's benodigdheden
 Burdens are modifiers you can add to your Expedition to increase the difficulty. In return, a multiplier is applied to your final score, increasing the number of points it's possible to earn.|Lasten zijn aanpassingen die je aan je Expeditie kan toevoegen om de moeilijkheid te vergroten. In ruil daarvoor wordt een vermenigvuldiger aan je uiteindelijke score toegebracht, waarmee je het totaal aantal mogelijk verkregen punten vergroot.
 Challenges can be re-rolled for new ones by selecting them. The difficulty of the new challenge can be adjusted by dragging the difficulty slider, more difficult challenges award more points.|Uitdagingen kunnen worden herrolt voor nieuwe door ze te selecteren. De moeilijkheid van de nieuwe uitdaging kan aangepast worden door met de moeilijkheids slider te slepen. Moeilijkere uitdagingen leveren meer punten op.
@@ -1873,7 +1874,7 @@ Music: <songName>|Muziek: <songName>
 You feel the presence of a vista . . .|Je voelt de aanwezigheid van een vista . . .
 <region> pearl delivered to <iterator>|<region> parel geleverd aan <iterator>
 Reach the vista point in <region_name>|Bereik het vista punt in <region_name>
-E X P E D I T I O N    C O M P L E T E|E X P E D I T I E    V O L T O O I D
+E X P E D I T I O N	C O M P L E T E|E X P E D I T I E	V O L T O O I D
 <Unlocked> of <Max> Tracks Unlocked|<Unlocked> van de <Max> Nummers Ontgrendeld
 NEW!|NIEUW!
 Yeek|Piepers
@@ -1993,7 +1994,7 @@ Total Challenges Completed: <num>|Totaal Aantal Uitdagingen Voltooid: <num>
 <num> Quests Completed|<num> Streeftochten Voltooid
 Current Level: <level>|Huidig Level: <level>
 Recover all karma and fast travel to any discovered shelter, consumes an earned passage|Herstel alle karma en snel reis naar elke ontdekte schuilplaats; gebruikt een verdiende doorgang
-Missing Requirements:      <req>|Missende Benodigdheden:      <req>
+Missing Requirements:  	<req>|Missende Benodigdheden:  	<req>
 Slugcat Unlocked: <slugcat>|Slakkat Ontgrendeld: <slugcat>
 Q U E S T   C O M P L E T E|S T R E E F T O C H T  C O M P L E E T
 Warning: Hidden challenges will become normal challenges when retrying|Waarschuwing: Verborgen uitdagingen worden normale uitdagingen als je opnieuw probeert
@@ -2050,6 +2051,7 @@ Makes the player public enemy number one. All hostile creatures in the region wi
 Something stalks you through the world, endlessly searching for its target. Though not impossible to defeat, it will always return.|Iets stalkt je door de wereld, eindeloos zoekend naar hun doelwit. Hoewel het niet onmogelijk is om het te verslaan, komt het altijd weer terug.
 
 //Jolly Co-op
+jollycoop-name|Vrolijke Co-op
 JOLLY COOP|VROLIJKE CO-OP
 Difficulty|Moeilijkheid
 Color Mode|Kleurmodus
@@ -2387,7 +2389,7 @@ Filtration Node|Filtratieknoop
 Submerged|Onderzees
 
 //inv
-we forgot to render this one sorry|we zijn vergeten deze te renderen sorry 
+we forgot to render this one sorry|we zijn vergeten deze te renderen sorry
 Nachos Will Never Be The Same|Nachos Zullen Nooit Meer Hetzelfde Zijn
 Painage System|Afgang Systeem
 Tower of Gains|De Louteringsberg
@@ -2423,3 +2425,124 @@ backup_delete_confirm|Weet je zeker dat je back-up {X} wilt verwijderen?<LINE>De
 backup_delete_success|{X} was met succes verwijderd.
 backup_create_success|Een nieuwe back-up {X} van jouw huidige opslag slot is gecreërd.
 backup_restore_failed|An error has occurred restoring the backup save data. In order to protect your save data, game launch has been halted.<LINE><LINE>Do you wish to retry restoring the backup data?
+
+//Watcher
+The Throne|De Troon
+Blast Deck|Lanceringsdek
+Ridgeworks|Richelfabrieken
+Salination|Zoutwinning
+Heat Ducts|Hitteschachten
+Fetid Glen|Walmend Dal
+Marvelous!|Wonderlijk!
+creaturetype-Rattler|Bottenrammelaar
+creaturetype-BigMoth|Reuzenmot
+creaturetype-BoxWorm|Kistworm
+objecttype-Boomerang|Boemerang
+LeaveSpinningTop1|OA! Kijk! Het is zelfs te dom om op te letten! OAOAOAOA!!
+LeaveSpinningTop2|OA!! Wat onbeleefd!! Ik ging het net een cadeau geven.
+DieAtSpinningTop1|OAOAOA!! Ja!!! Terug de grond in met jou!! Wat een idioot!! OAOAOAOAOAO
+DieAtSpinningTop2|OA!! Kijk!! Ze hebben je al! OAOAOAOAOAO
+DieAtSpinningTop3|OAOAOAOAOA!! En hier ook al schijnbaar?? Te dom om te leven, te base om te sterven.<LINE>Zo saai! Bleh! Ik vertrek.
+Shattered Terrace|Verbrijzeld Terras
+Verdant Waterways|Algenrijke Waterwegen
+Crumbling Fringes|Afbrokkelende
+creaturetype-Frog|Kikker
+So vital! Hah ha!|Zo levendig! Hah ha!
+THE WATCHER|DE WAKER
+The Watcher|De Waker
+Coral Caves|Koraalgrotten
+The Surface|Het Oppervlak
+Sunlit Port|Zonnige Haven
+Hydroponics|Hydrocultuur-kwekerij
+Watcher|Waker
+watcher-character-description|Een buitenstaander, alleen en afstandelijk. Observerend maar niet betrokken.<LINE>Met deze afstand komt nieuwe perspectieven, en nieuwe verbindingen. Een reis als geen ander.
+creaturetype-ScavengerTemplar|Tempelheer-schooier
+Outer Rim|Buitenste Rand
+Deep Reef|Diep Rif
+Rusted Wrecks|Verroeste Wrakken
+Torrid Desert|Brandende Woestijn
+Thermal Relay|Thermisch Relais
+Station Annex|Stationaanhangsel
+Signal Spires|Signaalspitsen
+Ancient Urban|Oude Stad
+Stormy Coast|Stormachtige Kust
+Cold Storage|Gekoelde Opslag
+Tundra Fault|Toendra Breuk
+Aether Ridge|Nevelrichel
+Turbulent Pump|Turbulente Pomp
+Desolate Tract|Verlaten Streek
+Aerial Tramway|Bovengrondse Trambaan
+Fallen Tramway|Vervallen Trambaan
+Shrouded Coast|Versluierde Kust
+Badlands|Badlands
+Decaying Tunnels|Afrottende Tunnels
+creaturetype-Rat|Rat
+Ah! So spirited!|Ah! Zo levendig!
+Infested Wastes|Besmette Woestenij
+Corrupted Factories|Aangetaste Fabrieken
+Torrential Railways|Onstuimige Spoorwegen
+Unfortunate Evolution|Onfortuinlijke Evolutie
+creaturetype-Barnacle|Eendenmossel
+creaturetype-SandGrub|Zandmade
+creaturetype-SkyWhale|Hemelvis
+creaturetype-RotLoach|Rotkolossus
+Daemon|Daimon
+creaturetype-DrillCrab|Boorkrab
+creaturetype-SmallMoth|Kleine mot
+creaturetype-BigSandGrub|Zandworm
+creaturetype-FireSprite|Vuurfee
+creaturetype-Tardigrade|Beerdiertje
+creaturetype-ScavengerDisciple|Volgelings-schooier
+Oh, you have brought sundries?|Oh, heb je materiaal gebracht?
+Never again will you be alone.|Nimmer zal jij alleen zijn.
+creaturetype-Loach|Modderkruiper
+Oh, show me again!|Oh, laat me het nog eens zien!
+creaturetype-BlizzardLizard|Stormhagedis
+creaturetype-BasiliskLizard|Basiliskhagedis
+creaturetype-IndigoLizard|Indigo Hagedis
+objecttype-FireSpriteLarva|Vuurfeelarve
+Hold the SPECIAL button to camouflage from predators|Houd de SPECIAAL knop ingeknopt om je te camoufleren voor roofdieren
+Hold UP and SPECIAL together to form new random paths|Houd OMHOOG en SPECIAAL tegelijkertijd ingedrukt om nieuwe willekeurige paden te vormen
+Delight! For you will be exalted in this new kingdom!|Wees verheugd! Want je zult verheven worden in dit nieuwe koninkrijk!
+This will consume the effect of a karma flower in the process|Dit zal de effect van een karmabloem consumeren
+Holding UP and SPECIAL without a karma flower is unstable and dangerous|OMHOOG en SPECIAAL ingedrukt houden zonder karmabloem is instabiel en gevaarlijk
+However, this can also form new random paths in a pinch|Maar dit kan ook nieuwe willekeurige paden vormen in a pinch
+You can leave them here if you wish, as a contribution.|Je kunt het hier laten indien je dat wenst, als contributie.
+Crossing to new frontiers takes a toll on the body, but sleep can help you recover|Het doorkruisen van nieuwe grenzen eist een tol op je lichaam, maar slapen kan je helpen te herstellen
+Traveling too deep without resting will have consequences|Te diep reizen zonder uit te rusten heeft consequenties
+A presence already binds this place|Een aanwezigheid bind deze plek al
+This fringe is already too unstable|Deze uithoek is al te instabiel
+Nothing to waste, every bit counts!|Niets te verspillen, elk beetje telt!
+The paths overflow beyond measure|De paden overvloeien beyond measure
+Oh such enthusiasm! I am honored!|Oh wat een enthousiasme! Ik voel me vereerd!
+This remains a place of rest|Dit blijft een rustplaats
+It is a joy to see you play!|Het is een genoegen om je te zien spelen!
+My processes will dissolve them to their base components and those components will be added to the mass.|Mijn processen zullen het afbreken tot hun basiscomponenten en die zullen toegevoegd worden aan de massa.
+Ahh yes! The paths! How wonderous!|Ahh ja! De paden! Hoe wonderbaarlijk!
+How auspicious it was, our meeting...|Hoe gunstig het was, onze ontmoeting...
+Forgive me if I cannot respond in kind. This body is so limited...|Vergeef het me als ik niet hetzelde doe. Dit lichaam is erg gelimiteerd...
+How I have wished for this day. My dear friend, welcome.|Hoezeer ik gewenst heb voor deze dag. Mijn goede vriend, welkom.
+JUMP button - View map for region_1|SPRINGEN knop - Bekijk kaart voor gebied
+JUMP button - View map for region_2|kruis knop - Bekijk kaart voor gebied
+JUMP button - View map for region_3|B Knop - Bekijk kaart voor gebied
+JUMP button - View map for region_4|Omlaag Knop - Bekijk kaart voor gebied
+JUMP button - View map for region_5|A Knop - Bekijk kaart voor gebied
+PICK UP button - Return to regional map_1|OPPAKKEN knop - Terug naar de regionale kaart
+PICK UP button - Return to regional map_2|vierkante knop - Terug naar de regionale kaart
+PICK UP button - Return to regional map_3|Y Knop - Terug naar de regionale kaart
+PICK UP button - Return to regional map_4|Linker Knop - Terug naar de regionale kaart
+PICK UP button - Return to regional map_5|B Knop - Terug naar de regionale kaart
+Fixed campaign seed|Vastgestelde campagne seed
+watcher-description|Een uitbreiding die een nieuwe campagne toevoegd: De Waker. Deze uitbreiding bevat nieuwe gebieden, wezens, mechanieken, voorwerpen, meer dan 150 nieuwe muzieknummers en veel meer.
+Enable tutorials|Schakel tutorials in
+Special|Speciaal
+Unlock Watcher arena character|Ontgrendel Waker arena personage
+Show tutorial messages for Watcher's mechanics during the story campaign|Laat tutorial berichten voor Waker's mechanieken zien tijdens de verhaalcampagne
+Unlock Watcher campaign|Ontgrendel Waker campagne
+watcher-name|De Waker
+(Normally requires completing the game as Survivor or Monk to unlock)|(Benodigt normaal gesproken om het spel te voltooien als de Overlever of deMonnik om dit te ontgrendelen)
+Seed the determinations of warp point destinations to create less randomness in runs|Stel de bepalingen van warppuntbestemmingen vast om te zorgen voor minder willekeurigheid tijdens runs
+The following options contain spoilers.|De volgende opties bevatten spoilers.
+
+//Dutchrw
+DUTCH|NEDERLANDS
