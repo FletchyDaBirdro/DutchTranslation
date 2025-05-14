@@ -103,14 +103,20 @@ namespace DutchTranslation
         private static void MultiplayerMenu_ClearGameTypeSpecificButtons(On.Menu.MultiplayerMenu.orig_ClearGameTypeSpecificButtons orig, Menu.MultiplayerMenu self)
         {
             orig(self);
-
-            for (int i = self.scene.flatIllustrations.Count - 1; i >= 0; i--) 
+            try
             {
-                if (self.scene.flatIllustrations[i].fileName.ToLowerInvariant().EndsWith("dut"))
+                for (int i = self.scene.flatIllustrations.Count - 1; i >= 0; i--)
                 {
-                    self.scene.flatIllustrations[i].RemoveSprites();
-                    self.scene.RemoveSubObject(self.scene.flatIllustrations[i]);
+                    if (self.scene.flatIllustrations[i].fileName.ToLowerInvariant().EndsWith("dut"))
+                    {
+                        self.scene.flatIllustrations[i].RemoveSprites();
+                        self.scene.RemoveSubObject(self.scene.flatIllustrations[i]);
+                    }
                 }
+            }
+            catch (Exception ex) 
+            {
+                MainPlugIn.TransLogger.LogError(ex);
             }
         }
 
