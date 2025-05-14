@@ -6,13 +6,9 @@ This mod currently translates:
 - Jolly Co-Op
 - Arena Maps and Challenges
 - Most title graphics
-
-
-In-progress:
-
 - The Watcher
 
-On hold:
+In-progress:
 
 - Dating Sim
 
