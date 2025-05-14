@@ -44,6 +44,7 @@ namespace DutchTranslation
                 ArenaStuff.ApplyHooks();
                 LandscapeTitleStuff.ApplyHooks();
                 ExpeditionStuff.ApplyHooks();
+                WatcherStuff.ApplyHooks();
                 TransLogger.LogInfo("Applied hooks!");
                 
                 SpriteStuff.InitExpSprites();
@@ -68,6 +69,7 @@ namespace DutchTranslation
             ArenaStuff.UnapplyHooks();
             LandscapeTitleStuff.UnapplyHooks();
             ExpeditionStuff.UnapplyHooks();
+            WatcherStuff.UnapplyHooks();
 
             SpriteStuff.UnloadExpSprites();
 
