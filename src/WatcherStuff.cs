@@ -1,6 +1,8 @@
 ﻿using RWCustom;
 using System;
 using Watcher;
+using MonoMod.Cil;
+using Mono.Cecil.Cil;
 
 namespace DutchTranslation
 {
@@ -9,7 +11,8 @@ namespace DutchTranslation
         public static void ApplyHooks() 
         {
             On.Watcher.SpinningTop.SpinningTopConversation.SpinningTopLaughLevel += SpinningTopConversation_SpinningTopLaughLevel;
-            On.Watcher.SpinningTop.SpinningTopConversation.Update += SpinningTopConversation_Update;
+            //On.Watcher.SpinningTop.SpinningTopConversation.Update += SpinningTopConversation_Update;
+            IL.Watcher.SpinningTop.SpinningTopConversation.Update += new ILContext.Manipulator(SpinningTopConversation_Update);
         }        
 
         private static int SpinningTopConversation_SpinningTopLaughLevel(On.Watcher.SpinningTop.SpinningTopConversation.orig_SpinningTopLaughLevel orig, Watcher.SpinningTop.SpinningTopConversation self, string dialog)
@@ -30,7 +33,7 @@ namespace DutchTranslation
             return orig(self, dialog);
         }
 
-        private static void SpinningTopConversation_Update(On.Watcher.SpinningTop.SpinningTopConversation.orig_Update orig, Watcher.SpinningTop.SpinningTopConversation self)
+        /*private static void SpinningTopConversation_Update(On.Watcher.SpinningTop.SpinningTopConversation.orig_Update orig, Watcher.SpinningTop.SpinningTopConversation self)
         {
             orig(self);
 
@@ -52,12 +55,36 @@ namespace DutchTranslation
             { 
                 MainPlugIn.TransLogger.LogError(ex);
             }
+        }*/
+
+        private static void SpinningTopConversation_Update(ILContext il) 
+        { 
+            ILCursor c = new ILCursor(il);
+
+            try 
+            {
+                c.GotoNext(
+                    MoveType.After,
+                    x => x.MatchLdsfld(typeof(InGameTranslator.LanguageID).GetField("Portuguese")),
+                    x => x.MatchCallOrCallvirt(typeof(ExtEnum<InGameTranslator.LanguageID>).GetMethod("op_Equality"))
+                    );
+
+                c.MoveAfterLabels();
+                c.Emit(OpCodes.Ldarg, 0);
+                c.EmitDelegate<Func<bool, InGameTranslator, bool>>((bool isEngItSpPor, InGameTranslator lang) =>
+                    isEngItSpPor || lang.currentLanguage == LangID.LanguageID.Dutch);
+            }
+            catch (Exception ex) 
+            { 
+                MainPlugIn.TransLogger.LogError(ex);
+            }
         }
 
         public static void UnapplyHooks() 
         {
             On.Watcher.SpinningTop.SpinningTopConversation.SpinningTopLaughLevel -= SpinningTopConversation_SpinningTopLaughLevel;
-            On.Watcher.SpinningTop.SpinningTopConversation.Update -= SpinningTopConversation_Update;
+            //On.Watcher.SpinningTop.SpinningTopConversation.Update -= SpinningTopConversation_Update;
+            IL.Watcher.SpinningTop.SpinningTopConversation.Update -= new ILContext.Manipulator(SpinningTopConversation_Update);
         }
     }
 }
