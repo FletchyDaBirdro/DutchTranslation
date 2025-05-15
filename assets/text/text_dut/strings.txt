@@ -2473,7 +2473,7 @@ Turbulent Pump|Turbulente Pomp
 Desolate Tract|Verlaten Streek
 Aerial Tramway|Bovengrondse Trambaan
 Fallen Tramway|Vervallen Trambaan
-Shrouded Coast|Versluierde Kust
+Shrouded Coast|Mistige Kust
 Badlands|Badlands
 Decaying Tunnels|Afrottende Tunnels
 creaturetype-Rat|Rat
