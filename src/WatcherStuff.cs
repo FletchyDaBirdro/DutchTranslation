@@ -1,6 +1,5 @@
 ﻿using RWCustom;
 using System;
-using Watcher;
 using MonoMod.Cil;
 using Mono.Cecil.Cil;
 
@@ -57,6 +56,16 @@ namespace DutchTranslation
             }
         }*/
 
+        public InGameTranslator.LanguageID GetLang
+        {
+            get 
+            {
+                return Custom.rainWorld.options.language;
+            }
+        }
+
+        static bool IsEngItEspPor(bool isEngItEspPor, WatcherStuff self) => isEngItEspPor || self.GetLang == LangID.LanguageID.Dutch;
+
         private static void SpinningTopConversation_Update(ILContext il) 
         { 
             ILCursor c = new ILCursor(il);
@@ -70,9 +79,10 @@ namespace DutchTranslation
                     );
 
                 c.MoveAfterLabels();
-                c.Emit(OpCodes.Ldarg, 0);
-                c.EmitDelegate<Func<bool, InGameTranslator, bool>>((bool isEngItSpPor, InGameTranslator lang) =>
-                    isEngItSpPor || lang.currentLanguage == LangID.LanguageID.Dutch);
+                c.Emit(OpCodes.Ldloc, 1);
+                c.EmitDelegate(IsEngItEspPor);
+                
+                MainPlugIn.TransLogger.LogDebug(il);
             }
             catch (Exception ex) 
             { 
