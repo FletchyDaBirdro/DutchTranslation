@@ -3,6 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 using Mono.Cecil.Cil;
+using RWCustom;
 
 namespace DutchTranslation
 {
@@ -12,6 +13,7 @@ namespace DutchTranslation
         {            
             On.MoreSlugcats.ChatlogData.DecryptResult += ChatlogData_DecryptResult;
             On.JollyCoop.JollyMenu.ColorChangeDialog.ColorSlider.GetSliderWidth += ColorSlider_GetSliderWidth;
+            IL.Menu.SlugcatSelectMenu.AddColorInterface += new ILContext.Manipulator(SlugcatSelectMenu_AddColorInterface);
         }
 
         public static void ApplyILHook()
@@ -74,11 +76,46 @@ namespace DutchTranslation
             return orig(lang);
         }
 
+        public InGameTranslator.LanguageID GetLang
+        {
+            get
+            {
+                return Custom.rainWorld.options.language;
+            }
+        }
+
+        static bool IsItEspNed(bool isItEsp, GeneralStuff self) => isItEsp|| self.GetLang == LangID.LanguageID.Dutch;
+
+        private static void SlugcatSelectMenu_AddColorInterface(ILContext il) 
+        { 
+            ILCursor c = new ILCursor(il);
+
+            try
+            {
+                c.GotoNext(
+                    MoveType.After,
+                    x => x.MatchLdsfld(typeof(InGameTranslator.LanguageID).GetField("Spanish")),
+                    x => x.MatchCallOrCallvirt(typeof(ExtEnum<InGameTranslator.LanguageID>).GetMethod("op_Equality"))
+                    );
+
+                c.MoveAfterLabels();
+                c.Emit(OpCodes.Ldarg, 0);
+                c.EmitDelegate(IsItEspNed);
+
+                MainPlugIn.TransLogger.LogDebug(il);
+            }
+            catch (Exception ex) 
+            { 
+                MainPlugIn.TransLogger.LogError(ex);
+            }
+        }
+
         public static void UnapplyHooks()
         {
             On.MoreSlugcats.ChatlogData.DecryptResult -= ChatlogData_DecryptResult;
             On.JollyCoop.JollyMenu.ColorChangeDialog.ColorSlider.GetSliderWidth -= ColorSlider_GetSliderWidth;
             IL.InGameTranslator.LoadShortStrings -= new ILContext.Manipulator(InGameTranslator_LoadShortStrings);
+            IL.Menu.SlugcatSelectMenu.AddColorInterface -= new ILContext.Manipulator(SlugcatSelectMenu_AddColorInterface);
         }
     }
 }
