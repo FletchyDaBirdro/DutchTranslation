@@ -2424,7 +2424,7 @@ backup_info_no_data|Er bestaan geen verhaal gegevens in deze opslag slot.
 backup_delete_confirm|Weet je zeker dat je back-up {X} wilt verwijderen?<LINE>Deze handeling kan niet ongedaan gemaakt worden.
 backup_delete_success|{X} was met succes verwijderd.
 backup_create_success|Een nieuwe back-up {X} van jouw huidige opslag slot is gecreërd.
-backup_restore_failed|An error has occurred restoring the backup save data. In order to protect your save data, game launch has been halted.<LINE><LINE>Do you wish to retry restoring the backup data?
+backup_restore_failed|Er is een fout opgetreden bij het herstellen van de geback-upte opslag gegevens. Om jouw opslag gegevens te beschermen, is het opstarten van het spel stopgezet.<LINE><LINE>Wil je opnieuw proberen om de geback-upte gegevens te herstellen?
 
 //Watcher
 The Throne|De Troon
@@ -2445,7 +2445,7 @@ DieAtSpinningTop2|OA!! Kijk!! Ze hebben je al! OAOAOAOAOAO
 DieAtSpinningTop3|OAOAOAOAOA!! En hier ook al schijnbaar?? Te dom om te leven, te base om te sterven.<LINE>Zo saai! Bleh! Ik vertrek.
 Shattered Terrace|Verbrijzeld Terras
 Verdant Waterways|Algenrijke Waterwegen
-Crumbling Fringes|Afbrokkelende
+Crumbling Fringes|Afbrokkelende Randen
 creaturetype-Frog|Kikker
 So vital! Hah ha!|Zo levendig! Hah ha!
 THE WATCHER|DE WAKER
@@ -2462,7 +2462,7 @@ Deep Reef|Diep Rif
 Rusted Wrecks|Verroeste Wrakken
 Torrid Desert|Brandende Woestijn
 Thermal Relay|Thermisch Relais
-Station Annex|Stationaanhangsel
+Station Annex|Stationsaanhangsel
 Signal Spires|Signaalspitsen
 Ancient Urban|Oude Stad
 Stormy Coast|Stormachtige Kust
