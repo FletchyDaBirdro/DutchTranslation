@@ -30,6 +30,7 @@ namespace DutchTranslation
             }
             return orig(self, dialog);
         }
+
         public InGameTranslator.LanguageID GetLang
         {
             get
@@ -38,7 +39,7 @@ namespace DutchTranslation
             }
         }
 
-        static bool IsEngItEspPor(bool isEngItEspPor, WatcherStuff self) => isEngItEspPor || self.GetLang == LangID.LanguageID.Dutch;
+        static bool IsEngItEspPorNed(bool isEngItEspPor, WatcherStuff self) => isEngItEspPor || self.GetLang == LangID.LanguageID.Dutch;
 
         private static void SpinningTopConversation_Update(ILContext il) 
         { 
@@ -54,7 +55,7 @@ namespace DutchTranslation
 
                 c.MoveAfterLabels();
                 c.Emit(OpCodes.Ldloc, 1);
-                c.EmitDelegate(IsEngItEspPor);
+                c.EmitDelegate(IsEngItEspPorNed);
                 
                 //MainPlugIn.TransLogger.LogDebug(il);
             }
