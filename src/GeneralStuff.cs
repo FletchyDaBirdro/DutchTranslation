@@ -102,7 +102,7 @@ namespace DutchTranslation
                 c.Emit(OpCodes.Ldarg, 0);
                 c.EmitDelegate(IsItEspNed);
 
-                MainPlugIn.TransLogger.LogDebug(il);
+                //MainPlugIn.TransLogger.LogDebug(il);
             }
             catch (Exception ex) 
             { 
