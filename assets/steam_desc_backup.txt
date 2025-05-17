@@ -1,3 +1,5 @@
+(v.0.6.0) Now also translates The Watcher DLC.
+
 A mod that translates the majority of the game to Dutch.
 
 Dating Sim and Dev Commentary translations will get added eventually. 
