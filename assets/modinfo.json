@@ -1,13 +1,14 @@
 {
 	"id": "fdb.dutchrw",
 	"name": "Dutch Translation",
-	"version": "0.5.1",
+	"version": "0.6.0",
 	"hide_version": false,
-        "target_game_version": "v1.10.3",
+        "target_game_version": "v1.10.4",
 	"authors": "FletchyDaBirdro",
 	"description": "A mod that translates the majority of the game to Dutch.<LINE><LINE>To use this, go to the Options menu and select \"Dutch\" as the language.",
 	"requirements": [],
 	"requirements_names": [],
+        "priorities": [],
 	"checksum_override_version": false,
-        "tags": ["Translations", "Base", "Downpour"]
+        "tags": ["Translations", "Base", "Downpour", "Watcher"]
 }

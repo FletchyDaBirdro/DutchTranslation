@@ -4,7 +4,7 @@ using BepInEx.Logging;
 
 namespace DutchTranslation
 {
-    [BepInPlugin("fdb.dutchrw", "Dutch Translation", "0.5.1")]
+    [BepInPlugin("fdb.dutchrw", "Dutch Translation", "0.6.0")]
     public class MainPlugIn : BaseUnityPlugin
     {
         public const string PLUGIN_GUID = "fdb.dutchrw";
