@@ -1,0 +1,5 @@
+A mod that translates the majority of the game to Dutch.
+
+Dating Sim and Dev Commentary translations will get added eventually. 
+
+Source code: https://github.com/FletchyDaBirdro/DutchTranslation
