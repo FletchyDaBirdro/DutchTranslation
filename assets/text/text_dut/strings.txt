@@ -167,7 +167,7 @@ You are bringing a neuron. Is it to taunt me?|Je hebt een zenuwcel gebracht. Is 
 Your curiosity seems boundless, <PlayerName>.|Jouw nieuwsgierigheid lijkt grenzeloos, <PlayerName>.
 remix_dlc_restart|Als je DLC gekocht hebt, moet je het spel herstarten zodat de inhoud beschikbaar wordt.
 Expedition Leader|Expeditie Leider
-creaturetype-Deer|Regenherten
+creaturetype-Deer|Regenhert
 Looks to the Moon|Kijkt naar de Maan
 Filtration System|Filtratie Systeem
 The Dragon Slayer|De Drakendoder
@@ -1800,7 +1800,7 @@ Hidden: <num>|Verborgen: <num>
 -FILTERS-|-FILTERS-
 Food Tour|Voedsel Tocht
 MILESTONE|MIJLPAAL
-Rain Deer|Regen Herten
+Rain Deer|Regenherten
 Aquapedes|Duikendpoten
 Slow Time|Vertraag Tijd
 Fly Lures|Vleergras Takjes
@@ -1865,7 +1865,7 @@ PERKS|VOORDELEN
 Store <amount> <target_item> in the same shelter|Verstop <amount> <target_item> in dezelfde schuilplaats
 Successfully hibernate to finish this expedition|Ga succesvol slapen om de expeditie te beëindigen
 Looks To The Moon|Kijkt naar de Maan
-Brother Long Legs|Broeder Hooiwagen
+Brother Long Legs|Broeder Hooiwagens
 Large Noodleflies|Volwassen Noedelvliegen
 Scavenger Lantern|Lantaarn
 Challenges: <num>|Uitdagingen: <num>
@@ -1933,7 +1933,7 @@ GAMEPLAY CHANGES|VERANDERINGEN AAN HET SPEL
 CHALLENGE SELECT|UITDAGING SELECTEREN
 Spitter Spiders|Spuugspinnen
 Daddy Long Legs|Vader Hooiwagens
-Caramel Lizards|Karamel Hagedissen
+Caramel Lizards|Karamelhagedissen
 Large Jellyfish|Reuzenkwallen
 LEVEL <current>|LEVEL <current>
 POINTS: <score>|PUNTEN: <score>
@@ -1944,7 +1944,7 @@ Item Collecting|Voorwerpen Verzamelen
 Nature's Friend|Dierenvriend
 Hunter Gatherer|Jager Verzamelaar
 Change of Heart|Ommezwaai
-Strawberry Lizards|Aardbei Hagedissen
+Strawberry Lizards|Aardbeihagedissen
 Reach Level: <num>|Bereik Level: <num>
 Firecracker Plants|Vuurkruid Takjes
 Scavenger Lanterns|Lantaarns
@@ -1956,7 +1956,7 @@ ps4_save_expedition_core_failed|Error bij het opslaan van Expeditie kerngegevens
 ps4_load_expedition_core_failed|Expeditie kerngegevens zijn beschadigd en zullen worden verwijderd.
 Earn <achievement_name> passage|Verdien <achievement_name> doorgang
 Plays unlocked tracks at random|Speelt willekeurig ontgrendelde nummers af
-ps4_save_expedition_core_failed_free_space|Error bij het opslaan van Expeditie kerngegevens. Niet genoeg vrije ruimte. Wil je het opnieuw proberen?
+ps4_save_expedition_core_failed_free_space|Er is een fout opgetreden bij het opslaan van Expeditie kerngegevens. Niet genoeg vrije ruimte. Wil je het opnieuw proberen?
 Start the expedition with a Scavenger Bomb|Begin de expeditie met een Granaat
 With no unique skills to boast about, The Survivor embarks on an<LINE>Expedition to test their resolve|Zonder unieke vaardigheden om over op te scheppen,<LINE>gaat De Overlever op een Expeditie om hun vastberadenheid te testen
 Attuned with nature and empathetic to its inhabitants, The Monk departs<LINE>to find their place in the world|In toon met de natuur en empatisch naar haar bewoners<LINE>vertrekt De Monnik om hun plek in de wereld te vinden
@@ -2482,13 +2482,13 @@ Infested Wastes|Besmette Woestenij
 Corrupted Factories|Aangetaste Fabrieken
 Torrential Railways|Onstuimige Spoorwegen
 Unfortunate Evolution|Onfortuinlijke Evolutie
-creaturetype-Barnacle|Eendenmossel
+creaturetype-Barnacle|Mossel
 creaturetype-SandGrub|Zandmade
 creaturetype-SkyWhale|Hemelvis
 creaturetype-RotLoach|Rotkolossus
 Daemon|Daimon
 creaturetype-DrillCrab|Boorkrab
-creaturetype-SmallMoth|Kleine mot
+creaturetype-SmallMoth|Dwergmot
 creaturetype-BigSandGrub|Zandworm
 creaturetype-FireSprite|Vuurfee
 creaturetype-Tardigrade|Beerdiertje
@@ -2501,26 +2501,26 @@ creaturetype-BlizzardLizard|Stormhagedis
 creaturetype-BasiliskLizard|Basiliskhagedis
 creaturetype-IndigoLizard|Indigo Hagedis
 objecttype-FireSpriteLarva|Vuurfeelarve
-Hold the SPECIAL button to camouflage from predators|Houd de SPECIAAL knop ingeknopt om je te camoufleren voor roofdieren
+Hold the SPECIAL button to camouflage from predators|Houd de SPECIAAL knop ingedrukt om je te camoufleren voor roofdieren
 Hold UP and SPECIAL together to form new random paths|Houd OMHOOG en SPECIAAL tegelijkertijd ingedrukt om nieuwe willekeurige paden te vormen
 Delight! For you will be exalted in this new kingdom!|Wees verheugd! Want je zult verheven worden in dit nieuwe koninkrijk!
 This will consume the effect of a karma flower in the process|Dit zal de effect van een karmabloem consumeren
 Holding UP and SPECIAL without a karma flower is unstable and dangerous|OMHOOG en SPECIAAL ingedrukt houden zonder karmabloem is instabiel en gevaarlijk
-However, this can also form new random paths in a pinch|Maar dit kan ook nieuwe willekeurige paden vormen in a pinch
+However, this can also form new random paths in a pinch|Maar dit kan ook nieuwe willekeurige paden vormen in geval van nood
 You can leave them here if you wish, as a contribution.|Je kunt het hier laten indien je dat wenst, als contributie.
 Crossing to new frontiers takes a toll on the body, but sleep can help you recover|Het doorkruisen van nieuwe grenzen eist een tol op je lichaam, maar slapen kan je helpen te herstellen
 Traveling too deep without resting will have consequences|Te diep reizen zonder uit te rusten heeft consequenties
 A presence already binds this place|Een aanwezigheid bind deze plek al
 This fringe is already too unstable|Deze uithoek is al te instabiel
-Nothing to waste, every bit counts!|Niets te verspillen, elk beetje telt!
-The paths overflow beyond measure|De paden overvloeien beyond measure
+Nothing to waste, every bit counts!|Er is niets te verspillen, elk beetje telt!
+The paths overflow beyond measure|De paden overvloeien bovenmate
 Oh such enthusiasm! I am honored!|Oh wat een enthousiasme! Ik voel me vereerd!
 This remains a place of rest|Dit blijft een rustplaats
 It is a joy to see you play!|Het is een genoegen om je te zien spelen!
 My processes will dissolve them to their base components and those components will be added to the mass.|Mijn processen zullen het afbreken tot hun basiscomponenten en die zullen toegevoegd worden aan de massa.
 Ahh yes! The paths! How wonderous!|Ahh ja! De paden! Hoe wonderbaarlijk!
 How auspicious it was, our meeting...|Hoe gunstig het was, onze ontmoeting...
-Forgive me if I cannot respond in kind. This body is so limited...|Vergeef het me als ik niet hetzelde doe. Dit lichaam is erg gelimiteerd...
+Forgive me if I cannot respond in kind. This body is so limited...|Vergeef het me als ik kan meespelen. Dit lichaam is erg gelimiteerd...
 How I have wished for this day. My dear friend, welcome.|Hoezeer ik gewenst heb voor deze dag. Mijn goede vriend, welkom.
 JUMP button - View map for region_1|SPRINGEN knop - Bekijk kaart voor gebied
 JUMP button - View map for region_2|kruis knop - Bekijk kaart voor gebied
@@ -2537,12 +2537,32 @@ watcher-description|Een uitbreiding die een nieuwe campagne toevoegd: De Waker. 
 Enable tutorials|Schakel tutorials in
 Special|Speciaal
 Unlock Watcher arena character|Ontgrendel Waker arena personage
-Show tutorial messages for Watcher's mechanics during the story campaign|Laat tutorial berichten voor Waker's mechanieken zien tijdens de verhaalcampagne
+Show tutorial messages for Watcher's mechanics during the story campaign|Laat tutorial berichten voor De Waker's mechanieken zien tijdens de verhaalcampagne
 Unlock Watcher campaign|Ontgrendel Waker campagne
 watcher-name|De Waker
 (Normally requires completing the game as Survivor or Monk to unlock)|(Benodigt normaal gesproken om het spel te voltooien als de Overlever of deMonnik om dit te ontgrendelen)
 Seed the determinations of warp point destinations to create less randomness in runs|Stel de bepalingen van warppuntbestemmingen vast om te zorgen voor minder willekeurigheid tijdens runs
 The following options contain spoilers.|De volgende opties bevatten spoilers.
+Blizzard Lizards|Stormhagedissen
+Basilisk Lizards|Basiliskhagedissen
+Indigo Lizards|Indigo Hagedissen
+Scavenger Disciples|Volgelings-schooiers
+Scavenger Templars|Tempelheer-schooiers
+Big Moths|Reuzenmotten
+Small Moths|Dwergmotten
+Sand Worms|Zandwormen
+Sand Grubs|Zandmaden
+Box Worms|Kistwormen
+Fire Sprites|Vuurfeeën
+Drill Crabs|Boorkrabben
+Loaches|Modderkruipers
+Barnacles|Mosselen
+Tardigrades|Beerdiertjes
+Frogs|Kikkers
+Sky Whales|Hemelvissen
+Rats|Ratten
+Bone Shakers|Bottenrammelaars
+Rot Behemoths|Rotkolossussen
 
 //Dutchrw
 DUTCH|NEDERLANDS
