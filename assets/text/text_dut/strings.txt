@@ -2442,7 +2442,7 @@ LeaveSpinningTop1|OA! Kijk! Het is zelfs te dom om op te letten! OAOAOAOA!!
 LeaveSpinningTop2|OA!! Wat onbeleefd!! Ik ging het net een cadeau geven.
 DieAtSpinningTop1|OAOAOA!! Ja!!! Terug de grond in met jou!! Wat een idioot!! OAOAOAOAOAO
 DieAtSpinningTop2|OA!! Kijk!! Ze hebben je al! OAOAOAOAOAO
-DieAtSpinningTop3|OAOAOAOAOA!! En hier ook al schijnbaar?? Te dom om te leven, te base om te sterven.<LINE>Zo saai! Bleh! Ik vertrek.
+DieAtSpinningTop3|OAOAOAOAOA!! En hier ook al schijnbaar?? Te dom om te leven, te koppig om te sterven.<LINE>Zo saai! Bleh! Ik vertrek.
 Shattered Terrace|Verbrijzeld Terras
 Verdant Waterways|Algenrijke Waterwegen
 Crumbling Fringes|Afbrokkelende Randen
